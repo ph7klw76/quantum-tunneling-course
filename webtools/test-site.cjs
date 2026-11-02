@@ -19,6 +19,7 @@ async function main() {
    const page=await browser.newPage({viewport:{width,height},reducedMotion:'reduce'});
    await page.goto(base,{waitUntil:'domcontentloaded'});
    await page.locator('#transmission').filter({hasText:'14.24%'}).waitFor();
+   assert.ok((await page.locator('#lectureVideo iframe').getAttribute('src')).includes('WCA_t3ttAAI'));
    assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),name+' horizontal overflow');
    await page.locator('#width').evaluate(el=>{el.value='0.9';el.dispatchEvent(new Event('input'));});
    assert.ok(parseFloat(await page.locator('#transmission').innerText())<1);
