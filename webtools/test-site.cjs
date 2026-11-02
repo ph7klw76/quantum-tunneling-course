@@ -20,7 +20,13 @@ async function main() {
    const page=await browser.newPage({viewport:{width,height},reducedMotion:'reduce'});
    await page.goto(base,{waitUntil:'domcontentloaded'});
    await page.locator('#transmission').filter({hasText:'14.24%'}).waitFor();
-   assert.ok((await page.locator('#lectureVideo iframe').getAttribute('src')).includes('WCA_t3ttAAI'));
+   assert.ok((await page.locator('#lectureH5p').getAttribute('src')).startsWith('h5p/quantum-tunneling.html'));
+   assert.equal(await page.locator('#h5pLink').count(),0,'Separate interactive-video card must be merged into Watch & Question');
+   await page.locator('#lectureH5p').scrollIntoViewIfNeeded();
+   await page.waitForFunction(()=>{
+     const frame=document.querySelector('#lectureH5p'),content=frame.contentDocument?.querySelector('.h5p-content');
+     return content && content.getBoundingClientRect().height>100 && Math.abs(frame.clientHeight-content.getBoundingClientRect().height)<5;
+   },{},{timeout:60000});
    assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),name+' horizontal overflow');
    await page.locator('#width').evaluate(el=>{el.value='0.9';el.dispatchEvent(new Event('input'));});
    assert.ok(parseFloat(await page.locator('#transmission').innerText())<1);
@@ -58,8 +64,8 @@ async function main() {
   }
   // Hosted runners can initialize YouTube but may not stream the media.
   // Keep the exact black-frame regression mandatory; run full playback separately.
-  report.h5p_playback=await checkH5pPlayback(page,base+'h5p/quantum-tunneling.html',out,{startupOnly:process.env.GITHUB_ACTIONS==='true'});
-  report.h5p_interactive_video=await page.evaluate(()=>({library:H5PIntegration.contents['cid-1'].library,interactions:JSON.parse(H5PIntegration.contents['cid-1'].jsonContent).interactiveVideo.assets.interactions.length}));
+  report.h5p_playback=await checkH5pPlayback(page,base,out,{startupOnly:process.env.GITHUB_ACTIONS==='true',embedded:true});
+  report.h5p_interactive_video=await page.frame({name:'lectureH5pFrame'}).evaluate(()=>({library:H5PIntegration.contents['cid-1'].library,interactions:JSON.parse(H5PIntegration.contents['cid-1'].jsonContent).interactiveVideo.assets.interactions.length}));
   assert.equal(report.h5p_interactive_video.interactions,7);
   await page.setViewportSize({width:390,height:844});
   await page.goto(base+'h5p/question-1.html',{waitUntil:'domcontentloaded'});

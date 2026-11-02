@@ -9,7 +9,7 @@ The default free-electron model uses E = 0.50 eV, V₀ = 1.00 eV and a = 0.45 nm
 ## Learn
 
 - Explore exact wavefunctions, probability density and transmission with the responsive simulation.
-- Watch the 11:54 lecture, with chapter navigation and downloadable English subtitles.
+- Watch the 11:54 lecture and answer H5P questions directly in **02 / WATCH & QUESTION**, with chapter navigation and downloadable English subtitles.
 - Complete seven H5P questions with feedback, retries and review jumps, then a five-concept Summary. Standalone H5P questions also work without YouTube.
 - Execute the notebook in a real browser Pyodide kernel: match boundaries, check current conservation, compare an independent ODE solution and investigate synthetic transport evidence.
 - Complete the independent transfer investigation, assessment and rubric.
