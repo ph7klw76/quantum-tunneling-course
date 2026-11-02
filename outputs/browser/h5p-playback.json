@@ -1,0 +1,20 @@
+{
+  "url": "https://ph7klw76.github.io/quantum-tunneling-course/",
+  "mode": "streaming",
+  "embedded": true,
+  "sourceVideoUrl": "https://youtu.be/Kbknh_vEjSc",
+  "videoDuration": 715,
+  "playingTime": 1.0080031335144044,
+  "chapterTime": 76,
+  "geometry": {
+    "position": "absolute",
+    "width": 761,
+    "height": 428.0625,
+    "offsetTop": 0,
+    "offsetLeft": 0
+  },
+  "questionDisplayed": true,
+  "pausedAt": 50.160305,
+  "pausedAfter": 50.160305,
+  "javaScriptErrors": []
+}
