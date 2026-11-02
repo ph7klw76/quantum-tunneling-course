@@ -27,3 +27,10 @@ outputs/*.mp4
 .openai/
 playwright-report/
 test-results/
+remotion/public/media/
+remotion/.bundle/
+remotion/.cache/
+outputs/remotion-cache/
+outputs/h5p-preview/
+outputs/remotion-baseline-tests.log
+outputs/remotion-render-checkpoint.json

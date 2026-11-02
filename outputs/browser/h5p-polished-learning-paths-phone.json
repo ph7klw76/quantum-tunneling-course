@@ -1,0 +1,122 @@
+{
+  "source": "local verified polished MP4",
+  "activeEdition": "polished local QA",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "paths": [
+    {
+      "id": "Q1",
+      "pauseTime": 50.109019,
+      "wrongAnswer": true,
+      "reviewTime": 0,
+      "targetReview": 0,
+      "retry": true,
+      "correctScore": 1,
+      "feedback": true
+    },
+    {
+      "id": "Q2",
+      "pauseTime": 144.126107,
+      "wrongAnswer": true,
+      "reviewTime": 76,
+      "targetReview": 76,
+      "retry": true,
+      "correctScore": 1,
+      "feedback": true
+    },
+    {
+      "id": "Q3",
+      "pauseTime": 255.13905,
+      "wrongAnswer": true,
+      "reviewTime": 177.33,
+      "targetReview": 177.33,
+      "retry": true,
+      "correctScore": 1,
+      "feedback": true
+    },
+    {
+      "id": "Q4",
+      "pauseTime": 362.135629,
+      "wrongAnswer": true,
+      "reviewTime": 291.37,
+      "targetReview": 291.37,
+      "retry": true,
+      "correctScore": 1,
+      "feedback": true
+    },
+    {
+      "id": "Q5",
+      "pauseTime": 459.125263,
+      "wrongAnswer": true,
+      "reviewTime": 400.23,
+      "targetReview": 400.23,
+      "retry": true,
+      "correctScore": 1,
+      "feedback": true
+    },
+    {
+      "id": "Q6",
+      "pauseTime": 559.141169,
+      "wrongAnswer": true,
+      "reviewTime": 485.97,
+      "targetReview": 485.97,
+      "retry": true,
+      "correctScore": 1,
+      "feedback": true
+    },
+    {
+      "id": "Q7",
+      "pauseTime": 648.144958,
+      "wrongAnswer": true,
+      "reviewTime": 600.5,
+      "targetReview": 600.5,
+      "retry": true,
+      "correctScore": 1,
+      "feedback": true
+    }
+  ],
+  "summary": {
+    "score": 5,
+    "maxScore": 5
+  },
+  "errors": [],
+  "mediaInterruptions": [
+    {
+      "name": "AbortError",
+      "message": "The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+      "phase": "Q1"
+    },
+    {
+      "name": "AbortError",
+      "message": "The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+      "phase": "Q2"
+    },
+    {
+      "name": "AbortError",
+      "message": "The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+      "phase": "Q3"
+    },
+    {
+      "name": "AbortError",
+      "message": "The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+      "phase": "Q4"
+    },
+    {
+      "name": "AbortError",
+      "message": "The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+      "phase": "Q5"
+    },
+    {
+      "name": "AbortError",
+      "message": "The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+      "phase": "Q6"
+    },
+    {
+      "name": "AbortError",
+      "message": "The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+      "phase": "Q7"
+    }
+  ]
+}

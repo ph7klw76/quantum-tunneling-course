@@ -37,6 +37,18 @@ async function main() {
   const id = await content.addContent(metadata,params,user,'1');
   await content.addFile(id,'subtitles/lecture.vtt',fss.createReadStream(path.join(root,'website/dist/lecture.vtt')),user);
   const exporter = new HtmlExporter(libraries,content,config,path.join(work,'core'),path.join(work,'editor'));
+  const previewIndex=process.argv.indexOf('--preview-video-url');
+  if(previewIndex!==-1) {
+    const url=process.argv[previewIndex+1];
+    if(!url||!url.startsWith('http://127.0.0.1:8768/quantum-tunneling-course/'))throw new Error('Preview media is restricted to the owned local QA server');
+    const preview=structuredClone(params);preview.interactiveVideo.video.files=[{path:url,mime:'video/mp4',copyright:{license:'CC BY',licenseVersion:'4.0'}}];
+    await content.addContent(metadata,preview,user,'99');
+    await content.addFile('99','subtitles/lecture.vtt',fss.createReadStream(path.join(root,'website/dist/lecture.vtt')),user);
+    const directory=path.join(root,'outputs/h5p-preview/h5p');await fs.mkdir(directory,{recursive:true});
+    await fs.writeFile(path.join(directory,'quantum-tunneling.html'),viewport(await exporter.createSingleBundle('99',user,{showLicenseButton:true,showFrame:true})));
+    console.log('Exported isolated local MP4 H5P preview; public/native video configuration unchanged.');
+    return;
+  }
   const html = viewport(await exporter.createSingleBundle(id,user,{showLicenseButton:true,showFrame:true}));
   await fs.mkdir(path.join(root,'website/dist/h5p'),{recursive:true});
   await fs.writeFile(path.join(root,'website/dist/h5p/quantum-tunneling.html'),html);

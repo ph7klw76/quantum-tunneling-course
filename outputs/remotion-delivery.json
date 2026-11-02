@@ -1,0 +1,32 @@
+{
+  "tested_on": "2026-11-03",
+  "base_commit": "76781c6a528b87ba80c38f2f2d9900f20b6b0a4f",
+  "source_branch": "remotion-polish",
+  "render": {
+    "file": "Quantum_Tunneling_Lecture_Remotion.mp4",
+    "bytes": 34889453,
+    "sha256": "679dcdc509d252eceb3e2b70547d25f512848843f5db3c5e2efeab9ca0e5eced"
+  },
+  "verification_report": "outputs/remotion-video-verification.json",
+  "timing_report": "outputs/remotion-timing-report.json",
+  "physics_narration_publication_unit_tests": 18,
+  "remotion_manifest_tests": 3,
+  "desktop_notebook_code_cells": 8,
+  "browser_notebook_plots": 3,
+  "responsive_viewports": [
+    390,
+    820,
+    1440
+  ],
+  "actual_polished_mp4_h5p_desktop": "7 quiz paths and 5/5 summary passed; native media interruptions recorded separately",
+  "actual_polished_mp4_h5p_phone": "7 quiz paths and 5/5 summary passed at 390x844; native media interruptions recorded separately",
+  "active_youtube_url": "https://youtu.be/Kbknh_vEjSc",
+  "new_youtube_upload": true,
+  "pages_deployment": "Feature branch awaiting CI/merge; main remains unchanged",
+  "limitations": [
+    "Native YouTube quiz entry and caption upload are manual channel actions.",
+    "No LMS grade persistence is claimed.",
+    "Native MP4 H5P review jumps produce specific recorded play-cancellation warnings without preventing the tested learning paths."
+  ],
+  "upload_provenance": "URL supplied by creator; public oEmbed title and real H5P streaming verified"
+}

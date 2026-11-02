@@ -4,5 +4,5 @@ let samples=0;for(const test of JSON.parse(fs.readFileSync(process.argv[2],'utf8
 for(const file of ['app.js','interactive.js','physics.js','config.js','video-player.js','h5p-player.js']){require('node:child_process').execFileSync(process.execPath,['--check',path.join(dist,file)]);}
 let links=0;for(const name of fs.readdirSync(dist).filter(f=>f.endsWith('.html'))){const html=fs.readFileSync(path.join(dist,name),'utf8');for(const match of html.matchAll(/(?:href|src)="([^"#]+)"/g)){let target=match[1].split(/[?#]/)[0];if(/^(https?:|data:|mailto:)/.test(target)||!target)continue;assert.ok(fs.existsSync(path.join(dist,target)),`${name}: missing ${target}`);links++;}}
 for(const file of fs.readdirSync(dist)){assert.ok(!/\.(mp4|wav)$/i.test(file),'Video/audio masters must not enter Pages');}
-const cfg=fs.readFileSync(path.join(dist,'config.js'),'utf8');assert.ok(cfg.includes('WCA_t3ttAAI'));
+const cfg=fs.readFileSync(path.join(dist,'config.js'),'utf8'),publication=JSON.parse(fs.readFileSync(path.join(root,'course/publication_config.json'),'utf8'));assert.ok(cfg.includes(publication.active_youtube_url));
 console.log(`JavaScript/Python agreement: ${samples} wave samples; 5 parameter cases; T+R. Syntax checks: 6 scripts. Local asset links: ${links}.`);

@@ -5,6 +5,23 @@ ROOT=Path(__file__).resolve().parents[1];sys.path.insert(0,str(ROOT))
 from course.lesson import SEGMENTS,CHAPTERS
 import nbformat as nb
 
+QUIZ_LAB_GUIDE='''## Connect the video checkpoints to your investigation
+
+Keep a prediction and a reason before executing each calculation. Use the same question IDs as the seven H5P/video checkpoints:
+
+| Checkpoint | Laboratory evidence to produce |
+|---|---|
+| Q1 — finite-barrier transmission | Section 1: predict whether current vanishes; compare the computed T with your prediction. |
+| Q2 — boundary conditions | Section 2: inspect psi and its derivative at both interfaces; state the finite, constant-mass assumption. |
+| Q3 — statistical interpretation | Parameter/current cells: calculate the expected count 10000*T and binomial spread sqrt(10000*T*(1-T)); distinguish expected and guaranteed counts. |
+| Q4 — width dependence | Section 2 width sweep: compare T(a), T(2a) and their ratio; explain why a linear guess fails. |
+| Q5 — conserved energy | Sections 2–3: inspect constant normalized current and the fixed E; explain why exponential decay does not imply an energy loan. |
+| Q6 — STM inference | Sections 5–6: list bias, tip and electronic-state confounds before interpreting a current change as height. |
+| Q7 — strength of evidence | Section 5: critique the explicitly synthetic trend and propose temperature/bias controls and a competing model. |
+
+Finish the unfamiliar transfer task in section 6 independently; correct quiz answers alone are not evidence that the new model is valid.
+'''
+
 QUIZZES=[
  (2,'Must transmission vanish when E < V0?', ['Yes, because every electron is a classical ball.','No; a finite barrier can transmit probability current.','Only if the electron borrows energy.'],1,
   'A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory.',0),
@@ -22,16 +39,28 @@ QUIZZES=[
   'The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons.',24),
 ]
 
+MISCONCEPTION_FEEDBACK={
+ 'Q1':{0:'A classical turning point is not an impenetrable quantum boundary. Match the finite-barrier wavefunction and compare transmitted current.',2:'No energy loan is needed. This static, elastic model has one fixed total energy; transmission follows from the boundary-value problem.'},
+ 'Q2':{0:'The potential is an input to the model and may jump at a finite step. The state must satisfy matching conditions.',1:'Matching only psi leaves the amplitudes underdetermined. The first derivative must also match for this finite constant-mass step.',3:'The potential jump can change the second derivative in the Schrodinger equation. Continuity of the second derivative is not required here.'},
+ 'Q3':{0:'An expected count is not a guaranteed count. Independent transmission trials fluctuate; the binomial standard deviation is about 35.',2:'T is a transmitted probability-current ratio, not a fractional energy loss. A transmitted electron retains its total energy in this model.'},
+ 'Q4':{0:'Width dependence is not linear. Evaluate the exact expression at both widths: the ratio is about 0.0413, much smaller than one half.',2:'For these fixed below-barrier parameters, a thicker barrier reduces transmission. Check which parameter changed before predicting a trend.'},
+ 'Q5':{0:'A short time interval does not permit violating the fixed-energy boundary problem. Energy-time uncertainty is not an energy borrowing mechanism.',2:'Small transmitted amplitude means a small transmitted probability current; it does not imply missing total energy.'},
+ 'Q6':{0:'Current also depends on bias, tip condition and electronic states. A current ratio cannot uniquely identify a geometric height change.',2:'Tunneling current is strongly nonlinear in gap size. Use controlled comparisons and spectroscopy to separate geometric and electronic contributions.'},
+ 'Q7':{0:'An exponential trend is compatible with multiple mechanisms and sample changes. Compare temperature, bias, defect and thickness controls.',2:'Quantum mechanics allows finite-barrier current. The issue is identifying the mechanism from evidence, not forbidding transport.'}}
+
 def main(skip_notebook=False):
     timeline=json.loads((ROOT/'narration/timeline.json').read_text(encoding='utf-8'))
+    publication=json.loads((ROOT/'course/publication_config.json').read_text(encoding='utf-8'))
+    events=json.loads((ROOT/'course/publication_events.json').read_text(encoding='utf-8')) if (ROOT/'course/publication_events.json').exists() else None
     def ts(t):return f'{int(t)//60:02}:{int(t)%60:02}'
     quizzes=[]
     for i,(seg,q,opts,correct,explain,remedial) in enumerate(QUIZZES):
-        quiz_time=float(math.ceil(timeline[seg]['speech_end']+.2))
+        event=events['quizzes'][i] if events else None
+        quiz_time=event['time_seconds'] if event else float(math.ceil(timeline[seg]['speech_end']+.2))
         quizzes.append(dict(id=f'Q{i+1}',timestamp=ts(quiz_time),
             time_seconds=quiz_time,question=q,options=opts,correct_index=correct,
-            explanation=explain,remediation_seconds=round(timeline[remedial]['start'],2),
-            incorrect_feedback=['Correct.' if j==correct else 'Reconsider the assumptions. '+explain for j in range(len(opts))]))
+            explanation=explain,remediation_seconds=event['remediation_seconds'] if event else round(timeline[remedial]['start'],2),
+            incorrect_feedback=['Correct.' if j==correct else MISCONCEPTION_FEEDBACK[f'Q{i+1}'][j] for j in range(len(opts))]))
     (ROOT/'quizzes/quizzes.json').write_text(json.dumps(quizzes,indent=2),encoding='utf-8')
     with (ROOT/'quizzes/youtube_quizzes.csv').open('w',newline='',encoding='utf-8-sig') as f:
         w=csv.writer(f);w.writerow(['id','timestamp','question','option_A','option_B','option_C','option_D','answer','explanation'])
@@ -43,7 +72,7 @@ def main(skip_notebook=False):
     spec=dict(format='QuantumTunneling.H5P.AuthoringSpecification',version=1,
         notice='Authoring interchange data, not a directly importable .h5p package or H5P content.json.',
         title='Can an Electron Pass Through a Wall?',content_type='Interactive Video',
-        media=dict(primary='https://youtu.be/WCA_t3ttAAI',fallback='outputs/Quantum_Tunneling_Lecture.mp4',
+        media=dict(primary=publication['active_youtube_url'],fallback='outputs/Quantum_Tunneling_Lecture.mp4',
                    captions='narration/lecture.srt',duration_seconds=timeline[-1]['start']+timeline[-1]['duration']),
         interactions=[dict(**q,library='H5P.MultiChoice',pause_video=True,display='poster',
             single_answer=True,enable_retry=True,enable_solution=True,
@@ -64,7 +93,7 @@ def main(skip_notebook=False):
     out=ROOT/'website/dist';out.mkdir(parents=True,exist_ok=True)
     shutil.copy(ROOT/'quizzes/quizzes.json',out/'quizzes.json')
     shutil.copy(ROOT/'h5p/authoring.json',out/'h5p-authoring.json')
-    chapters=[dict(title=CHAPTERS[i],start=timeline[4*i]['start']) for i in range(7)]
+    chapters=[dict(title=c['title'],start=c['start_seconds']) for c in events['chapters']] if events else [dict(title=CHAPTERS[i],start=timeline[4*i]['start']) for i in range(7)]
     (out/'chapters.json').write_text(json.dumps(chapters,indent=2),encoding='utf-8')
     description='''# YouTube publication text
 
@@ -97,6 +126,8 @@ https://www.nobelprize.org/prizes/physics/1986/summary/
         credit='Locally generated AI narration: '+('Chatterbox TTS (MIT model/code), with synthetic conditioning from the official Kokoro-82M af_heart stock voice (Apache 2.0)' if voice['engine']=='chatterbox' else 'Kokoro-82M, official af_heart voicepack (Apache 2.0)')
     else:credit='Legacy offline synthetic narration: eSpeak NG, GPL-3.0-or-later engine'
     description=description.replace('NARRATION_CREDIT',credit)
+    website=publication.get('website_url','https://ph7klw76.github.io/quantum-tunneling-course/').rstrip('/')
+    description=description.replace('REPLACE_WITH_DEPLOYED_COMPANION_URL',website).replace('REPLACE_WITH_YOUR_LUMI_OR_MOODLE_URL',website+'/#lecture').replace('REPLACE_WITH_YOUR_SOURCE_REPOSITORY_URL',publication.get('repository_url','https://github.com/ph7klw76/quantum-tunneling-course'))
     (ROOT/'outputs/youtube_description.md').write_text(description,encoding='utf-8')
     if not skip_notebook:notebook()
     print(f'Authored {len(quizzes)} quizzes, H5P specification, chapters and upload text; notebook '+('preserved.' if skip_notebook else 'generated.'))
@@ -112,6 +143,7 @@ def notebook():
 
     Learning goals: explain transmission as current, derive boundary conditions, compare independent calculations, evaluate evidence, and report model limitations.
     ''')
+    md(QUIZ_LAB_GUIDE)
     md('''## 1. Predict before running
     For E = 0.50 eV, V0 = 1.00 eV and a = 0.45 nm, predict whether T is zero, small, or near one. Predict the effect of doubling width. Record a reason and confidence (0–100%).
 

@@ -2,6 +2,7 @@
 from pathlib import Path
 import hashlib
 import json
+import os
 ROOT=Path(__file__).resolve().parents[1]
 files=set()
 for name in ['README.md','LICENSE','CONTENT_LICENSE.md','.gitignore','build.py']:
@@ -18,9 +19,19 @@ for name in ['Quantum_Tunneling_Lab.ipynb','jupyter_lite_config.json','jupyter-l
 for p in (ROOT/'website/dist').iterdir():
     if p.is_file() and p.suffix not in ['.mp4','.wav','.zip']:files.add(p)
 files.update((ROOT/'website/dist/h5p').glob('*.html'))
-for name in ['package.json','pnpm-lock.yaml','pnpm-workspace.yaml','h5p-build.cjs','test-site.cjs','test-h5p-playback.cjs']:
+for name in ['package.json','pnpm-lock.yaml','pnpm-workspace.yaml','h5p-build.cjs','test-site.cjs','test-h5p-playback.cjs','test-h5p-learning.cjs']:
     files.add(ROOT/'webtools'/name)
-for name in ['youtube_description.md','neural-verification.json','neural-narration-report.json','course-checks.json','browser/results.json']:
+for directory, folders, names in os.walk(ROOT/'remotion'):
+    folders[:]=[name for name in folders if name not in ['node_modules','.bundle','.cache','media']]
+    files.update(Path(directory)/name for name in names)
+for name in ['youtube_description.md','neural-verification.json','neural-narration-report.json','course-checks.json','browser/results.json',
+             'Quantum_Tunneling_Lecture_Remotion.srt','Quantum_Tunneling_Lecture_Remotion.vtt','Quantum_Tunneling_Remotion_Thumbnail.png',
+             'chapters_polished.txt','youtube_description_polished.md','remotion-media-provenance.json','remotion-timing-report.json',
+             'remotion-sample-verification.json','remotion-video-verification.json','remotion-live-existing-site.json',
+             'remotion-ffprobe.json','remotion-delivery.json',
+             'browser/h5p-learning-paths.json','browser/h5p-learning-paths-phone.json','browser/h5p-polished-learning-paths.json','browser/h5p-polished-learning-paths-phone.json',
+             'browser/h5p-learning-summary.png','browser/h5p-polished-summary.png','browser/h5p-polished-summary-phone.png',
+             'remotion-baseline-frame.png','remotion-actual-frame-8650.png','remotion-actual-frame-20700.png']:
     p=ROOT/'outputs'/name
     if p.exists():files.add(p)
 manifest=[]

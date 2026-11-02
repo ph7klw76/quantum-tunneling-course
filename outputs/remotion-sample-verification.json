@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "edition": "sample",
+  "file": "outputs\\Quantum_Tunneling_Remotion_Sample.mp4",
+  "frames": 1800,
+  "duration_seconds": 60.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "codec": "H.264/AAC",
+  "pixel_format": "yuv420p",
+  "audio_tracks": 1,
+  "full_decode": true,
+  "audio_correlations": [
+    0.9999967299831983,
+    0.9999937635272317,
+    0.9999954287248752
+  ],
+  "integrated_lufs": -16.42,
+  "true_peak_db": -1.47
+}

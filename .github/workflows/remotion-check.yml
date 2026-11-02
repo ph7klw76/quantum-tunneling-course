@@ -1,0 +1,49 @@
+name: Check Remotion production sources
+on:
+  pull_request:
+  push:
+    branches: [remotion-polish]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: pnpm/action-setup@v4
+        with:
+          version: '11.25.0'
+      - run: python -m pip install -r requirements-ci.txt
+      - run: pnpm --dir remotion install --frozen-lockfile
+      - run: pnpm --dir webtools install --frozen-lockfile
+      - name: Physics, source timing and narration tests
+        run: |
+          python -m unittest discover -s tests -v
+          python scripts/prepare_remotion.py --events-only
+          pnpm --dir remotion typecheck
+          pnpm --dir remotion test
+          python scripts/check_course.py
+      - name: Build feature-branch website without deploying
+        run: |
+          python scripts/build_pages.py --base-path /quantum-tunneling-course/
+          node scripts/check-site.cjs outputs/physics-fixtures.json outputs/pages
+      - run: pnpm --dir webtools exec playwright install --with-deps chromium
+      - name: Existing integrated H5P and browser Python lab
+        run: node webtools/test-site.cjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: remotion-source-verification
+          path: |
+            outputs/browser
+            outputs/course-checks.json
+            outputs/remotion-timing-report.json

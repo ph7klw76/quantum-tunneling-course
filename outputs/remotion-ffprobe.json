@@ -1,0 +1,309 @@
+{
+    "streams": [
+        {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "unknown",
+            "profile": "100",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "width": 1920,
+            "height": 1080,
+            "coded_width": 1920,
+            "coded_height": 1080,
+            "closed_captions": 0,
+            "film_grain": 0,
+            "has_b_frames": 2,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "16:9",
+            "pix_fmt": "yuv420p",
+            "level": 40,
+            "color_range": "tv",
+            "color_space": "bt709",
+            "color_transfer": "bt709",
+            "color_primaries": "bt709",
+            "chroma_location": "center",
+            "field_order": "progressive",
+            "refs": 1,
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "30/1",
+            "avg_frame_rate": "30/1",
+            "time_base": "1/90000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 64263000,
+            "duration": "714.033333",
+            "bit_rate": "227748",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "21421",
+            "extradata_size": 50,
+            "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0,
+                "non_diegetic": 0,
+                "captions": 0,
+                "descriptions": 0,
+                "metadata": 0,
+                "dependent": 0,
+                "still_image": 0,
+                "multilayer": 0
+            },
+            "tags": {
+                "language": "und",
+                "handler_name": "VideoHandler",
+                "vendor_id": "[0][0][0][0]"
+            }
+        },
+        {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "unknown",
+            "profile": "1",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 1,
+            "channel_layout": "mono",
+            "bits_per_sample": 0,
+            "initial_padding": 0,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 34273600,
+            "duration": "714.033333",
+            "bit_rate": "154263",
+            "nb_frames": "33472",
+            "extradata_size": 5,
+            "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0,
+                "non_diegetic": 0,
+                "captions": 0,
+                "descriptions": 0,
+                "metadata": 0,
+                "dependent": 0,
+                "still_image": 0,
+                "multilayer": 0
+            },
+            "tags": {
+                "language": "und",
+                "handler_name": "SoundHandler",
+                "vendor_id": "[0][0][0][0]"
+            }
+        },
+        {
+            "index": 2,
+            "codec_name": "mov_text",
+            "codec_long_name": "unknown",
+            "codec_type": "subtitle",
+            "codec_tag_string": "tx3g",
+            "codec_tag": "0x67337874",
+            "id": "0x3",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/1000000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 712960000,
+            "duration": "712.960000",
+            "bit_rate": "126",
+            "nb_frames": "332",
+            "extradata_size": 68,
+            "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0,
+                "non_diegetic": 0,
+                "captions": 0,
+                "descriptions": 0,
+                "metadata": 0,
+                "dependent": 0,
+                "still_image": 0,
+                "multilayer": 0
+            },
+            "tags": {
+                "language": "eng",
+                "handler_name": "SubtitleHandler"
+            }
+        },
+        {
+            "index": 3,
+            "codec_name": "bin_data",
+            "codec_long_name": "unknown",
+            "codec_type": "data",
+            "codec_tag_string": "text",
+            "codec_tag": "0x74786574",
+            "id": "0x4",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/18000000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 12852600000,
+            "duration": "714.033333",
+            "bit_rate": "2",
+            "nb_frames": "7",
+            "extradata_size": 63,
+            "disposition": {
+                "default": 0,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0,
+                "non_diegetic": 0,
+                "captions": 0,
+                "descriptions": 0,
+                "metadata": 0,
+                "dependent": 0,
+                "still_image": 0,
+                "multilayer": 0
+            },
+            "tags": {
+                "language": "eng",
+                "handler_name": "SubtitleHandler"
+            }
+        }
+    ],
+    "chapters": [
+        {
+            "id": 0,
+            "time_base": "1/18000000",
+            "start": 0,
+            "start_time": "0.000000",
+            "end": 1368000000,
+            "end_time": "76.000000",
+            "tags": {
+                "title": "A wall for a wave"
+            }
+        },
+        {
+            "id": 1,
+            "time_base": "1/18000000",
+            "start": 1368000000,
+            "start_time": "76.000000",
+            "end": 3192000000,
+            "end_time": "177.333333",
+            "tags": {
+                "title": "Matching the wave"
+            }
+        },
+        {
+            "id": 2,
+            "time_base": "1/18000000",
+            "start": 3192000000,
+            "start_time": "177.333333",
+            "end": 5244600000,
+            "end_time": "291.366667",
+            "tags": {
+                "title": "The exact prediction"
+            }
+        },
+        {
+            "id": 3,
+            "time_base": "1/18000000",
+            "start": 5244600000,
+            "start_time": "291.366667",
+            "end": 7204200000,
+            "end_time": "400.233333",
+            "tags": {
+                "title": "Width changes everything"
+            }
+        },
+        {
+            "id": 4,
+            "time_base": "1/18000000",
+            "start": 7204200000,
+            "start_time": "400.233333",
+            "end": 8747400000,
+            "end_time": "485.966667",
+            "tags": {
+                "title": "Energy and height"
+            }
+        },
+        {
+            "id": 5,
+            "time_base": "1/18000000",
+            "start": 8747400000,
+            "start_time": "485.966667",
+            "end": 10809000000,
+            "end_time": "600.500000",
+            "tags": {
+                "title": "From waves to devices"
+            }
+        },
+        {
+            "id": 6,
+            "time_base": "1/18000000",
+            "start": 10809000000,
+            "start_time": "600.500000",
+            "end": 12852600000,
+            "end_time": "714.033333",
+            "tags": {
+                "title": "Evidence and scientific judgment"
+            }
+        }
+    ],
+    "format": {
+        "filename": "outputs/Quantum_Tunneling_Lecture_Remotion.mp4",
+        "nb_streams": 4,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "start_time": "0.000000",
+        "duration": "714.033333",
+        "size": "34889453",
+        "bit_rate": "390899",
+        "probe_score": 100,
+        "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "title": "Quantum Tunneling — Polished Applied Quantum Lab",
+            "encoder": "Lavf63.1.102"
+        }
+    }
+}

@@ -5,7 +5,7 @@
   "title": "Can an Electron Pass Through a Wall?",
   "content_type": "Interactive Video",
   "media": {
-    "primary": "Set the published YouTube watch URL after upload.",
+    "primary": "https://youtu.be/Kbknh_vEjSc",
     "fallback": "outputs/Quantum_Tunneling_Lecture.mp4",
     "captions": "narration/lecture.srt",
     "duration_seconds": 714.0333333333334
@@ -23,11 +23,11 @@
       ],
       "correct_index": 1,
       "explanation": "A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory.",
-      "remediation_seconds": 0,
+      "remediation_seconds": 0.0,
       "incorrect_feedback": [
-        "Reconsider the assumptions. A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory.",
+        "A classical turning point is not an impenetrable quantum boundary. Match the finite-barrier wavefunction and compare transmitted current.",
         "Correct.",
-        "Reconsider the assumptions. A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory."
+        "No energy loan is needed. This static, elastic model has one fixed total energy; transmission follows from the boundary-value problem."
       ],
       "library": "H5P.MultiChoice",
       "pause_video": true,
@@ -37,7 +37,7 @@
       "enable_solution": true,
       "adaptivity": {
         "on_incorrect": "Offer a labelled review jump; allow returning to this question.",
-        "jump_to_seconds": 0,
+        "jump_to_seconds": 0.0,
         "require_host_support": true
       }
     },
@@ -56,10 +56,10 @@
       "explanation": "Integrating the Schr\u00f6dinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
       "remediation_seconds": 76.0,
       "incorrect_feedback": [
-        "Reconsider the assumptions. Integrating the Schr\u00f6dinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
-        "Reconsider the assumptions. Integrating the Schr\u00f6dinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
+        "The potential is an input to the model and may jump at a finite step. The state must satisfy matching conditions.",
+        "Matching only psi leaves the amplitudes underdetermined. The first derivative must also match for this finite constant-mass step.",
         "Correct.",
-        "Reconsider the assumptions. Integrating the Schr\u00f6dinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model."
+        "The potential jump can change the second derivative in the Schrodinger equation. Continuity of the second derivative is not required here."
       ],
       "library": "H5P.MultiChoice",
       "pause_video": true,
@@ -87,9 +87,9 @@
       "explanation": "Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved.",
       "remediation_seconds": 177.33,
       "incorrect_feedback": [
-        "Reconsider the assumptions. Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved.",
+        "An expected count is not a guaranteed count. Independent transmission trials fluctuate; the binomial standard deviation is about 35.",
         "Correct.",
-        "Reconsider the assumptions. Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved."
+        "T is a transmitted probability-current ratio, not a fractional energy loss. A transmitted electron retains its total energy in this model."
       ],
       "library": "H5P.MultiChoice",
       "pause_video": true,
@@ -117,9 +117,9 @@
       "explanation": "The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two.",
       "remediation_seconds": 291.37,
       "incorrect_feedback": [
-        "Reconsider the assumptions. The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two.",
+        "Width dependence is not linear. Evaluate the exact expression at both widths: the ratio is about 0.0413, much smaller than one half.",
         "Correct.",
-        "Reconsider the assumptions. The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two."
+        "For these fixed below-barrier parameters, a thicker barrier reduces transmission. Check which parameter changed before predicting a trend."
       ],
       "library": "H5P.MultiChoice",
       "pause_video": true,
@@ -147,9 +147,9 @@
       "explanation": "The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation.",
       "remediation_seconds": 400.23,
       "incorrect_feedback": [
-        "Reconsider the assumptions. The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation.",
+        "A short time interval does not permit violating the fixed-energy boundary problem. Energy-time uncertainty is not an energy borrowing mechanism.",
         "Correct.",
-        "Reconsider the assumptions. The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation."
+        "Small transmitted amplitude means a small transmitted probability current; it does not imply missing total energy."
       ],
       "library": "H5P.MultiChoice",
       "pause_video": true,
@@ -177,9 +177,9 @@
       "explanation": "Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio.",
       "remediation_seconds": 485.97,
       "incorrect_feedback": [
-        "Reconsider the assumptions. Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio.",
+        "Current also depends on bias, tip condition and electronic states. A current ratio cannot uniquely identify a geometric height change.",
         "Correct.",
-        "Reconsider the assumptions. Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio."
+        "Tunneling current is strongly nonlinear in gap size. Use controlled comparisons and spectroscopy to separate geometric and electronic contributions."
       ],
       "library": "H5P.MultiChoice",
       "pause_video": true,
@@ -207,9 +207,9 @@
       "explanation": "The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons.",
       "remediation_seconds": 600.5,
       "incorrect_feedback": [
-        "Reconsider the assumptions. The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons.",
+        "An exponential trend is compatible with multiple mechanisms and sample changes. Compare temperature, bias, defect and thickness controls.",
         "Correct.",
-        "Reconsider the assumptions. The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons."
+        "Quantum mechanics allows finite-barrier current. The issue is identifying the mechanism from evidence, not forbidding transport."
       ],
       "library": "H5P.MultiChoice",
       "pause_video": true,

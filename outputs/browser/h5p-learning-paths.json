@@ -1,0 +1,86 @@
+{
+  "source": "https://youtu.be/Kbknh_vEjSc",
+  "activeEdition": "polished",
+  "viewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "paths": [
+    {
+      "id": "Q1",
+      "pauseTime": 50.111201085830686,
+      "wrongAnswer": true,
+      "reviewTime": 0,
+      "targetReview": 0,
+      "retry": true,
+      "correctScore": 1,
+      "feedback": true
+    },
+    {
+      "id": "Q2",
+      "pauseTime": 144.11449588746643,
+      "wrongAnswer": true,
+      "reviewTime": 76,
+      "targetReview": 76,
+      "retry": true,
+      "correctScore": 1,
+      "feedback": true
+    },
+    {
+      "id": "Q3",
+      "pauseTime": 255.11397788746643,
+      "wrongAnswer": true,
+      "reviewTime": 177.33,
+      "targetReview": 177.33,
+      "retry": true,
+      "correctScore": 1,
+      "feedback": true
+    },
+    {
+      "id": "Q4",
+      "pauseTime": 362.112342125885,
+      "wrongAnswer": true,
+      "reviewTime": 291.37,
+      "targetReview": 291.37,
+      "retry": true,
+      "correctScore": 1,
+      "feedback": true
+    },
+    {
+      "id": "Q5",
+      "pauseTime": 459.1032420934601,
+      "wrongAnswer": true,
+      "reviewTime": 400.23,
+      "targetReview": 400.23,
+      "retry": true,
+      "correctScore": 1,
+      "feedback": true
+    },
+    {
+      "id": "Q6",
+      "pauseTime": 559.0980730934601,
+      "wrongAnswer": true,
+      "reviewTime": 485.97,
+      "targetReview": 485.97,
+      "retry": true,
+      "correctScore": 1,
+      "feedback": true
+    },
+    {
+      "id": "Q7",
+      "pauseTime": 648.117006,
+      "wrongAnswer": true,
+      "reviewTime": 600.5,
+      "targetReview": 600.5,
+      "retry": true,
+      "correctScore": 1,
+      "feedback": true
+    }
+  ],
+  "summary": {
+    "score": 5,
+    "maxScore": 5
+  },
+  "errors": [],
+  "mediaInterruptions": []
+}

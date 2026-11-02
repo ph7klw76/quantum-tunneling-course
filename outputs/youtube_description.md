@@ -4,10 +4,10 @@ Title: Can an Electron Pass Through a Wall? — Quantum Tunneling Explained
 
 Predict, calculate and test quantum tunneling through a finite rectangular barrier. Learn why the wavefunction is not an electron trajectory, solve boundary conditions, and examine STM and electronic interfaces critically.
 
-Companion course: REPLACE_WITH_DEPLOYED_COMPANION_URL
-JupyterLite lab: REPLACE_WITH_DEPLOYED_COMPANION_URL/lab/lab/index.html?path=Quantum_Tunneling_Lab.ipynb
-H5P version: REPLACE_WITH_YOUR_LUMI_OR_MOODLE_URL
-Source and worksheets: REPLACE_WITH_YOUR_SOURCE_REPOSITORY_URL
+Companion course: https://ph7klw76.github.io/quantum-tunneling-course
+JupyterLite lab: https://ph7klw76.github.io/quantum-tunneling-course/lab/lab/index.html?path=Quantum_Tunneling_Lab.ipynb
+H5P version: https://ph7klw76.github.io/quantum-tunneling-course/#lecture
+Source and worksheets: https://github.com/ph7klw76/quantum-tunneling-course
 
 CHAPTERS
 00:00 A wall for a wave

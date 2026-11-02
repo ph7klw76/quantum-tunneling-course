@@ -53,6 +53,16 @@ Pushes to `main` trigger GitHub Actions. Set repository **Settings → Pages →
 
 Generated MP4/WAV masters, speech models, environment folders and caches are excluded from GitHub. The website streams the actual YouTube lecture. Rebuilding the video requires the documented local dependencies and model downloads; it is independent of Pages deployment.
 
+## Polished Remotion edition
+
+The editable React/TypeScript production in [remotion/](remotion/) reuses the original Manim master and continuous Chatterbox narration. One [publication timeline](course/publication_events.json) drives scene boundaries, equation highlights, captions, chapters and all seven quiz/review times. The full composition is 21,421 frames at 30 fps (11:54.033); media masters remain local.
+
+See [production and verification](docs/remotion-production.md) for local media preparation, preview, rendering, scientific checks and reuse for another topic. The [confirmed polished YouTube edition](https://youtu.be/Kbknh_vEjSc) is selected through the common publication configuration; the original upload remains available for rollback. See [YouTube handoff and safe activation](docs/publish-remotion.md) for future editions. Feature-branch checks build and test the site without deploying it; the existing main workflow publishes after merge.
+
+[Executed upgrade verification](docs/remotion-verification.md) records the finished render, seven unchanged quiz times, H5P desktop/phone learning paths, scientific checks and actual browser laboratory execution.
+
+Remotion 4.0.540 has its own source-available license. This production uses its individual free-use provision, confirmed by the course creator; institutional producers must review the [pinned license](docs/remotion-licenses/Remotion-4.0.540.txt) for their circumstances.
+
 ## Licenses and limits
 
 Original code: [MIT](LICENSE). Original lesson text, assessments and visuals: [CC BY 4.0](CONTENT_LICENSE.md). H5P, Lumi, speech models and runtime dependencies retain their upstream licenses; see [H5P notices](h5p/THIRD_PARTY.md) and [speech notices](docs/tts-licenses).
