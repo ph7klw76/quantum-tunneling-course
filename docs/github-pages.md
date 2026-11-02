@@ -1,0 +1,45 @@
+# GitHub Pages build and publication
+
+Repository: https://github.com/ph7klw76/quantum-tunneling-course
+
+Website: https://ph7klw76.github.io/quantum-tunneling-course/
+
+The workflow `.github/workflows/deploy.yml` tests and builds the site on every push to `main`, then publishes the Pages artifact. Pages must use **GitHub Actions** as its build source in repository Settings → Pages. Deployment uses the built-in `GITHUB_TOKEN`; no personal access token, paid API or subscription is needed.
+
+## Reproduce the public build
+
+Use Python 3.12, Node 24 and pnpm 11.25.0:
+
+```sh
+python -m venv .venv
+# Windows: .venv\Scripts\activate; Linux/macOS: source .venv/bin/activate
+python -m pip install -r requirements-ci.txt
+pnpm --dir webtools install --frozen-lockfile
+python -m unittest discover -s tests -v
+python scripts/check_course.py
+python scripts/build_pages.py --base-path /quantum-tunneling-course/
+node scripts/check-site.cjs outputs/physics-fixtures.json outputs/pages
+python scripts/serve.py --directory outputs/pages --base-path /quantum-tunneling-course/ --port 8765
+```
+
+Open http://127.0.0.1:8765/quantum-tunneling-course/. In another terminal, run `node webtools/test-site.cjs` after installing Chromium with `pnpm --dir webtools exec playwright install chromium`. Tests use an isolated browser against this project's server. The JupyterLite test executes the actual notebook in a browser Pyodide kernel, which needs access to its public package/runtime CDN on first use.
+
+Navigation, scripts, captions and activity paths are relative. JupyterLite is built with the repository prefix. The public artifact contains no MP4 or WAV; video is hosted at https://youtu.be/WCA_t3ttAAI. Local masters remain in `outputs/` and are excluded from GitHub.
+
+## Rebuild H5P
+
+The committed native `.h5p` package includes its playable upstream source libraries. Committed HTML exports are used directly by Pages, so deployment does not depend on H5P Hub availability.
+
+```sh
+python scripts/fetch_h5p.py
+python scripts/author_h5p.py
+node webtools/h5p-build.cjs
+```
+
+Review `h5p/upstream-lock.json` when upstream changes. Hub URLs may serve newer versions over time; preserve the native package for the exact original library set. Core/editor revisions and bundle hashes are recorded. `tools/h5p/` is an ignored local cache. See `h5p/THIRD_PARTY.md` for licensing.
+
+## Verification scope
+
+CI checks physics conservation and independent ODE agreement, pronunciation/text alignment helpers, caption/quiz timing, full desktop notebook execution, JavaScript/Python agreement, internal paths at the repository prefix, mobile layouts, actual H5P answer/feedback/retry behavior, and the notebook in browser Pyodide. Reports and screenshots are uploaded as workflow artifacts. The final job requests the published page and key resources over HTTPS.
+
+An automated check cannot certify an LMS's gradebook or a viewer's YouTube/network policy. Those are destination-specific checks.

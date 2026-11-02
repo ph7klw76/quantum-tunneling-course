@@ -1,0 +1,1016 @@
+[
+  {
+    "index": 0,
+    "title": "Can an electron pass through a wall?",
+    "focus": "A finite barrier is not an infinite wall.",
+    "kind": "wave",
+    "duration": 19.7,
+    "text": "Can an electron pass through a wall? For a carefully defined potential barrier, yes. Today we will calculate the probability, test our calculation, and ask what evidence could actually support that conclusion. Imagine a finite potential barrier: a wall in an energy diagram, rather than an everyday brick wall.",
+    "chapter": 0,
+    "start": 0,
+    "speech_end": 19.020000000000003,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 12.18,
+        "text": "Can an electron pass through a wall? For a carefully defined potential barrier, yes. Today we will calculate the probability, test our calculation, and ask what evidence could actually support that conclusion.",
+        "asr": "Can an electron pass through a wall? For a carefully defined potential barrier, yes.  Today we will calculate the probability, test our calculation, and ask what evidence could actually support that conclusion.",
+        "wer": 0.0,
+        "exact_word_anchors": 32,
+        "caption_words": 32,
+        "file": "narration\\neural\\00_00_72f29b1863faa6e1705553ec.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 12.620000000000001,
+        "duration": 6.4,
+        "text": "Imagine a finite potential barrier: a wall in an energy diagram, rather than an everyday brick wall.",
+        "asr": "Imagine a finite potential barrier, a wall in an energy diagram, rather than an everyday brick wall.",
+        "wer": 0.0,
+        "exact_word_anchors": 17,
+        "caption_words": 17,
+        "file": "narration\\neural\\00_01_4d6961a9604aa96f5e9de691.wav"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "title": "Start with a classical prediction",
+    "focus": "Energy below the barrier: classical transmission = 0.",
+    "kind": "energy",
+    "duration": 18.0,
+    "text": "Our electron has half an electron volt of energy. The barrier is one electron volt high and zero point four five nanometers wide. Classically, the electron cannot reach the top, so it returns. We use zero potential outside, so the total energy there is kinetic energy.",
+    "chapter": 0,
+    "start": 19.7,
+    "speech_end": 37.0,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 17.08,
+        "text": "Our electron has half an electron volt of energy. The barrier is one electron volt high and zero point four five nanometers wide. Classically, the electron cannot reach the top, so it returns. We use zero potential outside, so the total energy there is kinetic energy.",
+        "asr": "Our electron has half an electron volt of energy. The barrier is one electron volt high and 0.45  nanometers wide. Classically, the electron cannot reach the top, so it returns. We use  zero potential outside, so the total energy there is kinetic energy.",
+        "wer": 0.0,
+        "exact_word_anchors": 44,
+        "caption_words": 46,
+        "file": "narration\\neural\\01_00_362a01f57458954e431e20cf.wav"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "title": "Pause and predict",
+    "focus": "Below the barrier: must transmission be exactly zero?",
+    "kind": "predict",
+    "duration": 18.466666666666665,
+    "text": "Pause and predict. In quantum mechanics, must the transmission probability also be exactly zero? Choose your answer before continuing. Explain which assumption of the classical picture you are using.",
+    "chapter": 0,
+    "start": 37.7,
+    "speech_end": 49.64,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 11.72,
+        "text": "Pause and predict. In quantum mechanics, must the transmission probability also be exactly zero? Choose your answer before continuing. Explain which assumption of the classical picture you are using.",
+        "asr": "Pause and predict. In quantum mechanics, must the transmission probability also be exactly zero?  Choose your answer before continuing. Explain which assumption of the classical picture you are using.",
+        "wer": 0.0,
+        "exact_word_anchors": 29,
+        "caption_words": 29,
+        "file": "narration\\neural\\02_00_ec12352271abb65c8b96b311.wav"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "title": "A wave prediction",
+    "focus": "The transmitted current can be nonzero.",
+    "kind": "wave",
+    "duration": 19.833333333333332,
+    "text": "Quantum mechanics describes a state using a wavefunction. A finite barrier can support a nonzero transmitted probability current. This does not mean the electron secretly climbs over the barrier, or follows the curve drawn here. Detection beyond the barrier is an outcome; transmission predicts how often we expect it.",
+    "chapter": 0,
+    "start": 56.16666666666667,
+    "speech_end": 75.32666666666667,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 13.26,
+        "text": "Quantum mechanics describes a state using a wavefunction. A finite barrier can support a nonzero transmitted probability current. This does not mean the electron secretly climbs over the barrier, or follows the curve drawn here.",
+        "asr": "Quantum mechanics describes a state using a wavefunction.  A finite barrier can support a nonzero transmitted probability current.  This does not mean the electron secretly climbs over the barrier or follows the curve drawn here.",
+        "wer": 0.0,
+        "exact_word_anchors": 35,
+        "caption_words": 35,
+        "file": "narration\\neural\\03_00_577b4a390c4bd80eef9f2338.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 13.700000000000001,
+        "duration": 5.46,
+        "text": "Detection beyond the barrier is an outcome; transmission predicts how often we expect it.",
+        "asr": "Detection beyond the barrier is an outcome. Transmission predicts how often we expect it.",
+        "wer": 0.0,
+        "exact_word_anchors": 14,
+        "caption_words": 14,
+        "file": "narration\\neural\\03_01_c7e262b2cac0619bd43ea350.wav"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "title": "What the curves mean",
+    "focus": "Cyan: Re(psi). Gold: |psi|². Both are relative scales.",
+    "kind": "wave",
+    "duration": 25.0,
+    "text": "The cyan curve is the real part of a stationary scattering wavefunction, multiplied by its time dependent phase. Gold shows its probability density. The density is time independent here. A single detection is localized, while these curves describe the statistics of many identically prepared measurements. Changing the phase changes the real part, while a stationary probability density stays fixed.",
+    "chapter": 1,
+    "start": 76.0,
+    "speech_end": 100.0,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 11.4,
+        "text": "The cyan curve is the real part of a stationary scattering wavefunction, multiplied by its time dependent phase. Gold shows its probability density. The density is time independent here.",
+        "asr": "The cyan curve is the real part of a stationary scattering wavefunction, multiplied by its time-dependent phase.  Gold shows its probability density. The density is time-independent here.",
+        "wer": 0.0,
+        "exact_word_anchors": 29,
+        "caption_words": 29,
+        "file": "narration\\neural\\04_00_c2c2e3597b0c99c7b9d7f187.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 11.840000000000002,
+        "duration": 12.16,
+        "text": "A single detection is localized, while these curves describe the statistics of many identically prepared measurements. Changing the phase changes the real part, while a stationary probability density stays fixed.",
+        "asr": "A single detection is localized, while these curves describe the statistics of many identically  prepared measurements. Changing the phase changes the real part, while a stationary probability  density stays fixed.",
+        "wer": 0.0,
+        "exact_word_anchors": 30,
+        "caption_words": 30,
+        "file": "narration\\neural\\04_01_f99667a7a5b1e2200a8b35fd.wav"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "title": "Incident plus reflected",
+    "focus": "Left: incoming and reflected waves interfere.",
+    "kind": "wave",
+    "duration": 25.0,
+    "text": "On the left, an incoming wave and a reflected wave overlap. Their interference makes the density ripple. On the right, only an outgoing wave is present. Our incident amplitude is one, so these scattering states are not normalized to one over all space. Transmission is a ratio of probability currents. Interference changes the density on the left, while the net probability current remains constant.",
+    "chapter": 1,
+    "start": 101.0,
+    "speech_end": 125.03999999999999,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 15.18,
+        "text": "On the left, an incoming wave and a reflected wave overlap. Their interference makes the density ripple. On the right, only an outgoing wave is present. Our incident amplitude is one, so these scattering states are not normalized to one over all space.",
+        "asr": "On the left, an incoming wave and a reflected wave overlap. Their interference makes the density ripple.  On the right, only an outgoing wave is present. Our incident amplitude is 1,  so these scattering states are not normalized to 1 over all space.",
+        "wer": 0.0,
+        "exact_word_anchors": 43,
+        "caption_words": 43,
+        "file": "narration\\neural\\05_00_109dc7b56da78151a12cb2de.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 15.620000000000001,
+        "duration": 8.42,
+        "text": "Transmission is a ratio of probability currents. Interference changes the density on the left, while the net probability current remains constant.",
+        "asr": "Transmission is a ratio of probability currents.  Interference changes the density on the left while the net probability current remains constant.",
+        "wer": 0.0,
+        "exact_word_anchors": 21,
+        "caption_words": 21,
+        "file": "narration\\neural\\05_01_9eec02f1514c24bb853ed65d.wav"
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "title": "Pause: what must match?",
+    "focus": "At a finite potential step with constant mass, match what?",
+    "kind": "predict",
+    "duration": 25.0,
+    "text": "Pause and predict. At each edge of this finite barrier, which quantities must be continuous? The wavefunction alone? The wavefunction and its spatial derivative? Or the potential itself? Our model has a constant electron mass and no delta function potential. Keep those assumptions in your reasoning.",
+    "chapter": 1,
+    "start": 126.0,
+    "speech_end": 143.22,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 14.69,
+        "text": "Pause and predict. At each edge of this finite barrier, which quantities must be continuous? The wavefunction alone? The wavefunction and its spatial derivative? Or the potential itself? Our model has a constant electron mass and no delta function potential.",
+        "asr": "Pause and predict. At each edge of this finite barrier, which quantities must be continuous?  The wavefunction alone? The wavefunction and its spatial derivative? Or the potential itself?  Our model has a constant electron mass and no delta function potential.",
+        "wer": 0.0,
+        "exact_word_anchors": 40,
+        "caption_words": 40,
+        "file": "narration\\neural\\06_00_b921c98c3f4bad9a456592cf.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 15.13,
+        "duration": 2.09,
+        "text": "Keep those assumptions in your reasoning.",
+        "asr": "Keep those assumptions in your reasoning.",
+        "wer": 0.0,
+        "exact_word_anchors": 6,
+        "caption_words": 6,
+        "file": "narration\\neural\\06_01_f7de24e3214c89fe7a336799.wav"
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "title": "Four boundary conditions",
+    "focus": "Match psi and dpsi/dx at x = 0 and x = a.",
+    "kind": "boundary",
+    "duration": 26.333333333333332,
+    "text": "Both the wavefunction and its first spatial derivative are continuous at each edge. There are four matching equations for four unknown amplitudes. The potential may jump. For interfaces described by different effective masses, the matching law needs a suitable effective mass model; do not copy these conditions without checking its assumptions. Integrating the equation across a shrinking interval gives the derivative condition for a finite step.",
+    "chapter": 1,
+    "start": 151.0,
+    "speech_end": 176.66,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 10.36,
+        "text": "Both the wavefunction and its first spatial derivative are continuous at each edge. There are four matching equations for four unknown amplitudes. The potential may jump.",
+        "asr": "Both the wavefunction and its first spatial derivative are continuous at each edge.  There are four matching equations for four unknown amplitudes. The potential may jump.",
+        "wer": 0.0,
+        "exact_word_anchors": 26,
+        "caption_words": 26,
+        "file": "narration\\neural\\07_00_0af1fad9990468ba2b91b102.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 10.8,
+        "duration": 14.86,
+        "text": "For interfaces described by different effective masses, the matching law needs a suitable effective mass model; do not copy these conditions without checking its assumptions. Integrating the equation across a shrinking interval gives the derivative condition for a finite step.",
+        "asr": "For interfaces described by different effective masses, the matching law needs a suitable effective  mass model. Do not copy these conditions without checking its assumptions. Integrating the equation  across a shrinking interval gives the derivative condition for a finite step.",
+        "wer": 0.0,
+        "exact_word_anchors": 40,
+        "caption_words": 40,
+        "file": "narration\\neural\\07_01_63de801e8ba8df6670833bcf.wav"
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "title": "The stationary Schrödinger equation",
+    "focus": "Kinetic curvature + potential energy = total energy.",
+    "kind": "equation",
+    "duration": 29.766666666666666,
+    "text": "The time independent Schrödinger equation relates the curvature of the wavefunction to the difference between potential and total energy. Here, h-bar is Planck's constant divided by two pi. Outside the barrier the solutions oscillate. Inside, where the energy is lower than the potential, the solutions are exponentials. The decay constant kappa has units of inverse length. Notice how the sign of the curvature distinguishes the oscillatory and exponential regions.",
+    "chapter": 2,
+    "start": 177.33333333333334,
+    "speech_end": 206.43333333333334,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 14.24,
+        "text": "The time independent Schrödinger equation relates the curvature of the wavefunction to the difference between potential and total energy. Here, h-bar is Planck's constant divided by two pi. Outside the barrier the solutions oscillate.",
+        "asr": "The time independent Schrödinger equation relates the curvature of the wavefunction to the difference  between potential and total energy. Here, h-bar is Planck's constant divided by 2 pi.  Outside the barrier, the solutions oscillate.",
+        "wer": 0.0,
+        "exact_word_anchors": 34,
+        "caption_words": 34,
+        "file": "narration\\neural\\08_00_1ddbf113c841dae1d10cfc59.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 14.680000000000001,
+        "duration": 14.42,
+        "text": "Inside, where the energy is lower than the potential, the solutions are exponentials. The decay constant kappa has units of inverse length. Notice how the sign of the curvature distinguishes the oscillatory and exponential regions.",
+        "asr": "Inside, where the energy is lower than the potential, the solutions are exponentials.  The decay constant kappa has units of inverse length.  Notice how the sign of the curvature distinguishes the oscillatory and exponential regions.",
+        "wer": 0.0,
+        "exact_word_anchors": 35,
+        "caption_words": 35,
+        "file": "narration\\neural\\08_01_727bc61052fd52ba4d58755f.wav"
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "title": "Evanescent does not mean absent",
+    "focus": "Inside: two exponentials satisfy both interfaces.",
+    "kind": "wave",
+    "duration": 28.0,
+    "text": "A finite barrier requires a combination of two exponential solutions, not just one decaying exponential. Matching the two interfaces produces the transmitted wave. In this stationary model total energy is conserved. The electron does not borrow energy, and the uncertainty principle is not a license to violate energy conservation. The complex coefficients of those exponentials together allow a conserved current inside the barrier.",
+    "chapter": 2,
+    "start": 207.10000000000002,
+    "speech_end": 233.95000000000002,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 13.55,
+        "text": "A finite barrier requires a combination of two exponential solutions, not just one decaying exponential. Matching the two interfaces produces the transmitted wave. In this stationary model total energy is conserved.",
+        "asr": "A finite barrier requires a combination of two exponential solutions, not just one decaying exponential.  Matching the two interfaces produces the transmitted wave. In this stationary model, total energy is conserved.",
+        "wer": 0.0,
+        "exact_word_anchors": 31,
+        "caption_words": 31,
+        "file": "narration\\neural\\09_00_f5a6219c606a51b8706e3e71.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 13.990000000000002,
+        "duration": 12.86,
+        "text": "The electron does not borrow energy, and the uncertainty principle is not a license to violate energy conservation. The complex coefficients of those exponentials together allow a conserved current inside the barrier.",
+        "asr": "The electron does not borrow energy, and the uncertainty principle is not a license to violate energy conservation.  The complex coefficients of those exponentials together allow a conserved current inside the barrier.",
+        "wer": 0.0,
+        "exact_word_anchors": 32,
+        "caption_words": 32,
+        "file": "narration\\neural\\09_01_b3fd28cd8a804913af04cb4d.wav"
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "title": "Pause: read a probability",
+    "focus": "If T is near 0.14, what does it predict?",
+    "kind": "predict",
+    "duration": 27.0,
+    "text": "Suppose the calculated transmission coefficient is about zero point one four. Does that mean every electron loses fourteen percent of its energy? Or that around fourteen percent of a large incident ensemble is transmitted? Predict an outcome for ten thousand independent electrons. Include the fact that a finite count will fluctuate.",
+    "chapter": 2,
+    "start": 235.10000000000002,
+    "speech_end": 254.31000000000003,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 15.75,
+        "text": "Suppose the calculated transmission coefficient is about zero point one four. Does that mean every electron loses fourteen percent of its energy? Or that around fourteen percent of a large incident ensemble is transmitted? Predict an outcome for ten thousand independent electrons.",
+        "asr": "Suppose the calculated transmission coefficient is about 0.14. Does that mean every electron loses 14%  of its energy, or that around 14% of a large incident ensemble is transmitted?  Predict an outcome for 10,000 independent electrons.",
+        "wer": 0.0,
+        "exact_word_anchors": 38,
+        "caption_words": 42,
+        "file": "narration\\neural\\10_00_dd6866efcc39cd4eeea9816c.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 16.19,
+        "duration": 3.02,
+        "text": "Include the fact that a finite count will fluctuate.",
+        "asr": "Include the fact that a finite count will fluctuate.",
+        "wer": 0.0,
+        "exact_word_anchors": 9,
+        "caption_words": 9,
+        "file": "narration\\neural\\10_01_27c30aa6cbd894365341e2ad.wav"
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "title": "The exact rectangular-barrier result",
+    "focus": "Default T ≈ 0.1424; R ≈ 0.8576.",
+    "kind": "transmission",
+    "duration": 29.266666666666666,
+    "text": "The exact expression on screen gives about zero point one four for our default parameters. Roughly fourteen hundred of ten thousand incident electrons are expected to transmit, with statistical fluctuations. Equal potentials and equal masses on both sides mean the transmitted amplitude squared equals transmission. Reflected and transmitted currents add to the incident current. An individual trial gives one detection outcome. Repeating the preparation makes the probability prediction testable.",
+    "chapter": 2,
+    "start": 262.1,
+    "speech_end": 290.69,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 11.68,
+        "text": "The exact expression on screen gives about zero point one four for our default parameters. Roughly fourteen hundred of ten thousand incident electrons are expected to transmit, with statistical fluctuations.",
+        "asr": "The exact expression on screen gives about 0.14 for our default parameters.  Roughly 1,400 of 10,000 incident electrons are expected to transmit with statistical fluctuations.",
+        "wer": 0.0,
+        "exact_word_anchors": 25,
+        "caption_words": 30,
+        "file": "narration\\neural\\11_00_a8095313e3adcd5e3921f5be.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 12.120000000000001,
+        "duration": 16.47,
+        "text": "Equal potentials and equal masses on both sides mean the transmitted amplitude squared equals transmission. Reflected and transmitted currents add to the incident current. An individual trial gives one detection outcome. Repeating the preparation makes the probability prediction testable.",
+        "asr": "Equal potentials and equal masses on both sides mean the transmitted amplitude squared equals transmission.  Reflected and transmitted currents add to the incident current.  An individual trial gives one detection outcome.  Repeating the preparation makes the probability prediction testable.",
+        "wer": 0.0,
+        "exact_word_anchors": 39,
+        "caption_words": 39,
+        "file": "narration\\neural\\11_01_faa3a3a34e10462d0f3bc727.wav"
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "title": "Thin versus thick",
+    "focus": "Compare 0.25 nm with 0.65 nm at fixed energy.",
+    "kind": "width",
+    "duration": 27.533333333333335,
+    "text": "Now hold energy and barrier height fixed while changing width. Notice how the outgoing amplitude shrinks as the barrier thickens. The wavefunction is calculated by matching both interfaces each time. The animation changes the model between stationary solutions; it is not a simulation of a moving wall or an electron trajectory. At a quarter nanometer, transmission is about forty eight percent; at zero point six five, about three and a half percent.",
+    "chapter": 3,
+    "start": 291.3666666666667,
+    "speech_end": 318.2366666666667,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 11.72,
+        "text": "Now hold energy and barrier height fixed while changing width. Notice how the outgoing amplitude shrinks as the barrier thickens. The wavefunction is calculated by matching both interfaces each time.",
+        "asr": "Now hold energy and barrier height fixed while changing width.  Notice how the outgoing amplitude shrinks as the barrier thickens.  The wavefunction is calculated by matching both interfaces each time.",
+        "wer": 0.0,
+        "exact_word_anchors": 30,
+        "caption_words": 30,
+        "file": "narration\\neural\\12_00_c04b08b52ab4cace3f56c295.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 12.160000000000002,
+        "duration": 14.71,
+        "text": "The animation changes the model between stationary solutions; it is not a simulation of a moving wall or an electron trajectory. At a quarter nanometer, transmission is about forty eight percent; at zero point six five, about three and a half percent.",
+        "asr": "The animation changes the model between stationary solutions. It is not a simulation of a moving  wall or an electron trajectory. At a quarter nanometer, transmission is about 48 percent.  At 0.65, about three and a half percent.",
+        "wer": 0.0,
+        "exact_word_anchors": 40,
+        "caption_words": 42,
+        "file": "narration\\neural\\12_01_50ac457413b0f12debaa9ad6.wav"
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "title": "Why width matters so much",
+    "focus": "Opaque-barrier trend: T proportional to exp(-2 kappa a).",
+    "kind": "sweep",
+    "duration": 25.0,
+    "text": "When kappa times width is large, transmission falls approximately exponentially with width. The prefactor still depends on energy and height. Use the exact expression when the barrier is not opaque. Taking a logarithm turns the approximate exponential trend into a line, which is useful when designing measurements. The factor of two in the exponent comes from squaring the magnitude of an amplitude.",
+    "chapter": 3,
+    "start": 318.90000000000003,
+    "speech_end": 342.84000000000003,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 11.56,
+        "text": "When kappa times width is large, transmission falls approximately exponentially with width. The prefactor still depends on energy and height. Use the exact expression when the barrier is not opaque.",
+        "asr": "When kappa times width is large, transmission falls approximately exponentially with width.  The prefactor still depends on energy and height.  Use the exact expression when the barrier is not opaque.",
+        "wer": 0.0,
+        "exact_word_anchors": 30,
+        "caption_words": 30,
+        "file": "narration\\neural\\13_00_c45e8ff8e4af3cf925c591b7.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 12.000000000000002,
+        "duration": 11.94,
+        "text": "Taking a logarithm turns the approximate exponential trend into a line, which is useful when designing measurements. The factor of two in the exponent comes from squaring the magnitude of an amplitude.",
+        "asr": "Taking a logarithm turns the approximate exponential trend into a line,  which is useful when designing measurements.  The factor of 2 in the exponent comes from squaring the magnitude of an amplitude.",
+        "wer": 0.0,
+        "exact_word_anchors": 32,
+        "caption_words": 32,
+        "file": "narration\\neural\\13_01_a2bf1b4bf12146a12ac21ab6.wav"
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "title": "Pause: double the width",
+    "focus": "Does doubling width simply halve transmission?",
+    "kind": "predict",
+    "duration": 25.0,
+    "text": "Pause and predict. At fixed energy and height, does doubling barrier width simply cut transmission in half? Or can it reduce transmission much more strongly? Write the ratio you would calculate using the exact formula. Do not assume the exponential approximation is exact for the thinner barrier.",
+    "chapter": 3,
+    "start": 343.90000000000003,
+    "speech_end": 361.34000000000003,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 12.7,
+        "text": "Pause and predict. At fixed energy and height, does doubling barrier width simply cut transmission in half? Or can it reduce transmission much more strongly? Write the ratio you would calculate using the exact formula.",
+        "asr": "Pause and predict. At fixed energy and height, does doubling barrier width simply cut transmission  in half? Or can it reduce transmission much more strongly? Write the ratio you would calculate  using the exact formula.",
+        "wer": 0.0,
+        "exact_word_anchors": 35,
+        "caption_words": 35,
+        "file": "narration\\neural\\14_00_95b177cbf5ec660a9500e4bd.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 13.14,
+        "duration": 4.3,
+        "text": "Do not assume the exponential approximation is exact for the thinner barrier.",
+        "asr": "Do not assume the exponential approximation is exact for the thinner barrier.",
+        "wer": 0.0,
+        "exact_word_anchors": 12,
+        "caption_words": 12,
+        "file": "narration\\neural\\14_01_4d5ecb9f2bae8307596dd17f.wav"
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "title": "Calculate, then cross-check",
+    "focus": "Solve boundary amplitudes and integrate the ODE independently.",
+    "kind": "sweep",
+    "duration": 31.333333333333332,
+    "text": "For widths zero point four five and zero point nine nanometers, transmission drops from about fourteen percent to about zero point six percent. In the laboratory, compare the closed form with independent differential equation integration. Also check continuity and constant probability current. Defining reflection as one minus transmission alone would not independently test conservation. Two implementations can share the same unit error. That is why dimensions and limiting cases also matter.",
+    "chapter": 3,
+    "start": 368.90000000000003,
+    "speech_end": 399.58000000000004,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 14.08,
+        "text": "For widths zero point four five and zero point nine nanometers, transmission drops from about fourteen percent to about zero point six percent. In the laboratory, compare the closed form with independent differential equation integration.",
+        "asr": "For widths, 0.45 and 0.9 nanometers, transmission drops from about 14% to about 0.6%.  In the laboratory, compare the closed form with independent differential equation integration.",
+        "wer": 0.0,
+        "exact_word_anchors": 31,
+        "caption_words": 35,
+        "file": "narration\\neural\\15_00_677d2c749740331b0bb25282.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 14.520000000000001,
+        "duration": 16.16,
+        "text": "Also check continuity and constant probability current. Defining reflection as one minus transmission alone would not independently test conservation. Two implementations can share the same unit error. That is why dimensions and limiting cases also matter.",
+        "asr": "Also check continuity and constant probability current.  Defining reflection as one minus transmission alone  would not independently test conservation.  Two implementations can share the same unit error.  That is why dimensions and limiting cases also matter.",
+        "wer": 0.0,
+        "exact_word_anchors": 36,
+        "caption_words": 36,
+        "file": "narration\\neural\\15_01_bcfdef4d5cbe11da9ac1d038.wav"
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "title": "Raise the electron energy",
+    "focus": "Scan energy while holding V0 and a fixed.",
+    "kind": "energy_sweep",
+    "duration": 20.5,
+    "text": "Raising energy toward the barrier height increases transmission in this below barrier model. But do not extrapolate this equation past its stated domain. At or above the barrier, use the correct limiting expression or the oscillatory solution. As the energy gap shrinks, the decay length grows, allowing more amplitude to reach the exit.",
+    "chapter": 4,
+    "start": 400.23333333333335,
+    "speech_end": 420.06333333333333,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 13.79,
+        "text": "Raising energy toward the barrier height increases transmission in this below barrier model. But do not extrapolate this equation past its stated domain. At or above the barrier, use the correct limiting expression or the oscillatory solution.",
+        "asr": "Raising energy toward the barrier height increases transmission in this below barrier model,  but do not extrapolate this equation past its stated domain.  At or above the barrier, use the correct limiting expression or the oscillatory solution.",
+        "wer": 0.0,
+        "exact_word_anchors": 37,
+        "caption_words": 37,
+        "file": "narration\\neural\\16_00_19da6d158ad380df3d5aec25.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 14.23,
+        "duration": 5.6,
+        "text": "As the energy gap shrinks, the decay length grows, allowing more amplitude to reach the exit.",
+        "asr": "As the energy gap shrinks, the decay length grows, allowing more amplitude to reach the exit.",
+        "wer": 0.0,
+        "exact_word_anchors": 16,
+        "caption_words": 16,
+        "file": "narration\\neural\\16_01_a3ac327c2dd49ae9b24f80c5.wav"
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "title": "Raise the barrier height",
+    "focus": "Scan V0 while holding E and a fixed.",
+    "kind": "height",
+    "duration": 21.966666666666665,
+    "text": "A higher barrier increases the decay constant and reduces transmission for these fixed parameters. Width, height, and effective mass all matter. In an actual device, voltage can change the barrier shape as well as the occupied electron energies. Always convert the energy and length units consistently before evaluating an exponential.",
+    "chapter": 4,
+    "start": 420.73333333333335,
+    "speech_end": 442.04333333333335,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 15.23,
+        "text": "A higher barrier increases the decay constant and reduces transmission for these fixed parameters. Width, height, and effective mass all matter. In an actual device, voltage can change the barrier shape as well as the occupied electron energies.",
+        "asr": "A higher barrier increases the decay, constant, and reduces transmission for these fixed parameters.  Width, height, and effective mass all matter.  In an actual device, voltage can change the barrier shape as well as the occupied electron energies.",
+        "wer": 0.0,
+        "exact_word_anchors": 38,
+        "caption_words": 38,
+        "file": "narration\\neural\\17_00_dcc31d71549c019f393c5677.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 15.670000000000002,
+        "duration": 5.64,
+        "text": "Always convert the energy and length units consistently before evaluating an exponential.",
+        "asr": "Always convert the energy and length units consistently before evaluating an exponential.",
+        "wer": 0.0,
+        "exact_word_anchors": 12,
+        "caption_words": 12,
+        "file": "narration\\neural\\17_01_b3401605dd30a42674763b09.wav"
+      }
+    ]
+  },
+  {
+    "index": 18,
+    "title": "Pause: an energy loan?",
+    "focus": "Does tunneling require temporary extra energy?",
+    "kind": "predict",
+    "duration": 22.1,
+    "text": "Pause and predict. Does tunneling require the electron to borrow extra energy? Check your answer against our time independent equation, which has one fixed total energy on both sides. The wave inside the barrier does not describe a classical trajectory.",
+    "chapter": 4,
+    "start": 442.7,
+    "speech_end": 458.27,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 15.35,
+        "text": "Pause and predict. Does tunneling require the electron to borrow extra energy? Check your answer against our time independent equation, which has one fixed total energy on both sides. The wave inside the barrier does not describe a classical trajectory.",
+        "asr": "Pause and predict. Does tunneling require the electron to borrow extra energy?  Check your answer against our time independent equation, which has one fixed total energy on  both sides. The wave inside the barrier does not describe a classical trajectory.",
+        "wer": 0.0,
+        "exact_word_anchors": 40,
+        "caption_words": 40,
+        "file": "narration\\neural\\18_00_05fd0e0a661cbf204bb59656.wav"
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "title": "Energy stays conserved",
+    "focus": "A static elastic barrier changes transmission, not total energy.",
+    "kind": "energy",
+    "duration": 21.166666666666668,
+    "text": "No energy loan is required. For our static, elastic, lossless barrier, transmitted and reflected electrons have the same total energy as the incident electrons. Interactions that exchange energy require a richer model. The decaying amplitude is compatible with one conserved energy throughout this elastic scattering problem.",
+    "chapter": 4,
+    "start": 464.8,
+    "speech_end": 485.3,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 14.28,
+        "text": "No energy loan is required. For our static, elastic, lossless barrier, transmitted and reflected electrons have the same total energy as the incident electrons. Interactions that exchange energy require a richer model.",
+        "asr": "No energy loan is required. For our static, elastic, lossless barrier, transmitted and reflected electrons have the same total energy as the incident electrons. Interactions that exchange energy require a richer model.",
+        "wer": 0.0,
+        "exact_word_anchors": 32,
+        "caption_words": 32,
+        "file": "narration\\neural\\19_00_cdf2773c8791853143dd329b.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 14.72,
+        "duration": 5.78,
+        "text": "The decaying amplitude is compatible with one conserved energy throughout this elastic scattering problem.",
+        "asr": "The decaying amplitude is compatible with one conserved energy throughout this elastic scattering problem.",
+        "wer": 0.0,
+        "exact_word_anchors": 14,
+        "caption_words": 14,
+        "file": "narration\\neural\\19_01_3ba0b5c4159070e1c2e29a25.wav"
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "title": "Scanning tunneling microscopy",
+    "focus": "Vacuum gap: current is very sensitive to separation.",
+    "kind": "stm",
+    "duration": 27.0,
+    "text": "In scanning tunneling microscopy, a conducting tip approaches a conducting sample. A small bias allows a net tunneling current across the vacuum gap. Because transmission is sensitive to separation, a feedback loop can adjust tip height to maintain a chosen current as the tip scans across the surface. The tip can carry a current without touching the sample: that is the practical opportunity.",
+    "chapter": 5,
+    "start": 485.9666666666667,
+    "speech_end": 510.2166666666667,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 9.28,
+        "text": "In scanning tunneling microscopy, a conducting tip approaches a conducting sample. A small bias allows a net tunneling current across the vacuum gap.",
+        "asr": "In scanning tunneling microscopy, a conducting tip approaches a conducting sample.  A small bias allows a net tunneling current across the vacuum gap.",
+        "wer": 0.0,
+        "exact_word_anchors": 23,
+        "caption_words": 23,
+        "file": "narration\\neural\\20_00_f681d919b8a80b487c8521aa.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 9.72,
+        "duration": 14.53,
+        "text": "Because transmission is sensitive to separation, a feedback loop can adjust tip height to maintain a chosen current as the tip scans across the surface. The tip can carry a current without touching the sample: that is the practical opportunity.",
+        "asr": "Because transmission is sensitive to separation, a feedback loop can adjust tip height to maintain  a chosen current as the tip scans across the surface. The tip can carry a current without  touching the sample, that is, the practical opportunity.",
+        "wer": 0.0,
+        "exact_word_anchors": 40,
+        "caption_words": 40,
+        "file": "narration\\neural\\20_01_dd2e0eca76de7cc204dce814.wav"
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "title": "What an STM image represents",
+    "focus": "Apparent height also depends on electronic structure.",
+    "kind": "stm",
+    "duration": 26.9,
+    "text": "The resulting image is not simply a photograph of hard atomic surfaces. The current depends on electronic states, bias, and tip properties as well as separation. Our rectangular barrier captures a useful sensitivity, but a realistic current calculation must include occupied states, empty states, and the energy window selected by the bias. An apparent hill in a current map can therefore reflect electronic structure as well as geometry.",
+    "chapter": 5,
+    "start": 512.9666666666667,
+    "speech_end": 539.2166666666667,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 9.99,
+        "text": "The resulting image is not simply a photograph of hard atomic surfaces. The current depends on electronic states, bias, and tip properties as well as separation.",
+        "asr": "The resulting image is not simply a photograph of hard atomic surfaces.  The current depends on electronic states, bias, and tip properties, as well as separation.",
+        "wer": 0.0,
+        "exact_word_anchors": 26,
+        "caption_words": 26,
+        "file": "narration\\neural\\21_00_c65010d133ff79a3176f61c4.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 10.430000000000001,
+        "duration": 15.82,
+        "text": "Our rectangular barrier captures a useful sensitivity, but a realistic current calculation must include occupied states, empty states, and the energy window selected by the bias. An apparent hill in a current map can therefore reflect electronic structure as well as geometry.",
+        "asr": "Our rectangular barrier captures a useful sensitivity, but a realistic current calculation must include  occupied states, empty states, and the energy window selected by the bias. An apparent hill  in a current map can therefore reflect electronic structure, as well as geometry.",
+        "wer": 0.0,
+        "exact_word_anchors": 42,
+        "caption_words": 42,
+        "file": "narration\\neural\\21_01_13cbefd9aeb637365187f570.wav"
+      }
+    ]
+  },
+  {
+    "index": 22,
+    "title": "Pause: interpret the image",
+    "focus": "Does twice the STM current prove twice the height?",
+    "kind": "predict",
+    "duration": 26.0,
+    "text": "Pause and predict. If the current doubles in your measurement, has the surface height necessarily doubled? Consider a different tip, a change of local electronic states, and a different bias. Which controlled comparisons would help distinguish geometry from electronic contrast? Write a prediction before you reveal the feedback.",
+    "chapter": 5,
+    "start": 539.8666666666667,
+    "speech_end": 558.5966666666667,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 15.49,
+        "text": "Pause and predict. If the current doubles in your measurement, has the surface height necessarily doubled? Consider a different tip, a change of local electronic states, and a different bias. Which controlled comparisons would help distinguish geometry from electronic contrast?",
+        "asr": "Pause and predict. If the current doubles in your measurement, has the surface height necessarily doubled, consider a different tip, a change of local electronic states and a different bias, which controlled comparisons would help distinguish geometry from electronic contrast.",
+        "wer": 0.0,
+        "exact_word_anchors": 40,
+        "caption_words": 40,
+        "file": "narration\\neural\\22_00_733f425f2ce7a10285c29dae.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 15.930000000000001,
+        "duration": 2.8,
+        "text": "Write a prediction before you reveal the feedback.",
+        "asr": "Write a prediction before you reveal the feedback.",
+        "wer": 0.0,
+        "exact_word_anchors": 8,
+        "caption_words": 8,
+        "file": "narration\\neural\\22_01_d6f3ed0ce3899e612a79de6a.wav"
+      }
+    ]
+  },
+  {
+    "index": 23,
+    "title": "Electronic interfaces",
+    "focus": "Real barriers have band structure, fields, defects and disorder.",
+    "kind": "device",
+    "duration": 34.63333333333333,
+    "text": "No simple doubling rule connects current and height. Semiconductor oxides and organic electronic interfaces also have complicated transport: direct tunneling may compete with thermally activated injection, hopping, and trap assisted processes. Effective masses, nonrectangular barriers, inelastic scattering, and distributions of molecular arrangements can all matter. A fitted barrier is a model parameter, not automatically a measured material constant. In an organic layer, molecular orientation and disorder can also change the available pathways.",
+    "chapter": 5,
+    "start": 565.8666666666667,
+    "speech_end": 599.8466666666667,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 14.54,
+        "text": "No simple doubling rule connects current and height. Semiconductor oxides and organic electronic interfaces also have complicated transport: direct tunneling may compete with thermally activated injection, hopping, and trap assisted processes.",
+        "asr": "No simple doubling rule connects current and height.  Semiconductor oxides and organic electronic interfaces also have complicated transport.  Direct tunneling may compete with thermally activated injection, hopping, and trap-assisted processes.",
+        "wer": 0.0,
+        "exact_word_anchors": 31,
+        "caption_words": 31,
+        "file": "narration\\neural\\23_00_ed1cf7bac4e39ba6d52996ee.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 14.98,
+        "duration": 12.95,
+        "text": "Effective masses, nonrectangular barriers, inelastic scattering, and distributions of molecular arrangements can all matter. A fitted barrier is a model parameter, not automatically a measured material constant.",
+        "asr": "Effective masses, non-rectangular barriers, inelastic scattering and distributions of molecular  arrangements can all matter. A fitted barrier is a model parameter, not automatically a measured  material constant.",
+        "wer": 0.0,
+        "exact_word_anchors": 27,
+        "caption_words": 27,
+        "file": "narration\\neural\\23_01_2927a5d873e4da868a3020d7.wav"
+      },
+      {
+        "chunk": 2,
+        "start": 28.15,
+        "duration": 5.83,
+        "text": "In an organic layer, molecular orientation and disorder can also change the available pathways.",
+        "asr": "In an organic layer, molecular orientation and disorder can also change the available pathways.",
+        "wer": 0.0,
+        "exact_word_anchors": 14,
+        "caption_words": 14,
+        "file": "narration\\neural\\23_02_bb8c7d4df0562d328eabfb5e.wav"
+      }
+    ]
+  },
+  {
+    "index": 24,
+    "title": "Build an evidence argument",
+    "focus": "Compare thickness, temperature, bias and controls.",
+    "kind": "evidence",
+    "duration": 26.8,
+    "text": "A small current through a nominally insulating layer is evidence of transport, but it does not identify a unique mechanism. Measure a thickness series and a temperature series. Control contact area, defects, and instrument leakage. Compare multiple plausible models and examine their residuals, rather than judging only whether one curve looks convincing. Choose measurements where the competing mechanisms make different, observable predictions.",
+    "chapter": 6,
+    "start": 600.5,
+    "speech_end": 626.64,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 13.81,
+        "text": "A small current through a nominally insulating layer is evidence of transport, but it does not identify a unique mechanism. Measure a thickness series and a temperature series. Control contact area, defects, and instrument leakage.",
+        "asr": "A small current through a nominally insulating layer is evidence of transport, but it does  not identify a unique mechanism. Measure a thickness series and a temperature series. Control  contact area, defects, and instrument leakage.",
+        "wer": 0.0,
+        "exact_word_anchors": 35,
+        "caption_words": 35,
+        "file": "narration\\neural\\24_00_1556e1a91841bb0ced3f0cbb.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 14.250000000000002,
+        "duration": 11.89,
+        "text": "Compare multiple plausible models and examine their residuals, rather than judging only whether one curve looks convincing. Choose measurements where the competing mechanisms make different, observable predictions.",
+        "asr": "Compare multiple plausible models and examine their residuals, rather than judging only whether one curve looks convincing.  Choose measurements where the competing mechanisms make different, observable predictions.",
+        "wer": 0.0,
+        "exact_word_anchors": 27,
+        "caption_words": 27,
+        "file": "narration\\neural\\24_01_d1c522748492274ea959f7a3.wav"
+      }
+    ]
+  },
+  {
+    "index": 25,
+    "title": "Pause: is one trend conclusive?",
+    "focus": "An exponential thickness trend alone proves tunneling?",
+    "kind": "predict",
+    "duration": 26.566666666666666,
+    "text": "Pause and predict. An exponential decrease of current with thickness is observed. Does that conclusively prove direct tunneling? Consider whether defects, thickness dependent morphology, or another transport mechanism could generate a similar trend. State one additional measurement and explain what competing predictions it would test.",
+    "chapter": 6,
+    "start": 627.3,
+    "speech_end": 647.3399999999999,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 14.76,
+        "text": "Pause and predict. An exponential decrease of current with thickness is observed. Does that conclusively prove direct tunneling? Consider whether defects, thickness dependent morphology, or another transport mechanism could generate a similar trend.",
+        "asr": "Pause and predict. An exponential decrease of current with thickness is observed.  Does that conclusively prove direct tunneling? Consider whether defects,  thickness-dependent morphology, or another transport mechanism could generate a similar trend.",
+        "wer": 0.0,
+        "exact_word_anchors": 33,
+        "caption_words": 33,
+        "file": "narration\\neural\\25_00_43353764c8fbb3e0e40104fd.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 15.200000000000001,
+        "duration": 4.84,
+        "text": "State one additional measurement and explain what competing predictions it would test.",
+        "asr": "State 1 additional measurement and explain what competing predictions it would test.",
+        "wer": 0.0,
+        "exact_word_anchors": 12,
+        "caption_words": 12,
+        "file": "narration\\neural\\25_01_74194538a32594f2993b50ed.wav"
+      }
+    ]
+  },
+  {
+    "index": 26,
+    "title": "Evidence can support without proving",
+    "focus": "Fit parameters, uncertainty and alternatives together.",
+    "kind": "evidence",
+    "duration": 30.333333333333332,
+    "text": "The trend supports a tunneling explanation, but is not conclusive by itself. Weak temperature dependence under controlled conditions can strengthen the case for direct elastic tunneling, while thermally activated behavior motivates alternatives. No single signature is universal. Report parameter uncertainty, measurement limits, model assumptions, and what observation would make you change your explanation. Confidence grows from consistent evidence across conditions, rather than from one successful fit.",
+    "chapter": 6,
+    "start": 653.8666666666667,
+    "speech_end": 683.5366666666666,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 15.96,
+        "text": "The trend supports a tunneling explanation, but is not conclusive by itself. Weak temperature dependence under controlled conditions can strengthen the case for direct elastic tunneling, while thermally activated behavior motivates alternatives. No single signature is universal.",
+        "asr": "The trend supports a tunneling explanation, but is not conclusive by itself.  Weak temperature dependence under controlled conditions can strengthen the case for direct elastic tunneling,  while thermally activated behavior motivates alternatives. No single signature is universal.",
+        "wer": 0.0,
+        "exact_word_anchors": 37,
+        "caption_words": 37,
+        "file": "narration\\neural\\26_00_e9dc9462df2e6e2c842529e4.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 16.4,
+        "duration": 13.27,
+        "text": "Report parameter uncertainty, measurement limits, model assumptions, and what observation would make you change your explanation. Confidence grows from consistent evidence across conditions, rather than from one successful fit.",
+        "asr": "Report parameter uncertainty, measurement limits, model assumptions, and what observation would  make you change your explanation. Confidence grows from consistent evidence across conditions  rather than from one successful fit.",
+        "wer": 0.0,
+        "exact_word_anchors": 29,
+        "caption_words": 29,
+        "file": "narration\\neural\\26_01_073027c6e6819520319d4828.wav"
+      }
+    ]
+  },
+  {
+    "index": 27,
+    "title": "Your turn: calculate and investigate",
+    "focus": "Predict → compute → test → explain → revise.",
+    "kind": "sweep",
+    "duration": 29.833333333333332,
+    "text": "Open the companion laboratory. Predict first, change the parameters, and compare analytical and numerical results. Then design an experiment for an unfamiliar interface. Submit your own explanations, code, uncertainty analysis, and reflection. Completing a quiz is practice, not proof of understanding. The goal is to make a defensible scientific judgment and know where your model ends. Connect a physical assumption, a numerical check, and a measurement that could change your conclusion.",
+    "chapter": 6,
+    "start": 684.2,
+    "speech_end": 713.36,
+    "voice_profile": "chatterbox_warm",
+    "engine": "chatterbox",
+    "chunks": [
+      {
+        "chunk": 0,
+        "start": 0.22,
+        "duration": 14.94,
+        "text": "Open the companion laboratory. Predict first, change the parameters, and compare analytical and numerical results. Then design an experiment for an unfamiliar interface. Submit your own explanations, code, uncertainty analysis, and reflection.",
+        "asr": "Open the companion laboratory. Predict first, change the parameters, and compare analytical and numerical results.  Then design an experiment for an unfamiliar interface. Submit your own explanations, code, uncertainty analysis, and reflection.",
+        "wer": 0.0,
+        "exact_word_anchors": 32,
+        "caption_words": 32,
+        "file": "narration\\neural\\27_00_a2496e4173ea586bfd342bed.wav"
+      },
+      {
+        "chunk": 1,
+        "start": 15.38,
+        "duration": 13.78,
+        "text": "Completing a quiz is practice, not proof of understanding. The goal is to make a defensible scientific judgment and know where your model ends. Connect a physical assumption, a numerical check, and a measurement that could change your conclusion.",
+        "asr": "Completing a quiz is practice, not proof of understanding.  The goal is to make a defensible scientific judgment and know where your model ends.  Connect a physical assumption, a numerical check, and a measurement that could change your conclusion.",
+        "wer": 0.0,
+        "exact_word_anchors": 39,
+        "caption_words": 39,
+        "file": "narration\\neural\\27_01_ff23ebff9830337dd8d3a52e.wav"
+      }
+    ]
+  }
+]

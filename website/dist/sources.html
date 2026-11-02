@@ -1,0 +1,30 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sources — Quantum Lab</title><link rel="stylesheet" href="style.css"></head><body><header><a class="brand" href="index.html">ψ / APPLIED QUANTUM LAB</a><a href="index.html">Back to the course ↗</a></header><main class="document"><h1>Sources, licenses and verification boundaries</h1>
+<h2>Scientific references</h2>
+<ul>
+<li><a href="https://openstax.org/books/university-physics-volume-3/pages/7-6-the-quantum-tunneling-of-particles-through-potential-barriers">OpenStax University Physics Volume 3, 7.6: Quantum Tunneling</a>: finite-barrier physics and transmission. The course equations and animations are original implementations, with results independently cross-checked numerically.</li>
+<li><a href="https://physics.nist.gov/cuu/Constants/">NIST CODATA fundamental constants</a>: free-electron mass and reduced Planck constant. The code states the numerical constants and their precision; electron volt conversion is exact in SI.</li>
+<li><a href="https://www.nobelprize.org/prizes/physics/1986/summary/">Nobel Prize in Physics 1986</a>: historical STM context. No experimental device dataset is represented as original evidence in this course.</li>
+<li><a href="https://doi.org/10.1103/PhysRevLett.49.57">Binnig, Rohrer, Gerber &amp; Weibel, Surface Studies by Scanning Tunneling Microscopy, Physical Review Letters 49, 57 (1982)</a>: primary experimental STM reference for further reading.</li>
+<li><a href="https://doi.org/10.1103/PhysRevLett.50.1998">Tersoff &amp; Hamann, Theory and Application for the Scanning Tunneling Microscope, Physical Review Letters 50, 1998 (1983)</a>: primary reference on the link between STM current and electronic structure.</li>
+</ul>
+<p>The lossless stationary rectangular-barrier calculation is not a realistic full device-current model. Identical asymptotic potentials and masses are essential to the simple T=|t|² relation. The wave curves are scattering-state amplitudes, not particle trajectories. Parameter-sweep animations compare stationary solutions rather than modeling physical wall motion. Synthetic notebook data are explicitly labelled.</p>
+<h2>Platform references checked for this build</h2>
+<ul>
+<li><a href="https://support.google.com/youtube/answer/7124474?hl=en">YouTube native quizzes help</a></li>
+<li><a href="https://h5p.org/node/691">H5P Interactive Video tutorial</a></li>
+<li><a href="https://h5p.com/content-types/interactive-video">H5P Interactive Video content type</a></li>
+<li><a href="https://jupyterlite.readthedocs.io/en/stable/quickstart/deploy.html">JupyterLite GitHub Pages deployment</a></li>
+<li><a href="https://jupyterlite.readthedocs.io/en/stable/howto/content/files.html">JupyterLite content indexing</a></li>
+<li><a href="https://docs.manim.community/en/stable/">Manim Community documentation</a></li>
+<li><a href="https://github.com/espeak-ng/espeak-ng/releases">Official eSpeak NG releases</a></li>
+</ul>
+<p>These platforms can change. Follow their current controls and destination-host policy. Source code and manifests are authoritative for the local build's pinned versions.</p>
+<h2>Licensing</h2>
+<p>Original code: MIT, see <code>LICENSE</code>. Original lesson text, assessments, thumbnail and rendered educational visuals: CC BY 4.0, see <code>CONTENT_LICENSE.md</code>. Suggested attribution: “Can an Electron Pass Through a Wall? — Applied Quantum Lab, 2026; CC BY 4.0.” You may replace that credit with the final publication's author credit while retaining any third-party notices.</p>
+<p>The neural upgrade uses <strong>Chatterbox TTS</strong> as the primary local speech model (MIT), with <strong>Kokoro-82M</strong> and its official <code>af_heart</code> voicepack as the fallback (Apache 2.0). No named individual's voice recording is cloned. See <code>docs/neural-narration.md</code>, the saved upstream license notices in <code>docs/tts-licenses</code>, and the actual selected-engine record in <code>outputs/neural-narration-report.json</code>. The earlier eSpeak NG 1.52.0 narration is retained only as an archived baseline. Kokoro can use eSpeak NG (GPL) for phonemization; it does not use the old eSpeak narration audio. This project does not include third-party music, stock photos or copied illustrations. Fonts are system-rendered; font binaries are not distributed. Matplotlib, NumPy, SciPy, Manim, Pyodide and JupyterLite retain their upstream licenses; see installed package metadata and the JupyterLite build's license notices.</p>
+<p><code>tools/</code> is a local build cache, not part of the distributable source. To redistribute an engine binary or vendor other dependencies, also provide their required license/source notices. Downloading dependencies from the recorded official sources is the default reproducible setup.</p>
+<h2>Public course and verification</h2>
+<p>The lecture is hosted on <a href="https://youtu.be/WCA_t3ttAAI">YouTube</a>, and the <a href="https://github.com/ph7klw76/quantum-tunneling-course">source repository</a> contains the workflow and test reports. Native H5P and HTML exports are in the <a href="h5p-guide.html">lesson guide</a>. H5P bundles preserve upstream notices; see <code>h5p/THIRD_PARTY.md</code> in the repository.</p>
+<p>The local neural lecture was verified at 1920×1080, 30 fps, with 193 measured subtitle cues and all 28 scene slots synchronized. Its selected engine is Chatterbox (<code>chatterbox_warm</code>). Local WAV/MP4 masters and model caches are excluded from GitHub. Workflow run logs show the actual outcome for each published revision.</p>
+<p>JupyterLite initializes a real browser Python runtime and downloads public packages on first use. YouTube playback requires access to YouTube. Standalone H5P practice, subtitles and the notebook download provide alternative paths. GitHub Pages does not provide a gradebook; import the native package into your LMS for account-linked reporting.</p>
+</main></body></html>

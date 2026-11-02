@@ -1,0 +1,7 @@
+{
+  "LiteBuildConfig": {
+    "contents": ["files"],
+    "output_dir": "../website/dist/lab",
+    "ignore_sys_prefix": false
+  }
+}

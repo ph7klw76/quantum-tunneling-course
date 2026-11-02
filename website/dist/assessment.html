@@ -1,0 +1,77 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Assessment — Quantum Lab</title><link rel="stylesheet" href="style.css"></head><body><header><a class="brand" href="index.html">ψ / APPLIED QUANTUM LAB</a><a href="index.html">Back to the course ↗</a></header><main class="document"><h1>Assess understanding, not just completion</h1>
+<p>Five separate outcomes are graded below. Use new explanations and notebook work, not copied quiz feedback. Suggested sequence: pretest before the lesson; posttest after independent lab work; delayed assessment after 14 days without rewatching first; transfer problem last. Collect confidence (0–100%) with each conceptual answer and compare calibration later. The tasks are educational instruments, not psychometrically validated tests.</p>
+<h2>Pretest (15 minutes; retain the original answers)</h2>
+<ol>
+<li><strong>Concept:</strong> An electron with E below a finite barrier is sometimes detected beyond it. Explain what a wavefunction predicts and whether its curve is the electron's path. State your confidence.</li>
+<li><strong>Mathematics:</strong> Write the stationary 1D Schrödinger equation. Identify units of E, V, x and kappa. Which quantities match at a finite constant-mass interface, and why?</li>
+<li><strong>Computation:</strong> Describe an independent check for code that returns T. Is setting R=1−T a sufficient conservation test? Explain.</li>
+<li><strong>Evidence:</strong> A device passes a small current through a nominal insulator. Give two possible mechanisms and one discriminating measurement.</li>
+<li><strong>Judgment:</strong> A fit returns one barrier height. Name two assumptions or uncertainties that limit interpreting it as a material property.</li>
+</ol>
+<h2>Posttest (30 minutes plus notebook submission)</h2>
+<ol>
+<li><strong>Concept:</strong> At the default parameters, T=0.142362. Predict the expected transmitted count and standard deviation for 10,000 independent electrons. Explain what happens to total energy. Distinguish density, amplitude and current.</li>
+<li><strong>Mathematics:</strong> Starting from the exponential and plane-wave solutions, write all four interface equations. Show why T=|t|² only for the identical-lead case; give the velocity-ratio correction when the leads differ. Calculate kappa in nm⁻¹ and T at a=0.90 nm with a dimensional check.</li>
+<li><strong>Computation:</strong> Submit the completed lab with changed parameters, your repaired unit-error model, exact/ODE comparison, tolerance study, a boundary residual and a current-conservation check. Explain the purpose of each check and one numerical limitation.</li>
+<li><strong>Evidence:</strong> An STM contrast feature changes with bias while geometric conditions are controlled. Explain why contrast cannot be interpreted as topography alone. Design a further observation and predict what two candidate explanations would imply.</li>
+<li><strong>Judgment:</strong> Current is exponential in nominal thickness but the morphology changes with thickness. Evaluate the causal claim “this proves direct tunneling.” Discuss confounding, uncertainty and a result that would reduce your confidence.</li>
+</ol>
+<h2>Delayed retention assessment (14 days; 20 minutes)</h2>
+<ol>
+<li>Sketch and label a stationary scattering state at a finite barrier from memory. Explain why its density is constant in time but the real part need not be.</li>
+<li>Derive the dimensions and energy dependence of kappa. Explain when an exponential approximation is justified and when you would use the exact result.</li>
+<li>Recreate a minimal calculation of T in a blank notebook. Include an independently evaluated R or numerical comparison; then explain one test failure you intentionally induce and fix.</li>
+<li>Propose a temperature/thickness/bias study and name one confound in each sweep.</li>
+<li>Revisit your pretest confidence. Identify an assumption you now check and a remaining question. Record learning changes separately from scoring.</li>
+</ol>
+<h2>Unfamiliar transfer problem</h2>
+<p>An organic/oxide interface has an estimated carrier effective mass 0.20 m_e, nominal thickness 0.8±0.1 nm, and a triangular barrier under bias. Two transport models fit its room-temperature current equally well: elastic tunneling and activated trap transport with unknown activation energy.</p>
+<p>Submit: (a) the scaling of kappa with a justified constant effective mass and the interface-matching assumptions; (b) a numerical design for the triangular barrier with convergence and current checks; (c) temperature, thickness and bias measurement plans including leakage and morphology controls; (d) competing predicted trends, not merely a list of techniques; (e) uncertainty propagation or a sensitivity study for thickness and mass; and (f) an argument about parameter identifiability, additional data needed and what could falsify your preferred explanation. You may consult sources but must cite them and provide original work.</p>
+<p>For thickness sensitivity, if the opaque-barrier approximation applies, d ln(T)/da≈−2 kappa. Explain why uncertain width can produce substantial uncertainty in inferred height. The 1D free-electron rectangular formula does not by itself solve the proposed interface.</p>
+<h2>Separate analytic rubric (0–4 for each outcome; report all five scores)</h2>
+<table>
+<thead>
+<tr>
+  <th>Outcome</th>
+  <th>4: defensible independent work</th>
+  <th>2: partial understanding</th>
+  <th>0: absent or fundamentally incorrect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Concept</td>
+  <td>Distinguishes state, density, current and detection; preserves energy and avoids trajectory claims</td>
+  <td>Correct terms but confused interpretation</td>
+  <td>Classical-path or energy-loan explanation</td>
+</tr>
+<tr>
+  <td>Mathematics</td>
+  <td>Consistent units, boundary equations and current ratios; justified approximations</td>
+  <td>Mostly correct result with a missing assumption</td>
+  <td>Inconsistent dimensions or conditions</td>
+</tr>
+<tr>
+  <td>Computation</td>
+  <td>Reproducible original code, independent check, convergence and error diagnosis</td>
+  <td>Working calculation with limited checks</td>
+  <td>No executable work or unexplained copied result</td>
+</tr>
+<tr>
+  <td>Evidence</td>
+  <td>Compares explicit competing predictions and informative controls</td>
+  <td>Names alternatives but weak discriminating test</td>
+  <td>Treats a single current/trend as proof</td>
+</tr>
+<tr>
+  <td>Judgment</td>
+  <td>Quantifies sensitivity/uncertainty, discusses identifiability and revision criteria</td>
+  <td>Lists limitations without implications</td>
+  <td>Claims unique mechanism/material parameter without support</td>
+</tr>
+</tbody>
+</table>
+<p>Use 1 and 3 for intermediate performance. Suggested mastery: at least 3 in <strong>each</strong> outcome plus a corrected explanation of any energy-conservation or trajectory misconception. Quiz scores inform remediation but do not replace these five judgments. Use blinded marking and a second marker for research comparisons when practical; report pre/post changes, attrition and uncertainty without claiming the lesson caused improvements from an uncontrolled cohort.</p>
+<h2>Instructor reference points (release after submission)</h2>
+<p>Default: kappa=3.622626 nm⁻¹; T=0.142361995; R=0.857638005. For N=10,000: mean≈1423.62, binomial standard deviation≈34.94. At a=0.90 nm: T≈0.00587308; ratio to default≈0.0412546. Constant mass: match psi and psi′. For distinct leads, T=(v_right/v_left)|t|² with the same incident amplitude convention; effective-mass interfaces require a suitable Hamiltonian and matching law. Thin-barrier exponential estimates are not exact. Exponential thickness trends and weak temperature dependence can support a direct-tunneling account in a controlled regime but do not uniquely establish it.</p>
+</main></body></html>

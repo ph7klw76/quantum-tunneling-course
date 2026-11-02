@@ -1,0 +1,5 @@
+source,host,context,playback,pause_feedback_retry,remediation,summary_reporting,notes
+YouTube,not connected,desktop student,NOT RUN,NOT RUN,NOT RUN,NOT RUN,Requires published URL and actual H5P host
+YouTube,not connected,phone student,NOT RUN,NOT RUN,NOT RUN,NOT RUN,Requires published URL and actual H5P host
+Uploaded MP4,not connected,desktop student,NOT RUN,NOT RUN,NOT RUN,NOT RUN,Use supplied MP4 and subtitle tracks
+Uploaded MP4,not connected,phone student,NOT RUN,NOT RUN,NOT RUN,NOT RUN,Verify controls fit and score submission

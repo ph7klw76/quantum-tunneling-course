@@ -1,0 +1,708 @@
+WEBVTT
+
+00:00.220 --> 00:02.120
+Can an electron pass through a wall?
+
+00:02.680 --> 00:05.260
+For a carefully defined potential barrier,
+yes.
+
+00:06.020 --> 00:10.320
+Today we will calculate the probability, test
+our calculation, and ask what evidence
+
+00:10.320 --> 00:11.960
+could actually support that conclusion.
+
+00:12.620 --> 00:17.840
+Imagine a finite potential barrier: a wall in
+an energy diagram, rather than an
+
+00:17.840 --> 00:18.780
+everyday brick wall.
+
+00:19.920 --> 00:22.820
+Our electron has half an electron volt of
+energy.
+
+00:23.360 --> 00:27.740
+The barrier is one electron volt high and zero
+point four five nanometers wide.
+
+00:28.520 --> 00:31.680
+Classically, the electron cannot reach the
+top, so it returns.
+
+00:32.460 --> 00:36.720
+We use zero potential outside, so the total
+energy there is kinetic energy.
+
+00:37.920 --> 00:38.980
+Pause and predict.
+
+00:39.740 --> 00:43.800
+In quantum mechanics, must the transmission
+probability also be exactly zero?
+
+00:44.640 --> 00:46.140
+Choose your answer before continuing.
+
+00:46.600 --> 00:49.320
+Explain which assumption of the classical
+picture you are using.
+
+00:56.387 --> 00:59.327
+Quantum mechanics describes a state using a
+wavefunction.
+
+00:59.927 --> 01:03.847
+A finite barrier can support a nonzero
+transmitted probability current.
+
+01:04.427 --> 01:08.847
+This does not mean the electron secretly
+climbs over the barrier, or follows the curve
+
+01:08.847 --> 01:09.427
+drawn here.
+
+01:09.867 --> 01:14.947
+Detection beyond the barrier is an outcome;
+transmission predicts how often we expect
+
+01:14.947 --> 01:15.207
+it.
+
+01:16.220 --> 01:21.340
+The cyan curve is the real part of a
+stationary scattering wavefunction, multiplied
+by
+
+01:21.340 --> 01:22.540
+its time dependent phase.
+
+01:23.260 --> 01:24.940
+Gold shows its probability density.
+
+01:25.480 --> 01:27.400
+The density is time independent here.
+
+01:27.840 --> 01:32.560
+A single detection is localized, while these
+curves describe the statistics of many
+
+01:32.560 --> 01:34.160
+identically prepared measurements.
+
+01:34.840 --> 01:39.320
+Changing the phase changes the real part,
+while a stationary probability density stays
+
+01:39.320 --> 01:39.640
+fixed.
+
+01:41.220 --> 01:44.520
+On the left, an incoming wave and a reflected
+wave overlap.
+
+01:45.100 --> 01:46.920
+Their interference makes the density ripple.
+
+01:47.380 --> 01:49.860
+On the right, only an outgoing wave is
+present.
+
+01:50.580 --> 01:55.180
+Our incident amplitude is one, so these
+scattering states are not normalized to one
+
+01:55.180 --> 01:56.020
+over all space.
+
+01:56.620 --> 01:59.300
+Transmission is a ratio of probability
+currents.
+
+01:59.940 --> 02:04.220
+Interference changes the density on the left,
+while the net probability current remains
+
+02:04.220 --> 02:04.720
+constant.
+
+02:06.220 --> 02:07.220
+Pause and predict.
+
+02:07.860 --> 02:11.420
+At each edge of this finite barrier, which
+quantities must be continuous?
+
+02:11.940 --> 02:12.900
+The wavefunction alone?
+
+02:13.360 --> 02:14.960
+The wavefunction and its spatial derivative?
+
+02:15.460 --> 02:16.440
+Or the potential itself?
+
+02:17.060 --> 02:20.500
+Our model has a constant electron mass and no
+delta function potential.
+
+02:21.130 --> 02:22.910
+Keep those assumptions in your reasoning.
+
+02:31.220 --> 02:35.560
+Both the wavefunction and its first spatial
+derivative are continuous at each edge.
+
+02:36.300 --> 02:39.360
+There are four matching equations for four
+unknown amplitudes.
+
+02:39.960 --> 02:41.300
+The potential may jump.
+
+02:41.800 --> 02:46.080
+For interfaces described by different
+effective masses, the matching law needs a
+
+02:46.080 --> 02:50.240
+suitable effective mass model; do not copy
+these conditions without checking its
+
+02:50.240 --> 02:50.660
+assumptions.
+
+02:51.520 --> 02:55.600
+Integrating the equation across a shrinking
+interval gives the derivative condition for
+
+02:55.600 --> 02:56.420
+a finite step.
+
+02:57.553 --> 03:01.933
+The time independent Schrödinger equation
+relates the curvature of the wavefunction to
+
+03:01.933 --> 03:04.333
+the difference between potential and total
+energy.
+
+03:05.133 --> 03:08.553
+Here, h-bar is Planck's constant divided by
+two pi.
+
+03:09.213 --> 03:11.613
+Outside the barrier the solutions oscillate.
+
+03:12.013 --> 03:16.753
+Inside, where the energy is lower than the
+potential, the solutions are exponentials.
+
+03:17.573 --> 03:20.573
+The decay constant kappa has units of inverse
+length.
+
+03:21.553 --> 03:25.453
+Notice how the sign of the curvature
+distinguishes the oscillatory and exponential
+
+03:25.453 --> 03:25.933
+regions.
+
+03:27.320 --> 03:32.820
+A finite barrier requires a combination of two
+exponential solutions, not just one
+
+03:32.820 --> 03:33.940
+decaying exponential.
+
+03:34.820 --> 03:37.440
+Matching the two interfaces produces the
+transmitted wave.
+
+03:37.960 --> 03:40.720
+In this stationary model total energy is
+conserved.
+
+03:41.090 --> 03:45.990
+The electron does not borrow energy, and the
+uncertainty principle is not a license to
+
+03:45.990 --> 03:47.350
+violate energy conservation.
+
+03:48.430 --> 03:52.790
+The complex coefficients of those exponentials
+together allow a conserved current
+
+03:52.790 --> 03:53.630
+inside the barrier.
+
+03:55.320 --> 03:59.735
+Suppose the calculated transmission
+coefficient is about zero point one four.
+
+04:00.000 --> 04:03.080
+Does that mean every electron loses fourteen
+percent of its energy?
+
+04:03.580 --> 04:07.220
+Or that around fourteen percent of a large
+incident ensemble is transmitted?
+
+04:07.920 --> 04:10.700
+Predict an outcome for ten thousand
+independent electrons.
+
+04:11.290 --> 04:14.090
+Include the fact that a finite count will
+fluctuate.
+
+04:22.320 --> 04:26.480
+The exact expression on screen gives about
+zero point one four for our default
+
+04:26.480 --> 04:27.000
+parameters.
+
+04:27.680 --> 04:31.820
+Roughly fourteen hundred of ten thousand
+incident electrons are expected to transmit,
+
+04:31.820 --> 04:33.500
+with statistical fluctuations.
+
+04:34.220 --> 04:39.040
+Equal potentials and equal masses on both
+sides mean the transmitted amplitude squared
+
+04:39.040 --> 04:40.160
+equals transmission.
+
+04:40.940 --> 04:43.880
+Reflected and transmitted currents add to the
+incident current.
+
+04:44.400 --> 04:46.780
+An individual trial gives one detection
+outcome.
+
+04:47.340 --> 04:50.480
+Repeating the preparation makes the
+probability prediction testable.
+
+04:51.587 --> 04:54.867
+Now hold energy and barrier height fixed while
+changing width.
+
+04:55.667 --> 04:58.887
+Notice how the outgoing amplitude shrinks as
+the barrier thickens.
+
+04:59.347 --> 05:03.047
+The wavefunction is calculated by matching
+both interfaces each time.
+
+05:03.527 --> 05:08.687
+The animation changes the model between
+stationary solutions; it is not a simulation
+of
+
+05:08.687 --> 05:10.807
+a moving wall or an electron trajectory.
+
+05:11.567 --> 05:15.957
+At a quarter nanometer, transmission is about
+forty eight percent; at zero point six
+
+05:15.957 --> 05:17.927
+five, about three and a half percent.
+
+05:19.120 --> 05:23.720
+When kappa times width is large, transmission
+falls approximately exponentially with
+
+05:23.720 --> 05:24.020
+width.
+
+05:24.500 --> 05:26.920
+The prefactor still depends on energy and
+height.
+
+05:27.500 --> 05:30.360
+Use the exact expression when the barrier is
+not opaque.
+
+05:30.900 --> 05:36.160
+Taking a logarithm turns the approximate
+exponential trend into a line, which is useful
+
+05:36.160 --> 05:37.320
+when designing measurements.
+
+05:38.260 --> 05:42.500
+The factor of two in the exponent comes from
+squaring the magnitude of an amplitude.
+
+05:44.120 --> 05:45.120
+Pause and predict.
+
+05:45.780 --> 05:49.860
+At fixed energy and height, does doubling
+barrier width simply cut transmission in
+
+05:49.860 --> 05:50.100
+half?
+
+05:50.800 --> 05:52.920
+Or can it reduce transmission much more
+strongly?
+
+05:53.700 --> 05:56.500
+Write the ratio you would calculate using the
+exact formula.
+
+05:57.040 --> 06:01.100
+Do not assume the exponential approximation is
+exact for the thinner barrier.
+
+06:09.120 --> 06:14.300
+For widths zero point four five and zero point
+nine nanometers, transmission drops from
+
+06:14.300 --> 06:17.400
+about fourteen percent to about zero point six
+percent.
+
+06:17.400 --> 06:22.260
+In the laboratory, compare the closed form
+with independent differential equation
+
+06:22.260 --> 06:22.760
+integration.
+
+06:23.420 --> 06:26.420
+Also check continuity and constant probability
+current.
+
+06:27.040 --> 06:31.780
+Defining reflection as one minus transmission
+alone would not independently test
+
+06:31.780 --> 06:32.420
+conservation.
+
+06:33.300 --> 06:35.840
+Two implementations can share the same unit
+error.
+
+06:36.440 --> 06:39.280
+That is why dimensions and limiting cases also
+matter.
+
+06:40.453 --> 06:44.633
+Raising energy toward the barrier height
+increases transmission in this below barrier
+
+06:44.633 --> 06:45.053
+model.
+
+06:45.393 --> 06:48.653
+But do not extrapolate this equation past its
+stated domain.
+
+06:49.273 --> 06:53.453
+At or above the barrier, use the correct
+limiting expression or the oscillatory
+
+06:53.453 --> 06:53.873
+solution.
+
+06:54.463 --> 06:59.463
+As the energy gap shrinks, the decay length
+grows, allowing more amplitude to reach the
+
+06:59.463 --> 06:59.763
+exit.
+
+07:00.953 --> 07:05.893
+A higher barrier increases the decay constant
+and reduces transmission for these fixed
+
+07:05.893 --> 07:06.413
+parameters.
+
+07:07.373 --> 07:09.993
+Width, height, and effective mass all matter.
+
+07:10.713 --> 07:14.933
+In an actual device, voltage can change the
+barrier shape as well as the occupied
+
+07:14.933 --> 07:15.773
+electron energies.
+
+07:16.403 --> 07:21.203
+Always convert the energy and length units
+consistently before evaluating an
+
+07:21.203 --> 07:21.663
+exponential.
+
+07:22.920 --> 07:23.880
+Pause and predict.
+
+07:24.680 --> 07:27.620
+Does tunneling require the electron to borrow
+extra energy?
+
+07:28.480 --> 07:32.700
+Check your answer against our time independent
+equation, which has one fixed total
+
+07:32.700 --> 07:34.000
+energy on both sides.
+
+07:34.640 --> 07:37.900
+The wave inside the barrier does not describe
+a classical trajectory.
+
+07:45.020 --> 07:46.740
+No energy loan is required.
+
+07:47.340 --> 07:52.620
+For our static, elastic, lossless barrier,
+transmitted and reflected electrons have the
+
+07:52.620 --> 07:55.220
+same total energy as the incident electrons.
+
+07:55.980 --> 07:59.040
+Interactions that exchange energy require a
+richer model.
+
+07:59.520 --> 08:04.080
+The decaying amplitude is compatible with one
+conserved energy throughout this elastic
+
+08:04.080 --> 08:05.040
+scattering problem.
+
+08:06.187 --> 08:10.927
+In scanning tunneling microscopy, a conducting
+tip approaches a conducting sample.
+
+08:11.567 --> 08:15.207
+A small bias allows a net tunneling current
+across the vacuum gap.
+
+08:15.687 --> 08:20.767
+Because transmission is sensitive to
+separation, a feedback loop can adjust tip
+height
+
+08:20.767 --> 08:24.587
+to maintain a chosen current as the tip scans
+across the surface.
+
+08:25.427 --> 08:29.247
+The tip can carry a current without touching
+the sample: that is the practical
+
+08:29.247 --> 08:29.767
+opportunity.
+
+08:33.187 --> 08:37.067
+The resulting image is not simply a photograph
+of hard atomic surfaces.
+
+08:37.727 --> 08:42.347
+The current depends on electronic states,
+bias, and tip properties as well as
+
+08:42.347 --> 08:42.707
+separation.
+
+08:43.397 --> 08:47.877
+Our rectangular barrier captures a useful
+sensitivity, but a realistic current
+
+08:47.877 --> 08:52.817
+calculation must include occupied states,
+empty states, and the energy window selected
+
+08:52.817 --> 08:53.477
+by the bias.
+
+08:54.197 --> 08:58.477
+An apparent hill in a current map can
+therefore reflect electronic structure as well
+as
+
+08:58.477 --> 08:58.777
+geometry.
+
+09:00.087 --> 09:01.127
+Pause and predict.
+
+09:01.847 --> 09:05.547
+If the current doubles in your measurement,
+has the surface height necessarily doubled?
+
+09:06.167 --> 09:10.647
+Consider a different tip, a change of local
+electronic states, and a different bias.
+
+09:11.027 --> 09:15.167
+Which controlled comparisons would help
+distinguish geometry from electronic contrast?
+
+09:15.797 --> 09:18.217
+Write a prediction before you reveal the
+feedback.
+
+09:26.087 --> 09:28.687
+No simple doubling rule connects current and
+height.
+
+09:29.447 --> 09:34.107
+Semiconductor oxides and organic electronic
+interfaces also have complicated transport:
+
+09:34.887 --> 09:39.267
+direct tunneling may compete with thermally
+activated injection, hopping, and trap
+
+09:39.267 --> 09:40.167
+assisted processes.
+
+09:40.847 --> 09:46.167
+Effective masses, nonrectangular barriers,
+inelastic scattering, and distributions of
+
+09:46.167 --> 09:48.087
+molecular arrangements can all matter.
+
+09:48.967 --> 09:53.467
+A fitted barrier is a model parameter, not
+automatically a measured material constant.
+
+09:54.017 --> 09:58.957
+In an organic layer, molecular orientation and
+disorder can also change the available
+
+09:58.957 --> 09:59.417
+pathways.
+
+10:00.720 --> 10:05.120
+A small current through a nominally insulating
+layer is evidence of transport, but it
+
+10:05.120 --> 10:07.160
+does not identify a unique mechanism.
+
+10:08.020 --> 10:10.440
+Measure a thickness series and a temperature
+series.
+
+10:11.280 --> 10:14.160
+Control contact area, defects, and instrument
+leakage.
+
+10:14.750 --> 10:19.530
+Compare multiple plausible models and examine
+their residuals, rather than judging only
+
+10:19.530 --> 10:21.210
+whether one curve looks convincing.
+
+10:22.250 --> 10:25.610
+Choose measurements where the competing
+mechanisms make different, observable
+
+10:25.610 --> 10:26.170
+predictions.
+
+10:27.520 --> 10:28.600
+Pause and predict.
+
+10:29.320 --> 10:32.240
+An exponential decrease of current with
+thickness is observed.
+
+10:32.820 --> 10:35.260
+Does that conclusively prove direct tunneling?
+
+10:35.860 --> 10:40.040
+Consider whether defects, thickness dependent
+morphology, or another transport
+
+10:40.040 --> 10:41.980
+mechanism could generate a similar trend.
+
+10:42.500 --> 10:47.020
+State one additional measurement and explain
+what competing predictions it would test.
+
+10:54.087 --> 10:58.307
+The trend supports a tunneling explanation,
+but is not conclusive by itself.
+
+10:59.007 --> 11:02.807
+Weak temperature dependence under controlled
+conditions can strengthen the case for
+
+11:02.807 --> 11:07.387
+direct elastic tunneling, while thermally
+activated behavior motivates alternatives.
+
+11:07.987 --> 11:09.647
+No single signature is universal.
+
+11:10.267 --> 11:14.987
+Report parameter uncertainty, measurement
+limits, model assumptions, and what
+
+11:14.987 --> 11:17.087
+observation would make you change your
+explanation.
+
+11:18.187 --> 11:22.447
+Confidence grows from consistent evidence
+across conditions, rather than from one
+
+11:22.447 --> 11:23.247
+successful fit.
+
+11:24.420 --> 11:25.860
+Open the companion laboratory.
+
+11:26.680 --> 11:31.140
+Predict first, change the parameters, and
+compare analytical and numerical results.
+
+11:31.780 --> 11:34.360
+Then design an experiment for an unfamiliar
+interface.
+
+11:34.980 --> 11:38.960
+Submit your own explanations, code,
+uncertainty analysis, and reflection.
+
+11:39.580 --> 11:42.720
+Completing a quiz is practice, not proof of
+understanding.
+
+11:43.440 --> 11:47.720
+The goal is to make a defensible scientific
+judgment and know where your model ends.
+
+11:48.360 --> 11:52.400
+Connect a physical assumption, a numerical
+check, and a measurement that could change
+
+11:52.400 --> 11:52.960
+your conclusion.

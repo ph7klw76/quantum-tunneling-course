@@ -1,0 +1,1140 @@
+{
+  "interactiveVideo": {
+    "video": {
+      "startScreenOptions": {
+        "title": "Quantum Tunneling — Can an Electron Pass Through a Wall?",
+        "hideStartTitle": false,
+        "shortStartDescription": "Predict, calculate, and explain. Seven questions pause the lecture; review jumps help you revise your reasoning."
+      },
+      "textTracks": {
+        "videoTrack": [
+          {
+            "label": "English",
+            "kind": "subtitles",
+            "srcLang": "en",
+            "track": {
+              "path": "subtitles/lecture.vtt",
+              "mime": "text/vtt"
+            }
+          }
+        ],
+        "defaultTrackLabel": "English"
+      },
+      "files": [
+        {
+          "path": "https://www.youtube.com/watch?v=WCA_t3ttAAI",
+          "mime": "video/YouTube",
+          "copyright": {
+            "license": "CC BY",
+            "licenseVersion": "4.0"
+          }
+        }
+      ]
+    },
+    "assets": {
+      "interactions": [
+        {
+          "duration": {
+            "from": 50.0,
+            "to": 56.0
+          },
+          "pause": true,
+          "displayType": "poster",
+          "buttonOnMobile": true,
+          "label": "Q1",
+          "x": 5,
+          "y": 8,
+          "width": 90,
+          "height": 80,
+          "libraryTitle": "Multiple Choice",
+          "action": {
+            "library": "H5P.MultiChoice 1.16",
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "text": "<p>Yes, because every electron is a classical ball.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>No; a finite barrier can transmit probability current.</p>",
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>Only if the electron borrows energy.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory.",
+                    "notChosenFeedback": ""
+                  }
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100,
+                  "feedback": "A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory."
+                }
+              ],
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "single",
+                "singlePoint": false,
+                "randomAnswers": false,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Must transmission vanish when E < V0?</p>"
+            },
+            "subContentId": "cda984cd-8c0d-5a75-a0e0-9fe9cd2565aa",
+            "metadata": {
+              "title": "Q1 — Must transmission vanish when E < V0?",
+              "contentType": "H5P.MultiChoice",
+              "license": "CC BY",
+              "licenseVersion": "4.0",
+              "authors": [
+                {
+                  "name": "Applied Quantum Lab",
+                  "role": "Author"
+                }
+              ]
+            }
+          },
+          "adaptivity": {
+            "wrong": {
+              "seekTo": 0,
+              "allowOptOut": true,
+              "message": "Review the explanation, then return to this question.",
+              "seekLabel": "Review explanation"
+            },
+            "requireCompletion": false
+          },
+          "visuals": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "boxShadow": true
+          }
+        },
+        {
+          "duration": {
+            "from": 144.0,
+            "to": 150.0
+          },
+          "pause": true,
+          "displayType": "poster",
+          "buttonOnMobile": true,
+          "label": "Q2",
+          "x": 5,
+          "y": 8,
+          "width": 90,
+          "height": 80,
+          "libraryTitle": "Multiple Choice",
+          "action": {
+            "library": "H5P.MultiChoice 1.16",
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "text": "<p>Only the potential.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>Only the wavefunction.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>The wavefunction and its first derivative.</p>",
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>The second derivative must always match.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
+                    "notChosenFeedback": ""
+                  }
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100,
+                  "feedback": "Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model."
+                }
+              ],
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "single",
+                "singlePoint": false,
+                "randomAnswers": false,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>What is continuous at a finite step with constant mass?</p>"
+            },
+            "subContentId": "7477ceb5-a22d-5719-8a5c-76d106cac819",
+            "metadata": {
+              "title": "Q2 — What is continuous at a finite step with constant mass?",
+              "contentType": "H5P.MultiChoice",
+              "license": "CC BY",
+              "licenseVersion": "4.0",
+              "authors": [
+                {
+                  "name": "Applied Quantum Lab",
+                  "role": "Author"
+                }
+              ]
+            }
+          },
+          "adaptivity": {
+            "wrong": {
+              "seekTo": 76.0,
+              "allowOptOut": true,
+              "message": "Review the explanation, then return to this question.",
+              "seekLabel": "Review explanation"
+            },
+            "requireCompletion": false
+          },
+          "visuals": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "boxShadow": true
+          }
+        },
+        {
+          "duration": {
+            "from": 255.0,
+            "to": 261.0
+          },
+          "pause": true,
+          "displayType": "poster",
+          "buttonOnMobile": true,
+          "label": "Q3",
+          "x": 5,
+          "y": 8,
+          "width": 90,
+          "height": 80,
+          "libraryTitle": "Multiple Choice",
+          "action": {
+            "library": "H5P.MultiChoice 1.16",
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "text": "<p>Exactly 1,424 electrons in every trial.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>An expected count near 1,424, with fluctuations.</p>",
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>Each electron loses 14.24% of its energy.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved.",
+                    "notChosenFeedback": ""
+                  }
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100,
+                  "feedback": "Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved."
+                }
+              ],
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "single",
+                "singlePoint": false,
+                "randomAnswers": false,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>T = 0.1424 predicts what for 10,000 incident electrons?</p>"
+            },
+            "subContentId": "444e4599-e0b7-5fa3-ba0b-43c5601444af",
+            "metadata": {
+              "title": "Q3 — T = 0.1424 predicts what for 10,000 incident electrons?",
+              "contentType": "H5P.MultiChoice",
+              "license": "CC BY",
+              "licenseVersion": "4.0",
+              "authors": [
+                {
+                  "name": "Applied Quantum Lab",
+                  "role": "Author"
+                }
+              ]
+            }
+          },
+          "adaptivity": {
+            "wrong": {
+              "seekTo": 177.33,
+              "allowOptOut": true,
+              "message": "Review the explanation, then return to this question.",
+              "seekLabel": "Review explanation"
+            },
+            "requireCompletion": false
+          },
+          "visuals": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "boxShadow": true
+          }
+        },
+        {
+          "duration": {
+            "from": 362.0,
+            "to": 368.0
+          },
+          "pause": true,
+          "displayType": "poster",
+          "buttonOnMobile": true,
+          "label": "Q4",
+          "x": 5,
+          "y": 8,
+          "width": 90,
+          "height": 80,
+          "libraryTitle": "Multiple Choice",
+          "action": {
+            "library": "H5P.MultiChoice 1.16",
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "text": "<p>Half the original transmission.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>About 0.00587 transmission.</p>",
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>About 0.2847 transmission.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two.",
+                    "notChosenFeedback": ""
+                  }
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100,
+                  "feedback": "The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two."
+                }
+              ],
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "single",
+                "singlePoint": false,
+                "randomAnswers": false,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>At fixed E = 0.5 eV and V0 = 1 eV, increasing a from 0.45 to 0.90 nm gives:</p>"
+            },
+            "subContentId": "c1c4866e-185b-50e1-9b63-12692dde7f2c",
+            "metadata": {
+              "title": "Q4 — At fixed E = 0.5 eV and V0 = 1 eV, increasing a from 0.45 to 0.90 nm gives:",
+              "contentType": "H5P.MultiChoice",
+              "license": "CC BY",
+              "licenseVersion": "4.0",
+              "authors": [
+                {
+                  "name": "Applied Quantum Lab",
+                  "role": "Author"
+                }
+              ]
+            }
+          },
+          "adaptivity": {
+            "wrong": {
+              "seekTo": 291.37,
+              "allowOptOut": true,
+              "message": "Review the explanation, then return to this question.",
+              "seekLabel": "Review explanation"
+            },
+            "requireCompletion": false
+          },
+          "visuals": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "boxShadow": true
+          }
+        },
+        {
+          "duration": {
+            "from": 459.0,
+            "to": 465.0
+          },
+          "pause": true,
+          "displayType": "poster",
+          "buttonOnMobile": true,
+          "label": "Q5",
+          "x": 5,
+          "y": 8,
+          "width": 90,
+          "height": 80,
+          "libraryTitle": "Multiple Choice",
+          "action": {
+            "library": "H5P.MultiChoice 1.16",
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "text": "<p>Yes, for a short enough time.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>No; total energy stays conserved.</p>",
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>Yes, if the transmitted wave is small.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation.",
+                    "notChosenFeedback": ""
+                  }
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100,
+                  "feedback": "The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation."
+                }
+              ],
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "single",
+                "singlePoint": false,
+                "randomAnswers": false,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Does a static lossless barrier require an energy loan?</p>"
+            },
+            "subContentId": "90d66250-be45-5424-96cb-d7a6e4ce227a",
+            "metadata": {
+              "title": "Q5 — Does a static lossless barrier require an energy loan?",
+              "contentType": "H5P.MultiChoice",
+              "license": "CC BY",
+              "licenseVersion": "4.0",
+              "authors": [
+                {
+                  "name": "Applied Quantum Lab",
+                  "role": "Author"
+                }
+              ]
+            }
+          },
+          "adaptivity": {
+            "wrong": {
+              "seekTo": 400.23,
+              "allowOptOut": true,
+              "message": "Review the explanation, then return to this question.",
+              "seekLabel": "Review explanation"
+            },
+            "requireCompletion": false
+          },
+          "visuals": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "boxShadow": true
+          }
+        },
+        {
+          "duration": {
+            "from": 559.0,
+            "to": 565.0
+          },
+          "pause": true,
+          "displayType": "poster",
+          "buttonOnMobile": true,
+          "label": "Q6",
+          "x": 5,
+          "y": 8,
+          "width": 90,
+          "height": 80,
+          "libraryTitle": "Multiple Choice",
+          "action": {
+            "library": "H5P.MultiChoice 1.16",
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "text": "<p>True.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>False; bias, tip and electronic states also matter.</p>",
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>True, because tunneling is linear in distance.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio.",
+                    "notChosenFeedback": ""
+                  }
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100,
+                  "feedback": "Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio."
+                }
+              ],
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "single",
+                "singlePoint": false,
+                "randomAnswers": false,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>Twice the STM current proves twice the surface height.</p>"
+            },
+            "subContentId": "dd1f0269-2525-5ad8-88bd-b7be3cd8e3f6",
+            "metadata": {
+              "title": "Q6 — Twice the STM current proves twice the surface height.",
+              "contentType": "H5P.MultiChoice",
+              "license": "CC BY",
+              "licenseVersion": "4.0",
+              "authors": [
+                {
+                  "name": "Applied Quantum Lab",
+                  "role": "Author"
+                }
+              ]
+            }
+          },
+          "adaptivity": {
+            "wrong": {
+              "seekTo": 485.97,
+              "allowOptOut": true,
+              "message": "Review the explanation, then return to this question.",
+              "seekLabel": "Review explanation"
+            },
+            "requireCompletion": false
+          },
+          "visuals": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "boxShadow": true
+          }
+        },
+        {
+          "duration": {
+            "from": 648.0,
+            "to": 654.0
+          },
+          "pause": true,
+          "displayType": "poster",
+          "buttonOnMobile": true,
+          "label": "Q7",
+          "x": 5,
+          "y": 8,
+          "width": 90,
+          "height": 80,
+          "libraryTitle": "Multiple Choice",
+          "action": {
+            "library": "H5P.MultiChoice 1.16",
+            "params": {
+              "media": {
+                "disableImageZooming": false
+              },
+              "answers": [
+                {
+                  "text": "<p>Yes; no other process can produce that trend.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>No; compare controls and competing mechanisms.</p>",
+                  "correct": true,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons.",
+                    "notChosenFeedback": ""
+                  }
+                },
+                {
+                  "text": "<p>No; quantum mechanics forbids any current.</p>",
+                  "correct": false,
+                  "tipsAndFeedback": {
+                    "tip": "",
+                    "chosenFeedback": "Reconsider the assumptions. The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons.",
+                    "notChosenFeedback": ""
+                  }
+                }
+              ],
+              "overallFeedback": [
+                {
+                  "from": 0,
+                  "to": 100,
+                  "feedback": "The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons."
+                }
+              ],
+              "UI": {
+                "checkAnswerButton": "Check",
+                "submitAnswerButton": "Submit",
+                "showSolutionButton": "Show solution",
+                "tryAgainButton": "Retry",
+                "tipsLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "tipAvailable": "Tip available",
+                "feedbackAvailable": "Feedback available",
+                "readFeedback": "Read feedback",
+                "wrongAnswer": "Wrong answer",
+                "correctAnswer": "Correct answer",
+                "shouldCheck": "Should have been checked",
+                "shouldNotCheck": "Should not have been checked",
+                "noInput": "Please answer before viewing the solution",
+                "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+              },
+              "behaviour": {
+                "enableRetry": true,
+                "enableSolutionsButton": true,
+                "enableCheckButton": true,
+                "type": "single",
+                "singlePoint": false,
+                "randomAnswers": false,
+                "showSolutionsRequiresInput": true,
+                "confirmCheckDialog": false,
+                "confirmRetryDialog": false,
+                "autoCheck": false,
+                "passPercentage": 100,
+                "showScorePoints": true
+              },
+              "confirmCheck": {
+                "header": "Finish ?",
+                "body": "Are you sure you wish to finish ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Finish"
+              },
+              "confirmRetry": {
+                "header": "Retry ?",
+                "body": "Are you sure you wish to retry ?",
+                "cancelLabel": "Cancel",
+                "confirmLabel": "Confirm"
+              },
+              "question": "<p>An exponential thickness trend alone conclusively proves direct tunneling.</p>"
+            },
+            "subContentId": "48603294-b25b-5a9d-9b1b-e5260bf47604",
+            "metadata": {
+              "title": "Q7 — An exponential thickness trend alone conclusively proves direct tunneling.",
+              "contentType": "H5P.MultiChoice",
+              "license": "CC BY",
+              "licenseVersion": "4.0",
+              "authors": [
+                {
+                  "name": "Applied Quantum Lab",
+                  "role": "Author"
+                }
+              ]
+            }
+          },
+          "adaptivity": {
+            "wrong": {
+              "seekTo": 600.5,
+              "allowOptOut": true,
+              "message": "Review the explanation, then return to this question.",
+              "seekLabel": "Review explanation"
+            },
+            "requireCompletion": false
+          },
+          "visuals": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "boxShadow": true
+          }
+        }
+      ],
+      "bookmarks": [
+        {
+          "time": 0,
+          "label": "A wall for a wave"
+        },
+        {
+          "time": 76.0,
+          "label": "Matching the wave"
+        },
+        {
+          "time": 177.33333333333334,
+          "label": "The exact prediction"
+        },
+        {
+          "time": 291.3666666666667,
+          "label": "Width changes everything"
+        },
+        {
+          "time": 400.23333333333335,
+          "label": "Energy and height"
+        },
+        {
+          "time": 485.9666666666667,
+          "label": "From waves to devices"
+        },
+        {
+          "time": 600.5,
+          "label": "Evidence and scientific judgment"
+        }
+      ],
+      "endscreens": [
+        {
+          "time": 713.5,
+          "label": "Review and submit practice answers"
+        }
+      ]
+    },
+    "summary": {
+      "task": {
+        "library": "H5P.Summary 1.10",
+        "params": {
+          "intro": "<p>Choose the statement you can defend for each concept. Then complete the independent investigation.</p>",
+          "summaries": [
+            {
+              "summary": [
+                "<p>A wavefunction predicts measurement statistics, not a particle path.</p>",
+                "<p>The curve is the path of one electron.</p>"
+              ],
+              "tip": {
+                "tip": "Return to the lecture or computational lab to test your reasoning."
+              }
+            },
+            {
+              "summary": [
+                "<p>Match psi and its derivative for this finite constant-mass barrier.</p>",
+                "<p>Only match probability density.</p>"
+              ],
+              "tip": {
+                "tip": "Return to the lecture or computational lab to test your reasoning."
+              }
+            },
+            {
+              "summary": [
+                "<p>Test T and R using independently solved amplitudes.</p>",
+                "<p>Setting R=1-T independently verifies the solver.</p>"
+              ],
+              "tip": {
+                "tip": "Return to the lecture or computational lab to test your reasoning."
+              }
+            },
+            {
+              "summary": [
+                "<p>Exponential thickness dependence alone does not identify a unique mechanism.</p>",
+                "<p>Any exponential trend proves tunneling.</p>"
+              ],
+              "tip": {
+                "tip": "Return to the lecture or computational lab to test your reasoning."
+              }
+            },
+            {
+              "summary": [
+                "<p>Report assumptions and uncertainty when interpreting fitted barriers.</p>",
+                "<p>A fitted barrier is always a unique material constant.</p>"
+              ],
+              "tip": {
+                "tip": "Return to the lecture or computational lab to test your reasoning."
+              }
+            }
+          ],
+          "overallFeedback": {
+            "overallFeedback": []
+          },
+          "solvedLabel": "Progress:",
+          "scoreLabel": "Wrong answers:",
+          "resultLabel": "Your result",
+          "labelCorrect": "Correct.",
+          "labelIncorrect": "Incorrect! Please try again.",
+          "alternativeIncorrectLabel": "Incorrect",
+          "labelCorrectAnswers": "Correct answers.",
+          "tipButtonLabel": "Show tip",
+          "scoreBarLabel": "You got :num out of :total points",
+          "progressText": "Progress :num of :total"
+        },
+        "subContentId": "4b605e16-d930-55aa-bfaf-3143b69b8a75",
+        "metadata": {
+          "title": "Five concept mastery check",
+          "contentType": "H5P.Summary",
+          "license": "CC BY",
+          "licenseVersion": "4.0",
+          "authors": [
+            {
+              "name": "Applied Quantum Lab",
+              "role": "Author"
+            }
+          ]
+        }
+      },
+      "displayAt": 3
+    }
+  },
+  "override": {
+    "autoplay": false,
+    "loop": false,
+    "showBookmarksmenuOnLoad": false,
+    "showRewind10": true,
+    "preventSkippingMode": "none",
+    "deactivateSound": false
+  },
+  "l10n": {
+    "interaction": "Interaction",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute, currently unmuted",
+    "unmute": "Unmute, currently muted",
+    "quality": "Video Quality",
+    "captions": "Captions",
+    "close": "Close",
+    "fullscreen": "Fullscreen",
+    "exitFullscreen": "Exit Fullscreen",
+    "summary": "Open summary dialog",
+    "bookmarks": "Bookmarks",
+    "endscreen": "Submit screen",
+    "defaultAdaptivitySeekLabel": "Continue",
+    "continueWithVideo": "Continue with video",
+    "more": "More player options",
+    "playbackRate": "Playback Rate",
+    "rewind10": "Rewind 10 Seconds",
+    "navDisabled": "Navigation is disabled",
+    "navForwardDisabled": "Navigating forward is disabled",
+    "sndDisabled": "Sound is disabled",
+    "requiresCompletionWarning": "You need to answer all the questions correctly before continuing.",
+    "back": "Back",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "currentTime": "Current time:",
+    "totalTime": "Total time:",
+    "singleInteractionAnnouncement": "Interaction appeared:",
+    "multipleInteractionsAnnouncement": "Multiple interactions appeared.",
+    "videoPausedAnnouncement": "Video is paused",
+    "content": "Content",
+    "answered": "@answered answered",
+    "endcardTitle": "@answered Question(s) answered",
+    "endcardInformation": "You have answered @answered questions, click below to submit your answers.",
+    "endcardInformationOnSubmitButtonDisabled": "You have answered @answered questions.",
+    "endcardInformationNoAnswers": "You have not answered any questions.",
+    "endcardInformationMustHaveAnswer": "You have to answer at least one question before you can submit your answers.",
+    "endcardSubmitButton": "Submit Answers",
+    "endcardSubmitMessage": "Your answers have been submitted!",
+    "endcardTableRowAnswered": "Answered questions",
+    "endcardTableRowScore": "Score",
+    "endcardAnsweredScore": "answered",
+    "endCardTableRowSummaryWithScore": "You got @score out of @total points for the @question that appeared after @minutes minutes and @seconds seconds.",
+    "endCardTableRowSummaryWithoutScore": "You have answered the @question that appeared after @minutes minutes and @seconds seconds.",
+    "videoProgressBar": "Video progress",
+    "howToCreateInteractions": "Play the video to start creating interactions"
+  }
+}

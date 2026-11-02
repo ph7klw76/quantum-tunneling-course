@@ -1,0 +1,82 @@
+name: Test and deploy quantum course
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: pnpm/action-setup@v4
+        with:
+          version: '11.25.0'
+      - run: python -m pip install -r requirements-ci.txt
+      - run: pnpm --dir webtools install --frozen-lockfile
+      - name: Scientific and narration tests
+        run: |
+          python -m unittest discover -s tests -v
+          python scripts/check_course.py
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Build website and JupyterLite
+        env:
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: python scripts/build_pages.py --base-path "$BASE_PATH/"
+      - name: Verify numerical agreement and links
+        run: node scripts/check-site.cjs outputs/physics-fixtures.json outputs/pages
+      - run: pnpm --dir webtools exec playwright install --with-deps chromium
+      - name: Test layouts, H5P and executable browser notebook
+        run: node webtools/test-site.cjs
+      - name: Save verification reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: course-verification
+          path: |
+            outputs/browser
+            outputs/course-checks.json
+            outputs/Quantum_Tunneling_Lab_executed.ipynb
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: outputs/pages
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      page_url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
+  verify-live:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify published site over HTTPS
+        env:
+          SITE_URL: ${{ needs.deploy.outputs.page_url }}
+        run: python scripts/check_live.py

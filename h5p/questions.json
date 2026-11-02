@@ -1,0 +1,620 @@
+[
+  {
+    "media": {
+      "disableImageZooming": false
+    },
+    "answers": [
+      {
+        "text": "<p>Yes, because every electron is a classical ball.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>No; a finite barrier can transmit probability current.</p>",
+        "correct": true,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>Only if the electron borrows energy.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory.",
+          "notChosenFeedback": ""
+        }
+      }
+    ],
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100,
+        "feedback": "A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory."
+      }
+    ],
+    "UI": {
+      "checkAnswerButton": "Check",
+      "submitAnswerButton": "Submit",
+      "showSolutionButton": "Show solution",
+      "tryAgainButton": "Retry",
+      "tipsLabel": "Show tip",
+      "scoreBarLabel": "You got :num out of :total points",
+      "tipAvailable": "Tip available",
+      "feedbackAvailable": "Feedback available",
+      "readFeedback": "Read feedback",
+      "wrongAnswer": "Wrong answer",
+      "correctAnswer": "Correct answer",
+      "shouldCheck": "Should have been checked",
+      "shouldNotCheck": "Should not have been checked",
+      "noInput": "Please answer before viewing the solution",
+      "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+      "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+      "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+    },
+    "behaviour": {
+      "enableRetry": true,
+      "enableSolutionsButton": true,
+      "enableCheckButton": true,
+      "type": "single",
+      "singlePoint": false,
+      "randomAnswers": false,
+      "showSolutionsRequiresInput": true,
+      "confirmCheckDialog": false,
+      "confirmRetryDialog": false,
+      "autoCheck": false,
+      "passPercentage": 100,
+      "showScorePoints": true
+    },
+    "confirmCheck": {
+      "header": "Finish ?",
+      "body": "Are you sure you wish to finish ?",
+      "cancelLabel": "Cancel",
+      "confirmLabel": "Finish"
+    },
+    "confirmRetry": {
+      "header": "Retry ?",
+      "body": "Are you sure you wish to retry ?",
+      "cancelLabel": "Cancel",
+      "confirmLabel": "Confirm"
+    },
+    "question": "<p>Must transmission vanish when E < V0?</p>"
+  },
+  {
+    "media": {
+      "disableImageZooming": false
+    },
+    "answers": [
+      {
+        "text": "<p>Only the potential.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>Only the wavefunction.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>The wavefunction and its first derivative.</p>",
+        "correct": true,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>The second derivative must always match.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
+          "notChosenFeedback": ""
+        }
+      }
+    ],
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100,
+        "feedback": "Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model."
+      }
+    ],
+    "UI": {
+      "checkAnswerButton": "Check",
+      "submitAnswerButton": "Submit",
+      "showSolutionButton": "Show solution",
+      "tryAgainButton": "Retry",
+      "tipsLabel": "Show tip",
+      "scoreBarLabel": "You got :num out of :total points",
+      "tipAvailable": "Tip available",
+      "feedbackAvailable": "Feedback available",
+      "readFeedback": "Read feedback",
+      "wrongAnswer": "Wrong answer",
+      "correctAnswer": "Correct answer",
+      "shouldCheck": "Should have been checked",
+      "shouldNotCheck": "Should not have been checked",
+      "noInput": "Please answer before viewing the solution",
+      "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+      "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+      "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+    },
+    "behaviour": {
+      "enableRetry": true,
+      "enableSolutionsButton": true,
+      "enableCheckButton": true,
+      "type": "single",
+      "singlePoint": false,
+      "randomAnswers": false,
+      "showSolutionsRequiresInput": true,
+      "confirmCheckDialog": false,
+      "confirmRetryDialog": false,
+      "autoCheck": false,
+      "passPercentage": 100,
+      "showScorePoints": true
+    },
+    "confirmCheck": {
+      "header": "Finish ?",
+      "body": "Are you sure you wish to finish ?",
+      "cancelLabel": "Cancel",
+      "confirmLabel": "Finish"
+    },
+    "confirmRetry": {
+      "header": "Retry ?",
+      "body": "Are you sure you wish to retry ?",
+      "cancelLabel": "Cancel",
+      "confirmLabel": "Confirm"
+    },
+    "question": "<p>What is continuous at a finite step with constant mass?</p>"
+  },
+  {
+    "media": {
+      "disableImageZooming": false
+    },
+    "answers": [
+      {
+        "text": "<p>Exactly 1,424 electrons in every trial.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>An expected count near 1,424, with fluctuations.</p>",
+        "correct": true,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>Each electron loses 14.24% of its energy.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved.",
+          "notChosenFeedback": ""
+        }
+      }
+    ],
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100,
+        "feedback": "Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved."
+      }
+    ],
+    "UI": {
+      "checkAnswerButton": "Check",
+      "submitAnswerButton": "Submit",
+      "showSolutionButton": "Show solution",
+      "tryAgainButton": "Retry",
+      "tipsLabel": "Show tip",
+      "scoreBarLabel": "You got :num out of :total points",
+      "tipAvailable": "Tip available",
+      "feedbackAvailable": "Feedback available",
+      "readFeedback": "Read feedback",
+      "wrongAnswer": "Wrong answer",
+      "correctAnswer": "Correct answer",
+      "shouldCheck": "Should have been checked",
+      "shouldNotCheck": "Should not have been checked",
+      "noInput": "Please answer before viewing the solution",
+      "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+      "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+      "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+    },
+    "behaviour": {
+      "enableRetry": true,
+      "enableSolutionsButton": true,
+      "enableCheckButton": true,
+      "type": "single",
+      "singlePoint": false,
+      "randomAnswers": false,
+      "showSolutionsRequiresInput": true,
+      "confirmCheckDialog": false,
+      "confirmRetryDialog": false,
+      "autoCheck": false,
+      "passPercentage": 100,
+      "showScorePoints": true
+    },
+    "confirmCheck": {
+      "header": "Finish ?",
+      "body": "Are you sure you wish to finish ?",
+      "cancelLabel": "Cancel",
+      "confirmLabel": "Finish"
+    },
+    "confirmRetry": {
+      "header": "Retry ?",
+      "body": "Are you sure you wish to retry ?",
+      "cancelLabel": "Cancel",
+      "confirmLabel": "Confirm"
+    },
+    "question": "<p>T = 0.1424 predicts what for 10,000 incident electrons?</p>"
+  },
+  {
+    "media": {
+      "disableImageZooming": false
+    },
+    "answers": [
+      {
+        "text": "<p>Half the original transmission.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>About 0.00587 transmission.</p>",
+        "correct": true,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>About 0.2847 transmission.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two.",
+          "notChosenFeedback": ""
+        }
+      }
+    ],
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100,
+        "feedback": "The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two."
+      }
+    ],
+    "UI": {
+      "checkAnswerButton": "Check",
+      "submitAnswerButton": "Submit",
+      "showSolutionButton": "Show solution",
+      "tryAgainButton": "Retry",
+      "tipsLabel": "Show tip",
+      "scoreBarLabel": "You got :num out of :total points",
+      "tipAvailable": "Tip available",
+      "feedbackAvailable": "Feedback available",
+      "readFeedback": "Read feedback",
+      "wrongAnswer": "Wrong answer",
+      "correctAnswer": "Correct answer",
+      "shouldCheck": "Should have been checked",
+      "shouldNotCheck": "Should not have been checked",
+      "noInput": "Please answer before viewing the solution",
+      "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+      "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+      "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+    },
+    "behaviour": {
+      "enableRetry": true,
+      "enableSolutionsButton": true,
+      "enableCheckButton": true,
+      "type": "single",
+      "singlePoint": false,
+      "randomAnswers": false,
+      "showSolutionsRequiresInput": true,
+      "confirmCheckDialog": false,
+      "confirmRetryDialog": false,
+      "autoCheck": false,
+      "passPercentage": 100,
+      "showScorePoints": true
+    },
+    "confirmCheck": {
+      "header": "Finish ?",
+      "body": "Are you sure you wish to finish ?",
+      "cancelLabel": "Cancel",
+      "confirmLabel": "Finish"
+    },
+    "confirmRetry": {
+      "header": "Retry ?",
+      "body": "Are you sure you wish to retry ?",
+      "cancelLabel": "Cancel",
+      "confirmLabel": "Confirm"
+    },
+    "question": "<p>At fixed E = 0.5 eV and V0 = 1 eV, increasing a from 0.45 to 0.90 nm gives:</p>"
+  },
+  {
+    "media": {
+      "disableImageZooming": false
+    },
+    "answers": [
+      {
+        "text": "<p>Yes, for a short enough time.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>No; total energy stays conserved.</p>",
+        "correct": true,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>Yes, if the transmitted wave is small.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation.",
+          "notChosenFeedback": ""
+        }
+      }
+    ],
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100,
+        "feedback": "The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation."
+      }
+    ],
+    "UI": {
+      "checkAnswerButton": "Check",
+      "submitAnswerButton": "Submit",
+      "showSolutionButton": "Show solution",
+      "tryAgainButton": "Retry",
+      "tipsLabel": "Show tip",
+      "scoreBarLabel": "You got :num out of :total points",
+      "tipAvailable": "Tip available",
+      "feedbackAvailable": "Feedback available",
+      "readFeedback": "Read feedback",
+      "wrongAnswer": "Wrong answer",
+      "correctAnswer": "Correct answer",
+      "shouldCheck": "Should have been checked",
+      "shouldNotCheck": "Should not have been checked",
+      "noInput": "Please answer before viewing the solution",
+      "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+      "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+      "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+    },
+    "behaviour": {
+      "enableRetry": true,
+      "enableSolutionsButton": true,
+      "enableCheckButton": true,
+      "type": "single",
+      "singlePoint": false,
+      "randomAnswers": false,
+      "showSolutionsRequiresInput": true,
+      "confirmCheckDialog": false,
+      "confirmRetryDialog": false,
+      "autoCheck": false,
+      "passPercentage": 100,
+      "showScorePoints": true
+    },
+    "confirmCheck": {
+      "header": "Finish ?",
+      "body": "Are you sure you wish to finish ?",
+      "cancelLabel": "Cancel",
+      "confirmLabel": "Finish"
+    },
+    "confirmRetry": {
+      "header": "Retry ?",
+      "body": "Are you sure you wish to retry ?",
+      "cancelLabel": "Cancel",
+      "confirmLabel": "Confirm"
+    },
+    "question": "<p>Does a static lossless barrier require an energy loan?</p>"
+  },
+  {
+    "media": {
+      "disableImageZooming": false
+    },
+    "answers": [
+      {
+        "text": "<p>True.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>False; bias, tip and electronic states also matter.</p>",
+        "correct": true,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>True, because tunneling is linear in distance.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio.",
+          "notChosenFeedback": ""
+        }
+      }
+    ],
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100,
+        "feedback": "Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio."
+      }
+    ],
+    "UI": {
+      "checkAnswerButton": "Check",
+      "submitAnswerButton": "Submit",
+      "showSolutionButton": "Show solution",
+      "tryAgainButton": "Retry",
+      "tipsLabel": "Show tip",
+      "scoreBarLabel": "You got :num out of :total points",
+      "tipAvailable": "Tip available",
+      "feedbackAvailable": "Feedback available",
+      "readFeedback": "Read feedback",
+      "wrongAnswer": "Wrong answer",
+      "correctAnswer": "Correct answer",
+      "shouldCheck": "Should have been checked",
+      "shouldNotCheck": "Should not have been checked",
+      "noInput": "Please answer before viewing the solution",
+      "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+      "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+      "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+    },
+    "behaviour": {
+      "enableRetry": true,
+      "enableSolutionsButton": true,
+      "enableCheckButton": true,
+      "type": "single",
+      "singlePoint": false,
+      "randomAnswers": false,
+      "showSolutionsRequiresInput": true,
+      "confirmCheckDialog": false,
+      "confirmRetryDialog": false,
+      "autoCheck": false,
+      "passPercentage": 100,
+      "showScorePoints": true
+    },
+    "confirmCheck": {
+      "header": "Finish ?",
+      "body": "Are you sure you wish to finish ?",
+      "cancelLabel": "Cancel",
+      "confirmLabel": "Finish"
+    },
+    "confirmRetry": {
+      "header": "Retry ?",
+      "body": "Are you sure you wish to retry ?",
+      "cancelLabel": "Cancel",
+      "confirmLabel": "Confirm"
+    },
+    "question": "<p>Twice the STM current proves twice the surface height.</p>"
+  },
+  {
+    "media": {
+      "disableImageZooming": false
+    },
+    "answers": [
+      {
+        "text": "<p>Yes; no other process can produce that trend.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>No; compare controls and competing mechanisms.</p>",
+        "correct": true,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons.",
+          "notChosenFeedback": ""
+        }
+      },
+      {
+        "text": "<p>No; quantum mechanics forbids any current.</p>",
+        "correct": false,
+        "tipsAndFeedback": {
+          "tip": "",
+          "chosenFeedback": "Reconsider the assumptions. The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons.",
+          "notChosenFeedback": ""
+        }
+      }
+    ],
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100,
+        "feedback": "The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons."
+      }
+    ],
+    "UI": {
+      "checkAnswerButton": "Check",
+      "submitAnswerButton": "Submit",
+      "showSolutionButton": "Show solution",
+      "tryAgainButton": "Retry",
+      "tipsLabel": "Show tip",
+      "scoreBarLabel": "You got :num out of :total points",
+      "tipAvailable": "Tip available",
+      "feedbackAvailable": "Feedback available",
+      "readFeedback": "Read feedback",
+      "wrongAnswer": "Wrong answer",
+      "correctAnswer": "Correct answer",
+      "shouldCheck": "Should have been checked",
+      "shouldNotCheck": "Should not have been checked",
+      "noInput": "Please answer before viewing the solution",
+      "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+      "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+      "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+    },
+    "behaviour": {
+      "enableRetry": true,
+      "enableSolutionsButton": true,
+      "enableCheckButton": true,
+      "type": "single",
+      "singlePoint": false,
+      "randomAnswers": false,
+      "showSolutionsRequiresInput": true,
+      "confirmCheckDialog": false,
+      "confirmRetryDialog": false,
+      "autoCheck": false,
+      "passPercentage": 100,
+      "showScorePoints": true
+    },
+    "confirmCheck": {
+      "header": "Finish ?",
+      "body": "Are you sure you wish to finish ?",
+      "cancelLabel": "Cancel",
+      "confirmLabel": "Finish"
+    },
+    "confirmRetry": {
+      "header": "Retry ?",
+      "body": "Are you sure you wish to retry ?",
+      "cancelLabel": "Cancel",
+      "confirmLabel": "Confirm"
+    },
+    "question": "<p>An exponential thickness trend alone conclusively proves direct tunneling.</p>"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "profile": "chatterbox_warm",
+  "engine": "chatterbox",
+  "master": {
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 1,
+    "duration_seconds": 714.0333333333333,
+    "measured_integrated_lufs": -16.24,
+    "measured_true_peak_db": -1.47
+  },
+  "video": {
+    "size": [
+      1920,
+      1080
+    ],
+    "fps": 30,
+    "codec": "H.264",
+    "audio": "AAC 48 kHz",
+    "embedded_subtitles": "English mov_text",
+    "complete_decode": true,
+    "audio_master_correlations": [
+      0.9999960318957128,
+      0.9999970474818991,
+      0.9999944771303978
+    ]
+  },
+  "samples": 3,
+  "scenes": 28,
+  "minimum_prediction_hold_seconds": 6.526666666666671,
+  "speech_audit": {
+    "chunks": 54,
+    "mean_word_error_rate": 0.0,
+    "max_word_error_rate": 0.0
+  },
+  "perceptual_limit": "Automatic intelligibility and signal checks are not a human listening study or a certified naturalness rating."
+}

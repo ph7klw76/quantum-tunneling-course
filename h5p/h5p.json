@@ -1,0 +1,33 @@
+{
+  "title": "Can an Electron Pass Through a Wall?",
+  "language": "en",
+  "mainLibrary": "H5P.InteractiveVideo",
+  "embedTypes": [
+    "div"
+  ],
+  "license": "CC BY",
+  "licenseVersion": "4.0",
+  "authors": [
+    {
+      "name": "Applied Quantum Lab",
+      "role": "Author"
+    }
+  ],
+  "preloadedDependencies": [
+    {
+      "machineName": "H5P.InteractiveVideo",
+      "majorVersion": 1,
+      "minorVersion": 27
+    },
+    {
+      "machineName": "H5P.MultiChoice",
+      "majorVersion": 1,
+      "minorVersion": 16
+    },
+    {
+      "machineName": "H5P.Summary",
+      "majorVersion": 1,
+      "minorVersion": 10
+    }
+  ]
+}

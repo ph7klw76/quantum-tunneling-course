@@ -1,0 +1,110 @@
+{
+  "layouts": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 960,
+      "noOverflow": true,
+      "sliders": true,
+      "chapters": 7
+    },
+    {
+      "name": "tablet",
+      "width": 820,
+      "height": 1180,
+      "noOverflow": true,
+      "sliders": true,
+      "chapters": 7
+    },
+    {
+      "name": "phone",
+      "width": 390,
+      "height": 844,
+      "noOverflow": true,
+      "sliders": true,
+      "chapters": 7
+    }
+  ],
+  "h5p_questions": [
+    {
+      "id": 1,
+      "incorrectFeedback": true,
+      "retry": true,
+      "correctScore": 1
+    },
+    {
+      "id": 2,
+      "incorrectFeedback": true,
+      "retry": true,
+      "correctScore": 1
+    },
+    {
+      "id": 3,
+      "incorrectFeedback": true,
+      "retry": true,
+      "correctScore": 1
+    },
+    {
+      "id": 4,
+      "incorrectFeedback": true,
+      "retry": true,
+      "correctScore": 1
+    },
+    {
+      "id": 5,
+      "incorrectFeedback": true,
+      "retry": true,
+      "correctScore": 1
+    },
+    {
+      "id": 6,
+      "incorrectFeedback": true,
+      "retry": true,
+      "correctScore": 1
+    },
+    {
+      "id": 7,
+      "incorrectFeedback": true,
+      "retry": true,
+      "correctScore": 1
+    }
+  ],
+  "notebook": {
+    "errors": 0,
+    "outputs": [
+      "Python ready: emscripten\n",
+      "T=0.142361995, R=0.857638005, T+R=1.000000000000\nkappa=3.622626 nm^-1\n",
+      "",
+      "Constant normalized current: 0.1423619954673568 0.14236199546735756\n",
+      "<ipython-input-5-b8ae9e921aec>:8: MatplotlibDeprecationWarning: The width parameter as float was deprecated in Matplotlib 3.10 and will be removed in 3.12. Use int(width) instead.\n  plt.tight_layout();plt.show()\n<ipython-input-5-b8ae9e921aec>:8: MatplotlibDeprecationWarning: The height parameter as float was deprecated in Matplotlib 3.10 and will be removed in 3.12. Use int(height) instead.\n  plt.tight_layout();plt.show()\n<ipython-input-5-b8ae9e921aec>:8: MatplotlibDeprecationWarning: The x parameter as float was deprecated in Matplotlib 3.10 and will be removed in 3.12. Use int(x) instead.\n  plt.tight_layout();plt.show()\n<ipython-input-5-b8ae9e921aec>:8: MatplotlibDeprecationWarning: The y parameter as float was deprecated in Matplotlib 3.10 and will be removed in 3.12. Use int(y) instead.\n  plt.tight_layout();plt.show()\n",
+      "",
+      "Exact T(2a)/T(a): 0.041254553567527726\n",
+      "rtol=0.0001: T_num=0.1423586504, error=3.35e-06\nrtol=1e-07: T_num=0.1423619874, error=8.08e-09\nrtol=1e-10: T_num=0.1423619955, error=9.21e-12\n",
+      "Intentionally wrong output: 0.0\n",
+      "log-slope=-6.792 +/- 0.097 nm^-1 (one standard error)\n",
+      ""
+    ],
+    "plots": 3,
+    "outputTypes": [
+      "application/vnd.jupyter.stdout",
+      "application/vnd.jupyter.stdout",
+      "image/png",
+      "application/vnd.jupyter.stdout",
+      "application/vnd.jupyter.stderr",
+      "image/png",
+      "application/vnd.jupyter.stdout",
+      "application/vnd.jupyter.stdout",
+      "application/vnd.jupyter.stdout",
+      "application/vnd.jupyter.stdout",
+      "image/png"
+    ]
+  },
+  "h5p_interactive_video": {
+    "library": "H5P.InteractiveVideo 1.27",
+    "interactions": 7
+  },
+  "h5p_phone": {
+    "width": 390,
+    "noOverflow": true
+  }
+}
