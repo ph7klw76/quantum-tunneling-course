@@ -41,7 +41,7 @@ The HTML exports were built with [Lumi H5P HTML exporter 10.0.4](https://github.
 | H5P.TextUtilities | 1.3.0 | Oliver Tacke | pd |
 | H5P.Transition | 1.0.4 | Joubel | MIT |
 | H5P.TrueFalse | 1.8.11 | Joubel | MIT |
-| H5P.Video | 1.6.66 | Joubel | MIT |
+| H5P.Video | 1.6.81 | Joubel | MIT |
 | H5PEditor.ColorSelector | 1.3.1 | Joubel | See bundled source |
 | H5PEditor.DragQuestion | 1.10.21 | Joubel | See bundled source |
 | H5PEditor.Duration | 1.1.14 | Frode Petterson | See bundled source |
@@ -63,3 +63,5 @@ The HTML exports were built with [Lumi H5P HTML exporter 10.0.4](https://github.
 Official sources: [H5P core](https://github.com/h5p/h5p-php-library), [H5P editor](https://github.com/h5p/h5p-editor-php-library), [H5P content libraries](https://github.com/h5p). Third-party fonts and icons retain their embedded notices. The exported resources contain no third-party lecture video.
 
 H5P core and editor are GPL-3.0. The full GPL v3 text is included in `licenses/H5P-core-GPL-3.0.txt`; source archives are pinned in `upstream-lock.json`.
+
+H5P.Video 1.6.81 is the unmodified official source from [h5p/h5p-video](https://github.com/h5p/h5p-video/tree/0293f342d757b5d7623ba841e1e513365ae42495). Its YouTube adapter uses the documented `getIframe()` API. The pinned source archive and SHA-256 are recorded in `upstream-lock.json`.

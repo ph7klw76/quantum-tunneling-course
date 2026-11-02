@@ -23,7 +23,7 @@ These standalone H5P activities work independently of YouTube. Check your answer
 
 [Download the native H5P package](h5p/Quantum_Tunneling_Interactive.h5p). Open it in Lumi, or upload it to an H5P-enabled Moodle, WordPress, or Drupal installation. The package contains actual libraries and original activity parameters. It refers to the YouTube video; it does not contain an MP4.
 
-The standalone HTML was generated with Lumi's open-source `@lumieducation/h5p-html-exporter` 10.0.4. The native package uses Interactive Video 1.27, Multiple Choice 1.16 and Summary 1.10 from the official H5P Hub. Editable source parameters and scripts are in the [GitHub repository](https://github.com/ph7klw76/quantum-tunneling-course/tree/main/h5p).
+The standalone HTML was generated with Lumi's open-source `@lumieducation/h5p-html-exporter` 10.0.4. The native package uses Interactive Video 1.27, Multiple Choice 1.16 and Summary 1.10, plus official H5P.Video 1.6.81 to support the current YouTube player. Use an H5P host with core 1.28 or newer when importing this package. Editable source parameters and scripts are in the [GitHub repository](https://github.com/ph7klw76/quantum-tunneling-course/tree/main/h5p).
 
 GitHub Pages is a static host. Practice state is local to the current session; it is not a student account or gradebook. An LMS must supply authentication, persistence and grade reporting. Test import, YouTube access and reporting using a student account in your destination LMS before assigning a grade. Embedded video depends on YouTube and the viewer's network policy.
 

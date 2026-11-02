@@ -18,7 +18,7 @@ for name in ['Quantum_Tunneling_Lab.ipynb','jupyter_lite_config.json','jupyter-l
 for p in (ROOT/'website/dist').iterdir():
     if p.is_file() and p.suffix not in ['.mp4','.wav','.zip']:files.add(p)
 files.update((ROOT/'website/dist/h5p').glob('*.html'))
-for name in ['package.json','pnpm-lock.yaml','pnpm-workspace.yaml','h5p-build.cjs','test-site.cjs']:
+for name in ['package.json','pnpm-lock.yaml','pnpm-workspace.yaml','h5p-build.cjs','test-site.cjs','test-h5p-playback.cjs']:
     files.add(ROOT/'webtools'/name)
 for name in ['youtube_description.md','neural-verification.json','neural-narration-report.json','course-checks.json','browser/results.json']:
     p=ROOT/'outputs'/name

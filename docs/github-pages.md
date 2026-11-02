@@ -38,8 +38,10 @@ node webtools/h5p-build.cjs
 
 Review `h5p/upstream-lock.json` when upstream changes. Hub URLs may serve newer versions over time; preserve the native package for the exact original library set. Core/editor revisions and bundle hashes are recorded. `tools/h5p/` is an ignored local cache. See `h5p/THIRD_PARTY.md` for licensing.
 
+The H5P Hub's Interactive Video bundle includes an older YouTube adapter. The fetch/build scripts explicitly install official **H5P.Video 1.6.81**, pinned to commit `0293f342d757b5d7623ba841e1e513365ae42495`. It uses YouTube's public `getIframe()` API instead of private player properties, fixing a black-video startup error. The native package contains this update too. Importing it into an LMS requires a compatible H5P core (1.28 or newer).
+
 ## Verification scope
 
-CI checks physics conservation and independent ODE agreement, pronunciation/text alignment helpers, caption/quiz timing, full desktop notebook execution, JavaScript/Python agreement, internal paths at the repository prefix, mobile layouts, actual H5P answer/feedback/retry behavior, and the notebook in browser Pyodide. Reports and screenshots are uploaded as workflow artifacts. The final job requests the published page and key resources over HTTPS.
+CI checks physics conservation and independent ODE agreement, pronunciation/text alignment helpers, caption/quiz timing, full desktop notebook execution, JavaScript/Python agreement, internal paths at the repository prefix, mobile layouts, actual H5P answer/feedback/retry behavior, visible YouTube playback and its timed question pause, and the notebook in browser Pyodide. Reports and screenshots are uploaded as workflow artifacts. The final job requests the published page and key resources over HTTPS.
 
 An automated check cannot certify an LMS's gradebook or a viewer's YouTube/network policy. Those are destination-specific checks.

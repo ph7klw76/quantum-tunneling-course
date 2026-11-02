@@ -25,5 +25,12 @@
     "url": "https://codeload.github.com/h5p/h5p-editor-php-library/zip/3bec2594356cf1be4e6401f7e7e557650720aa9b",
     "revision": "3bec2594356cf1be4e6401f7e7e557650720aa9b",
     "sha256": "a6907bb5915fb6f277245ad9c2a6bcc58c58123988e19d5eab6be0f562c205ac"
+  },
+  {
+    "file": "video-upstream",
+    "url": "https://codeload.github.com/h5p/h5p-video/zip/0293f342d757b5d7623ba841e1e513365ae42495",
+    "revision": "0293f342d757b5d7623ba841e1e513365ae42495",
+    "sha256": "0080ac1a0df002063719a02ffdca4d9cc39cfc9010a8d3f884ade5e7f1a69c1e",
+    "version": "1.6.81"
   }
 ]

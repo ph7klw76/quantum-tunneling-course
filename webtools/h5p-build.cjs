@@ -19,6 +19,17 @@ async function main() {
     const result = await editor.uploadPackage(path.join(work,name+'.h5p'),user,{onlyInstallLibraries:true});
     console.log(name, result.installedLibraries.length, 'libraries installed');
   }
+  // The Hub bundle still contains Video 1.6.66, whose YouTube handler reads
+  // private YT.Player internals. Install the pinned official upstream fix.
+  const videoDirectory = path.join(work,'video-upstream');
+  const videoMetadata = JSON.parse(await fs.readFile(path.join(videoDirectory,'library.json'),'utf8'));
+  if (videoMetadata.machineName!=='H5P.Video' || videoMetadata.majorVersion!==1 || videoMetadata.minorVersion!==6 || videoMetadata.patchVersion!==81) throw new Error('Expected pinned official H5P.Video 1.6.81');
+  for (const file of [...videoMetadata.preloadedJs,...videoMetadata.preloadedCss]) {
+    const full = path.resolve(videoDirectory,file.path);
+    if (!full.startsWith(videoDirectory+path.sep)) throw new Error('Invalid library file path');
+    await fs.access(full);
+  }
+  console.log('Official H5P.Video update:',await editor.libraryManager.installFromDirectory(videoDirectory));
   if (process.argv.includes('--libraries-only')) return;
   // Parameters are generated below from the original licensed course activities.
   const params = JSON.parse(await fs.readFile(path.join(root,'h5p/content.json'),'utf8'));

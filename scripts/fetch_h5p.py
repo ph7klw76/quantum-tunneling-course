@@ -5,6 +5,8 @@ import json
 from pathlib import Path
 import zipfile
 import requests
+import subprocess
+import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 DEST = ROOT / 'tools' / 'h5p'
@@ -46,4 +48,6 @@ for repo, folder in [('h5p-php-library', 'core'), ('h5p-editor-php-library', 'ed
             target.write_bytes(archive.read(item))
     records.append(dict(file=folder, url=url, revision=revision, sha256=hashlib.sha256(response.content).hexdigest()))
     print(folder, revision, flush=True)
+records.extend(item for name,item in locked.items() if name not in {r['file'] for r in records})
 (ROOT / 'h5p' / 'upstream-lock.json').write_text(json.dumps(records, indent=2) + '\n', encoding='utf-8')
+subprocess.run([sys.executable,str(ROOT/'scripts/fetch_h5p_video.py')],check=True)

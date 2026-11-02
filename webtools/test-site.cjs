@@ -4,6 +4,7 @@ const fs = require('node:fs/promises');
 const path = require('node:path');
 const {spawn} = require('node:child_process');
 const assert = require('node:assert/strict');
+const {checkH5pPlayback} = require('./test-h5p-playback.cjs');
 const root = path.resolve(__dirname,'..');
 const base = 'http://127.0.0.1:8766/quantum-tunneling-course/';
 const sleep = ms => new Promise(r=>setTimeout(r,ms));
@@ -55,8 +56,7 @@ async function main() {
    assert.deepEqual(errors,[]);page.off('pageerror',handler);
    report.h5p_questions.push({id:i+1,incorrectFeedback:true,retry:true,correctScore:1});
   }
-  await page.goto(base+'h5p/quantum-tunneling.html',{waitUntil:'domcontentloaded'});
-  await page.waitForFunction(()=>window.H5P && H5P.instances.length>0);
+  report.h5p_playback=await checkH5pPlayback(page,base+'h5p/quantum-tunneling.html',out);
   report.h5p_interactive_video=await page.evaluate(()=>({library:H5PIntegration.contents['cid-1'].library,interactions:JSON.parse(H5PIntegration.contents['cid-1'].jsonContent).interactiveVideo.assets.interactions.length}));
   assert.equal(report.h5p_interactive_video.interactions,7);
   await page.setViewportSize({width:390,height:844});
