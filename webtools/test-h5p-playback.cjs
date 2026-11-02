@@ -6,7 +6,7 @@ const {spawn} = require('node:child_process');
 const assert = require('node:assert/strict');
 const root = path.resolve(__dirname,'..');
 
-async function checkH5pPlayback(page,url,out) {
+async function checkH5pPlayback(page,url,out,{startupOnly=false}={}) {
   const errors=[];
   const onError=e=>errors.push(e.message);
   page.on('pageerror',onError);
@@ -22,6 +22,10 @@ async function checkH5pPlayback(page,url,out) {
     assert.ok(Math.abs(geometry.offsetTop)<2 && Math.abs(geometry.offsetLeft)<2,'Video iframe is clipped below its wrapper');
     assert.ok(geometry.width>200 && geometry.height>200);
     assert.deepEqual(errors,[],'Video startup raised a JavaScript error');
+    if(startupOnly) {
+      if(out) await page.screenshot({path:path.join(out,'h5p-video-startup.png'),fullPage:true});
+      return {mode:'startup-only',videoDuration:await page.evaluate(()=>H5P.instances[0].video.getDuration()),geometry,javaScriptErrors:errors,streaming:'Not tested on hosted CI; use the standalone playback test from a video-accessible network.'};
+    }
     if(await page.locator('.h5p-splash').isVisible()) await page.locator('.h5p-splash').click();
     else await page.locator('.h5p-controls .h5p-pause').click();
     await page.waitForFunction(()=>H5P.instances[0].video.getCurrentTime()>1,{},{timeout:45000});
@@ -39,7 +43,14 @@ async function checkH5pPlayback(page,url,out) {
     assert.ok(pausedAt>=49.8 && pausedAt<56);
     assert.deepEqual(errors,[]);
     if(out) await page.screenshot({path:path.join(out,'h5p-timed-question.png'),fullPage:true});
-    return {videoDuration:await page.evaluate(()=>H5P.instances[0].video.getDuration()),playingTime,geometry,questionDisplayed:true,pausedAt,pausedAfter,javaScriptErrors:errors};
+    return {mode:'streaming',videoDuration:await page.evaluate(()=>H5P.instances[0].video.getDuration()),playingTime,geometry,questionDisplayed:true,pausedAt,pausedAfter,javaScriptErrors:errors};
+  } catch(error) {
+    if(out) {
+      const context=await page.evaluate(()=>({url:location.href,text:document.body.innerText.slice(0,3000)})).catch(()=>null);
+      await fs.writeFile(path.join(out,'h5p-playback-failure.json'),JSON.stringify({message:error.message,javaScriptErrors:errors,context},null,2));
+      await page.screenshot({path:path.join(out,'h5p-playback-failure.png'),fullPage:true}).catch(()=>{});
+    }
+    throw error;
   } finally {page.off('pageerror',onError);}
 }
 

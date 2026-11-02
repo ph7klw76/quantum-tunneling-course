@@ -42,6 +42,8 @@ The H5P Hub's Interactive Video bundle includes an older YouTube adapter. The fe
 
 ## Verification scope
 
-CI checks physics conservation and independent ODE agreement, pronunciation/text alignment helpers, caption/quiz timing, full desktop notebook execution, JavaScript/Python agreement, internal paths at the repository prefix, mobile layouts, actual H5P answer/feedback/retry behavior, visible YouTube playback and its timed question pause, and the notebook in browser Pyodide. Reports and screenshots are uploaded as workflow artifacts. The final job requests the published page and key resources over HTTPS.
+CI checks physics conservation and independent ODE agreement, pronunciation/text alignment helpers, caption/quiz timing, full desktop notebook execution, JavaScript/Python agreement, internal paths at the repository prefix, mobile layouts, actual H5P answer/feedback/retry behavior, YouTube player initialization and visible iframe geometry, and the notebook in browser Pyodide. Reports and screenshots are uploaded as workflow artifacts. The final job requests the published page and key resources over HTTPS.
+
+YouTube streaming did not advance on the hosted GitHub runner, so its CI check explicitly reports startup only. Full real-video playback and the first timed quiz pause are tested with `node webtools/test-h5p-playback.cjs` from a video-accessible network. To test the published export directly in PowerShell: set `$env:H5P_TEST_URL` to the public lesson URL and run that command. The script checks advancing playback time, a visible video frame, the actual question, and a stable paused time, and saves screenshots and JSON evidence. It does not mock the video API.
 
 An automated check cannot certify an LMS's gradebook or a viewer's YouTube/network policy. Those are destination-specific checks.
