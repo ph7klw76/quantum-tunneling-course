@@ -1,0 +1,9506 @@
+[
+  {
+    "scene": 0,
+    "word": "Can",
+    "start_seconds": 0.22,
+    "end_seconds": 0.44
+  },
+  {
+    "scene": 0,
+    "word": "an",
+    "start_seconds": 0.44,
+    "end_seconds": 0.6
+  },
+  {
+    "scene": 0,
+    "word": "electron",
+    "start_seconds": 0.6,
+    "end_seconds": 1.04
+  },
+  {
+    "scene": 0,
+    "word": "pass",
+    "start_seconds": 1.04,
+    "end_seconds": 1.42
+  },
+  {
+    "scene": 0,
+    "word": "through",
+    "start_seconds": 1.42,
+    "end_seconds": 1.72
+  },
+  {
+    "scene": 0,
+    "word": "a",
+    "start_seconds": 1.72,
+    "end_seconds": 1.88
+  },
+  {
+    "scene": 0,
+    "word": "wall?",
+    "start_seconds": 1.88,
+    "end_seconds": 2.12
+  },
+  {
+    "scene": 0,
+    "word": "For",
+    "start_seconds": 2.68,
+    "end_seconds": 2.8600000000000003
+  },
+  {
+    "scene": 0,
+    "word": "a",
+    "start_seconds": 2.8600000000000003,
+    "end_seconds": 2.98
+  },
+  {
+    "scene": 0,
+    "word": "carefully",
+    "start_seconds": 2.98,
+    "end_seconds": 3.3200000000000003
+  },
+  {
+    "scene": 0,
+    "word": "defined",
+    "start_seconds": 3.3200000000000003,
+    "end_seconds": 3.8200000000000003
+  },
+  {
+    "scene": 0,
+    "word": "potential",
+    "start_seconds": 3.8200000000000003,
+    "end_seconds": 4.2
+  },
+  {
+    "scene": 0,
+    "word": "barrier,",
+    "start_seconds": 4.2,
+    "end_seconds": 4.72
+  },
+  {
+    "scene": 0,
+    "word": "yes.",
+    "start_seconds": 5.06,
+    "end_seconds": 5.26
+  },
+  {
+    "scene": 0,
+    "word": "Today",
+    "start_seconds": 6.02,
+    "end_seconds": 6.279999999999999
+  },
+  {
+    "scene": 0,
+    "word": "we",
+    "start_seconds": 6.279999999999999,
+    "end_seconds": 6.46
+  },
+  {
+    "scene": 0,
+    "word": "will",
+    "start_seconds": 6.46,
+    "end_seconds": 6.6
+  },
+  {
+    "scene": 0,
+    "word": "calculate",
+    "start_seconds": 6.6,
+    "end_seconds": 6.9399999999999995
+  },
+  {
+    "scene": 0,
+    "word": "the",
+    "start_seconds": 6.9399999999999995,
+    "end_seconds": 7.14
+  },
+  {
+    "scene": 0,
+    "word": "probability,",
+    "start_seconds": 7.14,
+    "end_seconds": 7.64
+  },
+  {
+    "scene": 0,
+    "word": "test",
+    "start_seconds": 8.14,
+    "end_seconds": 8.280000000000001
+  },
+  {
+    "scene": 0,
+    "word": "our",
+    "start_seconds": 8.280000000000001,
+    "end_seconds": 8.5
+  },
+  {
+    "scene": 0,
+    "word": "calculation,",
+    "start_seconds": 8.5,
+    "end_seconds": 8.92
+  },
+  {
+    "scene": 0,
+    "word": "and",
+    "start_seconds": 9.34,
+    "end_seconds": 9.440000000000001
+  },
+  {
+    "scene": 0,
+    "word": "ask",
+    "start_seconds": 9.440000000000001,
+    "end_seconds": 9.680000000000001
+  },
+  {
+    "scene": 0,
+    "word": "what",
+    "start_seconds": 9.680000000000001,
+    "end_seconds": 9.940000000000001
+  },
+  {
+    "scene": 0,
+    "word": "evidence",
+    "start_seconds": 9.940000000000001,
+    "end_seconds": 10.32
+  },
+  {
+    "scene": 0,
+    "word": "could",
+    "start_seconds": 10.32,
+    "end_seconds": 10.56
+  },
+  {
+    "scene": 0,
+    "word": "actually",
+    "start_seconds": 10.56,
+    "end_seconds": 10.98
+  },
+  {
+    "scene": 0,
+    "word": "support",
+    "start_seconds": 10.98,
+    "end_seconds": 11.4
+  },
+  {
+    "scene": 0,
+    "word": "that",
+    "start_seconds": 11.4,
+    "end_seconds": 11.620000000000001
+  },
+  {
+    "scene": 0,
+    "word": "conclusion.",
+    "start_seconds": 11.620000000000001,
+    "end_seconds": 11.96
+  },
+  {
+    "scene": 0,
+    "word": "Imagine",
+    "start_seconds": 12.620000000000001,
+    "end_seconds": 13.080000000000002
+  },
+  {
+    "scene": 0,
+    "word": "a",
+    "start_seconds": 13.080000000000002,
+    "end_seconds": 13.340000000000002
+  },
+  {
+    "scene": 0,
+    "word": "finite",
+    "start_seconds": 13.340000000000002,
+    "end_seconds": 13.700000000000001
+  },
+  {
+    "scene": 0,
+    "word": "potential",
+    "start_seconds": 13.700000000000001,
+    "end_seconds": 14.100000000000001
+  },
+  {
+    "scene": 0,
+    "word": "barrier,",
+    "start_seconds": 14.100000000000001,
+    "end_seconds": 14.64
+  },
+  {
+    "scene": 0,
+    "word": "a",
+    "start_seconds": 15.040000000000001,
+    "end_seconds": 15.180000000000001
+  },
+  {
+    "scene": 0,
+    "word": "wall",
+    "start_seconds": 15.180000000000001,
+    "end_seconds": 15.420000000000002
+  },
+  {
+    "scene": 0,
+    "word": "in",
+    "start_seconds": 15.420000000000002,
+    "end_seconds": 15.66
+  },
+  {
+    "scene": 0,
+    "word": "an",
+    "start_seconds": 15.66,
+    "end_seconds": 15.8
+  },
+  {
+    "scene": 0,
+    "word": "energy",
+    "start_seconds": 15.8,
+    "end_seconds": 16.12
+  },
+  {
+    "scene": 0,
+    "word": "diagram,",
+    "start_seconds": 16.12,
+    "end_seconds": 16.700000000000003
+  },
+  {
+    "scene": 0,
+    "word": "rather",
+    "start_seconds": 16.92,
+    "end_seconds": 17.32
+  },
+  {
+    "scene": 0,
+    "word": "than",
+    "start_seconds": 17.32,
+    "end_seconds": 17.64
+  },
+  {
+    "scene": 0,
+    "word": "an",
+    "start_seconds": 17.64,
+    "end_seconds": 17.84
+  },
+  {
+    "scene": 0,
+    "word": "everyday",
+    "start_seconds": 17.84,
+    "end_seconds": 18.200000000000003
+  },
+  {
+    "scene": 0,
+    "word": "brick",
+    "start_seconds": 18.200000000000003,
+    "end_seconds": 18.5
+  },
+  {
+    "scene": 0,
+    "word": "wall.",
+    "start_seconds": 18.5,
+    "end_seconds": 18.78
+  },
+  {
+    "scene": 1,
+    "word": "Our",
+    "start_seconds": 19.919999999999998,
+    "end_seconds": 20.259999999999998
+  },
+  {
+    "scene": 1,
+    "word": "electron",
+    "start_seconds": 20.259999999999998,
+    "end_seconds": 20.7
+  },
+  {
+    "scene": 1,
+    "word": "has",
+    "start_seconds": 20.7,
+    "end_seconds": 21.04
+  },
+  {
+    "scene": 1,
+    "word": "half",
+    "start_seconds": 21.04,
+    "end_seconds": 21.319999999999997
+  },
+  {
+    "scene": 1,
+    "word": "an",
+    "start_seconds": 21.319999999999997,
+    "end_seconds": 21.479999999999997
+  },
+  {
+    "scene": 1,
+    "word": "electron",
+    "start_seconds": 21.479999999999997,
+    "end_seconds": 21.9
+  },
+  {
+    "scene": 1,
+    "word": "volt",
+    "start_seconds": 21.9,
+    "end_seconds": 22.2
+  },
+  {
+    "scene": 1,
+    "word": "of",
+    "start_seconds": 22.2,
+    "end_seconds": 22.419999999999998
+  },
+  {
+    "scene": 1,
+    "word": "energy.",
+    "start_seconds": 22.419999999999998,
+    "end_seconds": 22.819999999999997
+  },
+  {
+    "scene": 1,
+    "word": "The",
+    "start_seconds": 23.36,
+    "end_seconds": 23.54
+  },
+  {
+    "scene": 1,
+    "word": "barrier",
+    "start_seconds": 23.54,
+    "end_seconds": 23.88
+  },
+  {
+    "scene": 1,
+    "word": "is",
+    "start_seconds": 23.88,
+    "end_seconds": 24.18
+  },
+  {
+    "scene": 1,
+    "word": "one",
+    "start_seconds": 24.18,
+    "end_seconds": 24.4
+  },
+  {
+    "scene": 1,
+    "word": "electron",
+    "start_seconds": 24.4,
+    "end_seconds": 24.839999999999996
+  },
+  {
+    "scene": 1,
+    "word": "volt",
+    "start_seconds": 24.839999999999996,
+    "end_seconds": 25.139999999999997
+  },
+  {
+    "scene": 1,
+    "word": "high",
+    "start_seconds": 25.139999999999997,
+    "end_seconds": 25.459999999999997
+  },
+  {
+    "scene": 1,
+    "word": "and",
+    "start_seconds": 25.459999999999997,
+    "end_seconds": 25.759999999999998
+  },
+  {
+    "scene": 1,
+    "word": "0",
+    "start_seconds": 25.759999999999998,
+    "end_seconds": 26.06
+  },
+  {
+    "scene": 1,
+    "word": ".45",
+    "start_seconds": 26.06,
+    "end_seconds": 26.779999999999998
+  },
+  {
+    "scene": 1,
+    "word": "nanometers",
+    "start_seconds": 26.779999999999998,
+    "end_seconds": 27.299999999999997
+  },
+  {
+    "scene": 1,
+    "word": "wide.",
+    "start_seconds": 27.299999999999997,
+    "end_seconds": 27.74
+  },
+  {
+    "scene": 1,
+    "word": "Classically,",
+    "start_seconds": 28.519999999999996,
+    "end_seconds": 28.959999999999997
+  },
+  {
+    "scene": 1,
+    "word": "the",
+    "start_seconds": 29.199999999999996,
+    "end_seconds": 29.32
+  },
+  {
+    "scene": 1,
+    "word": "electron",
+    "start_seconds": 29.32,
+    "end_seconds": 29.779999999999998
+  },
+  {
+    "scene": 1,
+    "word": "cannot",
+    "start_seconds": 29.779999999999998,
+    "end_seconds": 30.06
+  },
+  {
+    "scene": 1,
+    "word": "reach",
+    "start_seconds": 30.06,
+    "end_seconds": 30.299999999999997
+  },
+  {
+    "scene": 1,
+    "word": "the",
+    "start_seconds": 30.299999999999997,
+    "end_seconds": 30.54
+  },
+  {
+    "scene": 1,
+    "word": "top,",
+    "start_seconds": 30.54,
+    "end_seconds": 30.799999999999997
+  },
+  {
+    "scene": 1,
+    "word": "so",
+    "start_seconds": 31.019999999999996,
+    "end_seconds": 31.199999999999996
+  },
+  {
+    "scene": 1,
+    "word": "it",
+    "start_seconds": 31.199999999999996,
+    "end_seconds": 31.339999999999996
+  },
+  {
+    "scene": 1,
+    "word": "returns.",
+    "start_seconds": 31.339999999999996,
+    "end_seconds": 31.68
+  },
+  {
+    "scene": 1,
+    "word": "We",
+    "start_seconds": 32.459999999999994,
+    "end_seconds": 32.62
+  },
+  {
+    "scene": 1,
+    "word": "use",
+    "start_seconds": 32.62,
+    "end_seconds": 32.86
+  },
+  {
+    "scene": 1,
+    "word": "zero",
+    "start_seconds": 32.86,
+    "end_seconds": 33.14
+  },
+  {
+    "scene": 1,
+    "word": "potential",
+    "start_seconds": 33.14,
+    "end_seconds": 33.54
+  },
+  {
+    "scene": 1,
+    "word": "outside,",
+    "start_seconds": 33.54,
+    "end_seconds": 34.099999999999994
+  },
+  {
+    "scene": 1,
+    "word": "so",
+    "start_seconds": 34.36,
+    "end_seconds": 34.54
+  },
+  {
+    "scene": 1,
+    "word": "the",
+    "start_seconds": 34.54,
+    "end_seconds": 34.68
+  },
+  {
+    "scene": 1,
+    "word": "total",
+    "start_seconds": 34.68,
+    "end_seconds": 34.94
+  },
+  {
+    "scene": 1,
+    "word": "energy",
+    "start_seconds": 34.94,
+    "end_seconds": 35.32
+  },
+  {
+    "scene": 1,
+    "word": "there",
+    "start_seconds": 35.32,
+    "end_seconds": 35.599999999999994
+  },
+  {
+    "scene": 1,
+    "word": "is",
+    "start_seconds": 35.599999999999994,
+    "end_seconds": 35.879999999999995
+  },
+  {
+    "scene": 1,
+    "word": "kinetic",
+    "start_seconds": 35.879999999999995,
+    "end_seconds": 36.239999999999995
+  },
+  {
+    "scene": 1,
+    "word": "energy.",
+    "start_seconds": 36.239999999999995,
+    "end_seconds": 36.72
+  },
+  {
+    "scene": 2,
+    "word": "Pause",
+    "start_seconds": 37.92,
+    "end_seconds": 38.38
+  },
+  {
+    "scene": 2,
+    "word": "and",
+    "start_seconds": 38.38,
+    "end_seconds": 38.64
+  },
+  {
+    "scene": 2,
+    "word": "predict.",
+    "start_seconds": 38.64,
+    "end_seconds": 38.980000000000004
+  },
+  {
+    "scene": 2,
+    "word": "In",
+    "start_seconds": 39.74,
+    "end_seconds": 39.84
+  },
+  {
+    "scene": 2,
+    "word": "quantum",
+    "start_seconds": 39.84,
+    "end_seconds": 40.160000000000004
+  },
+  {
+    "scene": 2,
+    "word": "mechanics,",
+    "start_seconds": 40.160000000000004,
+    "end_seconds": 40.72
+  },
+  {
+    "scene": 2,
+    "word": "must",
+    "start_seconds": 41.08,
+    "end_seconds": 41.2
+  },
+  {
+    "scene": 2,
+    "word": "the",
+    "start_seconds": 41.2,
+    "end_seconds": 41.42
+  },
+  {
+    "scene": 2,
+    "word": "transmission",
+    "start_seconds": 41.42,
+    "end_seconds": 41.84
+  },
+  {
+    "scene": 2,
+    "word": "probability",
+    "start_seconds": 41.84,
+    "end_seconds": 42.52
+  },
+  {
+    "scene": 2,
+    "word": "also",
+    "start_seconds": 42.52,
+    "end_seconds": 42.82
+  },
+  {
+    "scene": 2,
+    "word": "be",
+    "start_seconds": 42.82,
+    "end_seconds": 43.08
+  },
+  {
+    "scene": 2,
+    "word": "exactly",
+    "start_seconds": 43.08,
+    "end_seconds": 43.480000000000004
+  },
+  {
+    "scene": 2,
+    "word": "zero?",
+    "start_seconds": 43.480000000000004,
+    "end_seconds": 43.800000000000004
+  },
+  {
+    "scene": 2,
+    "word": "Choose",
+    "start_seconds": 44.64,
+    "end_seconds": 44.760000000000005
+  },
+  {
+    "scene": 2,
+    "word": "your",
+    "start_seconds": 44.760000000000005,
+    "end_seconds": 44.96
+  },
+  {
+    "scene": 2,
+    "word": "answer",
+    "start_seconds": 44.96,
+    "end_seconds": 45.22
+  },
+  {
+    "scene": 2,
+    "word": "before",
+    "start_seconds": 45.22,
+    "end_seconds": 45.58
+  },
+  {
+    "scene": 2,
+    "word": "continuing.",
+    "start_seconds": 45.58,
+    "end_seconds": 46.14
+  },
+  {
+    "scene": 2,
+    "word": "Explain",
+    "start_seconds": 46.6,
+    "end_seconds": 47.0
+  },
+  {
+    "scene": 2,
+    "word": "which",
+    "start_seconds": 47.0,
+    "end_seconds": 47.28
+  },
+  {
+    "scene": 2,
+    "word": "assumption",
+    "start_seconds": 47.28,
+    "end_seconds": 47.660000000000004
+  },
+  {
+    "scene": 2,
+    "word": "of",
+    "start_seconds": 47.660000000000004,
+    "end_seconds": 47.980000000000004
+  },
+  {
+    "scene": 2,
+    "word": "the",
+    "start_seconds": 47.980000000000004,
+    "end_seconds": 48.08
+  },
+  {
+    "scene": 2,
+    "word": "classical",
+    "start_seconds": 48.08,
+    "end_seconds": 48.400000000000006
+  },
+  {
+    "scene": 2,
+    "word": "picture",
+    "start_seconds": 48.400000000000006,
+    "end_seconds": 48.72
+  },
+  {
+    "scene": 2,
+    "word": "you",
+    "start_seconds": 48.72,
+    "end_seconds": 48.96
+  },
+  {
+    "scene": 2,
+    "word": "are",
+    "start_seconds": 48.96,
+    "end_seconds": 49.06
+  },
+  {
+    "scene": 2,
+    "word": "using.",
+    "start_seconds": 49.06,
+    "end_seconds": 49.32
+  },
+  {
+    "scene": 3,
+    "word": "Quantum",
+    "start_seconds": 56.38666666666667,
+    "end_seconds": 56.76666666666667
+  },
+  {
+    "scene": 3,
+    "word": "mechanics",
+    "start_seconds": 56.76666666666667,
+    "end_seconds": 57.20666666666667
+  },
+  {
+    "scene": 3,
+    "word": "describes",
+    "start_seconds": 57.20666666666667,
+    "end_seconds": 57.66666666666667
+  },
+  {
+    "scene": 3,
+    "word": "a",
+    "start_seconds": 57.66666666666667,
+    "end_seconds": 57.94666666666667
+  },
+  {
+    "scene": 3,
+    "word": "state",
+    "start_seconds": 57.94666666666667,
+    "end_seconds": 58.20666666666667
+  },
+  {
+    "scene": 3,
+    "word": "using",
+    "start_seconds": 58.20666666666667,
+    "end_seconds": 58.46666666666667
+  },
+  {
+    "scene": 3,
+    "word": "a",
+    "start_seconds": 58.46666666666667,
+    "end_seconds": 58.68666666666667
+  },
+  {
+    "scene": 3,
+    "word": "wavefunction.",
+    "start_seconds": 58.68666666666667,
+    "end_seconds": 59.32666666666667
+  },
+  {
+    "scene": 3,
+    "word": "A",
+    "start_seconds": 59.92666666666667,
+    "end_seconds": 60.08666666666667
+  },
+  {
+    "scene": 3,
+    "word": "finite",
+    "start_seconds": 60.08666666666667,
+    "end_seconds": 60.44666666666667
+  },
+  {
+    "scene": 3,
+    "word": "barrier",
+    "start_seconds": 60.44666666666667,
+    "end_seconds": 60.866666666666674
+  },
+  {
+    "scene": 3,
+    "word": "can",
+    "start_seconds": 60.866666666666674,
+    "end_seconds": 61.12666666666667
+  },
+  {
+    "scene": 3,
+    "word": "support",
+    "start_seconds": 61.12666666666667,
+    "end_seconds": 61.50666666666667
+  },
+  {
+    "scene": 3,
+    "word": "a",
+    "start_seconds": 61.50666666666667,
+    "end_seconds": 61.726666666666674
+  },
+  {
+    "scene": 3,
+    "word": "nonzero",
+    "start_seconds": 61.726666666666674,
+    "end_seconds": 62.26666666666667
+  },
+  {
+    "scene": 3,
+    "word": "transmitted",
+    "start_seconds": 62.26666666666667,
+    "end_seconds": 62.80666666666667
+  },
+  {
+    "scene": 3,
+    "word": "probability",
+    "start_seconds": 62.80666666666667,
+    "end_seconds": 63.38666666666667
+  },
+  {
+    "scene": 3,
+    "word": "current.",
+    "start_seconds": 63.38666666666667,
+    "end_seconds": 63.84666666666667
+  },
+  {
+    "scene": 3,
+    "word": "This",
+    "start_seconds": 64.42666666666668,
+    "end_seconds": 64.58666666666667
+  },
+  {
+    "scene": 3,
+    "word": "does",
+    "start_seconds": 64.58666666666667,
+    "end_seconds": 64.74666666666667
+  },
+  {
+    "scene": 3,
+    "word": "not",
+    "start_seconds": 64.74666666666667,
+    "end_seconds": 64.98666666666666
+  },
+  {
+    "scene": 3,
+    "word": "mean",
+    "start_seconds": 64.98666666666666,
+    "end_seconds": 65.18666666666667
+  },
+  {
+    "scene": 3,
+    "word": "the",
+    "start_seconds": 65.18666666666667,
+    "end_seconds": 65.36666666666667
+  },
+  {
+    "scene": 3,
+    "word": "electron",
+    "start_seconds": 65.36666666666667,
+    "end_seconds": 65.78666666666668
+  },
+  {
+    "scene": 3,
+    "word": "secretly",
+    "start_seconds": 65.78666666666668,
+    "end_seconds": 66.16666666666667
+  },
+  {
+    "scene": 3,
+    "word": "climbs",
+    "start_seconds": 66.16666666666667,
+    "end_seconds": 66.66666666666667
+  },
+  {
+    "scene": 3,
+    "word": "over",
+    "start_seconds": 66.66666666666667,
+    "end_seconds": 67.00666666666667
+  },
+  {
+    "scene": 3,
+    "word": "the",
+    "start_seconds": 67.00666666666667,
+    "end_seconds": 67.14666666666668
+  },
+  {
+    "scene": 3,
+    "word": "barrier",
+    "start_seconds": 67.14666666666668,
+    "end_seconds": 67.54666666666667
+  },
+  {
+    "scene": 3,
+    "word": "or",
+    "start_seconds": 67.54666666666667,
+    "end_seconds": 68.04666666666667
+  },
+  {
+    "scene": 3,
+    "word": "follows",
+    "start_seconds": 68.04666666666667,
+    "end_seconds": 68.40666666666667
+  },
+  {
+    "scene": 3,
+    "word": "the",
+    "start_seconds": 68.40666666666667,
+    "end_seconds": 68.62666666666667
+  },
+  {
+    "scene": 3,
+    "word": "curve",
+    "start_seconds": 68.62666666666667,
+    "end_seconds": 68.84666666666666
+  },
+  {
+    "scene": 3,
+    "word": "drawn",
+    "start_seconds": 68.84666666666666,
+    "end_seconds": 69.08666666666667
+  },
+  {
+    "scene": 3,
+    "word": "here.",
+    "start_seconds": 69.08666666666667,
+    "end_seconds": 69.42666666666668
+  },
+  {
+    "scene": 3,
+    "word": "Detection",
+    "start_seconds": 69.86666666666667,
+    "end_seconds": 70.38666666666667
+  },
+  {
+    "scene": 3,
+    "word": "beyond",
+    "start_seconds": 70.38666666666667,
+    "end_seconds": 70.82666666666667
+  },
+  {
+    "scene": 3,
+    "word": "the",
+    "start_seconds": 70.82666666666667,
+    "end_seconds": 71.10666666666667
+  },
+  {
+    "scene": 3,
+    "word": "barrier",
+    "start_seconds": 71.10666666666667,
+    "end_seconds": 71.42666666666668
+  },
+  {
+    "scene": 3,
+    "word": "is",
+    "start_seconds": 71.42666666666668,
+    "end_seconds": 71.68666666666667
+  },
+  {
+    "scene": 3,
+    "word": "an",
+    "start_seconds": 71.68666666666667,
+    "end_seconds": 71.84666666666668
+  },
+  {
+    "scene": 3,
+    "word": "outcome.",
+    "start_seconds": 71.84666666666668,
+    "end_seconds": 72.26666666666668
+  },
+  {
+    "scene": 3,
+    "word": "Transmission",
+    "start_seconds": 73.22666666666667,
+    "end_seconds": 73.22666666666667
+  },
+  {
+    "scene": 3,
+    "word": "predicts",
+    "start_seconds": 73.22666666666667,
+    "end_seconds": 73.74666666666667
+  },
+  {
+    "scene": 3,
+    "word": "how",
+    "start_seconds": 73.74666666666667,
+    "end_seconds": 74.06666666666668
+  },
+  {
+    "scene": 3,
+    "word": "often",
+    "start_seconds": 74.06666666666668,
+    "end_seconds": 74.38666666666667
+  },
+  {
+    "scene": 3,
+    "word": "we",
+    "start_seconds": 74.38666666666667,
+    "end_seconds": 74.58666666666667
+  },
+  {
+    "scene": 3,
+    "word": "expect",
+    "start_seconds": 74.58666666666667,
+    "end_seconds": 74.94666666666667
+  },
+  {
+    "scene": 3,
+    "word": "it.",
+    "start_seconds": 74.94666666666667,
+    "end_seconds": 75.20666666666668
+  },
+  {
+    "scene": 4,
+    "word": "The",
+    "start_seconds": 76.22,
+    "end_seconds": 76.44
+  },
+  {
+    "scene": 4,
+    "word": "cyan",
+    "start_seconds": 76.44,
+    "end_seconds": 76.74
+  },
+  {
+    "scene": 4,
+    "word": "curve",
+    "start_seconds": 76.74,
+    "end_seconds": 77.12
+  },
+  {
+    "scene": 4,
+    "word": "is",
+    "start_seconds": 77.12,
+    "end_seconds": 77.38
+  },
+  {
+    "scene": 4,
+    "word": "the",
+    "start_seconds": 77.38,
+    "end_seconds": 77.56
+  },
+  {
+    "scene": 4,
+    "word": "real",
+    "start_seconds": 77.56,
+    "end_seconds": 77.78
+  },
+  {
+    "scene": 4,
+    "word": "part",
+    "start_seconds": 77.78,
+    "end_seconds": 78.12
+  },
+  {
+    "scene": 4,
+    "word": "of",
+    "start_seconds": 78.12,
+    "end_seconds": 78.34
+  },
+  {
+    "scene": 4,
+    "word": "a",
+    "start_seconds": 78.34,
+    "end_seconds": 78.48
+  },
+  {
+    "scene": 4,
+    "word": "stationary",
+    "start_seconds": 78.48,
+    "end_seconds": 78.84
+  },
+  {
+    "scene": 4,
+    "word": "scattering",
+    "start_seconds": 78.84,
+    "end_seconds": 79.38
+  },
+  {
+    "scene": 4,
+    "word": "wavefunction,",
+    "start_seconds": 79.38,
+    "end_seconds": 80.17999999999999
+  },
+  {
+    "scene": 4,
+    "word": "multiplied",
+    "start_seconds": 80.62,
+    "end_seconds": 81.06
+  },
+  {
+    "scene": 4,
+    "word": "by",
+    "start_seconds": 81.06,
+    "end_seconds": 81.34
+  },
+  {
+    "scene": 4,
+    "word": "its",
+    "start_seconds": 81.34,
+    "end_seconds": 81.5
+  },
+  {
+    "scene": 4,
+    "word": "time",
+    "start_seconds": 81.5,
+    "end_seconds": 81.78
+  },
+  {
+    "scene": 4,
+    "word": "-dependent",
+    "start_seconds": 81.78,
+    "end_seconds": 82.12
+  },
+  {
+    "scene": 4,
+    "word": "phase.",
+    "start_seconds": 82.12,
+    "end_seconds": 82.53999999999999
+  },
+  {
+    "scene": 4,
+    "word": "Gold",
+    "start_seconds": 83.26,
+    "end_seconds": 83.38
+  },
+  {
+    "scene": 4,
+    "word": "shows",
+    "start_seconds": 83.38,
+    "end_seconds": 83.7
+  },
+  {
+    "scene": 4,
+    "word": "its",
+    "start_seconds": 83.7,
+    "end_seconds": 83.9
+  },
+  {
+    "scene": 4,
+    "word": "probability",
+    "start_seconds": 83.9,
+    "end_seconds": 84.34
+  },
+  {
+    "scene": 4,
+    "word": "density.",
+    "start_seconds": 84.34,
+    "end_seconds": 84.94
+  },
+  {
+    "scene": 4,
+    "word": "The",
+    "start_seconds": 85.48,
+    "end_seconds": 85.56
+  },
+  {
+    "scene": 4,
+    "word": "density",
+    "start_seconds": 85.56,
+    "end_seconds": 85.86
+  },
+  {
+    "scene": 4,
+    "word": "is",
+    "start_seconds": 85.86,
+    "end_seconds": 86.2
+  },
+  {
+    "scene": 4,
+    "word": "time",
+    "start_seconds": 86.2,
+    "end_seconds": 86.56
+  },
+  {
+    "scene": 4,
+    "word": "-independent",
+    "start_seconds": 86.56,
+    "end_seconds": 87.0
+  },
+  {
+    "scene": 4,
+    "word": "here.",
+    "start_seconds": 87.0,
+    "end_seconds": 87.4
+  },
+  {
+    "scene": 4,
+    "word": "A",
+    "start_seconds": 87.84,
+    "end_seconds": 88.06
+  },
+  {
+    "scene": 4,
+    "word": "single",
+    "start_seconds": 88.06,
+    "end_seconds": 88.3
+  },
+  {
+    "scene": 4,
+    "word": "detection",
+    "start_seconds": 88.3,
+    "end_seconds": 88.74000000000001
+  },
+  {
+    "scene": 4,
+    "word": "is",
+    "start_seconds": 88.74000000000001,
+    "end_seconds": 89.04
+  },
+  {
+    "scene": 4,
+    "word": "localized,",
+    "start_seconds": 89.04,
+    "end_seconds": 89.54
+  },
+  {
+    "scene": 4,
+    "word": "while",
+    "start_seconds": 89.88000000000001,
+    "end_seconds": 90.2
+  },
+  {
+    "scene": 4,
+    "word": "these",
+    "start_seconds": 90.2,
+    "end_seconds": 90.44
+  },
+  {
+    "scene": 4,
+    "word": "curves",
+    "start_seconds": 90.44,
+    "end_seconds": 90.84
+  },
+  {
+    "scene": 4,
+    "word": "describe",
+    "start_seconds": 90.84,
+    "end_seconds": 91.26
+  },
+  {
+    "scene": 4,
+    "word": "the",
+    "start_seconds": 91.26,
+    "end_seconds": 91.46000000000001
+  },
+  {
+    "scene": 4,
+    "word": "statistics",
+    "start_seconds": 91.46000000000001,
+    "end_seconds": 91.94
+  },
+  {
+    "scene": 4,
+    "word": "of",
+    "start_seconds": 91.94,
+    "end_seconds": 92.26
+  },
+  {
+    "scene": 4,
+    "word": "many",
+    "start_seconds": 92.26,
+    "end_seconds": 92.56
+  },
+  {
+    "scene": 4,
+    "word": "identically",
+    "start_seconds": 92.56,
+    "end_seconds": 93.2
+  },
+  {
+    "scene": 4,
+    "word": "prepared",
+    "start_seconds": 93.2,
+    "end_seconds": 93.58
+  },
+  {
+    "scene": 4,
+    "word": "measurements.",
+    "start_seconds": 93.58,
+    "end_seconds": 94.16
+  },
+  {
+    "scene": 4,
+    "word": "Changing",
+    "start_seconds": 94.84,
+    "end_seconds": 95.06
+  },
+  {
+    "scene": 4,
+    "word": "the",
+    "start_seconds": 95.06,
+    "end_seconds": 95.28
+  },
+  {
+    "scene": 4,
+    "word": "phase",
+    "start_seconds": 95.28,
+    "end_seconds": 95.62
+  },
+  {
+    "scene": 4,
+    "word": "changes",
+    "start_seconds": 95.62,
+    "end_seconds": 96.0
+  },
+  {
+    "scene": 4,
+    "word": "the",
+    "start_seconds": 96.0,
+    "end_seconds": 96.24000000000001
+  },
+  {
+    "scene": 4,
+    "word": "real",
+    "start_seconds": 96.24000000000001,
+    "end_seconds": 96.42
+  },
+  {
+    "scene": 4,
+    "word": "part,",
+    "start_seconds": 96.42,
+    "end_seconds": 96.76
+  },
+  {
+    "scene": 4,
+    "word": "while",
+    "start_seconds": 96.96000000000001,
+    "end_seconds": 97.22
+  },
+  {
+    "scene": 4,
+    "word": "a",
+    "start_seconds": 97.22,
+    "end_seconds": 97.38
+  },
+  {
+    "scene": 4,
+    "word": "stationary",
+    "start_seconds": 97.38,
+    "end_seconds": 97.78
+  },
+  {
+    "scene": 4,
+    "word": "probability",
+    "start_seconds": 97.78,
+    "end_seconds": 98.38
+  },
+  {
+    "scene": 4,
+    "word": "density",
+    "start_seconds": 98.38,
+    "end_seconds": 98.94
+  },
+  {
+    "scene": 4,
+    "word": "stays",
+    "start_seconds": 98.94,
+    "end_seconds": 99.32000000000001
+  },
+  {
+    "scene": 4,
+    "word": "fixed.",
+    "start_seconds": 99.32000000000001,
+    "end_seconds": 99.64
+  },
+  {
+    "scene": 5,
+    "word": "On",
+    "start_seconds": 101.22,
+    "end_seconds": 101.44
+  },
+  {
+    "scene": 5,
+    "word": "the",
+    "start_seconds": 101.44,
+    "end_seconds": 101.58
+  },
+  {
+    "scene": 5,
+    "word": "left,",
+    "start_seconds": 101.58,
+    "end_seconds": 101.86
+  },
+  {
+    "scene": 5,
+    "word": "an",
+    "start_seconds": 102.06,
+    "end_seconds": 102.16
+  },
+  {
+    "scene": 5,
+    "word": "incoming",
+    "start_seconds": 102.16,
+    "end_seconds": 102.58
+  },
+  {
+    "scene": 5,
+    "word": "wave",
+    "start_seconds": 102.58,
+    "end_seconds": 102.92
+  },
+  {
+    "scene": 5,
+    "word": "and",
+    "start_seconds": 102.92,
+    "end_seconds": 103.16
+  },
+  {
+    "scene": 5,
+    "word": "a",
+    "start_seconds": 103.16,
+    "end_seconds": 103.26
+  },
+  {
+    "scene": 5,
+    "word": "reflected",
+    "start_seconds": 103.26,
+    "end_seconds": 103.62
+  },
+  {
+    "scene": 5,
+    "word": "wave",
+    "start_seconds": 103.62,
+    "end_seconds": 104.03999999999999
+  },
+  {
+    "scene": 5,
+    "word": "overlap.",
+    "start_seconds": 104.03999999999999,
+    "end_seconds": 104.52
+  },
+  {
+    "scene": 5,
+    "word": "Their",
+    "start_seconds": 105.1,
+    "end_seconds": 105.28
+  },
+  {
+    "scene": 5,
+    "word": "interference",
+    "start_seconds": 105.28,
+    "end_seconds": 105.76
+  },
+  {
+    "scene": 5,
+    "word": "makes",
+    "start_seconds": 105.76,
+    "end_seconds": 106.1
+  },
+  {
+    "scene": 5,
+    "word": "the",
+    "start_seconds": 106.1,
+    "end_seconds": 106.3
+  },
+  {
+    "scene": 5,
+    "word": "density",
+    "start_seconds": 106.3,
+    "end_seconds": 106.64
+  },
+  {
+    "scene": 5,
+    "word": "ripple.",
+    "start_seconds": 106.64,
+    "end_seconds": 106.92
+  },
+  {
+    "scene": 5,
+    "word": "On",
+    "start_seconds": 107.38,
+    "end_seconds": 107.52
+  },
+  {
+    "scene": 5,
+    "word": "the",
+    "start_seconds": 107.52,
+    "end_seconds": 107.64
+  },
+  {
+    "scene": 5,
+    "word": "right,",
+    "start_seconds": 107.64,
+    "end_seconds": 107.92
+  },
+  {
+    "scene": 5,
+    "word": "only",
+    "start_seconds": 108.44,
+    "end_seconds": 108.44
+  },
+  {
+    "scene": 5,
+    "word": "an",
+    "start_seconds": 108.44,
+    "end_seconds": 108.64
+  },
+  {
+    "scene": 5,
+    "word": "outgoing",
+    "start_seconds": 108.64,
+    "end_seconds": 109.0
+  },
+  {
+    "scene": 5,
+    "word": "wave",
+    "start_seconds": 109.0,
+    "end_seconds": 109.34
+  },
+  {
+    "scene": 5,
+    "word": "is",
+    "start_seconds": 109.34,
+    "end_seconds": 109.52
+  },
+  {
+    "scene": 5,
+    "word": "present.",
+    "start_seconds": 109.52,
+    "end_seconds": 109.86
+  },
+  {
+    "scene": 5,
+    "word": "Our",
+    "start_seconds": 110.58,
+    "end_seconds": 110.7
+  },
+  {
+    "scene": 5,
+    "word": "incident",
+    "start_seconds": 110.7,
+    "end_seconds": 111.02
+  },
+  {
+    "scene": 5,
+    "word": "amplitude",
+    "start_seconds": 111.02,
+    "end_seconds": 111.56
+  },
+  {
+    "scene": 5,
+    "word": "is",
+    "start_seconds": 111.56,
+    "end_seconds": 111.84
+  },
+  {
+    "scene": 5,
+    "word": "1,",
+    "start_seconds": 111.84,
+    "end_seconds": 112.1
+  },
+  {
+    "scene": 5,
+    "word": "so",
+    "start_seconds": 112.3,
+    "end_seconds": 112.53999999999999
+  },
+  {
+    "scene": 5,
+    "word": "these",
+    "start_seconds": 112.53999999999999,
+    "end_seconds": 112.72
+  },
+  {
+    "scene": 5,
+    "word": "scattering",
+    "start_seconds": 112.72,
+    "end_seconds": 113.14
+  },
+  {
+    "scene": 5,
+    "word": "states",
+    "start_seconds": 113.14,
+    "end_seconds": 113.56
+  },
+  {
+    "scene": 5,
+    "word": "are",
+    "start_seconds": 113.56,
+    "end_seconds": 113.78
+  },
+  {
+    "scene": 5,
+    "word": "not",
+    "start_seconds": 113.78,
+    "end_seconds": 114.0
+  },
+  {
+    "scene": 5,
+    "word": "normalized",
+    "start_seconds": 114.0,
+    "end_seconds": 114.5
+  },
+  {
+    "scene": 5,
+    "word": "to",
+    "start_seconds": 114.5,
+    "end_seconds": 114.92
+  },
+  {
+    "scene": 5,
+    "word": "1",
+    "start_seconds": 114.92,
+    "end_seconds": 115.18
+  },
+  {
+    "scene": 5,
+    "word": "over",
+    "start_seconds": 115.18,
+    "end_seconds": 115.5
+  },
+  {
+    "scene": 5,
+    "word": "all",
+    "start_seconds": 115.5,
+    "end_seconds": 115.74
+  },
+  {
+    "scene": 5,
+    "word": "space.",
+    "start_seconds": 115.74,
+    "end_seconds": 116.02
+  },
+  {
+    "scene": 5,
+    "word": "Transmission",
+    "start_seconds": 116.62,
+    "end_seconds": 117.12
+  },
+  {
+    "scene": 5,
+    "word": "is",
+    "start_seconds": 117.12,
+    "end_seconds": 117.54
+  },
+  {
+    "scene": 5,
+    "word": "a",
+    "start_seconds": 117.54,
+    "end_seconds": 117.68
+  },
+  {
+    "scene": 5,
+    "word": "ratio",
+    "start_seconds": 117.68,
+    "end_seconds": 117.98
+  },
+  {
+    "scene": 5,
+    "word": "of",
+    "start_seconds": 117.98,
+    "end_seconds": 118.32000000000001
+  },
+  {
+    "scene": 5,
+    "word": "probability",
+    "start_seconds": 118.32000000000001,
+    "end_seconds": 118.72
+  },
+  {
+    "scene": 5,
+    "word": "currents.",
+    "start_seconds": 118.72,
+    "end_seconds": 119.30000000000001
+  },
+  {
+    "scene": 5,
+    "word": "Interference",
+    "start_seconds": 119.94,
+    "end_seconds": 120.52000000000001
+  },
+  {
+    "scene": 5,
+    "word": "changes",
+    "start_seconds": 120.52000000000001,
+    "end_seconds": 120.92
+  },
+  {
+    "scene": 5,
+    "word": "the",
+    "start_seconds": 120.92,
+    "end_seconds": 121.10000000000001
+  },
+  {
+    "scene": 5,
+    "word": "density",
+    "start_seconds": 121.10000000000001,
+    "end_seconds": 121.36
+  },
+  {
+    "scene": 5,
+    "word": "on",
+    "start_seconds": 121.36,
+    "end_seconds": 121.68
+  },
+  {
+    "scene": 5,
+    "word": "the",
+    "start_seconds": 121.68,
+    "end_seconds": 121.80000000000001
+  },
+  {
+    "scene": 5,
+    "word": "left",
+    "start_seconds": 121.80000000000001,
+    "end_seconds": 122.06
+  },
+  {
+    "scene": 5,
+    "word": "while",
+    "start_seconds": 122.06,
+    "end_seconds": 122.62
+  },
+  {
+    "scene": 5,
+    "word": "the",
+    "start_seconds": 122.62,
+    "end_seconds": 122.82000000000001
+  },
+  {
+    "scene": 5,
+    "word": "net",
+    "start_seconds": 122.82000000000001,
+    "end_seconds": 123.08
+  },
+  {
+    "scene": 5,
+    "word": "probability",
+    "start_seconds": 123.08,
+    "end_seconds": 123.5
+  },
+  {
+    "scene": 5,
+    "word": "current",
+    "start_seconds": 123.5,
+    "end_seconds": 123.92
+  },
+  {
+    "scene": 5,
+    "word": "remains",
+    "start_seconds": 123.92,
+    "end_seconds": 124.22
+  },
+  {
+    "scene": 5,
+    "word": "constant.",
+    "start_seconds": 124.22,
+    "end_seconds": 124.72
+  },
+  {
+    "scene": 6,
+    "word": "Pause",
+    "start_seconds": 126.22,
+    "end_seconds": 126.67999999999999
+  },
+  {
+    "scene": 6,
+    "word": "and",
+    "start_seconds": 126.67999999999999,
+    "end_seconds": 126.94
+  },
+  {
+    "scene": 6,
+    "word": "predict.",
+    "start_seconds": 126.94,
+    "end_seconds": 127.22
+  },
+  {
+    "scene": 6,
+    "word": "At",
+    "start_seconds": 127.86,
+    "end_seconds": 127.96
+  },
+  {
+    "scene": 6,
+    "word": "each",
+    "start_seconds": 127.96,
+    "end_seconds": 128.2
+  },
+  {
+    "scene": 6,
+    "word": "edge",
+    "start_seconds": 128.2,
+    "end_seconds": 128.46
+  },
+  {
+    "scene": 6,
+    "word": "of",
+    "start_seconds": 128.46,
+    "end_seconds": 128.6
+  },
+  {
+    "scene": 6,
+    "word": "this",
+    "start_seconds": 128.6,
+    "end_seconds": 128.76
+  },
+  {
+    "scene": 6,
+    "word": "finite",
+    "start_seconds": 128.76,
+    "end_seconds": 129.14
+  },
+  {
+    "scene": 6,
+    "word": "barrier,",
+    "start_seconds": 129.14,
+    "end_seconds": 129.62
+  },
+  {
+    "scene": 6,
+    "word": "which",
+    "start_seconds": 129.88,
+    "end_seconds": 130.04
+  },
+  {
+    "scene": 6,
+    "word": "quantities",
+    "start_seconds": 130.04,
+    "end_seconds": 130.52
+  },
+  {
+    "scene": 6,
+    "word": "must",
+    "start_seconds": 130.52,
+    "end_seconds": 130.8
+  },
+  {
+    "scene": 6,
+    "word": "be",
+    "start_seconds": 130.8,
+    "end_seconds": 130.98
+  },
+  {
+    "scene": 6,
+    "word": "continuous?",
+    "start_seconds": 130.98,
+    "end_seconds": 131.42
+  },
+  {
+    "scene": 6,
+    "word": "The",
+    "start_seconds": 131.94,
+    "end_seconds": 132.06
+  },
+  {
+    "scene": 6,
+    "word": "wavefunction",
+    "start_seconds": 132.06,
+    "end_seconds": 132.58
+  },
+  {
+    "scene": 6,
+    "word": "alone?",
+    "start_seconds": 132.58,
+    "end_seconds": 132.9
+  },
+  {
+    "scene": 6,
+    "word": "The",
+    "start_seconds": 133.35999999999999,
+    "end_seconds": 133.44
+  },
+  {
+    "scene": 6,
+    "word": "wavefunction",
+    "start_seconds": 133.44,
+    "end_seconds": 134.0
+  },
+  {
+    "scene": 6,
+    "word": "and",
+    "start_seconds": 134.0,
+    "end_seconds": 134.18
+  },
+  {
+    "scene": 6,
+    "word": "its",
+    "start_seconds": 134.18,
+    "end_seconds": 134.3
+  },
+  {
+    "scene": 6,
+    "word": "spatial",
+    "start_seconds": 134.3,
+    "end_seconds": 134.64
+  },
+  {
+    "scene": 6,
+    "word": "derivative?",
+    "start_seconds": 134.64,
+    "end_seconds": 134.96
+  },
+  {
+    "scene": 6,
+    "word": "Or",
+    "start_seconds": 135.46,
+    "end_seconds": 135.66
+  },
+  {
+    "scene": 6,
+    "word": "the",
+    "start_seconds": 135.66,
+    "end_seconds": 135.76
+  },
+  {
+    "scene": 6,
+    "word": "potential",
+    "start_seconds": 135.76,
+    "end_seconds": 136.07999999999998
+  },
+  {
+    "scene": 6,
+    "word": "itself?",
+    "start_seconds": 136.07999999999998,
+    "end_seconds": 136.44
+  },
+  {
+    "scene": 6,
+    "word": "Our",
+    "start_seconds": 137.06,
+    "end_seconds": 137.2
+  },
+  {
+    "scene": 6,
+    "word": "model",
+    "start_seconds": 137.2,
+    "end_seconds": 137.46
+  },
+  {
+    "scene": 6,
+    "word": "has",
+    "start_seconds": 137.46,
+    "end_seconds": 137.66
+  },
+  {
+    "scene": 6,
+    "word": "a",
+    "start_seconds": 137.66,
+    "end_seconds": 137.92
+  },
+  {
+    "scene": 6,
+    "word": "constant",
+    "start_seconds": 137.92,
+    "end_seconds": 138.16
+  },
+  {
+    "scene": 6,
+    "word": "electron",
+    "start_seconds": 138.16,
+    "end_seconds": 138.72
+  },
+  {
+    "scene": 6,
+    "word": "mass",
+    "start_seconds": 138.72,
+    "end_seconds": 139.04
+  },
+  {
+    "scene": 6,
+    "word": "and",
+    "start_seconds": 139.04,
+    "end_seconds": 139.3
+  },
+  {
+    "scene": 6,
+    "word": "no",
+    "start_seconds": 139.3,
+    "end_seconds": 139.56
+  },
+  {
+    "scene": 6,
+    "word": "delta",
+    "start_seconds": 139.56,
+    "end_seconds": 139.72
+  },
+  {
+    "scene": 6,
+    "word": "function",
+    "start_seconds": 139.72,
+    "end_seconds": 140.14
+  },
+  {
+    "scene": 6,
+    "word": "potential.",
+    "start_seconds": 140.14,
+    "end_seconds": 140.5
+  },
+  {
+    "scene": 6,
+    "word": "Keep",
+    "start_seconds": 141.13,
+    "end_seconds": 141.39
+  },
+  {
+    "scene": 6,
+    "word": "those",
+    "start_seconds": 141.39,
+    "end_seconds": 141.67
+  },
+  {
+    "scene": 6,
+    "word": "assumptions",
+    "start_seconds": 141.67,
+    "end_seconds": 142.10999999999999
+  },
+  {
+    "scene": 6,
+    "word": "in",
+    "start_seconds": 142.10999999999999,
+    "end_seconds": 142.43
+  },
+  {
+    "scene": 6,
+    "word": "your",
+    "start_seconds": 142.43,
+    "end_seconds": 142.57
+  },
+  {
+    "scene": 6,
+    "word": "reasoning.",
+    "start_seconds": 142.57,
+    "end_seconds": 142.91
+  },
+  {
+    "scene": 7,
+    "word": "Both",
+    "start_seconds": 151.22,
+    "end_seconds": 151.48
+  },
+  {
+    "scene": 7,
+    "word": "the",
+    "start_seconds": 151.48,
+    "end_seconds": 151.68
+  },
+  {
+    "scene": 7,
+    "word": "wavefunction",
+    "start_seconds": 151.68,
+    "end_seconds": 152.24
+  },
+  {
+    "scene": 7,
+    "word": "and",
+    "start_seconds": 152.24,
+    "end_seconds": 152.62
+  },
+  {
+    "scene": 7,
+    "word": "its",
+    "start_seconds": 152.62,
+    "end_seconds": 152.78
+  },
+  {
+    "scene": 7,
+    "word": "first",
+    "start_seconds": 152.78,
+    "end_seconds": 153.06
+  },
+  {
+    "scene": 7,
+    "word": "spatial",
+    "start_seconds": 153.06,
+    "end_seconds": 153.46
+  },
+  {
+    "scene": 7,
+    "word": "derivative",
+    "start_seconds": 153.46,
+    "end_seconds": 153.9
+  },
+  {
+    "scene": 7,
+    "word": "are",
+    "start_seconds": 153.9,
+    "end_seconds": 154.16
+  },
+  {
+    "scene": 7,
+    "word": "continuous",
+    "start_seconds": 154.16,
+    "end_seconds": 154.64
+  },
+  {
+    "scene": 7,
+    "word": "at",
+    "start_seconds": 154.64,
+    "end_seconds": 155.0
+  },
+  {
+    "scene": 7,
+    "word": "each",
+    "start_seconds": 155.0,
+    "end_seconds": 155.2
+  },
+  {
+    "scene": 7,
+    "word": "edge.",
+    "start_seconds": 155.2,
+    "end_seconds": 155.56
+  },
+  {
+    "scene": 7,
+    "word": "There",
+    "start_seconds": 156.3,
+    "end_seconds": 156.4
+  },
+  {
+    "scene": 7,
+    "word": "are",
+    "start_seconds": 156.4,
+    "end_seconds": 156.54
+  },
+  {
+    "scene": 7,
+    "word": "four",
+    "start_seconds": 156.54,
+    "end_seconds": 156.8
+  },
+  {
+    "scene": 7,
+    "word": "matching",
+    "start_seconds": 156.8,
+    "end_seconds": 157.16
+  },
+  {
+    "scene": 7,
+    "word": "equations",
+    "start_seconds": 157.16,
+    "end_seconds": 157.66
+  },
+  {
+    "scene": 7,
+    "word": "for",
+    "start_seconds": 157.66,
+    "end_seconds": 158.0
+  },
+  {
+    "scene": 7,
+    "word": "four",
+    "start_seconds": 158.0,
+    "end_seconds": 158.32
+  },
+  {
+    "scene": 7,
+    "word": "unknown",
+    "start_seconds": 158.32,
+    "end_seconds": 158.72
+  },
+  {
+    "scene": 7,
+    "word": "amplitudes.",
+    "start_seconds": 158.72,
+    "end_seconds": 159.36
+  },
+  {
+    "scene": 7,
+    "word": "The",
+    "start_seconds": 159.96,
+    "end_seconds": 160.06
+  },
+  {
+    "scene": 7,
+    "word": "potential",
+    "start_seconds": 160.06,
+    "end_seconds": 160.5
+  },
+  {
+    "scene": 7,
+    "word": "may",
+    "start_seconds": 160.5,
+    "end_seconds": 161.0
+  },
+  {
+    "scene": 7,
+    "word": "jump.",
+    "start_seconds": 161.0,
+    "end_seconds": 161.3
+  },
+  {
+    "scene": 7,
+    "word": "For",
+    "start_seconds": 161.8,
+    "end_seconds": 162.02
+  },
+  {
+    "scene": 7,
+    "word": "interfaces",
+    "start_seconds": 162.02,
+    "end_seconds": 162.48000000000002
+  },
+  {
+    "scene": 7,
+    "word": "described",
+    "start_seconds": 162.48000000000002,
+    "end_seconds": 163.02
+  },
+  {
+    "scene": 7,
+    "word": "by",
+    "start_seconds": 163.02,
+    "end_seconds": 163.32000000000002
+  },
+  {
+    "scene": 7,
+    "word": "different",
+    "start_seconds": 163.32000000000002,
+    "end_seconds": 163.64000000000001
+  },
+  {
+    "scene": 7,
+    "word": "effective",
+    "start_seconds": 163.64000000000001,
+    "end_seconds": 164.04000000000002
+  },
+  {
+    "scene": 7,
+    "word": "masses,",
+    "start_seconds": 164.04000000000002,
+    "end_seconds": 164.48000000000002
+  },
+  {
+    "scene": 7,
+    "word": "the",
+    "start_seconds": 165.0,
+    "end_seconds": 165.10000000000002
+  },
+  {
+    "scene": 7,
+    "word": "matching",
+    "start_seconds": 165.10000000000002,
+    "end_seconds": 165.4
+  },
+  {
+    "scene": 7,
+    "word": "law",
+    "start_seconds": 165.4,
+    "end_seconds": 165.68
+  },
+  {
+    "scene": 7,
+    "word": "needs",
+    "start_seconds": 165.68,
+    "end_seconds": 165.88000000000002
+  },
+  {
+    "scene": 7,
+    "word": "a",
+    "start_seconds": 165.88000000000002,
+    "end_seconds": 166.08
+  },
+  {
+    "scene": 7,
+    "word": "suitable",
+    "start_seconds": 166.08,
+    "end_seconds": 166.4
+  },
+  {
+    "scene": 7,
+    "word": "effective",
+    "start_seconds": 166.4,
+    "end_seconds": 166.88000000000002
+  },
+  {
+    "scene": 7,
+    "word": "mass",
+    "start_seconds": 166.88000000000002,
+    "end_seconds": 167.26000000000002
+  },
+  {
+    "scene": 7,
+    "word": "model.",
+    "start_seconds": 167.26000000000002,
+    "end_seconds": 167.60000000000002
+  },
+  {
+    "scene": 7,
+    "word": "Do",
+    "start_seconds": 168.14000000000001,
+    "end_seconds": 168.22
+  },
+  {
+    "scene": 7,
+    "word": "not",
+    "start_seconds": 168.22,
+    "end_seconds": 168.4
+  },
+  {
+    "scene": 7,
+    "word": "copy",
+    "start_seconds": 168.4,
+    "end_seconds": 168.72
+  },
+  {
+    "scene": 7,
+    "word": "these",
+    "start_seconds": 168.72,
+    "end_seconds": 168.92000000000002
+  },
+  {
+    "scene": 7,
+    "word": "conditions",
+    "start_seconds": 168.92000000000002,
+    "end_seconds": 169.36
+  },
+  {
+    "scene": 7,
+    "word": "without",
+    "start_seconds": 169.36,
+    "end_seconds": 169.72
+  },
+  {
+    "scene": 7,
+    "word": "checking",
+    "start_seconds": 169.72,
+    "end_seconds": 170.04000000000002
+  },
+  {
+    "scene": 7,
+    "word": "its",
+    "start_seconds": 170.04000000000002,
+    "end_seconds": 170.24
+  },
+  {
+    "scene": 7,
+    "word": "assumptions.",
+    "start_seconds": 170.24,
+    "end_seconds": 170.66000000000003
+  },
+  {
+    "scene": 7,
+    "word": "Integrating",
+    "start_seconds": 171.52,
+    "end_seconds": 171.96
+  },
+  {
+    "scene": 7,
+    "word": "the",
+    "start_seconds": 171.96,
+    "end_seconds": 172.12
+  },
+  {
+    "scene": 7,
+    "word": "equation",
+    "start_seconds": 172.12,
+    "end_seconds": 172.54000000000002
+  },
+  {
+    "scene": 7,
+    "word": "across",
+    "start_seconds": 172.54000000000002,
+    "end_seconds": 172.9
+  },
+  {
+    "scene": 7,
+    "word": "a",
+    "start_seconds": 172.9,
+    "end_seconds": 173.14000000000001
+  },
+  {
+    "scene": 7,
+    "word": "shrinking",
+    "start_seconds": 173.14000000000001,
+    "end_seconds": 173.4
+  },
+  {
+    "scene": 7,
+    "word": "interval",
+    "start_seconds": 173.4,
+    "end_seconds": 173.92000000000002
+  },
+  {
+    "scene": 7,
+    "word": "gives",
+    "start_seconds": 173.92000000000002,
+    "end_seconds": 174.28
+  },
+  {
+    "scene": 7,
+    "word": "the",
+    "start_seconds": 174.28,
+    "end_seconds": 174.48000000000002
+  },
+  {
+    "scene": 7,
+    "word": "derivative",
+    "start_seconds": 174.48000000000002,
+    "end_seconds": 174.76000000000002
+  },
+  {
+    "scene": 7,
+    "word": "condition",
+    "start_seconds": 174.76000000000002,
+    "end_seconds": 175.26000000000002
+  },
+  {
+    "scene": 7,
+    "word": "for",
+    "start_seconds": 175.26000000000002,
+    "end_seconds": 175.60000000000002
+  },
+  {
+    "scene": 7,
+    "word": "a",
+    "start_seconds": 175.60000000000002,
+    "end_seconds": 175.76000000000002
+  },
+  {
+    "scene": 7,
+    "word": "finite",
+    "start_seconds": 175.76000000000002,
+    "end_seconds": 176.06
+  },
+  {
+    "scene": 7,
+    "word": "step.",
+    "start_seconds": 176.06,
+    "end_seconds": 176.42000000000002
+  },
+  {
+    "scene": 8,
+    "word": "The",
+    "start_seconds": 177.55333333333334,
+    "end_seconds": 177.73333333333335
+  },
+  {
+    "scene": 8,
+    "word": "time",
+    "start_seconds": 177.73333333333335,
+    "end_seconds": 177.97333333333333
+  },
+  {
+    "scene": 8,
+    "word": "independent",
+    "start_seconds": 177.97333333333333,
+    "end_seconds": 178.53333333333333
+  },
+  {
+    "scene": 8,
+    "word": "Schrödinger",
+    "start_seconds": 178.53333333333333,
+    "end_seconds": 179.23333333333335
+  },
+  {
+    "scene": 8,
+    "word": "equation",
+    "start_seconds": 179.23333333333335,
+    "end_seconds": 179.63333333333335
+  },
+  {
+    "scene": 8,
+    "word": "relates",
+    "start_seconds": 179.63333333333335,
+    "end_seconds": 180.23333333333335
+  },
+  {
+    "scene": 8,
+    "word": "the",
+    "start_seconds": 180.23333333333335,
+    "end_seconds": 180.45333333333335
+  },
+  {
+    "scene": 8,
+    "word": "curvature",
+    "start_seconds": 180.45333333333335,
+    "end_seconds": 180.83333333333334
+  },
+  {
+    "scene": 8,
+    "word": "of",
+    "start_seconds": 180.83333333333334,
+    "end_seconds": 181.03333333333333
+  },
+  {
+    "scene": 8,
+    "word": "the",
+    "start_seconds": 181.03333333333333,
+    "end_seconds": 181.15333333333334
+  },
+  {
+    "scene": 8,
+    "word": "wavefunction",
+    "start_seconds": 181.15333333333334,
+    "end_seconds": 181.59333333333333
+  },
+  {
+    "scene": 8,
+    "word": "to",
+    "start_seconds": 181.59333333333333,
+    "end_seconds": 181.93333333333334
+  },
+  {
+    "scene": 8,
+    "word": "the",
+    "start_seconds": 181.93333333333334,
+    "end_seconds": 182.07333333333335
+  },
+  {
+    "scene": 8,
+    "word": "difference",
+    "start_seconds": 182.07333333333335,
+    "end_seconds": 182.35333333333335
+  },
+  {
+    "scene": 8,
+    "word": "between",
+    "start_seconds": 182.35333333333335,
+    "end_seconds": 182.73333333333335
+  },
+  {
+    "scene": 8,
+    "word": "potential",
+    "start_seconds": 182.73333333333335,
+    "end_seconds": 183.15333333333334
+  },
+  {
+    "scene": 8,
+    "word": "and",
+    "start_seconds": 183.15333333333334,
+    "end_seconds": 183.55333333333334
+  },
+  {
+    "scene": 8,
+    "word": "total",
+    "start_seconds": 183.55333333333334,
+    "end_seconds": 183.83333333333334
+  },
+  {
+    "scene": 8,
+    "word": "energy.",
+    "start_seconds": 183.83333333333334,
+    "end_seconds": 184.33333333333334
+  },
+  {
+    "scene": 8,
+    "word": "Here,",
+    "start_seconds": 185.13333333333335,
+    "end_seconds": 185.37333333333333
+  },
+  {
+    "scene": 8,
+    "word": "h",
+    "start_seconds": 185.99333333333334,
+    "end_seconds": 186.01333333333335
+  },
+  {
+    "scene": 8,
+    "word": "-bar",
+    "start_seconds": 186.01333333333335,
+    "end_seconds": 186.27333333333334
+  },
+  {
+    "scene": 8,
+    "word": "is",
+    "start_seconds": 186.27333333333334,
+    "end_seconds": 186.51333333333335
+  },
+  {
+    "scene": 8,
+    "word": "Planck's",
+    "start_seconds": 186.51333333333335,
+    "end_seconds": 186.97333333333333
+  },
+  {
+    "scene": 8,
+    "word": "constant",
+    "start_seconds": 186.97333333333333,
+    "end_seconds": 187.35333333333335
+  },
+  {
+    "scene": 8,
+    "word": "divided",
+    "start_seconds": 187.35333333333335,
+    "end_seconds": 187.81333333333333
+  },
+  {
+    "scene": 8,
+    "word": "by",
+    "start_seconds": 187.81333333333333,
+    "end_seconds": 188.07333333333335
+  },
+  {
+    "scene": 8,
+    "word": "2",
+    "start_seconds": 188.07333333333335,
+    "end_seconds": 188.31333333333333
+  },
+  {
+    "scene": 8,
+    "word": "pi.",
+    "start_seconds": 188.31333333333333,
+    "end_seconds": 188.55333333333334
+  },
+  {
+    "scene": 8,
+    "word": "Outside",
+    "start_seconds": 189.21333333333334,
+    "end_seconds": 189.45333333333335
+  },
+  {
+    "scene": 8,
+    "word": "the",
+    "start_seconds": 189.45333333333335,
+    "end_seconds": 189.67333333333335
+  },
+  {
+    "scene": 8,
+    "word": "barrier,",
+    "start_seconds": 189.67333333333335,
+    "end_seconds": 190.07333333333335
+  },
+  {
+    "scene": 8,
+    "word": "the",
+    "start_seconds": 190.39333333333335,
+    "end_seconds": 190.53333333333333
+  },
+  {
+    "scene": 8,
+    "word": "solutions",
+    "start_seconds": 190.53333333333333,
+    "end_seconds": 190.91333333333336
+  },
+  {
+    "scene": 8,
+    "word": "oscillate.",
+    "start_seconds": 190.91333333333336,
+    "end_seconds": 191.61333333333334
+  },
+  {
+    "scene": 8,
+    "word": "Inside,",
+    "start_seconds": 192.01333333333335,
+    "end_seconds": 192.51333333333335
+  },
+  {
+    "scene": 8,
+    "word": "where",
+    "start_seconds": 192.57333333333335,
+    "end_seconds": 192.83333333333334
+  },
+  {
+    "scene": 8,
+    "word": "the",
+    "start_seconds": 192.83333333333334,
+    "end_seconds": 192.99333333333334
+  },
+  {
+    "scene": 8,
+    "word": "energy",
+    "start_seconds": 192.99333333333334,
+    "end_seconds": 193.25333333333336
+  },
+  {
+    "scene": 8,
+    "word": "is",
+    "start_seconds": 193.25333333333336,
+    "end_seconds": 193.47333333333336
+  },
+  {
+    "scene": 8,
+    "word": "lower",
+    "start_seconds": 193.47333333333336,
+    "end_seconds": 193.73333333333335
+  },
+  {
+    "scene": 8,
+    "word": "than",
+    "start_seconds": 193.73333333333335,
+    "end_seconds": 194.01333333333335
+  },
+  {
+    "scene": 8,
+    "word": "the",
+    "start_seconds": 194.01333333333335,
+    "end_seconds": 194.13333333333335
+  },
+  {
+    "scene": 8,
+    "word": "potential,",
+    "start_seconds": 194.13333333333335,
+    "end_seconds": 194.57333333333335
+  },
+  {
+    "scene": 8,
+    "word": "the",
+    "start_seconds": 195.17333333333335,
+    "end_seconds": 195.27333333333334
+  },
+  {
+    "scene": 8,
+    "word": "solutions",
+    "start_seconds": 195.27333333333334,
+    "end_seconds": 195.71333333333334
+  },
+  {
+    "scene": 8,
+    "word": "are",
+    "start_seconds": 195.71333333333334,
+    "end_seconds": 196.09333333333336
+  },
+  {
+    "scene": 8,
+    "word": "exponentials.",
+    "start_seconds": 196.09333333333336,
+    "end_seconds": 196.75333333333336
+  },
+  {
+    "scene": 8,
+    "word": "The",
+    "start_seconds": 197.57333333333335,
+    "end_seconds": 197.71333333333334
+  },
+  {
+    "scene": 8,
+    "word": "decay",
+    "start_seconds": 197.71333333333334,
+    "end_seconds": 198.07333333333335
+  },
+  {
+    "scene": 8,
+    "word": "constant",
+    "start_seconds": 198.07333333333335,
+    "end_seconds": 198.61333333333334
+  },
+  {
+    "scene": 8,
+    "word": "kappa",
+    "start_seconds": 198.61333333333334,
+    "end_seconds": 198.95333333333335
+  },
+  {
+    "scene": 8,
+    "word": "has",
+    "start_seconds": 198.95333333333335,
+    "end_seconds": 199.27333333333334
+  },
+  {
+    "scene": 8,
+    "word": "units",
+    "start_seconds": 199.27333333333334,
+    "end_seconds": 199.61333333333334
+  },
+  {
+    "scene": 8,
+    "word": "of",
+    "start_seconds": 199.61333333333334,
+    "end_seconds": 199.89333333333335
+  },
+  {
+    "scene": 8,
+    "word": "inverse",
+    "start_seconds": 199.89333333333335,
+    "end_seconds": 200.21333333333334
+  },
+  {
+    "scene": 8,
+    "word": "length.",
+    "start_seconds": 200.21333333333334,
+    "end_seconds": 200.57333333333335
+  },
+  {
+    "scene": 8,
+    "word": "Notice",
+    "start_seconds": 201.55333333333334,
+    "end_seconds": 201.69333333333336
+  },
+  {
+    "scene": 8,
+    "word": "how",
+    "start_seconds": 201.69333333333336,
+    "end_seconds": 201.95333333333335
+  },
+  {
+    "scene": 8,
+    "word": "the",
+    "start_seconds": 201.95333333333335,
+    "end_seconds": 202.11333333333334
+  },
+  {
+    "scene": 8,
+    "word": "sign",
+    "start_seconds": 202.11333333333334,
+    "end_seconds": 202.33333333333334
+  },
+  {
+    "scene": 8,
+    "word": "of",
+    "start_seconds": 202.33333333333334,
+    "end_seconds": 202.49333333333334
+  },
+  {
+    "scene": 8,
+    "word": "the",
+    "start_seconds": 202.49333333333334,
+    "end_seconds": 202.61333333333334
+  },
+  {
+    "scene": 8,
+    "word": "curvature",
+    "start_seconds": 202.61333333333334,
+    "end_seconds": 203.03333333333336
+  },
+  {
+    "scene": 8,
+    "word": "distinguishes",
+    "start_seconds": 203.03333333333336,
+    "end_seconds": 203.61333333333334
+  },
+  {
+    "scene": 8,
+    "word": "the",
+    "start_seconds": 203.61333333333334,
+    "end_seconds": 204.01333333333335
+  },
+  {
+    "scene": 8,
+    "word": "oscillatory",
+    "start_seconds": 204.01333333333335,
+    "end_seconds": 204.73333333333335
+  },
+  {
+    "scene": 8,
+    "word": "and",
+    "start_seconds": 204.73333333333335,
+    "end_seconds": 204.93333333333334
+  },
+  {
+    "scene": 8,
+    "word": "exponential",
+    "start_seconds": 204.93333333333334,
+    "end_seconds": 205.45333333333335
+  },
+  {
+    "scene": 8,
+    "word": "regions.",
+    "start_seconds": 205.45333333333335,
+    "end_seconds": 205.93333333333334
+  },
+  {
+    "scene": 9,
+    "word": "A",
+    "start_seconds": 207.32000000000002,
+    "end_seconds": 207.54000000000002
+  },
+  {
+    "scene": 9,
+    "word": "finite",
+    "start_seconds": 207.54000000000002,
+    "end_seconds": 207.86
+  },
+  {
+    "scene": 9,
+    "word": "barrier",
+    "start_seconds": 207.86,
+    "end_seconds": 208.34000000000003
+  },
+  {
+    "scene": 9,
+    "word": "requires",
+    "start_seconds": 208.34000000000003,
+    "end_seconds": 208.76000000000002
+  },
+  {
+    "scene": 9,
+    "word": "a",
+    "start_seconds": 208.76000000000002,
+    "end_seconds": 209.02
+  },
+  {
+    "scene": 9,
+    "word": "combination",
+    "start_seconds": 209.02,
+    "end_seconds": 209.34000000000003
+  },
+  {
+    "scene": 9,
+    "word": "of",
+    "start_seconds": 209.34000000000003,
+    "end_seconds": 209.88000000000002
+  },
+  {
+    "scene": 9,
+    "word": "two",
+    "start_seconds": 209.88000000000002,
+    "end_seconds": 210.16000000000003
+  },
+  {
+    "scene": 9,
+    "word": "exponential",
+    "start_seconds": 210.16000000000003,
+    "end_seconds": 210.72000000000003
+  },
+  {
+    "scene": 9,
+    "word": "solutions,",
+    "start_seconds": 210.72000000000003,
+    "end_seconds": 211.52
+  },
+  {
+    "scene": 9,
+    "word": "not",
+    "start_seconds": 211.98000000000002,
+    "end_seconds": 212.24
+  },
+  {
+    "scene": 9,
+    "word": "just",
+    "start_seconds": 212.24,
+    "end_seconds": 212.46
+  },
+  {
+    "scene": 9,
+    "word": "one",
+    "start_seconds": 212.46,
+    "end_seconds": 212.82000000000002
+  },
+  {
+    "scene": 9,
+    "word": "decaying",
+    "start_seconds": 212.82000000000002,
+    "end_seconds": 213.24
+  },
+  {
+    "scene": 9,
+    "word": "exponential.",
+    "start_seconds": 213.24,
+    "end_seconds": 213.94000000000003
+  },
+  {
+    "scene": 9,
+    "word": "Matching",
+    "start_seconds": 214.82000000000002,
+    "end_seconds": 215.04000000000002
+  },
+  {
+    "scene": 9,
+    "word": "the",
+    "start_seconds": 215.04000000000002,
+    "end_seconds": 215.16000000000003
+  },
+  {
+    "scene": 9,
+    "word": "two",
+    "start_seconds": 215.16000000000003,
+    "end_seconds": 215.34000000000003
+  },
+  {
+    "scene": 9,
+    "word": "interfaces",
+    "start_seconds": 215.34000000000003,
+    "end_seconds": 215.86
+  },
+  {
+    "scene": 9,
+    "word": "produces",
+    "start_seconds": 215.86,
+    "end_seconds": 216.3
+  },
+  {
+    "scene": 9,
+    "word": "the",
+    "start_seconds": 216.3,
+    "end_seconds": 216.68
+  },
+  {
+    "scene": 9,
+    "word": "transmitted",
+    "start_seconds": 216.68,
+    "end_seconds": 217.08
+  },
+  {
+    "scene": 9,
+    "word": "wave.",
+    "start_seconds": 217.08,
+    "end_seconds": 217.44000000000003
+  },
+  {
+    "scene": 9,
+    "word": "In",
+    "start_seconds": 217.96000000000004,
+    "end_seconds": 218.14000000000001
+  },
+  {
+    "scene": 9,
+    "word": "this",
+    "start_seconds": 218.14000000000001,
+    "end_seconds": 218.34000000000003
+  },
+  {
+    "scene": 9,
+    "word": "stationary",
+    "start_seconds": 218.34000000000003,
+    "end_seconds": 218.76000000000002
+  },
+  {
+    "scene": 9,
+    "word": "model,",
+    "start_seconds": 218.76000000000002,
+    "end_seconds": 219.18
+  },
+  {
+    "scene": 9,
+    "word": "total",
+    "start_seconds": 219.20000000000002,
+    "end_seconds": 219.44000000000003
+  },
+  {
+    "scene": 9,
+    "word": "energy",
+    "start_seconds": 219.44000000000003,
+    "end_seconds": 219.86
+  },
+  {
+    "scene": 9,
+    "word": "is",
+    "start_seconds": 219.86,
+    "end_seconds": 220.12000000000003
+  },
+  {
+    "scene": 9,
+    "word": "conserved.",
+    "start_seconds": 220.12000000000003,
+    "end_seconds": 220.72000000000003
+  },
+  {
+    "scene": 9,
+    "word": "The",
+    "start_seconds": 221.09000000000003,
+    "end_seconds": 221.47000000000003
+  },
+  {
+    "scene": 9,
+    "word": "electron",
+    "start_seconds": 221.47000000000003,
+    "end_seconds": 221.89000000000004
+  },
+  {
+    "scene": 9,
+    "word": "does",
+    "start_seconds": 221.89000000000004,
+    "end_seconds": 222.11000000000004
+  },
+  {
+    "scene": 9,
+    "word": "not",
+    "start_seconds": 222.11000000000004,
+    "end_seconds": 222.41000000000003
+  },
+  {
+    "scene": 9,
+    "word": "borrow",
+    "start_seconds": 222.41000000000003,
+    "end_seconds": 222.63000000000002
+  },
+  {
+    "scene": 9,
+    "word": "energy,",
+    "start_seconds": 222.63000000000002,
+    "end_seconds": 223.15000000000003
+  },
+  {
+    "scene": 9,
+    "word": "and",
+    "start_seconds": 223.55000000000004,
+    "end_seconds": 223.75000000000003
+  },
+  {
+    "scene": 9,
+    "word": "the",
+    "start_seconds": 223.75000000000003,
+    "end_seconds": 223.85000000000002
+  },
+  {
+    "scene": 9,
+    "word": "uncertainty",
+    "start_seconds": 223.85000000000002,
+    "end_seconds": 224.27000000000004
+  },
+  {
+    "scene": 9,
+    "word": "principle",
+    "start_seconds": 224.27000000000004,
+    "end_seconds": 224.77000000000004
+  },
+  {
+    "scene": 9,
+    "word": "is",
+    "start_seconds": 224.77000000000004,
+    "end_seconds": 225.07000000000002
+  },
+  {
+    "scene": 9,
+    "word": "not",
+    "start_seconds": 225.07000000000002,
+    "end_seconds": 225.31000000000003
+  },
+  {
+    "scene": 9,
+    "word": "a",
+    "start_seconds": 225.31000000000003,
+    "end_seconds": 225.45000000000005
+  },
+  {
+    "scene": 9,
+    "word": "license",
+    "start_seconds": 225.45000000000005,
+    "end_seconds": 225.69000000000003
+  },
+  {
+    "scene": 9,
+    "word": "to",
+    "start_seconds": 225.69000000000003,
+    "end_seconds": 225.99000000000004
+  },
+  {
+    "scene": 9,
+    "word": "violate",
+    "start_seconds": 225.99000000000004,
+    "end_seconds": 226.27000000000004
+  },
+  {
+    "scene": 9,
+    "word": "energy",
+    "start_seconds": 226.27000000000004,
+    "end_seconds": 226.77000000000004
+  },
+  {
+    "scene": 9,
+    "word": "conservation.",
+    "start_seconds": 226.77000000000004,
+    "end_seconds": 227.35000000000002
+  },
+  {
+    "scene": 9,
+    "word": "The",
+    "start_seconds": 228.43000000000004,
+    "end_seconds": 228.61000000000004
+  },
+  {
+    "scene": 9,
+    "word": "complex",
+    "start_seconds": 228.61000000000004,
+    "end_seconds": 229.07000000000002
+  },
+  {
+    "scene": 9,
+    "word": "coefficients",
+    "start_seconds": 229.07000000000002,
+    "end_seconds": 229.55000000000004
+  },
+  {
+    "scene": 9,
+    "word": "of",
+    "start_seconds": 229.55000000000004,
+    "end_seconds": 229.91000000000003
+  },
+  {
+    "scene": 9,
+    "word": "those",
+    "start_seconds": 229.91000000000003,
+    "end_seconds": 230.07000000000002
+  },
+  {
+    "scene": 9,
+    "word": "exponentials",
+    "start_seconds": 230.07000000000002,
+    "end_seconds": 230.71000000000004
+  },
+  {
+    "scene": 9,
+    "word": "together",
+    "start_seconds": 230.71000000000004,
+    "end_seconds": 231.19000000000003
+  },
+  {
+    "scene": 9,
+    "word": "allow",
+    "start_seconds": 231.19000000000003,
+    "end_seconds": 231.81000000000003
+  },
+  {
+    "scene": 9,
+    "word": "a",
+    "start_seconds": 231.81000000000003,
+    "end_seconds": 231.97000000000003
+  },
+  {
+    "scene": 9,
+    "word": "conserved",
+    "start_seconds": 231.97000000000003,
+    "end_seconds": 232.51000000000002
+  },
+  {
+    "scene": 9,
+    "word": "current",
+    "start_seconds": 232.51000000000002,
+    "end_seconds": 232.79000000000002
+  },
+  {
+    "scene": 9,
+    "word": "inside",
+    "start_seconds": 232.79000000000002,
+    "end_seconds": 233.17000000000004
+  },
+  {
+    "scene": 9,
+    "word": "the",
+    "start_seconds": 233.17000000000004,
+    "end_seconds": 233.35000000000002
+  },
+  {
+    "scene": 9,
+    "word": "barrier.",
+    "start_seconds": 233.35000000000002,
+    "end_seconds": 233.63000000000002
+  },
+  {
+    "scene": 10,
+    "word": "Suppose",
+    "start_seconds": 235.32000000000002,
+    "end_seconds": 235.78000000000003
+  },
+  {
+    "scene": 10,
+    "word": "the",
+    "start_seconds": 235.78000000000003,
+    "end_seconds": 236.06000000000003
+  },
+  {
+    "scene": 10,
+    "word": "calculated",
+    "start_seconds": 236.06000000000003,
+    "end_seconds": 236.52
+  },
+  {
+    "scene": 10,
+    "word": "transmission",
+    "start_seconds": 236.52,
+    "end_seconds": 237.08
+  },
+  {
+    "scene": 10,
+    "word": "coefficient",
+    "start_seconds": 237.08,
+    "end_seconds": 237.60000000000002
+  },
+  {
+    "scene": 10,
+    "word": "is",
+    "start_seconds": 237.60000000000002,
+    "end_seconds": 238.02
+  },
+  {
+    "scene": 10,
+    "word": "about",
+    "start_seconds": 238.02,
+    "end_seconds": 238.26000000000002
+  },
+  {
+    "scene": 10,
+    "word": "0",
+    "start_seconds": 238.26000000000002,
+    "end_seconds": 238.64000000000001
+  },
+  {
+    "scene": 10,
+    "word": ".14.",
+    "start_seconds": 238.64000000000001,
+    "end_seconds": 239.42000000000002
+  },
+  {
+    "scene": 10,
+    "word": "Does",
+    "start_seconds": 240.00000000000003,
+    "end_seconds": 240.10000000000002
+  },
+  {
+    "scene": 10,
+    "word": "that",
+    "start_seconds": 240.10000000000002,
+    "end_seconds": 240.3
+  },
+  {
+    "scene": 10,
+    "word": "mean",
+    "start_seconds": 240.3,
+    "end_seconds": 240.48000000000002
+  },
+  {
+    "scene": 10,
+    "word": "every",
+    "start_seconds": 240.48000000000002,
+    "end_seconds": 240.86
+  },
+  {
+    "scene": 10,
+    "word": "electron",
+    "start_seconds": 240.86,
+    "end_seconds": 241.32000000000002
+  },
+  {
+    "scene": 10,
+    "word": "loses",
+    "start_seconds": 241.32000000000002,
+    "end_seconds": 241.66000000000003
+  },
+  {
+    "scene": 10,
+    "word": "14",
+    "start_seconds": 241.66000000000003,
+    "end_seconds": 242.14000000000001
+  },
+  {
+    "scene": 10,
+    "word": "%",
+    "start_seconds": 242.14000000000001,
+    "end_seconds": 242.42000000000002
+  },
+  {
+    "scene": 10,
+    "word": "of",
+    "start_seconds": 242.42000000000002,
+    "end_seconds": 242.60000000000002
+  },
+  {
+    "scene": 10,
+    "word": "its",
+    "start_seconds": 242.60000000000002,
+    "end_seconds": 242.72000000000003
+  },
+  {
+    "scene": 10,
+    "word": "energy,",
+    "start_seconds": 242.72000000000003,
+    "end_seconds": 243.08
+  },
+  {
+    "scene": 10,
+    "word": "or",
+    "start_seconds": 243.58,
+    "end_seconds": 243.72000000000003
+  },
+  {
+    "scene": 10,
+    "word": "that",
+    "start_seconds": 243.72000000000003,
+    "end_seconds": 243.86
+  },
+  {
+    "scene": 10,
+    "word": "around",
+    "start_seconds": 243.86,
+    "end_seconds": 244.12000000000003
+  },
+  {
+    "scene": 10,
+    "word": "14",
+    "start_seconds": 244.12000000000003,
+    "end_seconds": 244.62000000000003
+  },
+  {
+    "scene": 10,
+    "word": "%",
+    "start_seconds": 244.62000000000003,
+    "end_seconds": 245.00000000000003
+  },
+  {
+    "scene": 10,
+    "word": "of",
+    "start_seconds": 245.00000000000003,
+    "end_seconds": 245.24
+  },
+  {
+    "scene": 10,
+    "word": "a",
+    "start_seconds": 245.24,
+    "end_seconds": 245.36
+  },
+  {
+    "scene": 10,
+    "word": "large",
+    "start_seconds": 245.36,
+    "end_seconds": 245.62000000000003
+  },
+  {
+    "scene": 10,
+    "word": "incident",
+    "start_seconds": 245.62000000000003,
+    "end_seconds": 246.00000000000003
+  },
+  {
+    "scene": 10,
+    "word": "ensemble",
+    "start_seconds": 246.00000000000003,
+    "end_seconds": 246.50000000000003
+  },
+  {
+    "scene": 10,
+    "word": "is",
+    "start_seconds": 246.50000000000003,
+    "end_seconds": 246.74
+  },
+  {
+    "scene": 10,
+    "word": "transmitted?",
+    "start_seconds": 246.74,
+    "end_seconds": 247.22000000000003
+  },
+  {
+    "scene": 10,
+    "word": "Predict",
+    "start_seconds": 247.92000000000002,
+    "end_seconds": 248.08
+  },
+  {
+    "scene": 10,
+    "word": "an",
+    "start_seconds": 248.08,
+    "end_seconds": 248.32000000000002
+  },
+  {
+    "scene": 10,
+    "word": "outcome",
+    "start_seconds": 248.32000000000002,
+    "end_seconds": 248.66000000000003
+  },
+  {
+    "scene": 10,
+    "word": "for",
+    "start_seconds": 248.66000000000003,
+    "end_seconds": 248.90000000000003
+  },
+  {
+    "scene": 10,
+    "word": "10",
+    "start_seconds": 248.90000000000003,
+    "end_seconds": 249.18
+  },
+  {
+    "scene": 10,
+    "word": ",000",
+    "start_seconds": 249.18,
+    "end_seconds": 249.66000000000003
+  },
+  {
+    "scene": 10,
+    "word": "independent",
+    "start_seconds": 249.66000000000003,
+    "end_seconds": 250.10000000000002
+  },
+  {
+    "scene": 10,
+    "word": "electrons.",
+    "start_seconds": 250.10000000000002,
+    "end_seconds": 250.70000000000002
+  },
+  {
+    "scene": 10,
+    "word": "Include",
+    "start_seconds": 251.29000000000002,
+    "end_seconds": 251.69000000000003
+  },
+  {
+    "scene": 10,
+    "word": "the",
+    "start_seconds": 251.69000000000003,
+    "end_seconds": 251.91000000000003
+  },
+  {
+    "scene": 10,
+    "word": "fact",
+    "start_seconds": 251.91000000000003,
+    "end_seconds": 252.13000000000002
+  },
+  {
+    "scene": 10,
+    "word": "that",
+    "start_seconds": 252.13000000000002,
+    "end_seconds": 252.43
+  },
+  {
+    "scene": 10,
+    "word": "a",
+    "start_seconds": 252.43,
+    "end_seconds": 252.55
+  },
+  {
+    "scene": 10,
+    "word": "finite",
+    "start_seconds": 252.55,
+    "end_seconds": 252.91000000000003
+  },
+  {
+    "scene": 10,
+    "word": "count",
+    "start_seconds": 252.91000000000003,
+    "end_seconds": 253.25000000000003
+  },
+  {
+    "scene": 10,
+    "word": "will",
+    "start_seconds": 253.25000000000003,
+    "end_seconds": 253.53000000000003
+  },
+  {
+    "scene": 10,
+    "word": "fluctuate.",
+    "start_seconds": 253.53000000000003,
+    "end_seconds": 254.09000000000003
+  },
+  {
+    "scene": 11,
+    "word": "The",
+    "start_seconds": 262.32000000000005,
+    "end_seconds": 262.52000000000004
+  },
+  {
+    "scene": 11,
+    "word": "exact",
+    "start_seconds": 262.52000000000004,
+    "end_seconds": 262.88000000000005
+  },
+  {
+    "scene": 11,
+    "word": "expression",
+    "start_seconds": 262.88000000000005,
+    "end_seconds": 263.34000000000003
+  },
+  {
+    "scene": 11,
+    "word": "on",
+    "start_seconds": 263.34000000000003,
+    "end_seconds": 263.68000000000006
+  },
+  {
+    "scene": 11,
+    "word": "screen",
+    "start_seconds": 263.68000000000006,
+    "end_seconds": 264.06000000000006
+  },
+  {
+    "scene": 11,
+    "word": "gives",
+    "start_seconds": 264.06000000000006,
+    "end_seconds": 264.36000000000007
+  },
+  {
+    "scene": 11,
+    "word": "about",
+    "start_seconds": 264.36000000000007,
+    "end_seconds": 264.64000000000004
+  },
+  {
+    "scene": 11,
+    "word": "0",
+    "start_seconds": 264.64000000000004,
+    "end_seconds": 265.00000000000006
+  },
+  {
+    "scene": 11,
+    "word": ".14",
+    "start_seconds": 265.00000000000006,
+    "end_seconds": 265.72
+  },
+  {
+    "scene": 11,
+    "word": "for",
+    "start_seconds": 265.72,
+    "end_seconds": 265.9800000000001
+  },
+  {
+    "scene": 11,
+    "word": "our",
+    "start_seconds": 265.9800000000001,
+    "end_seconds": 266.14000000000004
+  },
+  {
+    "scene": 11,
+    "word": "default",
+    "start_seconds": 266.14000000000004,
+    "end_seconds": 266.4800000000001
+  },
+  {
+    "scene": 11,
+    "word": "parameters.",
+    "start_seconds": 266.4800000000001,
+    "end_seconds": 267.00000000000006
+  },
+  {
+    "scene": 11,
+    "word": "Roughly",
+    "start_seconds": 267.68000000000006,
+    "end_seconds": 267.96000000000004
+  },
+  {
+    "scene": 11,
+    "word": "1",
+    "start_seconds": 267.96000000000004,
+    "end_seconds": 268.18000000000006
+  },
+  {
+    "scene": 11,
+    "word": ",400",
+    "start_seconds": 268.18000000000006,
+    "end_seconds": 268.66
+  },
+  {
+    "scene": 11,
+    "word": "of",
+    "start_seconds": 268.66,
+    "end_seconds": 269.00000000000006
+  },
+  {
+    "scene": 11,
+    "word": "10",
+    "start_seconds": 269.00000000000006,
+    "end_seconds": 269.24000000000007
+  },
+  {
+    "scene": 11,
+    "word": ",000",
+    "start_seconds": 269.24000000000007,
+    "end_seconds": 269.64000000000004
+  },
+  {
+    "scene": 11,
+    "word": "incident",
+    "start_seconds": 269.64000000000004,
+    "end_seconds": 269.9800000000001
+  },
+  {
+    "scene": 11,
+    "word": "electrons",
+    "start_seconds": 269.9800000000001,
+    "end_seconds": 270.50000000000006
+  },
+  {
+    "scene": 11,
+    "word": "are",
+    "start_seconds": 270.50000000000006,
+    "end_seconds": 270.78000000000003
+  },
+  {
+    "scene": 11,
+    "word": "expected",
+    "start_seconds": 270.78000000000003,
+    "end_seconds": 271.06000000000006
+  },
+  {
+    "scene": 11,
+    "word": "to",
+    "start_seconds": 271.06000000000006,
+    "end_seconds": 271.36000000000007
+  },
+  {
+    "scene": 11,
+    "word": "transmit",
+    "start_seconds": 271.36000000000007,
+    "end_seconds": 271.82000000000005
+  },
+  {
+    "scene": 11,
+    "word": "with",
+    "start_seconds": 271.82000000000005,
+    "end_seconds": 272.34000000000003
+  },
+  {
+    "scene": 11,
+    "word": "statistical",
+    "start_seconds": 272.34000000000003,
+    "end_seconds": 272.84000000000003
+  },
+  {
+    "scene": 11,
+    "word": "fluctuations.",
+    "start_seconds": 272.84000000000003,
+    "end_seconds": 273.50000000000006
+  },
+  {
+    "scene": 11,
+    "word": "Equal",
+    "start_seconds": 274.22,
+    "end_seconds": 274.58000000000004
+  },
+  {
+    "scene": 11,
+    "word": "potentials",
+    "start_seconds": 274.58000000000004,
+    "end_seconds": 275.28000000000003
+  },
+  {
+    "scene": 11,
+    "word": "and",
+    "start_seconds": 275.28000000000003,
+    "end_seconds": 275.40000000000003
+  },
+  {
+    "scene": 11,
+    "word": "equal",
+    "start_seconds": 275.40000000000003,
+    "end_seconds": 275.68
+  },
+  {
+    "scene": 11,
+    "word": "masses",
+    "start_seconds": 275.68,
+    "end_seconds": 276.04
+  },
+  {
+    "scene": 11,
+    "word": "on",
+    "start_seconds": 276.04,
+    "end_seconds": 276.40000000000003
+  },
+  {
+    "scene": 11,
+    "word": "both",
+    "start_seconds": 276.40000000000003,
+    "end_seconds": 276.62
+  },
+  {
+    "scene": 11,
+    "word": "sides",
+    "start_seconds": 276.62,
+    "end_seconds": 277.14000000000004
+  },
+  {
+    "scene": 11,
+    "word": "mean",
+    "start_seconds": 277.14000000000004,
+    "end_seconds": 277.36
+  },
+  {
+    "scene": 11,
+    "word": "the",
+    "start_seconds": 277.36,
+    "end_seconds": 277.52000000000004
+  },
+  {
+    "scene": 11,
+    "word": "transmitted",
+    "start_seconds": 277.52000000000004,
+    "end_seconds": 278.0
+  },
+  {
+    "scene": 11,
+    "word": "amplitude",
+    "start_seconds": 278.0,
+    "end_seconds": 278.58000000000004
+  },
+  {
+    "scene": 11,
+    "word": "squared",
+    "start_seconds": 278.58000000000004,
+    "end_seconds": 279.04
+  },
+  {
+    "scene": 11,
+    "word": "equals",
+    "start_seconds": 279.04,
+    "end_seconds": 279.5
+  },
+  {
+    "scene": 11,
+    "word": "transmission.",
+    "start_seconds": 279.5,
+    "end_seconds": 280.16
+  },
+  {
+    "scene": 11,
+    "word": "Reflected",
+    "start_seconds": 280.94000000000005,
+    "end_seconds": 281.36
+  },
+  {
+    "scene": 11,
+    "word": "and",
+    "start_seconds": 281.36,
+    "end_seconds": 281.6
+  },
+  {
+    "scene": 11,
+    "word": "transmitted",
+    "start_seconds": 281.6,
+    "end_seconds": 282.06
+  },
+  {
+    "scene": 11,
+    "word": "currents",
+    "start_seconds": 282.06,
+    "end_seconds": 282.58000000000004
+  },
+  {
+    "scene": 11,
+    "word": "add",
+    "start_seconds": 282.58000000000004,
+    "end_seconds": 282.90000000000003
+  },
+  {
+    "scene": 11,
+    "word": "to",
+    "start_seconds": 282.90000000000003,
+    "end_seconds": 283.06
+  },
+  {
+    "scene": 11,
+    "word": "the",
+    "start_seconds": 283.06,
+    "end_seconds": 283.16
+  },
+  {
+    "scene": 11,
+    "word": "incident",
+    "start_seconds": 283.16,
+    "end_seconds": 283.46000000000004
+  },
+  {
+    "scene": 11,
+    "word": "current.",
+    "start_seconds": 283.46000000000004,
+    "end_seconds": 283.88000000000005
+  },
+  {
+    "scene": 11,
+    "word": "An",
+    "start_seconds": 284.40000000000003,
+    "end_seconds": 284.54
+  },
+  {
+    "scene": 11,
+    "word": "individual",
+    "start_seconds": 284.54,
+    "end_seconds": 284.86
+  },
+  {
+    "scene": 11,
+    "word": "trial",
+    "start_seconds": 284.86,
+    "end_seconds": 285.34000000000003
+  },
+  {
+    "scene": 11,
+    "word": "gives",
+    "start_seconds": 285.34000000000003,
+    "end_seconds": 285.6
+  },
+  {
+    "scene": 11,
+    "word": "one",
+    "start_seconds": 285.6,
+    "end_seconds": 285.90000000000003
+  },
+  {
+    "scene": 11,
+    "word": "detection",
+    "start_seconds": 285.90000000000003,
+    "end_seconds": 286.32000000000005
+  },
+  {
+    "scene": 11,
+    "word": "outcome.",
+    "start_seconds": 286.32000000000005,
+    "end_seconds": 286.78000000000003
+  },
+  {
+    "scene": 11,
+    "word": "Repeating",
+    "start_seconds": 287.34000000000003,
+    "end_seconds": 287.70000000000005
+  },
+  {
+    "scene": 11,
+    "word": "the",
+    "start_seconds": 287.70000000000005,
+    "end_seconds": 287.84000000000003
+  },
+  {
+    "scene": 11,
+    "word": "preparation",
+    "start_seconds": 287.84000000000003,
+    "end_seconds": 288.32000000000005
+  },
+  {
+    "scene": 11,
+    "word": "makes",
+    "start_seconds": 288.32000000000005,
+    "end_seconds": 288.72
+  },
+  {
+    "scene": 11,
+    "word": "the",
+    "start_seconds": 288.72,
+    "end_seconds": 288.94000000000005
+  },
+  {
+    "scene": 11,
+    "word": "probability",
+    "start_seconds": 288.94000000000005,
+    "end_seconds": 289.32000000000005
+  },
+  {
+    "scene": 11,
+    "word": "prediction",
+    "start_seconds": 289.32000000000005,
+    "end_seconds": 289.92
+  },
+  {
+    "scene": 11,
+    "word": "testable.",
+    "start_seconds": 289.92,
+    "end_seconds": 290.48
+  },
+  {
+    "scene": 12,
+    "word": "Now",
+    "start_seconds": 291.5866666666667,
+    "end_seconds": 291.9066666666667
+  },
+  {
+    "scene": 12,
+    "word": "hold",
+    "start_seconds": 291.9066666666667,
+    "end_seconds": 292.1666666666667
+  },
+  {
+    "scene": 12,
+    "word": "energy",
+    "start_seconds": 292.1666666666667,
+    "end_seconds": 292.5266666666667
+  },
+  {
+    "scene": 12,
+    "word": "and",
+    "start_seconds": 292.5266666666667,
+    "end_seconds": 292.8666666666667
+  },
+  {
+    "scene": 12,
+    "word": "barrier",
+    "start_seconds": 292.8666666666667,
+    "end_seconds": 293.1666666666667
+  },
+  {
+    "scene": 12,
+    "word": "height",
+    "start_seconds": 293.1666666666667,
+    "end_seconds": 293.4666666666667
+  },
+  {
+    "scene": 12,
+    "word": "fixed",
+    "start_seconds": 293.4666666666667,
+    "end_seconds": 293.8466666666667
+  },
+  {
+    "scene": 12,
+    "word": "while",
+    "start_seconds": 293.8466666666667,
+    "end_seconds": 294.1666666666667
+  },
+  {
+    "scene": 12,
+    "word": "changing",
+    "start_seconds": 294.1666666666667,
+    "end_seconds": 294.5466666666667
+  },
+  {
+    "scene": 12,
+    "word": "width.",
+    "start_seconds": 294.5466666666667,
+    "end_seconds": 294.8666666666667
+  },
+  {
+    "scene": 12,
+    "word": "Notice",
+    "start_seconds": 295.6666666666667,
+    "end_seconds": 295.80666666666673
+  },
+  {
+    "scene": 12,
+    "word": "how",
+    "start_seconds": 295.80666666666673,
+    "end_seconds": 296.0466666666667
+  },
+  {
+    "scene": 12,
+    "word": "the",
+    "start_seconds": 296.0466666666667,
+    "end_seconds": 296.1666666666667
+  },
+  {
+    "scene": 12,
+    "word": "outgoing",
+    "start_seconds": 296.1666666666667,
+    "end_seconds": 296.5666666666667
+  },
+  {
+    "scene": 12,
+    "word": "amplitude",
+    "start_seconds": 296.5666666666667,
+    "end_seconds": 297.0866666666667
+  },
+  {
+    "scene": 12,
+    "word": "shrinks",
+    "start_seconds": 297.0866666666667,
+    "end_seconds": 297.5466666666667
+  },
+  {
+    "scene": 12,
+    "word": "as",
+    "start_seconds": 297.5466666666667,
+    "end_seconds": 297.7866666666667
+  },
+  {
+    "scene": 12,
+    "word": "the",
+    "start_seconds": 297.7866666666667,
+    "end_seconds": 297.9666666666667
+  },
+  {
+    "scene": 12,
+    "word": "barrier",
+    "start_seconds": 297.9666666666667,
+    "end_seconds": 298.2666666666667
+  },
+  {
+    "scene": 12,
+    "word": "thickens.",
+    "start_seconds": 298.2666666666667,
+    "end_seconds": 298.8866666666667
+  },
+  {
+    "scene": 12,
+    "word": "The",
+    "start_seconds": 299.3466666666667,
+    "end_seconds": 299.4866666666667
+  },
+  {
+    "scene": 12,
+    "word": "wavefunction",
+    "start_seconds": 299.4866666666667,
+    "end_seconds": 299.9666666666667
+  },
+  {
+    "scene": 12,
+    "word": "is",
+    "start_seconds": 299.9666666666667,
+    "end_seconds": 300.2866666666667
+  },
+  {
+    "scene": 12,
+    "word": "calculated",
+    "start_seconds": 300.2866666666667,
+    "end_seconds": 300.7666666666667
+  },
+  {
+    "scene": 12,
+    "word": "by",
+    "start_seconds": 300.7666666666667,
+    "end_seconds": 301.0466666666667
+  },
+  {
+    "scene": 12,
+    "word": "matching",
+    "start_seconds": 301.0466666666667,
+    "end_seconds": 301.4066666666667
+  },
+  {
+    "scene": 12,
+    "word": "both",
+    "start_seconds": 301.4066666666667,
+    "end_seconds": 301.7066666666667
+  },
+  {
+    "scene": 12,
+    "word": "interfaces",
+    "start_seconds": 301.7066666666667,
+    "end_seconds": 302.2666666666667
+  },
+  {
+    "scene": 12,
+    "word": "each",
+    "start_seconds": 302.2666666666667,
+    "end_seconds": 302.6666666666667
+  },
+  {
+    "scene": 12,
+    "word": "time.",
+    "start_seconds": 302.6666666666667,
+    "end_seconds": 303.0466666666667
+  },
+  {
+    "scene": 12,
+    "word": "The",
+    "start_seconds": 303.5266666666667,
+    "end_seconds": 303.7266666666667
+  },
+  {
+    "scene": 12,
+    "word": "animation",
+    "start_seconds": 303.7266666666667,
+    "end_seconds": 304.1466666666667
+  },
+  {
+    "scene": 12,
+    "word": "changes",
+    "start_seconds": 304.1466666666667,
+    "end_seconds": 304.6866666666667
+  },
+  {
+    "scene": 12,
+    "word": "the",
+    "start_seconds": 304.6866666666667,
+    "end_seconds": 304.8866666666667
+  },
+  {
+    "scene": 12,
+    "word": "model",
+    "start_seconds": 304.8866666666667,
+    "end_seconds": 305.1266666666667
+  },
+  {
+    "scene": 12,
+    "word": "between",
+    "start_seconds": 305.1266666666667,
+    "end_seconds": 305.4866666666667
+  },
+  {
+    "scene": 12,
+    "word": "stationary",
+    "start_seconds": 305.4866666666667,
+    "end_seconds": 306.0266666666667
+  },
+  {
+    "scene": 12,
+    "word": "solutions.",
+    "start_seconds": 306.0266666666667,
+    "end_seconds": 306.6866666666667
+  },
+  {
+    "scene": 12,
+    "word": "It",
+    "start_seconds": 307.3266666666667,
+    "end_seconds": 307.3866666666667
+  },
+  {
+    "scene": 12,
+    "word": "is",
+    "start_seconds": 307.3866666666667,
+    "end_seconds": 307.5066666666667
+  },
+  {
+    "scene": 12,
+    "word": "not",
+    "start_seconds": 307.5066666666667,
+    "end_seconds": 307.7466666666667
+  },
+  {
+    "scene": 12,
+    "word": "a",
+    "start_seconds": 307.7466666666667,
+    "end_seconds": 307.9266666666667
+  },
+  {
+    "scene": 12,
+    "word": "simulation",
+    "start_seconds": 307.9266666666667,
+    "end_seconds": 308.3466666666667
+  },
+  {
+    "scene": 12,
+    "word": "of",
+    "start_seconds": 308.3466666666667,
+    "end_seconds": 308.6866666666667
+  },
+  {
+    "scene": 12,
+    "word": "a",
+    "start_seconds": 308.6866666666667,
+    "end_seconds": 308.7866666666667
+  },
+  {
+    "scene": 12,
+    "word": "moving",
+    "start_seconds": 308.7866666666667,
+    "end_seconds": 309.0266666666667
+  },
+  {
+    "scene": 12,
+    "word": "wall",
+    "start_seconds": 309.0266666666667,
+    "end_seconds": 309.4066666666667
+  },
+  {
+    "scene": 12,
+    "word": "or",
+    "start_seconds": 309.4066666666667,
+    "end_seconds": 309.7466666666667
+  },
+  {
+    "scene": 12,
+    "word": "an",
+    "start_seconds": 309.7466666666667,
+    "end_seconds": 309.8666666666667
+  },
+  {
+    "scene": 12,
+    "word": "electron",
+    "start_seconds": 309.8666666666667,
+    "end_seconds": 310.3066666666667
+  },
+  {
+    "scene": 12,
+    "word": "trajectory.",
+    "start_seconds": 310.3066666666667,
+    "end_seconds": 310.8066666666667
+  },
+  {
+    "scene": 12,
+    "word": "At",
+    "start_seconds": 311.5666666666667,
+    "end_seconds": 311.6866666666667
+  },
+  {
+    "scene": 12,
+    "word": "a",
+    "start_seconds": 311.6866666666667,
+    "end_seconds": 311.7866666666667
+  },
+  {
+    "scene": 12,
+    "word": "quarter",
+    "start_seconds": 311.7866666666667,
+    "end_seconds": 312.0466666666667
+  },
+  {
+    "scene": 12,
+    "word": "nanometer,",
+    "start_seconds": 312.0466666666667,
+    "end_seconds": 312.6066666666667
+  },
+  {
+    "scene": 12,
+    "word": "transmission",
+    "start_seconds": 312.9066666666667,
+    "end_seconds": 313.1266666666667
+  },
+  {
+    "scene": 12,
+    "word": "is",
+    "start_seconds": 313.1266666666667,
+    "end_seconds": 313.5466666666667
+  },
+  {
+    "scene": 12,
+    "word": "about",
+    "start_seconds": 313.5466666666667,
+    "end_seconds": 313.7866666666667
+  },
+  {
+    "scene": 12,
+    "word": "48",
+    "start_seconds": 313.7866666666667,
+    "end_seconds": 314.3066666666667
+  },
+  {
+    "scene": 12,
+    "word": "percent.",
+    "start_seconds": 314.3066666666667,
+    "end_seconds": 314.6866666666667
+  },
+  {
+    "scene": 12,
+    "word": "At",
+    "start_seconds": 315.2066666666667,
+    "end_seconds": 315.4066666666667
+  },
+  {
+    "scene": 12,
+    "word": "0",
+    "start_seconds": 315.4066666666667,
+    "end_seconds": 315.7066666666667
+  },
+  {
+    "scene": 12,
+    "word": ".65,",
+    "start_seconds": 315.7066666666667,
+    "end_seconds": 316.2066666666667
+  },
+  {
+    "scene": 12,
+    "word": "about",
+    "start_seconds": 316.6666666666667,
+    "end_seconds": 316.9066666666667
+  },
+  {
+    "scene": 12,
+    "word": "three",
+    "start_seconds": 316.9066666666667,
+    "end_seconds": 317.2066666666667
+  },
+  {
+    "scene": 12,
+    "word": "and",
+    "start_seconds": 317.2066666666667,
+    "end_seconds": 317.3466666666667
+  },
+  {
+    "scene": 12,
+    "word": "a",
+    "start_seconds": 317.3466666666667,
+    "end_seconds": 317.3866666666667
+  },
+  {
+    "scene": 12,
+    "word": "half",
+    "start_seconds": 317.3866666666667,
+    "end_seconds": 317.5466666666667
+  },
+  {
+    "scene": 12,
+    "word": "percent.",
+    "start_seconds": 317.5466666666667,
+    "end_seconds": 317.9266666666667
+  },
+  {
+    "scene": 13,
+    "word": "When",
+    "start_seconds": 319.12000000000006,
+    "end_seconds": 319.38000000000005
+  },
+  {
+    "scene": 13,
+    "word": "kappa",
+    "start_seconds": 319.38000000000005,
+    "end_seconds": 319.70000000000005
+  },
+  {
+    "scene": 13,
+    "word": "times",
+    "start_seconds": 319.70000000000005,
+    "end_seconds": 320.02000000000004
+  },
+  {
+    "scene": 13,
+    "word": "width",
+    "start_seconds": 320.02000000000004,
+    "end_seconds": 320.24000000000007
+  },
+  {
+    "scene": 13,
+    "word": "is",
+    "start_seconds": 320.24000000000007,
+    "end_seconds": 320.44000000000005
+  },
+  {
+    "scene": 13,
+    "word": "large,",
+    "start_seconds": 320.44000000000005,
+    "end_seconds": 320.7800000000001
+  },
+  {
+    "scene": 13,
+    "word": "transmission",
+    "start_seconds": 321.18000000000006,
+    "end_seconds": 321.44000000000005
+  },
+  {
+    "scene": 13,
+    "word": "falls",
+    "start_seconds": 321.44000000000005,
+    "end_seconds": 321.94000000000005
+  },
+  {
+    "scene": 13,
+    "word": "approximately",
+    "start_seconds": 321.94000000000005,
+    "end_seconds": 322.70000000000005
+  },
+  {
+    "scene": 13,
+    "word": "exponentially",
+    "start_seconds": 322.70000000000005,
+    "end_seconds": 323.32000000000005
+  },
+  {
+    "scene": 13,
+    "word": "with",
+    "start_seconds": 323.32000000000005,
+    "end_seconds": 323.7200000000001
+  },
+  {
+    "scene": 13,
+    "word": "width.",
+    "start_seconds": 323.7200000000001,
+    "end_seconds": 324.02000000000004
+  },
+  {
+    "scene": 13,
+    "word": "The",
+    "start_seconds": 324.50000000000006,
+    "end_seconds": 324.68000000000006
+  },
+  {
+    "scene": 13,
+    "word": "prefactor",
+    "start_seconds": 324.68000000000006,
+    "end_seconds": 325.14000000000004
+  },
+  {
+    "scene": 13,
+    "word": "still",
+    "start_seconds": 325.14000000000004,
+    "end_seconds": 325.46000000000004
+  },
+  {
+    "scene": 13,
+    "word": "depends",
+    "start_seconds": 325.46000000000004,
+    "end_seconds": 325.82000000000005
+  },
+  {
+    "scene": 13,
+    "word": "on",
+    "start_seconds": 325.82000000000005,
+    "end_seconds": 326.08000000000004
+  },
+  {
+    "scene": 13,
+    "word": "energy",
+    "start_seconds": 326.08000000000004,
+    "end_seconds": 326.36000000000007
+  },
+  {
+    "scene": 13,
+    "word": "and",
+    "start_seconds": 326.36000000000007,
+    "end_seconds": 326.70000000000005
+  },
+  {
+    "scene": 13,
+    "word": "height.",
+    "start_seconds": 326.70000000000005,
+    "end_seconds": 326.9200000000001
+  },
+  {
+    "scene": 13,
+    "word": "Use",
+    "start_seconds": 327.50000000000006,
+    "end_seconds": 327.70000000000005
+  },
+  {
+    "scene": 13,
+    "word": "the",
+    "start_seconds": 327.70000000000005,
+    "end_seconds": 327.88000000000005
+  },
+  {
+    "scene": 13,
+    "word": "exact",
+    "start_seconds": 327.88000000000005,
+    "end_seconds": 328.24000000000007
+  },
+  {
+    "scene": 13,
+    "word": "expression",
+    "start_seconds": 328.24000000000007,
+    "end_seconds": 328.74000000000007
+  },
+  {
+    "scene": 13,
+    "word": "when",
+    "start_seconds": 328.74000000000007,
+    "end_seconds": 329.0400000000001
+  },
+  {
+    "scene": 13,
+    "word": "the",
+    "start_seconds": 329.0400000000001,
+    "end_seconds": 329.1600000000001
+  },
+  {
+    "scene": 13,
+    "word": "barrier",
+    "start_seconds": 329.1600000000001,
+    "end_seconds": 329.46000000000004
+  },
+  {
+    "scene": 13,
+    "word": "is",
+    "start_seconds": 329.46000000000004,
+    "end_seconds": 329.74000000000007
+  },
+  {
+    "scene": 13,
+    "word": "not",
+    "start_seconds": 329.74000000000007,
+    "end_seconds": 330.00000000000006
+  },
+  {
+    "scene": 13,
+    "word": "opaque.",
+    "start_seconds": 330.00000000000006,
+    "end_seconds": 330.36000000000007
+  },
+  {
+    "scene": 13,
+    "word": "Taking",
+    "start_seconds": 330.90000000000003,
+    "end_seconds": 331.26000000000005
+  },
+  {
+    "scene": 13,
+    "word": "a",
+    "start_seconds": 331.26000000000005,
+    "end_seconds": 331.44000000000005
+  },
+  {
+    "scene": 13,
+    "word": "logarithm",
+    "start_seconds": 331.44000000000005,
+    "end_seconds": 332.00000000000006
+  },
+  {
+    "scene": 13,
+    "word": "turns",
+    "start_seconds": 332.00000000000006,
+    "end_seconds": 332.24
+  },
+  {
+    "scene": 13,
+    "word": "the",
+    "start_seconds": 332.24,
+    "end_seconds": 332.46000000000004
+  },
+  {
+    "scene": 13,
+    "word": "approximate",
+    "start_seconds": 332.46000000000004,
+    "end_seconds": 333.00000000000006
+  },
+  {
+    "scene": 13,
+    "word": "exponential",
+    "start_seconds": 333.00000000000006,
+    "end_seconds": 333.62000000000006
+  },
+  {
+    "scene": 13,
+    "word": "trend",
+    "start_seconds": 333.62000000000006,
+    "end_seconds": 334.06000000000006
+  },
+  {
+    "scene": 13,
+    "word": "into",
+    "start_seconds": 334.06000000000006,
+    "end_seconds": 334.40000000000003
+  },
+  {
+    "scene": 13,
+    "word": "a",
+    "start_seconds": 334.40000000000003,
+    "end_seconds": 334.58000000000004
+  },
+  {
+    "scene": 13,
+    "word": "line,",
+    "start_seconds": 334.58000000000004,
+    "end_seconds": 334.86
+  },
+  {
+    "scene": 13,
+    "word": "which",
+    "start_seconds": 335.34000000000003,
+    "end_seconds": 335.56000000000006
+  },
+  {
+    "scene": 13,
+    "word": "is",
+    "start_seconds": 335.56000000000006,
+    "end_seconds": 335.74
+  },
+  {
+    "scene": 13,
+    "word": "useful",
+    "start_seconds": 335.74,
+    "end_seconds": 336.16
+  },
+  {
+    "scene": 13,
+    "word": "when",
+    "start_seconds": 336.16,
+    "end_seconds": 336.40000000000003
+  },
+  {
+    "scene": 13,
+    "word": "designing",
+    "start_seconds": 336.40000000000003,
+    "end_seconds": 336.8
+  },
+  {
+    "scene": 13,
+    "word": "measurements.",
+    "start_seconds": 336.8,
+    "end_seconds": 337.32000000000005
+  },
+  {
+    "scene": 13,
+    "word": "The",
+    "start_seconds": 338.26000000000005,
+    "end_seconds": 338.36
+  },
+  {
+    "scene": 13,
+    "word": "factor",
+    "start_seconds": 338.36,
+    "end_seconds": 338.64000000000004
+  },
+  {
+    "scene": 13,
+    "word": "of",
+    "start_seconds": 338.64000000000004,
+    "end_seconds": 338.88000000000005
+  },
+  {
+    "scene": 13,
+    "word": "2",
+    "start_seconds": 338.88000000000005,
+    "end_seconds": 339.16
+  },
+  {
+    "scene": 13,
+    "word": "in",
+    "start_seconds": 339.16,
+    "end_seconds": 339.36
+  },
+  {
+    "scene": 13,
+    "word": "the",
+    "start_seconds": 339.36,
+    "end_seconds": 339.44000000000005
+  },
+  {
+    "scene": 13,
+    "word": "exponent",
+    "start_seconds": 339.44000000000005,
+    "end_seconds": 339.90000000000003
+  },
+  {
+    "scene": 13,
+    "word": "comes",
+    "start_seconds": 339.90000000000003,
+    "end_seconds": 340.3
+  },
+  {
+    "scene": 13,
+    "word": "from",
+    "start_seconds": 340.3,
+    "end_seconds": 340.56000000000006
+  },
+  {
+    "scene": 13,
+    "word": "squaring",
+    "start_seconds": 340.56000000000006,
+    "end_seconds": 341.04
+  },
+  {
+    "scene": 13,
+    "word": "the",
+    "start_seconds": 341.04,
+    "end_seconds": 341.22
+  },
+  {
+    "scene": 13,
+    "word": "magnitude",
+    "start_seconds": 341.22,
+    "end_seconds": 341.68
+  },
+  {
+    "scene": 13,
+    "word": "of",
+    "start_seconds": 341.68,
+    "end_seconds": 342.02000000000004
+  },
+  {
+    "scene": 13,
+    "word": "an",
+    "start_seconds": 342.02000000000004,
+    "end_seconds": 342.14000000000004
+  },
+  {
+    "scene": 13,
+    "word": "amplitude.",
+    "start_seconds": 342.14000000000004,
+    "end_seconds": 342.50000000000006
+  },
+  {
+    "scene": 14,
+    "word": "Pause",
+    "start_seconds": 344.12000000000006,
+    "end_seconds": 344.56000000000006
+  },
+  {
+    "scene": 14,
+    "word": "and",
+    "start_seconds": 344.56000000000006,
+    "end_seconds": 344.8400000000001
+  },
+  {
+    "scene": 14,
+    "word": "predict.",
+    "start_seconds": 344.8400000000001,
+    "end_seconds": 345.12000000000006
+  },
+  {
+    "scene": 14,
+    "word": "At",
+    "start_seconds": 345.7800000000001,
+    "end_seconds": 345.88000000000005
+  },
+  {
+    "scene": 14,
+    "word": "fixed",
+    "start_seconds": 345.88000000000005,
+    "end_seconds": 346.18000000000006
+  },
+  {
+    "scene": 14,
+    "word": "energy",
+    "start_seconds": 346.18000000000006,
+    "end_seconds": 346.4800000000001
+  },
+  {
+    "scene": 14,
+    "word": "and",
+    "start_seconds": 346.4800000000001,
+    "end_seconds": 346.76000000000005
+  },
+  {
+    "scene": 14,
+    "word": "height,",
+    "start_seconds": 346.76000000000005,
+    "end_seconds": 346.96000000000004
+  },
+  {
+    "scene": 14,
+    "word": "does",
+    "start_seconds": 347.30000000000007,
+    "end_seconds": 347.4200000000001
+  },
+  {
+    "scene": 14,
+    "word": "doubling",
+    "start_seconds": 347.4200000000001,
+    "end_seconds": 347.7800000000001
+  },
+  {
+    "scene": 14,
+    "word": "barrier",
+    "start_seconds": 347.7800000000001,
+    "end_seconds": 348.20000000000005
+  },
+  {
+    "scene": 14,
+    "word": "width",
+    "start_seconds": 348.20000000000005,
+    "end_seconds": 348.50000000000006
+  },
+  {
+    "scene": 14,
+    "word": "simply",
+    "start_seconds": 348.50000000000006,
+    "end_seconds": 348.90000000000003
+  },
+  {
+    "scene": 14,
+    "word": "cut",
+    "start_seconds": 348.90000000000003,
+    "end_seconds": 349.1600000000001
+  },
+  {
+    "scene": 14,
+    "word": "transmission",
+    "start_seconds": 349.1600000000001,
+    "end_seconds": 349.6000000000001
+  },
+  {
+    "scene": 14,
+    "word": "in",
+    "start_seconds": 349.6000000000001,
+    "end_seconds": 349.86000000000007
+  },
+  {
+    "scene": 14,
+    "word": "half?",
+    "start_seconds": 349.86000000000007,
+    "end_seconds": 350.1000000000001
+  },
+  {
+    "scene": 14,
+    "word": "Or",
+    "start_seconds": 350.80000000000007,
+    "end_seconds": 350.96000000000004
+  },
+  {
+    "scene": 14,
+    "word": "can",
+    "start_seconds": 350.96000000000004,
+    "end_seconds": 351.12000000000006
+  },
+  {
+    "scene": 14,
+    "word": "it",
+    "start_seconds": 351.12000000000006,
+    "end_seconds": 351.26000000000005
+  },
+  {
+    "scene": 14,
+    "word": "reduce",
+    "start_seconds": 351.26000000000005,
+    "end_seconds": 351.5400000000001
+  },
+  {
+    "scene": 14,
+    "word": "transmission",
+    "start_seconds": 351.5400000000001,
+    "end_seconds": 352.1000000000001
+  },
+  {
+    "scene": 14,
+    "word": "much",
+    "start_seconds": 352.1000000000001,
+    "end_seconds": 352.36000000000007
+  },
+  {
+    "scene": 14,
+    "word": "more",
+    "start_seconds": 352.36000000000007,
+    "end_seconds": 352.5400000000001
+  },
+  {
+    "scene": 14,
+    "word": "strongly?",
+    "start_seconds": 352.5400000000001,
+    "end_seconds": 352.9200000000001
+  },
+  {
+    "scene": 14,
+    "word": "Write",
+    "start_seconds": 353.70000000000005,
+    "end_seconds": 353.86000000000007
+  },
+  {
+    "scene": 14,
+    "word": "the",
+    "start_seconds": 353.86000000000007,
+    "end_seconds": 354.02000000000004
+  },
+  {
+    "scene": 14,
+    "word": "ratio",
+    "start_seconds": 354.02000000000004,
+    "end_seconds": 354.36000000000007
+  },
+  {
+    "scene": 14,
+    "word": "you",
+    "start_seconds": 354.36000000000007,
+    "end_seconds": 354.58000000000004
+  },
+  {
+    "scene": 14,
+    "word": "would",
+    "start_seconds": 354.58000000000004,
+    "end_seconds": 354.70000000000005
+  },
+  {
+    "scene": 14,
+    "word": "calculate",
+    "start_seconds": 354.70000000000005,
+    "end_seconds": 355.12000000000006
+  },
+  {
+    "scene": 14,
+    "word": "using",
+    "start_seconds": 355.12000000000006,
+    "end_seconds": 355.4800000000001
+  },
+  {
+    "scene": 14,
+    "word": "the",
+    "start_seconds": 355.4800000000001,
+    "end_seconds": 355.70000000000005
+  },
+  {
+    "scene": 14,
+    "word": "exact",
+    "start_seconds": 355.70000000000005,
+    "end_seconds": 356.0400000000001
+  },
+  {
+    "scene": 14,
+    "word": "formula.",
+    "start_seconds": 356.0400000000001,
+    "end_seconds": 356.50000000000006
+  },
+  {
+    "scene": 14,
+    "word": "Do",
+    "start_seconds": 357.04,
+    "end_seconds": 357.22
+  },
+  {
+    "scene": 14,
+    "word": "not",
+    "start_seconds": 357.22,
+    "end_seconds": 357.44
+  },
+  {
+    "scene": 14,
+    "word": "assume",
+    "start_seconds": 357.44,
+    "end_seconds": 357.78000000000003
+  },
+  {
+    "scene": 14,
+    "word": "the",
+    "start_seconds": 357.78000000000003,
+    "end_seconds": 357.98
+  },
+  {
+    "scene": 14,
+    "word": "exponential",
+    "start_seconds": 357.98,
+    "end_seconds": 358.46000000000004
+  },
+  {
+    "scene": 14,
+    "word": "approximation",
+    "start_seconds": 358.46000000000004,
+    "end_seconds": 359.16
+  },
+  {
+    "scene": 14,
+    "word": "is",
+    "start_seconds": 359.16,
+    "end_seconds": 359.64000000000004
+  },
+  {
+    "scene": 14,
+    "word": "exact",
+    "start_seconds": 359.64000000000004,
+    "end_seconds": 360.02000000000004
+  },
+  {
+    "scene": 14,
+    "word": "for",
+    "start_seconds": 360.02000000000004,
+    "end_seconds": 360.36
+  },
+  {
+    "scene": 14,
+    "word": "the",
+    "start_seconds": 360.36,
+    "end_seconds": 360.5
+  },
+  {
+    "scene": 14,
+    "word": "thinner",
+    "start_seconds": 360.5,
+    "end_seconds": 360.70000000000005
+  },
+  {
+    "scene": 14,
+    "word": "barrier.",
+    "start_seconds": 360.70000000000005,
+    "end_seconds": 361.1
+  },
+  {
+    "scene": 15,
+    "word": "For",
+    "start_seconds": 369.12000000000006,
+    "end_seconds": 369.36000000000007
+  },
+  {
+    "scene": 15,
+    "word": "widths,",
+    "start_seconds": 369.36000000000007,
+    "end_seconds": 369.82000000000005
+  },
+  {
+    "scene": 15,
+    "word": "0",
+    "start_seconds": 369.88000000000005,
+    "end_seconds": 370.14000000000004
+  },
+  {
+    "scene": 15,
+    "word": ".45",
+    "start_seconds": 370.14000000000004,
+    "end_seconds": 370.8400000000001
+  },
+  {
+    "scene": 15,
+    "word": "and",
+    "start_seconds": 370.8400000000001,
+    "end_seconds": 371.2200000000001
+  },
+  {
+    "scene": 15,
+    "word": "0",
+    "start_seconds": 371.2200000000001,
+    "end_seconds": 371.56000000000006
+  },
+  {
+    "scene": 15,
+    "word": ".9",
+    "start_seconds": 371.56000000000006,
+    "end_seconds": 372.1000000000001
+  },
+  {
+    "scene": 15,
+    "word": "nanometers,",
+    "start_seconds": 372.1000000000001,
+    "end_seconds": 372.68000000000006
+  },
+  {
+    "scene": 15,
+    "word": "transmission",
+    "start_seconds": 373.26000000000005,
+    "end_seconds": 373.5400000000001
+  },
+  {
+    "scene": 15,
+    "word": "drops",
+    "start_seconds": 373.5400000000001,
+    "end_seconds": 374.02000000000004
+  },
+  {
+    "scene": 15,
+    "word": "from",
+    "start_seconds": 374.02000000000004,
+    "end_seconds": 374.30000000000007
+  },
+  {
+    "scene": 15,
+    "word": "about",
+    "start_seconds": 374.30000000000007,
+    "end_seconds": 374.5400000000001
+  },
+  {
+    "scene": 15,
+    "word": "14",
+    "start_seconds": 374.5400000000001,
+    "end_seconds": 374.96000000000004
+  },
+  {
+    "scene": 15,
+    "word": "%",
+    "start_seconds": 374.96000000000004,
+    "end_seconds": 375.30000000000007
+  },
+  {
+    "scene": 15,
+    "word": "to",
+    "start_seconds": 375.30000000000007,
+    "end_seconds": 375.68000000000006
+  },
+  {
+    "scene": 15,
+    "word": "about",
+    "start_seconds": 375.68000000000006,
+    "end_seconds": 375.90000000000003
+  },
+  {
+    "scene": 15,
+    "word": "0",
+    "start_seconds": 375.90000000000003,
+    "end_seconds": 376.2200000000001
+  },
+  {
+    "scene": 15,
+    "word": ".6%.",
+    "start_seconds": 376.2200000000001,
+    "end_seconds": 377.40000000000003
+  },
+  {
+    "scene": 15,
+    "word": "In",
+    "start_seconds": 377.40000000000003,
+    "end_seconds": 378.06000000000006
+  },
+  {
+    "scene": 15,
+    "word": "the",
+    "start_seconds": 378.06000000000006,
+    "end_seconds": 378.20000000000005
+  },
+  {
+    "scene": 15,
+    "word": "laboratory,",
+    "start_seconds": 378.20000000000005,
+    "end_seconds": 378.68000000000006
+  },
+  {
+    "scene": 15,
+    "word": "compare",
+    "start_seconds": 379.24000000000007,
+    "end_seconds": 379.52000000000004
+  },
+  {
+    "scene": 15,
+    "word": "the",
+    "start_seconds": 379.52000000000004,
+    "end_seconds": 379.7200000000001
+  },
+  {
+    "scene": 15,
+    "word": "closed",
+    "start_seconds": 379.7200000000001,
+    "end_seconds": 380.00000000000006
+  },
+  {
+    "scene": 15,
+    "word": "form",
+    "start_seconds": 380.00000000000006,
+    "end_seconds": 380.36000000000007
+  },
+  {
+    "scene": 15,
+    "word": "with",
+    "start_seconds": 380.36000000000007,
+    "end_seconds": 380.62000000000006
+  },
+  {
+    "scene": 15,
+    "word": "independent",
+    "start_seconds": 380.62000000000006,
+    "end_seconds": 381.12000000000006
+  },
+  {
+    "scene": 15,
+    "word": "differential",
+    "start_seconds": 381.12000000000006,
+    "end_seconds": 381.62000000000006
+  },
+  {
+    "scene": 15,
+    "word": "equation",
+    "start_seconds": 381.62000000000006,
+    "end_seconds": 382.26000000000005
+  },
+  {
+    "scene": 15,
+    "word": "integration.",
+    "start_seconds": 382.26000000000005,
+    "end_seconds": 382.76000000000005
+  },
+  {
+    "scene": 15,
+    "word": "Also",
+    "start_seconds": 383.42,
+    "end_seconds": 383.76
+  },
+  {
+    "scene": 15,
+    "word": "check",
+    "start_seconds": 383.76,
+    "end_seconds": 384.02000000000004
+  },
+  {
+    "scene": 15,
+    "word": "continuity",
+    "start_seconds": 384.02000000000004,
+    "end_seconds": 384.48
+  },
+  {
+    "scene": 15,
+    "word": "and",
+    "start_seconds": 384.48,
+    "end_seconds": 384.92
+  },
+  {
+    "scene": 15,
+    "word": "constant",
+    "start_seconds": 384.92,
+    "end_seconds": 385.36
+  },
+  {
+    "scene": 15,
+    "word": "probability",
+    "start_seconds": 385.36,
+    "end_seconds": 385.86
+  },
+  {
+    "scene": 15,
+    "word": "current.",
+    "start_seconds": 385.86,
+    "end_seconds": 386.42
+  },
+  {
+    "scene": 15,
+    "word": "Defining",
+    "start_seconds": 387.04,
+    "end_seconds": 387.52000000000004
+  },
+  {
+    "scene": 15,
+    "word": "reflection",
+    "start_seconds": 387.52000000000004,
+    "end_seconds": 387.94
+  },
+  {
+    "scene": 15,
+    "word": "as",
+    "start_seconds": 387.94,
+    "end_seconds": 388.32
+  },
+  {
+    "scene": 15,
+    "word": "one",
+    "start_seconds": 388.32,
+    "end_seconds": 388.62
+  },
+  {
+    "scene": 15,
+    "word": "minus",
+    "start_seconds": 388.62,
+    "end_seconds": 388.94
+  },
+  {
+    "scene": 15,
+    "word": "transmission",
+    "start_seconds": 388.94,
+    "end_seconds": 389.56
+  },
+  {
+    "scene": 15,
+    "word": "alone",
+    "start_seconds": 389.56,
+    "end_seconds": 390.04
+  },
+  {
+    "scene": 15,
+    "word": "would",
+    "start_seconds": 390.04,
+    "end_seconds": 390.6
+  },
+  {
+    "scene": 15,
+    "word": "not",
+    "start_seconds": 390.6,
+    "end_seconds": 390.86
+  },
+  {
+    "scene": 15,
+    "word": "independently",
+    "start_seconds": 390.86,
+    "end_seconds": 391.42
+  },
+  {
+    "scene": 15,
+    "word": "test",
+    "start_seconds": 391.42,
+    "end_seconds": 391.78000000000003
+  },
+  {
+    "scene": 15,
+    "word": "conservation.",
+    "start_seconds": 391.78000000000003,
+    "end_seconds": 392.42
+  },
+  {
+    "scene": 15,
+    "word": "Two",
+    "start_seconds": 393.3,
+    "end_seconds": 393.44
+  },
+  {
+    "scene": 15,
+    "word": "implementations",
+    "start_seconds": 393.44,
+    "end_seconds": 394.06
+  },
+  {
+    "scene": 15,
+    "word": "can",
+    "start_seconds": 394.06,
+    "end_seconds": 394.54
+  },
+  {
+    "scene": 15,
+    "word": "share",
+    "start_seconds": 394.54,
+    "end_seconds": 394.74
+  },
+  {
+    "scene": 15,
+    "word": "the",
+    "start_seconds": 394.74,
+    "end_seconds": 394.94
+  },
+  {
+    "scene": 15,
+    "word": "same",
+    "start_seconds": 394.94,
+    "end_seconds": 395.18
+  },
+  {
+    "scene": 15,
+    "word": "unit",
+    "start_seconds": 395.18,
+    "end_seconds": 395.48
+  },
+  {
+    "scene": 15,
+    "word": "error.",
+    "start_seconds": 395.48,
+    "end_seconds": 395.84000000000003
+  },
+  {
+    "scene": 15,
+    "word": "That",
+    "start_seconds": 396.44,
+    "end_seconds": 396.62
+  },
+  {
+    "scene": 15,
+    "word": "is",
+    "start_seconds": 396.62,
+    "end_seconds": 396.74
+  },
+  {
+    "scene": 15,
+    "word": "why",
+    "start_seconds": 396.74,
+    "end_seconds": 396.94
+  },
+  {
+    "scene": 15,
+    "word": "dimensions",
+    "start_seconds": 396.94,
+    "end_seconds": 397.32
+  },
+  {
+    "scene": 15,
+    "word": "and",
+    "start_seconds": 397.32,
+    "end_seconds": 397.72
+  },
+  {
+    "scene": 15,
+    "word": "limiting",
+    "start_seconds": 397.72,
+    "end_seconds": 397.94
+  },
+  {
+    "scene": 15,
+    "word": "cases",
+    "start_seconds": 397.94,
+    "end_seconds": 398.48
+  },
+  {
+    "scene": 15,
+    "word": "also",
+    "start_seconds": 398.48,
+    "end_seconds": 398.96000000000004
+  },
+  {
+    "scene": 15,
+    "word": "matter.",
+    "start_seconds": 398.96000000000004,
+    "end_seconds": 399.28000000000003
+  },
+  {
+    "scene": 16,
+    "word": "Raising",
+    "start_seconds": 400.4533333333334,
+    "end_seconds": 400.8933333333334
+  },
+  {
+    "scene": 16,
+    "word": "energy",
+    "start_seconds": 400.8933333333334,
+    "end_seconds": 401.23333333333335
+  },
+  {
+    "scene": 16,
+    "word": "toward",
+    "start_seconds": 401.23333333333335,
+    "end_seconds": 401.5133333333334
+  },
+  {
+    "scene": 16,
+    "word": "the",
+    "start_seconds": 401.5133333333334,
+    "end_seconds": 401.6933333333334
+  },
+  {
+    "scene": 16,
+    "word": "barrier",
+    "start_seconds": 401.6933333333334,
+    "end_seconds": 402.0133333333334
+  },
+  {
+    "scene": 16,
+    "word": "height",
+    "start_seconds": 402.0133333333334,
+    "end_seconds": 402.3133333333334
+  },
+  {
+    "scene": 16,
+    "word": "increases",
+    "start_seconds": 402.3133333333334,
+    "end_seconds": 402.79333333333335
+  },
+  {
+    "scene": 16,
+    "word": "transmission",
+    "start_seconds": 402.79333333333335,
+    "end_seconds": 403.41333333333336
+  },
+  {
+    "scene": 16,
+    "word": "in",
+    "start_seconds": 403.41333333333336,
+    "end_seconds": 403.73333333333335
+  },
+  {
+    "scene": 16,
+    "word": "this",
+    "start_seconds": 403.73333333333335,
+    "end_seconds": 403.8933333333334
+  },
+  {
+    "scene": 16,
+    "word": "below",
+    "start_seconds": 403.8933333333334,
+    "end_seconds": 404.2533333333334
+  },
+  {
+    "scene": 16,
+    "word": "barrier",
+    "start_seconds": 404.2533333333334,
+    "end_seconds": 404.6333333333334
+  },
+  {
+    "scene": 16,
+    "word": "model,",
+    "start_seconds": 404.6333333333334,
+    "end_seconds": 405.0533333333334
+  },
+  {
+    "scene": 16,
+    "word": "but",
+    "start_seconds": 405.3933333333334,
+    "end_seconds": 405.73333333333335
+  },
+  {
+    "scene": 16,
+    "word": "do",
+    "start_seconds": 405.73333333333335,
+    "end_seconds": 405.8733333333334
+  },
+  {
+    "scene": 16,
+    "word": "not",
+    "start_seconds": 405.8733333333334,
+    "end_seconds": 406.09333333333336
+  },
+  {
+    "scene": 16,
+    "word": "extrapolate",
+    "start_seconds": 406.09333333333336,
+    "end_seconds": 406.71333333333337
+  },
+  {
+    "scene": 16,
+    "word": "this",
+    "start_seconds": 406.71333333333337,
+    "end_seconds": 406.91333333333336
+  },
+  {
+    "scene": 16,
+    "word": "equation",
+    "start_seconds": 406.91333333333336,
+    "end_seconds": 407.33333333333337
+  },
+  {
+    "scene": 16,
+    "word": "past",
+    "start_seconds": 407.33333333333337,
+    "end_seconds": 407.6733333333334
+  },
+  {
+    "scene": 16,
+    "word": "its",
+    "start_seconds": 407.6733333333334,
+    "end_seconds": 407.9333333333334
+  },
+  {
+    "scene": 16,
+    "word": "stated",
+    "start_seconds": 407.9333333333334,
+    "end_seconds": 408.2533333333334
+  },
+  {
+    "scene": 16,
+    "word": "domain.",
+    "start_seconds": 408.2533333333334,
+    "end_seconds": 408.65333333333336
+  },
+  {
+    "scene": 16,
+    "word": "At",
+    "start_seconds": 409.27333333333337,
+    "end_seconds": 409.47333333333336
+  },
+  {
+    "scene": 16,
+    "word": "or",
+    "start_seconds": 409.47333333333336,
+    "end_seconds": 409.6133333333334
+  },
+  {
+    "scene": 16,
+    "word": "above",
+    "start_seconds": 409.6133333333334,
+    "end_seconds": 409.85333333333335
+  },
+  {
+    "scene": 16,
+    "word": "the",
+    "start_seconds": 409.85333333333335,
+    "end_seconds": 410.03333333333336
+  },
+  {
+    "scene": 16,
+    "word": "barrier,",
+    "start_seconds": 410.03333333333336,
+    "end_seconds": 410.41333333333336
+  },
+  {
+    "scene": 16,
+    "word": "use",
+    "start_seconds": 410.7533333333334,
+    "end_seconds": 410.97333333333336
+  },
+  {
+    "scene": 16,
+    "word": "the",
+    "start_seconds": 410.97333333333336,
+    "end_seconds": 411.15333333333336
+  },
+  {
+    "scene": 16,
+    "word": "correct",
+    "start_seconds": 411.15333333333336,
+    "end_seconds": 411.4533333333334
+  },
+  {
+    "scene": 16,
+    "word": "limiting",
+    "start_seconds": 411.4533333333334,
+    "end_seconds": 411.8133333333334
+  },
+  {
+    "scene": 16,
+    "word": "expression",
+    "start_seconds": 411.8133333333334,
+    "end_seconds": 412.3133333333334
+  },
+  {
+    "scene": 16,
+    "word": "or",
+    "start_seconds": 412.3133333333334,
+    "end_seconds": 412.71333333333337
+  },
+  {
+    "scene": 16,
+    "word": "the",
+    "start_seconds": 412.71333333333337,
+    "end_seconds": 412.85333333333335
+  },
+  {
+    "scene": 16,
+    "word": "oscillatory",
+    "start_seconds": 412.85333333333335,
+    "end_seconds": 413.4533333333334
+  },
+  {
+    "scene": 16,
+    "word": "solution.",
+    "start_seconds": 413.4533333333334,
+    "end_seconds": 413.8733333333334
+  },
+  {
+    "scene": 16,
+    "word": "As",
+    "start_seconds": 414.46333333333337,
+    "end_seconds": 414.7033333333334
+  },
+  {
+    "scene": 16,
+    "word": "the",
+    "start_seconds": 414.7033333333334,
+    "end_seconds": 414.8833333333334
+  },
+  {
+    "scene": 16,
+    "word": "energy",
+    "start_seconds": 414.8833333333334,
+    "end_seconds": 415.16333333333336
+  },
+  {
+    "scene": 16,
+    "word": "gap",
+    "start_seconds": 415.16333333333336,
+    "end_seconds": 415.42333333333335
+  },
+  {
+    "scene": 16,
+    "word": "shrinks,",
+    "start_seconds": 415.42333333333335,
+    "end_seconds": 415.90333333333336
+  },
+  {
+    "scene": 16,
+    "word": "the",
+    "start_seconds": 416.28333333333336,
+    "end_seconds": 416.36333333333334
+  },
+  {
+    "scene": 16,
+    "word": "decay",
+    "start_seconds": 416.36333333333334,
+    "end_seconds": 416.66333333333336
+  },
+  {
+    "scene": 16,
+    "word": "length",
+    "start_seconds": 416.66333333333336,
+    "end_seconds": 416.96333333333337
+  },
+  {
+    "scene": 16,
+    "word": "grows,",
+    "start_seconds": 416.96333333333337,
+    "end_seconds": 417.3833333333334
+  },
+  {
+    "scene": 16,
+    "word": "allowing",
+    "start_seconds": 417.6233333333334,
+    "end_seconds": 417.9433333333334
+  },
+  {
+    "scene": 16,
+    "word": "more",
+    "start_seconds": 417.9433333333334,
+    "end_seconds": 418.2633333333334
+  },
+  {
+    "scene": 16,
+    "word": "amplitude",
+    "start_seconds": 418.2633333333334,
+    "end_seconds": 418.78333333333336
+  },
+  {
+    "scene": 16,
+    "word": "to",
+    "start_seconds": 418.78333333333336,
+    "end_seconds": 419.08333333333337
+  },
+  {
+    "scene": 16,
+    "word": "reach",
+    "start_seconds": 419.08333333333337,
+    "end_seconds": 419.24333333333334
+  },
+  {
+    "scene": 16,
+    "word": "the",
+    "start_seconds": 419.24333333333334,
+    "end_seconds": 419.46333333333337
+  },
+  {
+    "scene": 16,
+    "word": "exit.",
+    "start_seconds": 419.46333333333337,
+    "end_seconds": 419.7633333333334
+  },
+  {
+    "scene": 17,
+    "word": "A",
+    "start_seconds": 420.9533333333334,
+    "end_seconds": 421.15333333333336
+  },
+  {
+    "scene": 17,
+    "word": "higher",
+    "start_seconds": 421.15333333333336,
+    "end_seconds": 421.41333333333336
+  },
+  {
+    "scene": 17,
+    "word": "barrier",
+    "start_seconds": 421.41333333333336,
+    "end_seconds": 421.8133333333334
+  },
+  {
+    "scene": 17,
+    "word": "increases",
+    "start_seconds": 421.8133333333334,
+    "end_seconds": 422.33333333333337
+  },
+  {
+    "scene": 17,
+    "word": "the",
+    "start_seconds": 422.33333333333337,
+    "end_seconds": 422.5533333333334
+  },
+  {
+    "scene": 17,
+    "word": "decay,",
+    "start_seconds": 422.5533333333334,
+    "end_seconds": 422.8933333333334
+  },
+  {
+    "scene": 17,
+    "word": "constant,",
+    "start_seconds": 423.1933333333334,
+    "end_seconds": 423.4933333333334
+  },
+  {
+    "scene": 17,
+    "word": "and",
+    "start_seconds": 423.97333333333336,
+    "end_seconds": 424.1133333333334
+  },
+  {
+    "scene": 17,
+    "word": "reduces",
+    "start_seconds": 424.1133333333334,
+    "end_seconds": 424.4933333333334
+  },
+  {
+    "scene": 17,
+    "word": "transmission",
+    "start_seconds": 424.4933333333334,
+    "end_seconds": 425.0533333333334
+  },
+  {
+    "scene": 17,
+    "word": "for",
+    "start_seconds": 425.0533333333334,
+    "end_seconds": 425.41333333333336
+  },
+  {
+    "scene": 17,
+    "word": "these",
+    "start_seconds": 425.41333333333336,
+    "end_seconds": 425.59333333333336
+  },
+  {
+    "scene": 17,
+    "word": "fixed",
+    "start_seconds": 425.59333333333336,
+    "end_seconds": 425.8933333333334
+  },
+  {
+    "scene": 17,
+    "word": "parameters.",
+    "start_seconds": 425.8933333333334,
+    "end_seconds": 426.41333333333336
+  },
+  {
+    "scene": 17,
+    "word": "Width,",
+    "start_seconds": 427.3733333333334,
+    "end_seconds": 427.3933333333334
+  },
+  {
+    "scene": 17,
+    "word": "height,",
+    "start_seconds": 427.91333333333336,
+    "end_seconds": 428.0733333333334
+  },
+  {
+    "scene": 17,
+    "word": "and",
+    "start_seconds": 428.53333333333336,
+    "end_seconds": 428.6133333333334
+  },
+  {
+    "scene": 17,
+    "word": "effective",
+    "start_seconds": 428.6133333333334,
+    "end_seconds": 428.9533333333334
+  },
+  {
+    "scene": 17,
+    "word": "mass",
+    "start_seconds": 428.9533333333334,
+    "end_seconds": 429.33333333333337
+  },
+  {
+    "scene": 17,
+    "word": "all",
+    "start_seconds": 429.33333333333337,
+    "end_seconds": 429.6733333333334
+  },
+  {
+    "scene": 17,
+    "word": "matter.",
+    "start_seconds": 429.6733333333334,
+    "end_seconds": 429.9933333333334
+  },
+  {
+    "scene": 17,
+    "word": "In",
+    "start_seconds": 430.71333333333337,
+    "end_seconds": 430.83333333333337
+  },
+  {
+    "scene": 17,
+    "word": "an",
+    "start_seconds": 430.83333333333337,
+    "end_seconds": 430.97333333333336
+  },
+  {
+    "scene": 17,
+    "word": "actual",
+    "start_seconds": 430.97333333333336,
+    "end_seconds": 431.27333333333337
+  },
+  {
+    "scene": 17,
+    "word": "device,",
+    "start_seconds": 431.27333333333337,
+    "end_seconds": 431.7533333333334
+  },
+  {
+    "scene": 17,
+    "word": "voltage",
+    "start_seconds": 432.1933333333334,
+    "end_seconds": 432.35333333333335
+  },
+  {
+    "scene": 17,
+    "word": "can",
+    "start_seconds": 432.35333333333335,
+    "end_seconds": 432.6733333333334
+  },
+  {
+    "scene": 17,
+    "word": "change",
+    "start_seconds": 432.6733333333334,
+    "end_seconds": 432.9933333333334
+  },
+  {
+    "scene": 17,
+    "word": "the",
+    "start_seconds": 432.9933333333334,
+    "end_seconds": 433.1733333333334
+  },
+  {
+    "scene": 17,
+    "word": "barrier",
+    "start_seconds": 433.1733333333334,
+    "end_seconds": 433.47333333333336
+  },
+  {
+    "scene": 17,
+    "word": "shape",
+    "start_seconds": 433.47333333333336,
+    "end_seconds": 433.79333333333335
+  },
+  {
+    "scene": 17,
+    "word": "as",
+    "start_seconds": 433.79333333333335,
+    "end_seconds": 433.9933333333334
+  },
+  {
+    "scene": 17,
+    "word": "well",
+    "start_seconds": 433.9933333333334,
+    "end_seconds": 434.21333333333337
+  },
+  {
+    "scene": 17,
+    "word": "as",
+    "start_seconds": 434.21333333333337,
+    "end_seconds": 434.35333333333335
+  },
+  {
+    "scene": 17,
+    "word": "the",
+    "start_seconds": 434.35333333333335,
+    "end_seconds": 434.4933333333334
+  },
+  {
+    "scene": 17,
+    "word": "occupied",
+    "start_seconds": 434.4933333333334,
+    "end_seconds": 434.9333333333334
+  },
+  {
+    "scene": 17,
+    "word": "electron",
+    "start_seconds": 434.9333333333334,
+    "end_seconds": 435.3733333333334
+  },
+  {
+    "scene": 17,
+    "word": "energies.",
+    "start_seconds": 435.3733333333334,
+    "end_seconds": 435.77333333333337
+  },
+  {
+    "scene": 17,
+    "word": "Always",
+    "start_seconds": 436.40333333333336,
+    "end_seconds": 436.84333333333336
+  },
+  {
+    "scene": 17,
+    "word": "convert",
+    "start_seconds": 436.84333333333336,
+    "end_seconds": 437.2633333333334
+  },
+  {
+    "scene": 17,
+    "word": "the",
+    "start_seconds": 437.2633333333334,
+    "end_seconds": 437.5033333333334
+  },
+  {
+    "scene": 17,
+    "word": "energy",
+    "start_seconds": 437.5033333333334,
+    "end_seconds": 437.8833333333334
+  },
+  {
+    "scene": 17,
+    "word": "and",
+    "start_seconds": 437.8833333333334,
+    "end_seconds": 438.2033333333334
+  },
+  {
+    "scene": 17,
+    "word": "length",
+    "start_seconds": 438.2033333333334,
+    "end_seconds": 438.42333333333335
+  },
+  {
+    "scene": 17,
+    "word": "units",
+    "start_seconds": 438.42333333333335,
+    "end_seconds": 438.8833333333334
+  },
+  {
+    "scene": 17,
+    "word": "consistently",
+    "start_seconds": 438.8833333333334,
+    "end_seconds": 439.52333333333337
+  },
+  {
+    "scene": 17,
+    "word": "before",
+    "start_seconds": 439.52333333333337,
+    "end_seconds": 440.24333333333334
+  },
+  {
+    "scene": 17,
+    "word": "evaluating",
+    "start_seconds": 440.24333333333334,
+    "end_seconds": 440.92333333333335
+  },
+  {
+    "scene": 17,
+    "word": "an",
+    "start_seconds": 440.92333333333335,
+    "end_seconds": 441.2033333333334
+  },
+  {
+    "scene": 17,
+    "word": "exponential.",
+    "start_seconds": 441.2033333333334,
+    "end_seconds": 441.66333333333336
+  },
+  {
+    "scene": 18,
+    "word": "Pause",
+    "start_seconds": 442.92,
+    "end_seconds": 443.34000000000003
+  },
+  {
+    "scene": 18,
+    "word": "and",
+    "start_seconds": 443.34000000000003,
+    "end_seconds": 443.58000000000004
+  },
+  {
+    "scene": 18,
+    "word": "predict.",
+    "start_seconds": 443.58000000000004,
+    "end_seconds": 443.88
+  },
+  {
+    "scene": 18,
+    "word": "Does",
+    "start_seconds": 444.68,
+    "end_seconds": 444.76
+  },
+  {
+    "scene": 18,
+    "word": "tunneling",
+    "start_seconds": 444.76,
+    "end_seconds": 445.26
+  },
+  {
+    "scene": 18,
+    "word": "require",
+    "start_seconds": 445.26,
+    "end_seconds": 445.64000000000004
+  },
+  {
+    "scene": 18,
+    "word": "the",
+    "start_seconds": 445.64000000000004,
+    "end_seconds": 445.90000000000003
+  },
+  {
+    "scene": 18,
+    "word": "electron",
+    "start_seconds": 445.90000000000003,
+    "end_seconds": 446.32
+  },
+  {
+    "scene": 18,
+    "word": "to",
+    "start_seconds": 446.32,
+    "end_seconds": 446.54
+  },
+  {
+    "scene": 18,
+    "word": "borrow",
+    "start_seconds": 446.54,
+    "end_seconds": 446.78000000000003
+  },
+  {
+    "scene": 18,
+    "word": "extra",
+    "start_seconds": 446.78000000000003,
+    "end_seconds": 447.14000000000004
+  },
+  {
+    "scene": 18,
+    "word": "energy?",
+    "start_seconds": 447.14000000000004,
+    "end_seconds": 447.62
+  },
+  {
+    "scene": 18,
+    "word": "Check",
+    "start_seconds": 448.48,
+    "end_seconds": 448.68
+  },
+  {
+    "scene": 18,
+    "word": "your",
+    "start_seconds": 448.68,
+    "end_seconds": 448.88
+  },
+  {
+    "scene": 18,
+    "word": "answer",
+    "start_seconds": 448.88,
+    "end_seconds": 449.2
+  },
+  {
+    "scene": 18,
+    "word": "against",
+    "start_seconds": 449.2,
+    "end_seconds": 449.52000000000004
+  },
+  {
+    "scene": 18,
+    "word": "our",
+    "start_seconds": 449.52000000000004,
+    "end_seconds": 449.7
+  },
+  {
+    "scene": 18,
+    "word": "time",
+    "start_seconds": 449.7,
+    "end_seconds": 449.98
+  },
+  {
+    "scene": 18,
+    "word": "independent",
+    "start_seconds": 449.98,
+    "end_seconds": 450.40000000000003
+  },
+  {
+    "scene": 18,
+    "word": "equation,",
+    "start_seconds": 450.40000000000003,
+    "end_seconds": 450.98
+  },
+  {
+    "scene": 18,
+    "word": "which",
+    "start_seconds": 451.02000000000004,
+    "end_seconds": 451.32
+  },
+  {
+    "scene": 18,
+    "word": "has",
+    "start_seconds": 451.32,
+    "end_seconds": 451.52000000000004
+  },
+  {
+    "scene": 18,
+    "word": "one",
+    "start_seconds": 451.52000000000004,
+    "end_seconds": 451.88
+  },
+  {
+    "scene": 18,
+    "word": "fixed",
+    "start_seconds": 451.88,
+    "end_seconds": 452.34000000000003
+  },
+  {
+    "scene": 18,
+    "word": "total",
+    "start_seconds": 452.34000000000003,
+    "end_seconds": 452.7
+  },
+  {
+    "scene": 18,
+    "word": "energy",
+    "start_seconds": 452.7,
+    "end_seconds": 453.12
+  },
+  {
+    "scene": 18,
+    "word": "on",
+    "start_seconds": 453.12,
+    "end_seconds": 453.38
+  },
+  {
+    "scene": 18,
+    "word": "both",
+    "start_seconds": 453.38,
+    "end_seconds": 453.58000000000004
+  },
+  {
+    "scene": 18,
+    "word": "sides.",
+    "start_seconds": 453.58000000000004,
+    "end_seconds": 454.0
+  },
+  {
+    "scene": 18,
+    "word": "The",
+    "start_seconds": 454.64000000000004,
+    "end_seconds": 454.78000000000003
+  },
+  {
+    "scene": 18,
+    "word": "wave",
+    "start_seconds": 454.78000000000003,
+    "end_seconds": 455.02000000000004
+  },
+  {
+    "scene": 18,
+    "word": "inside",
+    "start_seconds": 455.02000000000004,
+    "end_seconds": 455.38
+  },
+  {
+    "scene": 18,
+    "word": "the",
+    "start_seconds": 455.38,
+    "end_seconds": 455.56
+  },
+  {
+    "scene": 18,
+    "word": "barrier",
+    "start_seconds": 455.56,
+    "end_seconds": 455.94
+  },
+  {
+    "scene": 18,
+    "word": "does",
+    "start_seconds": 455.94,
+    "end_seconds": 456.2
+  },
+  {
+    "scene": 18,
+    "word": "not",
+    "start_seconds": 456.2,
+    "end_seconds": 456.48
+  },
+  {
+    "scene": 18,
+    "word": "describe",
+    "start_seconds": 456.48,
+    "end_seconds": 456.84000000000003
+  },
+  {
+    "scene": 18,
+    "word": "a",
+    "start_seconds": 456.84000000000003,
+    "end_seconds": 457.06
+  },
+  {
+    "scene": 18,
+    "word": "classical",
+    "start_seconds": 457.06,
+    "end_seconds": 457.40000000000003
+  },
+  {
+    "scene": 18,
+    "word": "trajectory.",
+    "start_seconds": 457.40000000000003,
+    "end_seconds": 457.90000000000003
+  },
+  {
+    "scene": 19,
+    "word": "No",
+    "start_seconds": 465.02000000000004,
+    "end_seconds": 465.38000000000005
+  },
+  {
+    "scene": 19,
+    "word": "energy",
+    "start_seconds": 465.38000000000005,
+    "end_seconds": 465.8
+  },
+  {
+    "scene": 19,
+    "word": "loan",
+    "start_seconds": 465.8,
+    "end_seconds": 466.04
+  },
+  {
+    "scene": 19,
+    "word": "is",
+    "start_seconds": 466.04,
+    "end_seconds": 466.26000000000005
+  },
+  {
+    "scene": 19,
+    "word": "required.",
+    "start_seconds": 466.26000000000005,
+    "end_seconds": 466.74000000000007
+  },
+  {
+    "scene": 19,
+    "word": "For",
+    "start_seconds": 467.34000000000003,
+    "end_seconds": 467.44000000000005
+  },
+  {
+    "scene": 19,
+    "word": "our",
+    "start_seconds": 467.44000000000005,
+    "end_seconds": 467.64000000000004
+  },
+  {
+    "scene": 19,
+    "word": "static,",
+    "start_seconds": 467.64000000000004,
+    "end_seconds": 468.08000000000004
+  },
+  {
+    "scene": 19,
+    "word": "elastic,",
+    "start_seconds": 468.38000000000005,
+    "end_seconds": 468.94000000000005
+  },
+  {
+    "scene": 19,
+    "word": "lossless",
+    "start_seconds": 469.36,
+    "end_seconds": 469.70000000000005
+  },
+  {
+    "scene": 19,
+    "word": "barrier,",
+    "start_seconds": 469.70000000000005,
+    "end_seconds": 470.16
+  },
+  {
+    "scene": 19,
+    "word": "transmitted",
+    "start_seconds": 470.54,
+    "end_seconds": 470.86
+  },
+  {
+    "scene": 19,
+    "word": "and",
+    "start_seconds": 470.86,
+    "end_seconds": 471.20000000000005
+  },
+  {
+    "scene": 19,
+    "word": "reflected",
+    "start_seconds": 471.20000000000005,
+    "end_seconds": 471.58000000000004
+  },
+  {
+    "scene": 19,
+    "word": "electrons",
+    "start_seconds": 471.58000000000004,
+    "end_seconds": 472.16
+  },
+  {
+    "scene": 19,
+    "word": "have",
+    "start_seconds": 472.16,
+    "end_seconds": 472.44000000000005
+  },
+  {
+    "scene": 19,
+    "word": "the",
+    "start_seconds": 472.44000000000005,
+    "end_seconds": 472.62000000000006
+  },
+  {
+    "scene": 19,
+    "word": "same",
+    "start_seconds": 472.62000000000006,
+    "end_seconds": 472.90000000000003
+  },
+  {
+    "scene": 19,
+    "word": "total",
+    "start_seconds": 472.90000000000003,
+    "end_seconds": 473.26000000000005
+  },
+  {
+    "scene": 19,
+    "word": "energy",
+    "start_seconds": 473.26000000000005,
+    "end_seconds": 473.74000000000007
+  },
+  {
+    "scene": 19,
+    "word": "as",
+    "start_seconds": 473.74000000000007,
+    "end_seconds": 474.02000000000004
+  },
+  {
+    "scene": 19,
+    "word": "the",
+    "start_seconds": 474.02000000000004,
+    "end_seconds": 474.18000000000006
+  },
+  {
+    "scene": 19,
+    "word": "incident",
+    "start_seconds": 474.18000000000006,
+    "end_seconds": 474.50000000000006
+  },
+  {
+    "scene": 19,
+    "word": "electrons.",
+    "start_seconds": 474.50000000000006,
+    "end_seconds": 475.22
+  },
+  {
+    "scene": 19,
+    "word": "Interactions",
+    "start_seconds": 475.98,
+    "end_seconds": 476.48
+  },
+  {
+    "scene": 19,
+    "word": "that",
+    "start_seconds": 476.48,
+    "end_seconds": 476.70000000000005
+  },
+  {
+    "scene": 19,
+    "word": "exchange",
+    "start_seconds": 476.70000000000005,
+    "end_seconds": 477.16
+  },
+  {
+    "scene": 19,
+    "word": "energy",
+    "start_seconds": 477.16,
+    "end_seconds": 477.62000000000006
+  },
+  {
+    "scene": 19,
+    "word": "require",
+    "start_seconds": 477.62000000000006,
+    "end_seconds": 478.08000000000004
+  },
+  {
+    "scene": 19,
+    "word": "a",
+    "start_seconds": 478.08000000000004,
+    "end_seconds": 478.38000000000005
+  },
+  {
+    "scene": 19,
+    "word": "richer",
+    "start_seconds": 478.38000000000005,
+    "end_seconds": 478.64000000000004
+  },
+  {
+    "scene": 19,
+    "word": "model.",
+    "start_seconds": 478.64000000000004,
+    "end_seconds": 479.04
+  },
+  {
+    "scene": 19,
+    "word": "The",
+    "start_seconds": 479.52000000000004,
+    "end_seconds": 479.72
+  },
+  {
+    "scene": 19,
+    "word": "decaying",
+    "start_seconds": 479.72,
+    "end_seconds": 480.08000000000004
+  },
+  {
+    "scene": 19,
+    "word": "amplitude",
+    "start_seconds": 480.08000000000004,
+    "end_seconds": 480.66
+  },
+  {
+    "scene": 19,
+    "word": "is",
+    "start_seconds": 480.66,
+    "end_seconds": 480.96000000000004
+  },
+  {
+    "scene": 19,
+    "word": "compatible",
+    "start_seconds": 480.96000000000004,
+    "end_seconds": 481.36
+  },
+  {
+    "scene": 19,
+    "word": "with",
+    "start_seconds": 481.36,
+    "end_seconds": 481.74000000000007
+  },
+  {
+    "scene": 19,
+    "word": "one",
+    "start_seconds": 481.74000000000007,
+    "end_seconds": 482.00000000000006
+  },
+  {
+    "scene": 19,
+    "word": "conserved",
+    "start_seconds": 482.00000000000006,
+    "end_seconds": 482.6
+  },
+  {
+    "scene": 19,
+    "word": "energy",
+    "start_seconds": 482.6,
+    "end_seconds": 482.96000000000004
+  },
+  {
+    "scene": 19,
+    "word": "throughout",
+    "start_seconds": 482.96000000000004,
+    "end_seconds": 483.38000000000005
+  },
+  {
+    "scene": 19,
+    "word": "this",
+    "start_seconds": 483.38000000000005,
+    "end_seconds": 483.64000000000004
+  },
+  {
+    "scene": 19,
+    "word": "elastic",
+    "start_seconds": 483.64000000000004,
+    "end_seconds": 484.08000000000004
+  },
+  {
+    "scene": 19,
+    "word": "scattering",
+    "start_seconds": 484.08000000000004,
+    "end_seconds": 484.54
+  },
+  {
+    "scene": 19,
+    "word": "problem.",
+    "start_seconds": 484.54,
+    "end_seconds": 485.04
+  },
+  {
+    "scene": 20,
+    "word": "In",
+    "start_seconds": 486.1866666666667,
+    "end_seconds": 486.42666666666673
+  },
+  {
+    "scene": 20,
+    "word": "scanning",
+    "start_seconds": 486.42666666666673,
+    "end_seconds": 486.80666666666673
+  },
+  {
+    "scene": 20,
+    "word": "tunneling",
+    "start_seconds": 486.80666666666673,
+    "end_seconds": 487.3266666666667
+  },
+  {
+    "scene": 20,
+    "word": "microscopy,",
+    "start_seconds": 487.3266666666667,
+    "end_seconds": 488.0266666666667
+  },
+  {
+    "scene": 20,
+    "word": "a",
+    "start_seconds": 488.4666666666667,
+    "end_seconds": 488.60666666666674
+  },
+  {
+    "scene": 20,
+    "word": "conducting",
+    "start_seconds": 488.60666666666674,
+    "end_seconds": 489.0066666666667
+  },
+  {
+    "scene": 20,
+    "word": "tip",
+    "start_seconds": 489.0066666666667,
+    "end_seconds": 489.34666666666675
+  },
+  {
+    "scene": 20,
+    "word": "approaches",
+    "start_seconds": 489.34666666666675,
+    "end_seconds": 489.78666666666675
+  },
+  {
+    "scene": 20,
+    "word": "a",
+    "start_seconds": 489.78666666666675,
+    "end_seconds": 490.0666666666667
+  },
+  {
+    "scene": 20,
+    "word": "conducting",
+    "start_seconds": 490.0666666666667,
+    "end_seconds": 490.42666666666673
+  },
+  {
+    "scene": 20,
+    "word": "sample.",
+    "start_seconds": 490.42666666666673,
+    "end_seconds": 490.92666666666673
+  },
+  {
+    "scene": 20,
+    "word": "A",
+    "start_seconds": 491.5666666666667,
+    "end_seconds": 491.7066666666667
+  },
+  {
+    "scene": 20,
+    "word": "small",
+    "start_seconds": 491.7066666666667,
+    "end_seconds": 491.9666666666667
+  },
+  {
+    "scene": 20,
+    "word": "bias",
+    "start_seconds": 491.9666666666667,
+    "end_seconds": 492.36666666666673
+  },
+  {
+    "scene": 20,
+    "word": "allows",
+    "start_seconds": 492.36666666666673,
+    "end_seconds": 492.78666666666675
+  },
+  {
+    "scene": 20,
+    "word": "a",
+    "start_seconds": 492.78666666666675,
+    "end_seconds": 493.0066666666667
+  },
+  {
+    "scene": 20,
+    "word": "net",
+    "start_seconds": 493.0066666666667,
+    "end_seconds": 493.2066666666667
+  },
+  {
+    "scene": 20,
+    "word": "tunneling",
+    "start_seconds": 493.2066666666667,
+    "end_seconds": 493.6866666666667
+  },
+  {
+    "scene": 20,
+    "word": "current",
+    "start_seconds": 493.6866666666667,
+    "end_seconds": 493.9466666666667
+  },
+  {
+    "scene": 20,
+    "word": "across",
+    "start_seconds": 493.9466666666667,
+    "end_seconds": 494.36666666666673
+  },
+  {
+    "scene": 20,
+    "word": "the",
+    "start_seconds": 494.36666666666673,
+    "end_seconds": 494.60666666666674
+  },
+  {
+    "scene": 20,
+    "word": "vacuum",
+    "start_seconds": 494.60666666666674,
+    "end_seconds": 494.9466666666667
+  },
+  {
+    "scene": 20,
+    "word": "gap.",
+    "start_seconds": 494.9466666666667,
+    "end_seconds": 495.2066666666667
+  },
+  {
+    "scene": 20,
+    "word": "Because",
+    "start_seconds": 495.6866666666667,
+    "end_seconds": 496.10666666666674
+  },
+  {
+    "scene": 20,
+    "word": "transmission",
+    "start_seconds": 496.10666666666674,
+    "end_seconds": 496.5666666666667
+  },
+  {
+    "scene": 20,
+    "word": "is",
+    "start_seconds": 496.5666666666667,
+    "end_seconds": 496.9666666666667
+  },
+  {
+    "scene": 20,
+    "word": "sensitive",
+    "start_seconds": 496.9666666666667,
+    "end_seconds": 497.36666666666673
+  },
+  {
+    "scene": 20,
+    "word": "to",
+    "start_seconds": 497.36666666666673,
+    "end_seconds": 497.6266666666667
+  },
+  {
+    "scene": 20,
+    "word": "separation,",
+    "start_seconds": 497.6266666666667,
+    "end_seconds": 498.1866666666667
+  },
+  {
+    "scene": 20,
+    "word": "a",
+    "start_seconds": 498.80666666666673,
+    "end_seconds": 498.86666666666673
+  },
+  {
+    "scene": 20,
+    "word": "feedback",
+    "start_seconds": 498.86666666666673,
+    "end_seconds": 499.16666666666674
+  },
+  {
+    "scene": 20,
+    "word": "loop",
+    "start_seconds": 499.16666666666674,
+    "end_seconds": 499.54666666666674
+  },
+  {
+    "scene": 20,
+    "word": "can",
+    "start_seconds": 499.54666666666674,
+    "end_seconds": 499.7666666666667
+  },
+  {
+    "scene": 20,
+    "word": "adjust",
+    "start_seconds": 499.7666666666667,
+    "end_seconds": 500.1466666666667
+  },
+  {
+    "scene": 20,
+    "word": "tip",
+    "start_seconds": 500.1466666666667,
+    "end_seconds": 500.4666666666667
+  },
+  {
+    "scene": 20,
+    "word": "height",
+    "start_seconds": 500.4666666666667,
+    "end_seconds": 500.7666666666667
+  },
+  {
+    "scene": 20,
+    "word": "to",
+    "start_seconds": 500.7666666666667,
+    "end_seconds": 501.1466666666667
+  },
+  {
+    "scene": 20,
+    "word": "maintain",
+    "start_seconds": 501.1466666666667,
+    "end_seconds": 501.48666666666674
+  },
+  {
+    "scene": 20,
+    "word": "a",
+    "start_seconds": 501.48666666666674,
+    "end_seconds": 501.6866666666667
+  },
+  {
+    "scene": 20,
+    "word": "chosen",
+    "start_seconds": 501.6866666666667,
+    "end_seconds": 502.0066666666667
+  },
+  {
+    "scene": 20,
+    "word": "current",
+    "start_seconds": 502.0066666666667,
+    "end_seconds": 502.4666666666667
+  },
+  {
+    "scene": 20,
+    "word": "as",
+    "start_seconds": 502.4666666666667,
+    "end_seconds": 502.92666666666673
+  },
+  {
+    "scene": 20,
+    "word": "the",
+    "start_seconds": 502.92666666666673,
+    "end_seconds": 503.0866666666667
+  },
+  {
+    "scene": 20,
+    "word": "tip",
+    "start_seconds": 503.0866666666667,
+    "end_seconds": 503.2666666666667
+  },
+  {
+    "scene": 20,
+    "word": "scans",
+    "start_seconds": 503.2666666666667,
+    "end_seconds": 503.6466666666667
+  },
+  {
+    "scene": 20,
+    "word": "across",
+    "start_seconds": 503.6466666666667,
+    "end_seconds": 504.0066666666667
+  },
+  {
+    "scene": 20,
+    "word": "the",
+    "start_seconds": 504.0066666666667,
+    "end_seconds": 504.2466666666667
+  },
+  {
+    "scene": 20,
+    "word": "surface.",
+    "start_seconds": 504.2466666666667,
+    "end_seconds": 504.5866666666667
+  },
+  {
+    "scene": 20,
+    "word": "The",
+    "start_seconds": 505.42666666666673,
+    "end_seconds": 505.5266666666667
+  },
+  {
+    "scene": 20,
+    "word": "tip",
+    "start_seconds": 505.5266666666667,
+    "end_seconds": 505.7066666666667
+  },
+  {
+    "scene": 20,
+    "word": "can",
+    "start_seconds": 505.7066666666667,
+    "end_seconds": 505.90666666666675
+  },
+  {
+    "scene": 20,
+    "word": "carry",
+    "start_seconds": 505.90666666666675,
+    "end_seconds": 506.16666666666674
+  },
+  {
+    "scene": 20,
+    "word": "a",
+    "start_seconds": 506.16666666666674,
+    "end_seconds": 506.3866666666667
+  },
+  {
+    "scene": 20,
+    "word": "current",
+    "start_seconds": 506.3866666666667,
+    "end_seconds": 506.6866666666667
+  },
+  {
+    "scene": 20,
+    "word": "without",
+    "start_seconds": 506.6866666666667,
+    "end_seconds": 507.0866666666667
+  },
+  {
+    "scene": 20,
+    "word": "touching",
+    "start_seconds": 507.0866666666667,
+    "end_seconds": 507.4466666666667
+  },
+  {
+    "scene": 20,
+    "word": "the",
+    "start_seconds": 507.4466666666667,
+    "end_seconds": 507.6466666666667
+  },
+  {
+    "scene": 20,
+    "word": "sample,",
+    "start_seconds": 507.6466666666667,
+    "end_seconds": 507.98666666666674
+  },
+  {
+    "scene": 20,
+    "word": "that",
+    "start_seconds": 508.28666666666675,
+    "end_seconds": 508.4666666666667
+  },
+  {
+    "scene": 20,
+    "word": "is,",
+    "start_seconds": 508.4666666666667,
+    "end_seconds": 508.6466666666667
+  },
+  {
+    "scene": 20,
+    "word": "the",
+    "start_seconds": 508.7466666666667,
+    "end_seconds": 508.84666666666675
+  },
+  {
+    "scene": 20,
+    "word": "practical",
+    "start_seconds": 508.84666666666675,
+    "end_seconds": 509.2466666666667
+  },
+  {
+    "scene": 20,
+    "word": "opportunity.",
+    "start_seconds": 509.2466666666667,
+    "end_seconds": 509.7666666666667
+  },
+  {
+    "scene": 21,
+    "word": "The",
+    "start_seconds": 513.1866666666667,
+    "end_seconds": 513.3666666666667
+  },
+  {
+    "scene": 21,
+    "word": "resulting",
+    "start_seconds": 513.3666666666667,
+    "end_seconds": 513.7266666666667
+  },
+  {
+    "scene": 21,
+    "word": "image",
+    "start_seconds": 513.7266666666667,
+    "end_seconds": 514.1266666666668
+  },
+  {
+    "scene": 21,
+    "word": "is",
+    "start_seconds": 514.1266666666668,
+    "end_seconds": 514.3866666666668
+  },
+  {
+    "scene": 21,
+    "word": "not",
+    "start_seconds": 514.3866666666668,
+    "end_seconds": 514.6066666666667
+  },
+  {
+    "scene": 21,
+    "word": "simply",
+    "start_seconds": 514.6066666666667,
+    "end_seconds": 514.9666666666667
+  },
+  {
+    "scene": 21,
+    "word": "a",
+    "start_seconds": 514.9666666666667,
+    "end_seconds": 515.1866666666667
+  },
+  {
+    "scene": 21,
+    "word": "photograph",
+    "start_seconds": 515.1866666666667,
+    "end_seconds": 515.6066666666667
+  },
+  {
+    "scene": 21,
+    "word": "of",
+    "start_seconds": 515.6066666666667,
+    "end_seconds": 515.9266666666667
+  },
+  {
+    "scene": 21,
+    "word": "hard",
+    "start_seconds": 515.9266666666667,
+    "end_seconds": 516.1666666666667
+  },
+  {
+    "scene": 21,
+    "word": "atomic",
+    "start_seconds": 516.1666666666667,
+    "end_seconds": 516.4866666666667
+  },
+  {
+    "scene": 21,
+    "word": "surfaces.",
+    "start_seconds": 516.4866666666667,
+    "end_seconds": 517.0666666666667
+  },
+  {
+    "scene": 21,
+    "word": "The",
+    "start_seconds": 517.7266666666667,
+    "end_seconds": 517.8866666666668
+  },
+  {
+    "scene": 21,
+    "word": "current",
+    "start_seconds": 517.8866666666668,
+    "end_seconds": 518.1266666666668
+  },
+  {
+    "scene": 21,
+    "word": "depends",
+    "start_seconds": 518.1266666666668,
+    "end_seconds": 518.5066666666668
+  },
+  {
+    "scene": 21,
+    "word": "on",
+    "start_seconds": 518.5066666666668,
+    "end_seconds": 518.7466666666667
+  },
+  {
+    "scene": 21,
+    "word": "electronic",
+    "start_seconds": 518.7466666666667,
+    "end_seconds": 519.2066666666667
+  },
+  {
+    "scene": 21,
+    "word": "states,",
+    "start_seconds": 519.2066666666667,
+    "end_seconds": 519.7466666666667
+  },
+  {
+    "scene": 21,
+    "word": "bias,",
+    "start_seconds": 520.2866666666667,
+    "end_seconds": 520.4466666666667
+  },
+  {
+    "scene": 21,
+    "word": "and",
+    "start_seconds": 520.8266666666667,
+    "end_seconds": 520.9066666666668
+  },
+  {
+    "scene": 21,
+    "word": "tip",
+    "start_seconds": 520.9066666666668,
+    "end_seconds": 521.0866666666667
+  },
+  {
+    "scene": 21,
+    "word": "properties,",
+    "start_seconds": 521.0866666666667,
+    "end_seconds": 521.5666666666667
+  },
+  {
+    "scene": 21,
+    "word": "as",
+    "start_seconds": 521.8066666666667,
+    "end_seconds": 521.9466666666667
+  },
+  {
+    "scene": 21,
+    "word": "well",
+    "start_seconds": 521.9466666666667,
+    "end_seconds": 522.1866666666667
+  },
+  {
+    "scene": 21,
+    "word": "as",
+    "start_seconds": 522.1866666666667,
+    "end_seconds": 522.3466666666667
+  },
+  {
+    "scene": 21,
+    "word": "separation.",
+    "start_seconds": 522.3466666666667,
+    "end_seconds": 522.7066666666667
+  },
+  {
+    "scene": 21,
+    "word": "Our",
+    "start_seconds": 523.3966666666666,
+    "end_seconds": 523.6166666666667
+  },
+  {
+    "scene": 21,
+    "word": "rectangular",
+    "start_seconds": 523.6166666666667,
+    "end_seconds": 523.9766666666667
+  },
+  {
+    "scene": 21,
+    "word": "barrier",
+    "start_seconds": 523.9766666666667,
+    "end_seconds": 524.5566666666666
+  },
+  {
+    "scene": 21,
+    "word": "captures",
+    "start_seconds": 524.5566666666666,
+    "end_seconds": 524.9966666666667
+  },
+  {
+    "scene": 21,
+    "word": "a",
+    "start_seconds": 524.9966666666667,
+    "end_seconds": 525.2366666666667
+  },
+  {
+    "scene": 21,
+    "word": "useful",
+    "start_seconds": 525.2366666666667,
+    "end_seconds": 525.5766666666666
+  },
+  {
+    "scene": 21,
+    "word": "sensitivity,",
+    "start_seconds": 525.5766666666666,
+    "end_seconds": 526.1566666666666
+  },
+  {
+    "scene": 21,
+    "word": "but",
+    "start_seconds": 526.7366666666667,
+    "end_seconds": 526.9766666666667
+  },
+  {
+    "scene": 21,
+    "word": "a",
+    "start_seconds": 526.9766666666667,
+    "end_seconds": 527.0766666666666
+  },
+  {
+    "scene": 21,
+    "word": "realistic",
+    "start_seconds": 527.0766666666666,
+    "end_seconds": 527.4566666666666
+  },
+  {
+    "scene": 21,
+    "word": "current",
+    "start_seconds": 527.4566666666666,
+    "end_seconds": 527.8766666666667
+  },
+  {
+    "scene": 21,
+    "word": "calculation",
+    "start_seconds": 527.8766666666667,
+    "end_seconds": 528.5166666666667
+  },
+  {
+    "scene": 21,
+    "word": "must",
+    "start_seconds": 528.5166666666667,
+    "end_seconds": 528.8166666666666
+  },
+  {
+    "scene": 21,
+    "word": "include",
+    "start_seconds": 528.8166666666666,
+    "end_seconds": 529.2366666666667
+  },
+  {
+    "scene": 21,
+    "word": "occupied",
+    "start_seconds": 529.2366666666667,
+    "end_seconds": 529.7566666666667
+  },
+  {
+    "scene": 21,
+    "word": "states,",
+    "start_seconds": 529.7566666666667,
+    "end_seconds": 530.1966666666666
+  },
+  {
+    "scene": 21,
+    "word": "empty",
+    "start_seconds": 530.6166666666667,
+    "end_seconds": 530.8366666666667
+  },
+  {
+    "scene": 21,
+    "word": "states,",
+    "start_seconds": 530.8366666666667,
+    "end_seconds": 531.1966666666666
+  },
+  {
+    "scene": 21,
+    "word": "and",
+    "start_seconds": 531.5166666666667,
+    "end_seconds": 531.6766666666666
+  },
+  {
+    "scene": 21,
+    "word": "the",
+    "start_seconds": 531.6766666666666,
+    "end_seconds": 531.7766666666666
+  },
+  {
+    "scene": 21,
+    "word": "energy",
+    "start_seconds": 531.7766666666666,
+    "end_seconds": 532.0566666666666
+  },
+  {
+    "scene": 21,
+    "word": "window",
+    "start_seconds": 532.0566666666666,
+    "end_seconds": 532.3766666666667
+  },
+  {
+    "scene": 21,
+    "word": "selected",
+    "start_seconds": 532.3766666666667,
+    "end_seconds": 532.8166666666666
+  },
+  {
+    "scene": 21,
+    "word": "by",
+    "start_seconds": 532.8166666666666,
+    "end_seconds": 533.0566666666666
+  },
+  {
+    "scene": 21,
+    "word": "the",
+    "start_seconds": 533.0566666666666,
+    "end_seconds": 533.1766666666666
+  },
+  {
+    "scene": 21,
+    "word": "bias.",
+    "start_seconds": 533.1766666666666,
+    "end_seconds": 533.4766666666667
+  },
+  {
+    "scene": 21,
+    "word": "An",
+    "start_seconds": 534.1966666666666,
+    "end_seconds": 534.3366666666667
+  },
+  {
+    "scene": 21,
+    "word": "apparent",
+    "start_seconds": 534.3366666666667,
+    "end_seconds": 534.6566666666666
+  },
+  {
+    "scene": 21,
+    "word": "hill",
+    "start_seconds": 534.6566666666666,
+    "end_seconds": 534.9366666666666
+  },
+  {
+    "scene": 21,
+    "word": "in",
+    "start_seconds": 534.9366666666666,
+    "end_seconds": 535.1166666666667
+  },
+  {
+    "scene": 21,
+    "word": "a",
+    "start_seconds": 535.1166666666667,
+    "end_seconds": 535.2166666666667
+  },
+  {
+    "scene": 21,
+    "word": "current",
+    "start_seconds": 535.2166666666667,
+    "end_seconds": 535.4766666666667
+  },
+  {
+    "scene": 21,
+    "word": "map",
+    "start_seconds": 535.4766666666667,
+    "end_seconds": 535.7566666666667
+  },
+  {
+    "scene": 21,
+    "word": "can",
+    "start_seconds": 535.7566666666667,
+    "end_seconds": 535.9766666666667
+  },
+  {
+    "scene": 21,
+    "word": "therefore",
+    "start_seconds": 535.9766666666667,
+    "end_seconds": 536.3366666666667
+  },
+  {
+    "scene": 21,
+    "word": "reflect",
+    "start_seconds": 536.3366666666667,
+    "end_seconds": 536.7366666666667
+  },
+  {
+    "scene": 21,
+    "word": "electronic",
+    "start_seconds": 536.7366666666667,
+    "end_seconds": 537.2566666666667
+  },
+  {
+    "scene": 21,
+    "word": "structure,",
+    "start_seconds": 537.2566666666667,
+    "end_seconds": 537.7766666666666
+  },
+  {
+    "scene": 21,
+    "word": "as",
+    "start_seconds": 537.9566666666666,
+    "end_seconds": 538.1166666666667
+  },
+  {
+    "scene": 21,
+    "word": "well",
+    "start_seconds": 538.1166666666667,
+    "end_seconds": 538.2966666666666
+  },
+  {
+    "scene": 21,
+    "word": "as",
+    "start_seconds": 538.2966666666666,
+    "end_seconds": 538.4766666666667
+  },
+  {
+    "scene": 21,
+    "word": "geometry.",
+    "start_seconds": 538.4766666666667,
+    "end_seconds": 538.7766666666666
+  },
+  {
+    "scene": 22,
+    "word": "Pause",
+    "start_seconds": 540.0866666666667,
+    "end_seconds": 540.5266666666668
+  },
+  {
+    "scene": 22,
+    "word": "and",
+    "start_seconds": 540.5266666666668,
+    "end_seconds": 540.8266666666667
+  },
+  {
+    "scene": 22,
+    "word": "predict.",
+    "start_seconds": 540.8266666666667,
+    "end_seconds": 541.1266666666667
+  },
+  {
+    "scene": 22,
+    "word": "If",
+    "start_seconds": 541.8466666666667,
+    "end_seconds": 541.9466666666667
+  },
+  {
+    "scene": 22,
+    "word": "the",
+    "start_seconds": 541.9466666666667,
+    "end_seconds": 542.1066666666667
+  },
+  {
+    "scene": 22,
+    "word": "current",
+    "start_seconds": 542.1066666666667,
+    "end_seconds": 542.3866666666667
+  },
+  {
+    "scene": 22,
+    "word": "doubles",
+    "start_seconds": 542.3866666666667,
+    "end_seconds": 542.7266666666667
+  },
+  {
+    "scene": 22,
+    "word": "in",
+    "start_seconds": 542.7266666666667,
+    "end_seconds": 542.9266666666667
+  },
+  {
+    "scene": 22,
+    "word": "your",
+    "start_seconds": 542.9266666666667,
+    "end_seconds": 543.0466666666667
+  },
+  {
+    "scene": 22,
+    "word": "measurement,",
+    "start_seconds": 543.0466666666667,
+    "end_seconds": 543.4266666666667
+  },
+  {
+    "scene": 22,
+    "word": "has",
+    "start_seconds": 543.7666666666667,
+    "end_seconds": 543.8666666666667
+  },
+  {
+    "scene": 22,
+    "word": "the",
+    "start_seconds": 543.8666666666667,
+    "end_seconds": 544.0666666666667
+  },
+  {
+    "scene": 22,
+    "word": "surface",
+    "start_seconds": 544.0666666666667,
+    "end_seconds": 544.3266666666667
+  },
+  {
+    "scene": 22,
+    "word": "height",
+    "start_seconds": 544.3266666666667,
+    "end_seconds": 544.5866666666667
+  },
+  {
+    "scene": 22,
+    "word": "necessarily",
+    "start_seconds": 544.5866666666667,
+    "end_seconds": 545.0666666666667
+  },
+  {
+    "scene": 22,
+    "word": "doubled,",
+    "start_seconds": 545.0666666666667,
+    "end_seconds": 545.5466666666667
+  },
+  {
+    "scene": 22,
+    "word": "consider",
+    "start_seconds": 546.1666666666667,
+    "end_seconds": 546.5266666666668
+  },
+  {
+    "scene": 22,
+    "word": "a",
+    "start_seconds": 546.5266666666668,
+    "end_seconds": 546.8066666666667
+  },
+  {
+    "scene": 22,
+    "word": "different",
+    "start_seconds": 546.8066666666667,
+    "end_seconds": 547.1266666666667
+  },
+  {
+    "scene": 22,
+    "word": "tip,",
+    "start_seconds": 547.1266666666667,
+    "end_seconds": 547.4066666666668
+  },
+  {
+    "scene": 22,
+    "word": "a",
+    "start_seconds": 547.7866666666667,
+    "end_seconds": 547.8466666666667
+  },
+  {
+    "scene": 22,
+    "word": "change",
+    "start_seconds": 547.8466666666667,
+    "end_seconds": 548.1866666666667
+  },
+  {
+    "scene": 22,
+    "word": "of",
+    "start_seconds": 548.1866666666667,
+    "end_seconds": 548.3666666666667
+  },
+  {
+    "scene": 22,
+    "word": "local",
+    "start_seconds": 548.3666666666667,
+    "end_seconds": 548.6066666666667
+  },
+  {
+    "scene": 22,
+    "word": "electronic",
+    "start_seconds": 548.6066666666667,
+    "end_seconds": 549.1466666666666
+  },
+  {
+    "scene": 22,
+    "word": "states",
+    "start_seconds": 549.1466666666666,
+    "end_seconds": 549.5066666666667
+  },
+  {
+    "scene": 22,
+    "word": "and",
+    "start_seconds": 549.5066666666667,
+    "end_seconds": 549.8266666666667
+  },
+  {
+    "scene": 22,
+    "word": "a",
+    "start_seconds": 549.8266666666667,
+    "end_seconds": 549.9466666666667
+  },
+  {
+    "scene": 22,
+    "word": "different",
+    "start_seconds": 549.9466666666667,
+    "end_seconds": 550.2666666666667
+  },
+  {
+    "scene": 22,
+    "word": "bias,",
+    "start_seconds": 550.2666666666667,
+    "end_seconds": 550.6466666666666
+  },
+  {
+    "scene": 22,
+    "word": "which",
+    "start_seconds": 551.0266666666668,
+    "end_seconds": 551.2866666666667
+  },
+  {
+    "scene": 22,
+    "word": "controlled",
+    "start_seconds": 551.2866666666667,
+    "end_seconds": 551.7466666666667
+  },
+  {
+    "scene": 22,
+    "word": "comparisons",
+    "start_seconds": 551.7466666666667,
+    "end_seconds": 552.3466666666667
+  },
+  {
+    "scene": 22,
+    "word": "would",
+    "start_seconds": 552.3466666666667,
+    "end_seconds": 552.6266666666667
+  },
+  {
+    "scene": 22,
+    "word": "help",
+    "start_seconds": 552.6266666666667,
+    "end_seconds": 552.8266666666667
+  },
+  {
+    "scene": 22,
+    "word": "distinguish",
+    "start_seconds": 552.8266666666667,
+    "end_seconds": 553.2466666666667
+  },
+  {
+    "scene": 22,
+    "word": "geometry",
+    "start_seconds": 553.2466666666667,
+    "end_seconds": 553.7666666666667
+  },
+  {
+    "scene": 22,
+    "word": "from",
+    "start_seconds": 553.7666666666667,
+    "end_seconds": 554.1266666666667
+  },
+  {
+    "scene": 22,
+    "word": "electronic",
+    "start_seconds": 554.1266666666667,
+    "end_seconds": 554.6666666666667
+  },
+  {
+    "scene": 22,
+    "word": "contrast.",
+    "start_seconds": 554.6666666666667,
+    "end_seconds": 555.1666666666667
+  },
+  {
+    "scene": 22,
+    "word": "Write",
+    "start_seconds": 555.7966666666666,
+    "end_seconds": 556.0766666666666
+  },
+  {
+    "scene": 22,
+    "word": "a",
+    "start_seconds": 556.0766666666666,
+    "end_seconds": 556.2166666666666
+  },
+  {
+    "scene": 22,
+    "word": "prediction",
+    "start_seconds": 556.2166666666666,
+    "end_seconds": 556.5766666666666
+  },
+  {
+    "scene": 22,
+    "word": "before",
+    "start_seconds": 556.5766666666666,
+    "end_seconds": 557.1766666666666
+  },
+  {
+    "scene": 22,
+    "word": "you",
+    "start_seconds": 557.1766666666666,
+    "end_seconds": 557.4166666666666
+  },
+  {
+    "scene": 22,
+    "word": "reveal",
+    "start_seconds": 557.4166666666666,
+    "end_seconds": 557.7366666666667
+  },
+  {
+    "scene": 22,
+    "word": "the",
+    "start_seconds": 557.7366666666667,
+    "end_seconds": 557.8966666666666
+  },
+  {
+    "scene": 22,
+    "word": "feedback.",
+    "start_seconds": 557.8966666666666,
+    "end_seconds": 558.2166666666666
+  },
+  {
+    "scene": 23,
+    "word": "No",
+    "start_seconds": 566.0866666666667,
+    "end_seconds": 566.3866666666667
+  },
+  {
+    "scene": 23,
+    "word": "simple",
+    "start_seconds": 566.3866666666667,
+    "end_seconds": 566.7666666666667
+  },
+  {
+    "scene": 23,
+    "word": "doubling",
+    "start_seconds": 566.7666666666667,
+    "end_seconds": 567.1066666666667
+  },
+  {
+    "scene": 23,
+    "word": "rule",
+    "start_seconds": 567.1066666666667,
+    "end_seconds": 567.4266666666667
+  },
+  {
+    "scene": 23,
+    "word": "connects",
+    "start_seconds": 567.4266666666667,
+    "end_seconds": 567.8066666666667
+  },
+  {
+    "scene": 23,
+    "word": "current",
+    "start_seconds": 567.8066666666667,
+    "end_seconds": 568.1866666666667
+  },
+  {
+    "scene": 23,
+    "word": "and",
+    "start_seconds": 568.1866666666667,
+    "end_seconds": 568.4466666666667
+  },
+  {
+    "scene": 23,
+    "word": "height.",
+    "start_seconds": 568.4466666666667,
+    "end_seconds": 568.6866666666667
+  },
+  {
+    "scene": 23,
+    "word": "Semiconductor",
+    "start_seconds": 569.4466666666667,
+    "end_seconds": 569.9266666666667
+  },
+  {
+    "scene": 23,
+    "word": "oxides",
+    "start_seconds": 569.9266666666667,
+    "end_seconds": 570.4866666666667
+  },
+  {
+    "scene": 23,
+    "word": "and",
+    "start_seconds": 570.4866666666667,
+    "end_seconds": 570.6866666666667
+  },
+  {
+    "scene": 23,
+    "word": "organic",
+    "start_seconds": 570.6866666666667,
+    "end_seconds": 571.1266666666667
+  },
+  {
+    "scene": 23,
+    "word": "electronic",
+    "start_seconds": 571.1266666666667,
+    "end_seconds": 571.5866666666667
+  },
+  {
+    "scene": 23,
+    "word": "interfaces",
+    "start_seconds": 571.5866666666667,
+    "end_seconds": 572.3066666666667
+  },
+  {
+    "scene": 23,
+    "word": "also",
+    "start_seconds": 572.3066666666667,
+    "end_seconds": 572.7466666666667
+  },
+  {
+    "scene": 23,
+    "word": "have",
+    "start_seconds": 572.7466666666667,
+    "end_seconds": 573.0066666666667
+  },
+  {
+    "scene": 23,
+    "word": "complicated",
+    "start_seconds": 573.0066666666667,
+    "end_seconds": 573.4866666666667
+  },
+  {
+    "scene": 23,
+    "word": "transport.",
+    "start_seconds": 573.4866666666667,
+    "end_seconds": 574.1066666666667
+  },
+  {
+    "scene": 23,
+    "word": "Direct",
+    "start_seconds": 574.8866666666667,
+    "end_seconds": 575.0066666666667
+  },
+  {
+    "scene": 23,
+    "word": "tunneling",
+    "start_seconds": 575.0066666666667,
+    "end_seconds": 575.6066666666667
+  },
+  {
+    "scene": 23,
+    "word": "may",
+    "start_seconds": 575.6066666666667,
+    "end_seconds": 575.7466666666667
+  },
+  {
+    "scene": 23,
+    "word": "compete",
+    "start_seconds": 575.7466666666667,
+    "end_seconds": 576.0866666666667
+  },
+  {
+    "scene": 23,
+    "word": "with",
+    "start_seconds": 576.0866666666667,
+    "end_seconds": 576.3266666666667
+  },
+  {
+    "scene": 23,
+    "word": "thermally",
+    "start_seconds": 576.3266666666667,
+    "end_seconds": 576.7666666666667
+  },
+  {
+    "scene": 23,
+    "word": "activated",
+    "start_seconds": 576.7666666666667,
+    "end_seconds": 577.2266666666667
+  },
+  {
+    "scene": 23,
+    "word": "injection,",
+    "start_seconds": 577.2266666666667,
+    "end_seconds": 577.8666666666667
+  },
+  {
+    "scene": 23,
+    "word": "hopping,",
+    "start_seconds": 578.1666666666667,
+    "end_seconds": 578.4066666666668
+  },
+  {
+    "scene": 23,
+    "word": "and",
+    "start_seconds": 578.8666666666667,
+    "end_seconds": 578.9866666666667
+  },
+  {
+    "scene": 23,
+    "word": "trap",
+    "start_seconds": 578.9866666666667,
+    "end_seconds": 579.2666666666667
+  },
+  {
+    "scene": 23,
+    "word": "-assisted",
+    "start_seconds": 579.2666666666667,
+    "end_seconds": 579.5866666666667
+  },
+  {
+    "scene": 23,
+    "word": "processes.",
+    "start_seconds": 579.5866666666667,
+    "end_seconds": 580.1666666666667
+  },
+  {
+    "scene": 23,
+    "word": "Effective",
+    "start_seconds": 580.8466666666667,
+    "end_seconds": 581.3666666666667
+  },
+  {
+    "scene": 23,
+    "word": "masses,",
+    "start_seconds": 581.3666666666667,
+    "end_seconds": 581.8866666666667
+  },
+  {
+    "scene": 23,
+    "word": "non",
+    "start_seconds": 582.3666666666667,
+    "end_seconds": 582.5066666666667
+  },
+  {
+    "scene": 23,
+    "word": "-rectangular",
+    "start_seconds": 582.5066666666667,
+    "end_seconds": 583.0866666666667
+  },
+  {
+    "scene": 23,
+    "word": "barriers,",
+    "start_seconds": 583.0866666666667,
+    "end_seconds": 583.7066666666667
+  },
+  {
+    "scene": 23,
+    "word": "inelastic",
+    "start_seconds": 584.0466666666667,
+    "end_seconds": 584.4866666666667
+  },
+  {
+    "scene": 23,
+    "word": "scattering",
+    "start_seconds": 584.4866666666667,
+    "end_seconds": 584.9266666666667
+  },
+  {
+    "scene": 23,
+    "word": "and",
+    "start_seconds": 584.9266666666667,
+    "end_seconds": 585.3066666666667
+  },
+  {
+    "scene": 23,
+    "word": "distributions",
+    "start_seconds": 585.3066666666667,
+    "end_seconds": 585.7866666666667
+  },
+  {
+    "scene": 23,
+    "word": "of",
+    "start_seconds": 585.7866666666667,
+    "end_seconds": 586.1666666666667
+  },
+  {
+    "scene": 23,
+    "word": "molecular",
+    "start_seconds": 586.1666666666667,
+    "end_seconds": 586.6266666666667
+  },
+  {
+    "scene": 23,
+    "word": "arrangements",
+    "start_seconds": 586.6266666666667,
+    "end_seconds": 587.2266666666667
+  },
+  {
+    "scene": 23,
+    "word": "can",
+    "start_seconds": 587.2266666666667,
+    "end_seconds": 587.5066666666667
+  },
+  {
+    "scene": 23,
+    "word": "all",
+    "start_seconds": 587.5066666666667,
+    "end_seconds": 587.7266666666667
+  },
+  {
+    "scene": 23,
+    "word": "matter.",
+    "start_seconds": 587.7266666666667,
+    "end_seconds": 588.0866666666667
+  },
+  {
+    "scene": 23,
+    "word": "A",
+    "start_seconds": 588.9666666666667,
+    "end_seconds": 589.0066666666667
+  },
+  {
+    "scene": 23,
+    "word": "fitted",
+    "start_seconds": 589.0066666666667,
+    "end_seconds": 589.2466666666667
+  },
+  {
+    "scene": 23,
+    "word": "barrier",
+    "start_seconds": 589.2466666666667,
+    "end_seconds": 589.7266666666667
+  },
+  {
+    "scene": 23,
+    "word": "is",
+    "start_seconds": 589.7266666666667,
+    "end_seconds": 589.9666666666667
+  },
+  {
+    "scene": 23,
+    "word": "a",
+    "start_seconds": 589.9666666666667,
+    "end_seconds": 590.1066666666667
+  },
+  {
+    "scene": 23,
+    "word": "model",
+    "start_seconds": 590.1066666666667,
+    "end_seconds": 590.3466666666667
+  },
+  {
+    "scene": 23,
+    "word": "parameter,",
+    "start_seconds": 590.3466666666667,
+    "end_seconds": 590.8266666666667
+  },
+  {
+    "scene": 23,
+    "word": "not",
+    "start_seconds": 591.1466666666666,
+    "end_seconds": 591.3266666666667
+  },
+  {
+    "scene": 23,
+    "word": "automatically",
+    "start_seconds": 591.3266666666667,
+    "end_seconds": 591.8866666666667
+  },
+  {
+    "scene": 23,
+    "word": "a",
+    "start_seconds": 591.8866666666667,
+    "end_seconds": 592.2666666666667
+  },
+  {
+    "scene": 23,
+    "word": "measured",
+    "start_seconds": 592.2666666666667,
+    "end_seconds": 592.5466666666667
+  },
+  {
+    "scene": 23,
+    "word": "material",
+    "start_seconds": 592.5466666666667,
+    "end_seconds": 593.0266666666666
+  },
+  {
+    "scene": 23,
+    "word": "constant.",
+    "start_seconds": 593.0266666666666,
+    "end_seconds": 593.4666666666667
+  },
+  {
+    "scene": 23,
+    "word": "In",
+    "start_seconds": 594.0166666666667,
+    "end_seconds": 594.2166666666667
+  },
+  {
+    "scene": 23,
+    "word": "an",
+    "start_seconds": 594.2166666666667,
+    "end_seconds": 594.3366666666667
+  },
+  {
+    "scene": 23,
+    "word": "organic",
+    "start_seconds": 594.3366666666667,
+    "end_seconds": 594.7166666666667
+  },
+  {
+    "scene": 23,
+    "word": "layer,",
+    "start_seconds": 594.7166666666667,
+    "end_seconds": 595.1366666666667
+  },
+  {
+    "scene": 23,
+    "word": "molecular",
+    "start_seconds": 595.6166666666667,
+    "end_seconds": 595.8366666666667
+  },
+  {
+    "scene": 23,
+    "word": "orientation",
+    "start_seconds": 595.8366666666667,
+    "end_seconds": 596.5766666666666
+  },
+  {
+    "scene": 23,
+    "word": "and",
+    "start_seconds": 596.5766666666666,
+    "end_seconds": 596.9766666666667
+  },
+  {
+    "scene": 23,
+    "word": "disorder",
+    "start_seconds": 596.9766666666667,
+    "end_seconds": 597.3566666666667
+  },
+  {
+    "scene": 23,
+    "word": "can",
+    "start_seconds": 597.3566666666667,
+    "end_seconds": 597.7366666666667
+  },
+  {
+    "scene": 23,
+    "word": "also",
+    "start_seconds": 597.7366666666667,
+    "end_seconds": 598.0366666666666
+  },
+  {
+    "scene": 23,
+    "word": "change",
+    "start_seconds": 598.0366666666666,
+    "end_seconds": 598.3966666666666
+  },
+  {
+    "scene": 23,
+    "word": "the",
+    "start_seconds": 598.3966666666666,
+    "end_seconds": 598.6166666666667
+  },
+  {
+    "scene": 23,
+    "word": "available",
+    "start_seconds": 598.6166666666667,
+    "end_seconds": 598.9566666666667
+  },
+  {
+    "scene": 23,
+    "word": "pathways.",
+    "start_seconds": 598.9566666666667,
+    "end_seconds": 599.4166666666666
+  },
+  {
+    "scene": 24,
+    "word": "A",
+    "start_seconds": 600.72,
+    "end_seconds": 600.94
+  },
+  {
+    "scene": 24,
+    "word": "small",
+    "start_seconds": 600.94,
+    "end_seconds": 601.22
+  },
+  {
+    "scene": 24,
+    "word": "current",
+    "start_seconds": 601.22,
+    "end_seconds": 601.5600000000001
+  },
+  {
+    "scene": 24,
+    "word": "through",
+    "start_seconds": 601.5600000000001,
+    "end_seconds": 601.78
+  },
+  {
+    "scene": 24,
+    "word": "a",
+    "start_seconds": 601.78,
+    "end_seconds": 601.94
+  },
+  {
+    "scene": 24,
+    "word": "nominally",
+    "start_seconds": 601.94,
+    "end_seconds": 602.28
+  },
+  {
+    "scene": 24,
+    "word": "insulating",
+    "start_seconds": 602.28,
+    "end_seconds": 602.78
+  },
+  {
+    "scene": 24,
+    "word": "layer",
+    "start_seconds": 602.78,
+    "end_seconds": 603.14
+  },
+  {
+    "scene": 24,
+    "word": "is",
+    "start_seconds": 603.14,
+    "end_seconds": 603.4
+  },
+  {
+    "scene": 24,
+    "word": "evidence",
+    "start_seconds": 603.4,
+    "end_seconds": 603.6800000000001
+  },
+  {
+    "scene": 24,
+    "word": "of",
+    "start_seconds": 603.6800000000001,
+    "end_seconds": 603.9200000000001
+  },
+  {
+    "scene": 24,
+    "word": "transport,",
+    "start_seconds": 603.9200000000001,
+    "end_seconds": 604.38
+  },
+  {
+    "scene": 24,
+    "word": "but",
+    "start_seconds": 604.72,
+    "end_seconds": 605.02
+  },
+  {
+    "scene": 24,
+    "word": "it",
+    "start_seconds": 605.02,
+    "end_seconds": 605.12
+  },
+  {
+    "scene": 24,
+    "word": "does",
+    "start_seconds": 605.12,
+    "end_seconds": 605.24
+  },
+  {
+    "scene": 24,
+    "word": "not",
+    "start_seconds": 605.24,
+    "end_seconds": 605.46
+  },
+  {
+    "scene": 24,
+    "word": "identify",
+    "start_seconds": 605.46,
+    "end_seconds": 605.98
+  },
+  {
+    "scene": 24,
+    "word": "a",
+    "start_seconds": 605.98,
+    "end_seconds": 606.24
+  },
+  {
+    "scene": 24,
+    "word": "unique",
+    "start_seconds": 606.24,
+    "end_seconds": 606.58
+  },
+  {
+    "scene": 24,
+    "word": "mechanism.",
+    "start_seconds": 606.58,
+    "end_seconds": 607.1600000000001
+  },
+  {
+    "scene": 24,
+    "word": "Measure",
+    "start_seconds": 608.02,
+    "end_seconds": 608.1800000000001
+  },
+  {
+    "scene": 24,
+    "word": "a",
+    "start_seconds": 608.1800000000001,
+    "end_seconds": 608.4
+  },
+  {
+    "scene": 24,
+    "word": "thickness",
+    "start_seconds": 608.4,
+    "end_seconds": 608.7
+  },
+  {
+    "scene": 24,
+    "word": "series",
+    "start_seconds": 608.7,
+    "end_seconds": 609.0400000000001
+  },
+  {
+    "scene": 24,
+    "word": "and",
+    "start_seconds": 609.0400000000001,
+    "end_seconds": 609.46
+  },
+  {
+    "scene": 24,
+    "word": "a",
+    "start_seconds": 609.46,
+    "end_seconds": 609.5600000000001
+  },
+  {
+    "scene": 24,
+    "word": "temperature",
+    "start_seconds": 609.5600000000001,
+    "end_seconds": 609.88
+  },
+  {
+    "scene": 24,
+    "word": "series.",
+    "start_seconds": 609.88,
+    "end_seconds": 610.44
+  },
+  {
+    "scene": 24,
+    "word": "Control",
+    "start_seconds": 611.28,
+    "end_seconds": 611.32
+  },
+  {
+    "scene": 24,
+    "word": "contact",
+    "start_seconds": 611.32,
+    "end_seconds": 611.8000000000001
+  },
+  {
+    "scene": 24,
+    "word": "area,",
+    "start_seconds": 611.8000000000001,
+    "end_seconds": 612.26
+  },
+  {
+    "scene": 24,
+    "word": "defects,",
+    "start_seconds": 612.64,
+    "end_seconds": 612.9200000000001
+  },
+  {
+    "scene": 24,
+    "word": "and",
+    "start_seconds": 613.36,
+    "end_seconds": 613.44
+  },
+  {
+    "scene": 24,
+    "word": "instrument",
+    "start_seconds": 613.44,
+    "end_seconds": 613.78
+  },
+  {
+    "scene": 24,
+    "word": "leakage.",
+    "start_seconds": 613.78,
+    "end_seconds": 614.1600000000001
+  },
+  {
+    "scene": 24,
+    "word": "Compare",
+    "start_seconds": 614.75,
+    "end_seconds": 615.23
+  },
+  {
+    "scene": 24,
+    "word": "multiple",
+    "start_seconds": 615.23,
+    "end_seconds": 615.71
+  },
+  {
+    "scene": 24,
+    "word": "plausible",
+    "start_seconds": 615.71,
+    "end_seconds": 616.09
+  },
+  {
+    "scene": 24,
+    "word": "models",
+    "start_seconds": 616.09,
+    "end_seconds": 616.61
+  },
+  {
+    "scene": 24,
+    "word": "and",
+    "start_seconds": 616.61,
+    "end_seconds": 616.91
+  },
+  {
+    "scene": 24,
+    "word": "examine",
+    "start_seconds": 616.91,
+    "end_seconds": 617.25
+  },
+  {
+    "scene": 24,
+    "word": "their",
+    "start_seconds": 617.25,
+    "end_seconds": 617.47
+  },
+  {
+    "scene": 24,
+    "word": "residuals,",
+    "start_seconds": 617.47,
+    "end_seconds": 618.37
+  },
+  {
+    "scene": 24,
+    "word": "rather",
+    "start_seconds": 618.37,
+    "end_seconds": 618.61
+  },
+  {
+    "scene": 24,
+    "word": "than",
+    "start_seconds": 618.61,
+    "end_seconds": 618.91
+  },
+  {
+    "scene": 24,
+    "word": "judging",
+    "start_seconds": 618.91,
+    "end_seconds": 619.11
+  },
+  {
+    "scene": 24,
+    "word": "only",
+    "start_seconds": 619.11,
+    "end_seconds": 619.53
+  },
+  {
+    "scene": 24,
+    "word": "whether",
+    "start_seconds": 619.53,
+    "end_seconds": 619.83
+  },
+  {
+    "scene": 24,
+    "word": "one",
+    "start_seconds": 619.83,
+    "end_seconds": 620.13
+  },
+  {
+    "scene": 24,
+    "word": "curve",
+    "start_seconds": 620.13,
+    "end_seconds": 620.41
+  },
+  {
+    "scene": 24,
+    "word": "looks",
+    "start_seconds": 620.41,
+    "end_seconds": 620.65
+  },
+  {
+    "scene": 24,
+    "word": "convincing.",
+    "start_seconds": 620.65,
+    "end_seconds": 621.21
+  },
+  {
+    "scene": 24,
+    "word": "Choose",
+    "start_seconds": 622.25,
+    "end_seconds": 622.39
+  },
+  {
+    "scene": 24,
+    "word": "measurements",
+    "start_seconds": 622.39,
+    "end_seconds": 622.81
+  },
+  {
+    "scene": 24,
+    "word": "where",
+    "start_seconds": 622.81,
+    "end_seconds": 623.15
+  },
+  {
+    "scene": 24,
+    "word": "the",
+    "start_seconds": 623.15,
+    "end_seconds": 623.27
+  },
+  {
+    "scene": 24,
+    "word": "competing",
+    "start_seconds": 623.27,
+    "end_seconds": 623.65
+  },
+  {
+    "scene": 24,
+    "word": "mechanisms",
+    "start_seconds": 623.65,
+    "end_seconds": 624.23
+  },
+  {
+    "scene": 24,
+    "word": "make",
+    "start_seconds": 624.23,
+    "end_seconds": 624.59
+  },
+  {
+    "scene": 24,
+    "word": "different,",
+    "start_seconds": 624.59,
+    "end_seconds": 625.03
+  },
+  {
+    "scene": 24,
+    "word": "observable",
+    "start_seconds": 625.23,
+    "end_seconds": 625.61
+  },
+  {
+    "scene": 24,
+    "word": "predictions.",
+    "start_seconds": 625.61,
+    "end_seconds": 626.17
+  },
+  {
+    "scene": 25,
+    "word": "Pause",
+    "start_seconds": 627.52,
+    "end_seconds": 627.98
+  },
+  {
+    "scene": 25,
+    "word": "and",
+    "start_seconds": 627.98,
+    "end_seconds": 628.26
+  },
+  {
+    "scene": 25,
+    "word": "predict.",
+    "start_seconds": 628.26,
+    "end_seconds": 628.6
+  },
+  {
+    "scene": 25,
+    "word": "An",
+    "start_seconds": 629.3199999999999,
+    "end_seconds": 629.42
+  },
+  {
+    "scene": 25,
+    "word": "exponential",
+    "start_seconds": 629.42,
+    "end_seconds": 629.96
+  },
+  {
+    "scene": 25,
+    "word": "decrease",
+    "start_seconds": 629.96,
+    "end_seconds": 630.56
+  },
+  {
+    "scene": 25,
+    "word": "of",
+    "start_seconds": 630.56,
+    "end_seconds": 630.8
+  },
+  {
+    "scene": 25,
+    "word": "current",
+    "start_seconds": 630.8,
+    "end_seconds": 631.0799999999999
+  },
+  {
+    "scene": 25,
+    "word": "with",
+    "start_seconds": 631.0799999999999,
+    "end_seconds": 631.3
+  },
+  {
+    "scene": 25,
+    "word": "thickness",
+    "start_seconds": 631.3,
+    "end_seconds": 631.62
+  },
+  {
+    "scene": 25,
+    "word": "is",
+    "start_seconds": 631.62,
+    "end_seconds": 631.8199999999999
+  },
+  {
+    "scene": 25,
+    "word": "observed.",
+    "start_seconds": 631.8199999999999,
+    "end_seconds": 632.24
+  },
+  {
+    "scene": 25,
+    "word": "Does",
+    "start_seconds": 632.8199999999999,
+    "end_seconds": 632.96
+  },
+  {
+    "scene": 25,
+    "word": "that",
+    "start_seconds": 632.96,
+    "end_seconds": 633.1999999999999
+  },
+  {
+    "scene": 25,
+    "word": "conclusively",
+    "start_seconds": 633.1999999999999,
+    "end_seconds": 633.74
+  },
+  {
+    "scene": 25,
+    "word": "prove",
+    "start_seconds": 633.74,
+    "end_seconds": 634.26
+  },
+  {
+    "scene": 25,
+    "word": "direct",
+    "start_seconds": 634.26,
+    "end_seconds": 634.64
+  },
+  {
+    "scene": 25,
+    "word": "tunneling?",
+    "start_seconds": 634.64,
+    "end_seconds": 635.26
+  },
+  {
+    "scene": 25,
+    "word": "Consider",
+    "start_seconds": 635.86,
+    "end_seconds": 636.12
+  },
+  {
+    "scene": 25,
+    "word": "whether",
+    "start_seconds": 636.12,
+    "end_seconds": 636.48
+  },
+  {
+    "scene": 25,
+    "word": "defects,",
+    "start_seconds": 636.48,
+    "end_seconds": 637.02
+  },
+  {
+    "scene": 25,
+    "word": "thickness",
+    "start_seconds": 637.42,
+    "end_seconds": 637.6999999999999
+  },
+  {
+    "scene": 25,
+    "word": "-dependent",
+    "start_seconds": 637.6999999999999,
+    "end_seconds": 638.12
+  },
+  {
+    "scene": 25,
+    "word": "morphology,",
+    "start_seconds": 638.12,
+    "end_seconds": 638.64
+  },
+  {
+    "scene": 25,
+    "word": "or",
+    "start_seconds": 639.02,
+    "end_seconds": 639.16
+  },
+  {
+    "scene": 25,
+    "word": "another",
+    "start_seconds": 639.16,
+    "end_seconds": 639.52
+  },
+  {
+    "scene": 25,
+    "word": "transport",
+    "start_seconds": 639.52,
+    "end_seconds": 640.04
+  },
+  {
+    "scene": 25,
+    "word": "mechanism",
+    "start_seconds": 640.04,
+    "end_seconds": 640.5799999999999
+  },
+  {
+    "scene": 25,
+    "word": "could",
+    "start_seconds": 640.5799999999999,
+    "end_seconds": 640.8199999999999
+  },
+  {
+    "scene": 25,
+    "word": "generate",
+    "start_seconds": 640.8199999999999,
+    "end_seconds": 641.1999999999999
+  },
+  {
+    "scene": 25,
+    "word": "a",
+    "start_seconds": 641.1999999999999,
+    "end_seconds": 641.38
+  },
+  {
+    "scene": 25,
+    "word": "similar",
+    "start_seconds": 641.38,
+    "end_seconds": 641.66
+  },
+  {
+    "scene": 25,
+    "word": "trend.",
+    "start_seconds": 641.66,
+    "end_seconds": 641.98
+  },
+  {
+    "scene": 25,
+    "word": "State",
+    "start_seconds": 642.5,
+    "end_seconds": 642.9
+  },
+  {
+    "scene": 25,
+    "word": "1",
+    "start_seconds": 642.9,
+    "end_seconds": 643.24
+  },
+  {
+    "scene": 25,
+    "word": "additional",
+    "start_seconds": 643.24,
+    "end_seconds": 643.66
+  },
+  {
+    "scene": 25,
+    "word": "measurement",
+    "start_seconds": 643.66,
+    "end_seconds": 644.22
+  },
+  {
+    "scene": 25,
+    "word": "and",
+    "start_seconds": 644.22,
+    "end_seconds": 644.64
+  },
+  {
+    "scene": 25,
+    "word": "explain",
+    "start_seconds": 644.64,
+    "end_seconds": 645.08
+  },
+  {
+    "scene": 25,
+    "word": "what",
+    "start_seconds": 645.08,
+    "end_seconds": 645.38
+  },
+  {
+    "scene": 25,
+    "word": "competing",
+    "start_seconds": 645.38,
+    "end_seconds": 645.76
+  },
+  {
+    "scene": 25,
+    "word": "predictions",
+    "start_seconds": 645.76,
+    "end_seconds": 646.34
+  },
+  {
+    "scene": 25,
+    "word": "it",
+    "start_seconds": 646.34,
+    "end_seconds": 646.6
+  },
+  {
+    "scene": 25,
+    "word": "would",
+    "start_seconds": 646.6,
+    "end_seconds": 646.74
+  },
+  {
+    "scene": 25,
+    "word": "test.",
+    "start_seconds": 646.74,
+    "end_seconds": 647.02
+  },
+  {
+    "scene": 26,
+    "word": "The",
+    "start_seconds": 654.0866666666667,
+    "end_seconds": 654.2666666666667
+  },
+  {
+    "scene": 26,
+    "word": "trend",
+    "start_seconds": 654.2666666666667,
+    "end_seconds": 654.5066666666667
+  },
+  {
+    "scene": 26,
+    "word": "supports",
+    "start_seconds": 654.5066666666667,
+    "end_seconds": 654.9466666666667
+  },
+  {
+    "scene": 26,
+    "word": "a",
+    "start_seconds": 654.9466666666667,
+    "end_seconds": 655.1266666666667
+  },
+  {
+    "scene": 26,
+    "word": "tunneling",
+    "start_seconds": 655.1266666666667,
+    "end_seconds": 655.5466666666667
+  },
+  {
+    "scene": 26,
+    "word": "explanation,",
+    "start_seconds": 655.5466666666667,
+    "end_seconds": 656.0266666666668
+  },
+  {
+    "scene": 26,
+    "word": "but",
+    "start_seconds": 656.5866666666667,
+    "end_seconds": 656.8066666666667
+  },
+  {
+    "scene": 26,
+    "word": "is",
+    "start_seconds": 656.8066666666667,
+    "end_seconds": 656.9266666666667
+  },
+  {
+    "scene": 26,
+    "word": "not",
+    "start_seconds": 656.9266666666667,
+    "end_seconds": 657.1066666666667
+  },
+  {
+    "scene": 26,
+    "word": "conclusive",
+    "start_seconds": 657.1066666666667,
+    "end_seconds": 657.5666666666667
+  },
+  {
+    "scene": 26,
+    "word": "by",
+    "start_seconds": 657.5666666666667,
+    "end_seconds": 657.9466666666667
+  },
+  {
+    "scene": 26,
+    "word": "itself.",
+    "start_seconds": 657.9466666666667,
+    "end_seconds": 658.3066666666667
+  },
+  {
+    "scene": 26,
+    "word": "Weak",
+    "start_seconds": 659.0066666666667,
+    "end_seconds": 659.1066666666667
+  },
+  {
+    "scene": 26,
+    "word": "temperature",
+    "start_seconds": 659.1066666666667,
+    "end_seconds": 659.5466666666667
+  },
+  {
+    "scene": 26,
+    "word": "dependence",
+    "start_seconds": 659.5466666666667,
+    "end_seconds": 660.0266666666668
+  },
+  {
+    "scene": 26,
+    "word": "under",
+    "start_seconds": 660.0266666666668,
+    "end_seconds": 660.3866666666667
+  },
+  {
+    "scene": 26,
+    "word": "controlled",
+    "start_seconds": 660.3866666666667,
+    "end_seconds": 660.8066666666667
+  },
+  {
+    "scene": 26,
+    "word": "conditions",
+    "start_seconds": 660.8066666666667,
+    "end_seconds": 661.3466666666667
+  },
+  {
+    "scene": 26,
+    "word": "can",
+    "start_seconds": 661.3466666666667,
+    "end_seconds": 661.7066666666667
+  },
+  {
+    "scene": 26,
+    "word": "strengthen",
+    "start_seconds": 661.7066666666667,
+    "end_seconds": 662.1466666666666
+  },
+  {
+    "scene": 26,
+    "word": "the",
+    "start_seconds": 662.1466666666666,
+    "end_seconds": 662.3466666666667
+  },
+  {
+    "scene": 26,
+    "word": "case",
+    "start_seconds": 662.3466666666667,
+    "end_seconds": 662.5466666666667
+  },
+  {
+    "scene": 26,
+    "word": "for",
+    "start_seconds": 662.5466666666667,
+    "end_seconds": 662.8066666666667
+  },
+  {
+    "scene": 26,
+    "word": "direct",
+    "start_seconds": 662.8066666666667,
+    "end_seconds": 663.1466666666666
+  },
+  {
+    "scene": 26,
+    "word": "elastic",
+    "start_seconds": 663.1466666666666,
+    "end_seconds": 663.6266666666667
+  },
+  {
+    "scene": 26,
+    "word": "tunneling,",
+    "start_seconds": 663.6266666666667,
+    "end_seconds": 664.2866666666667
+  },
+  {
+    "scene": 26,
+    "word": "while",
+    "start_seconds": 664.4066666666668,
+    "end_seconds": 664.6466666666666
+  },
+  {
+    "scene": 26,
+    "word": "thermally",
+    "start_seconds": 664.6466666666666,
+    "end_seconds": 665.1466666666666
+  },
+  {
+    "scene": 26,
+    "word": "activated",
+    "start_seconds": 665.1466666666666,
+    "end_seconds": 665.6266666666667
+  },
+  {
+    "scene": 26,
+    "word": "behavior",
+    "start_seconds": 665.6266666666667,
+    "end_seconds": 666.1666666666667
+  },
+  {
+    "scene": 26,
+    "word": "motivates",
+    "start_seconds": 666.1666666666667,
+    "end_seconds": 666.8466666666667
+  },
+  {
+    "scene": 26,
+    "word": "alternatives.",
+    "start_seconds": 666.8466666666667,
+    "end_seconds": 667.3866666666667
+  },
+  {
+    "scene": 26,
+    "word": "No",
+    "start_seconds": 667.9866666666667,
+    "end_seconds": 668.1666666666667
+  },
+  {
+    "scene": 26,
+    "word": "single",
+    "start_seconds": 668.1666666666667,
+    "end_seconds": 668.5266666666668
+  },
+  {
+    "scene": 26,
+    "word": "signature",
+    "start_seconds": 668.5266666666668,
+    "end_seconds": 668.9666666666667
+  },
+  {
+    "scene": 26,
+    "word": "is",
+    "start_seconds": 668.9666666666667,
+    "end_seconds": 669.2666666666667
+  },
+  {
+    "scene": 26,
+    "word": "universal.",
+    "start_seconds": 669.2666666666667,
+    "end_seconds": 669.6466666666666
+  },
+  {
+    "scene": 26,
+    "word": "Report",
+    "start_seconds": 670.2666666666667,
+    "end_seconds": 670.6866666666666
+  },
+  {
+    "scene": 26,
+    "word": "parameter",
+    "start_seconds": 670.6866666666666,
+    "end_seconds": 671.0666666666666
+  },
+  {
+    "scene": 26,
+    "word": "uncertainty,",
+    "start_seconds": 671.0666666666666,
+    "end_seconds": 671.7666666666667
+  },
+  {
+    "scene": 26,
+    "word": "measurement",
+    "start_seconds": 672.2866666666666,
+    "end_seconds": 672.4866666666667
+  },
+  {
+    "scene": 26,
+    "word": "limits,",
+    "start_seconds": 672.4866666666667,
+    "end_seconds": 673.0266666666666
+  },
+  {
+    "scene": 26,
+    "word": "model",
+    "start_seconds": 673.4266666666666,
+    "end_seconds": 673.6266666666667
+  },
+  {
+    "scene": 26,
+    "word": "assumptions,",
+    "start_seconds": 673.6266666666667,
+    "end_seconds": 674.1666666666666
+  },
+  {
+    "scene": 26,
+    "word": "and",
+    "start_seconds": 674.5266666666666,
+    "end_seconds": 674.7266666666667
+  },
+  {
+    "scene": 26,
+    "word": "what",
+    "start_seconds": 674.7266666666667,
+    "end_seconds": 674.9866666666667
+  },
+  {
+    "scene": 26,
+    "word": "observation",
+    "start_seconds": 674.9866666666667,
+    "end_seconds": 675.5066666666667
+  },
+  {
+    "scene": 26,
+    "word": "would",
+    "start_seconds": 675.5066666666667,
+    "end_seconds": 675.8466666666667
+  },
+  {
+    "scene": 26,
+    "word": "make",
+    "start_seconds": 675.8466666666667,
+    "end_seconds": 676.0066666666667
+  },
+  {
+    "scene": 26,
+    "word": "you",
+    "start_seconds": 676.0066666666667,
+    "end_seconds": 676.1866666666666
+  },
+  {
+    "scene": 26,
+    "word": "change",
+    "start_seconds": 676.1866666666666,
+    "end_seconds": 676.4466666666666
+  },
+  {
+    "scene": 26,
+    "word": "your",
+    "start_seconds": 676.4466666666666,
+    "end_seconds": 676.6066666666667
+  },
+  {
+    "scene": 26,
+    "word": "explanation.",
+    "start_seconds": 676.6066666666667,
+    "end_seconds": 677.0866666666667
+  },
+  {
+    "scene": 26,
+    "word": "Confidence",
+    "start_seconds": 678.1866666666666,
+    "end_seconds": 678.5666666666666
+  },
+  {
+    "scene": 26,
+    "word": "grows",
+    "start_seconds": 678.5666666666666,
+    "end_seconds": 678.8466666666667
+  },
+  {
+    "scene": 26,
+    "word": "from",
+    "start_seconds": 678.8466666666667,
+    "end_seconds": 679.1466666666666
+  },
+  {
+    "scene": 26,
+    "word": "consistent",
+    "start_seconds": 679.1466666666666,
+    "end_seconds": 679.6066666666667
+  },
+  {
+    "scene": 26,
+    "word": "evidence",
+    "start_seconds": 679.6066666666667,
+    "end_seconds": 680.1666666666666
+  },
+  {
+    "scene": 26,
+    "word": "across",
+    "start_seconds": 680.1666666666666,
+    "end_seconds": 680.5866666666667
+  },
+  {
+    "scene": 26,
+    "word": "conditions",
+    "start_seconds": 680.5866666666667,
+    "end_seconds": 681.2466666666667
+  },
+  {
+    "scene": 26,
+    "word": "rather",
+    "start_seconds": 681.2466666666667,
+    "end_seconds": 681.7066666666667
+  },
+  {
+    "scene": 26,
+    "word": "than",
+    "start_seconds": 681.7066666666667,
+    "end_seconds": 681.9866666666667
+  },
+  {
+    "scene": 26,
+    "word": "from",
+    "start_seconds": 681.9866666666667,
+    "end_seconds": 682.1666666666666
+  },
+  {
+    "scene": 26,
+    "word": "one",
+    "start_seconds": 682.1666666666666,
+    "end_seconds": 682.4466666666666
+  },
+  {
+    "scene": 26,
+    "word": "successful",
+    "start_seconds": 682.4466666666666,
+    "end_seconds": 682.8866666666667
+  },
+  {
+    "scene": 26,
+    "word": "fit.",
+    "start_seconds": 682.8866666666667,
+    "end_seconds": 683.2466666666667
+  },
+  {
+    "scene": 27,
+    "word": "Open",
+    "start_seconds": 684.4200000000001,
+    "end_seconds": 684.7400000000001
+  },
+  {
+    "scene": 27,
+    "word": "the",
+    "start_seconds": 684.7400000000001,
+    "end_seconds": 684.9000000000001
+  },
+  {
+    "scene": 27,
+    "word": "companion",
+    "start_seconds": 684.9000000000001,
+    "end_seconds": 685.2600000000001
+  },
+  {
+    "scene": 27,
+    "word": "laboratory.",
+    "start_seconds": 685.2600000000001,
+    "end_seconds": 685.8600000000001
+  },
+  {
+    "scene": 27,
+    "word": "Predict",
+    "start_seconds": 686.6800000000001,
+    "end_seconds": 686.6800000000001
+  },
+  {
+    "scene": 27,
+    "word": "first,",
+    "start_seconds": 686.6800000000001,
+    "end_seconds": 687.1800000000001
+  },
+  {
+    "scene": 27,
+    "word": "change",
+    "start_seconds": 687.5200000000001,
+    "end_seconds": 687.8000000000001
+  },
+  {
+    "scene": 27,
+    "word": "the",
+    "start_seconds": 687.8000000000001,
+    "end_seconds": 688.0200000000001
+  },
+  {
+    "scene": 27,
+    "word": "parameters,",
+    "start_seconds": 688.0200000000001,
+    "end_seconds": 688.4200000000001
+  },
+  {
+    "scene": 27,
+    "word": "and",
+    "start_seconds": 688.8600000000001,
+    "end_seconds": 689.0400000000001
+  },
+  {
+    "scene": 27,
+    "word": "compare",
+    "start_seconds": 689.0400000000001,
+    "end_seconds": 689.4000000000001
+  },
+  {
+    "scene": 27,
+    "word": "analytical",
+    "start_seconds": 689.4000000000001,
+    "end_seconds": 689.9000000000001
+  },
+  {
+    "scene": 27,
+    "word": "and",
+    "start_seconds": 689.9000000000001,
+    "end_seconds": 690.2600000000001
+  },
+  {
+    "scene": 27,
+    "word": "numerical",
+    "start_seconds": 690.2600000000001,
+    "end_seconds": 690.6400000000001
+  },
+  {
+    "scene": 27,
+    "word": "results.",
+    "start_seconds": 690.6400000000001,
+    "end_seconds": 691.1400000000001
+  },
+  {
+    "scene": 27,
+    "word": "Then",
+    "start_seconds": 691.7800000000001,
+    "end_seconds": 691.94
+  },
+  {
+    "scene": 27,
+    "word": "design",
+    "start_seconds": 691.94,
+    "end_seconds": 692.2400000000001
+  },
+  {
+    "scene": 27,
+    "word": "an",
+    "start_seconds": 692.2400000000001,
+    "end_seconds": 692.4200000000001
+  },
+  {
+    "scene": 27,
+    "word": "experiment",
+    "start_seconds": 692.4200000000001,
+    "end_seconds": 692.82
+  },
+  {
+    "scene": 27,
+    "word": "for",
+    "start_seconds": 692.82,
+    "end_seconds": 693.1400000000001
+  },
+  {
+    "scene": 27,
+    "word": "an",
+    "start_seconds": 693.1400000000001,
+    "end_seconds": 693.2600000000001
+  },
+  {
+    "scene": 27,
+    "word": "unfamiliar",
+    "start_seconds": 693.2600000000001,
+    "end_seconds": 693.7
+  },
+  {
+    "scene": 27,
+    "word": "interface.",
+    "start_seconds": 693.7,
+    "end_seconds": 694.3600000000001
+  },
+  {
+    "scene": 27,
+    "word": "Submit",
+    "start_seconds": 694.98,
+    "end_seconds": 695.2400000000001
+  },
+  {
+    "scene": 27,
+    "word": "your",
+    "start_seconds": 695.2400000000001,
+    "end_seconds": 695.44
+  },
+  {
+    "scene": 27,
+    "word": "own",
+    "start_seconds": 695.44,
+    "end_seconds": 695.6200000000001
+  },
+  {
+    "scene": 27,
+    "word": "explanations,",
+    "start_seconds": 695.6200000000001,
+    "end_seconds": 696.2600000000001
+  },
+  {
+    "scene": 27,
+    "word": "code,",
+    "start_seconds": 696.7,
+    "end_seconds": 696.9200000000001
+  },
+  {
+    "scene": 27,
+    "word": "uncertainty",
+    "start_seconds": 697.1600000000001,
+    "end_seconds": 697.5200000000001
+  },
+  {
+    "scene": 27,
+    "word": "analysis,",
+    "start_seconds": 697.5200000000001,
+    "end_seconds": 698.08
+  },
+  {
+    "scene": 27,
+    "word": "and",
+    "start_seconds": 698.5200000000001,
+    "end_seconds": 698.6
+  },
+  {
+    "scene": 27,
+    "word": "reflection.",
+    "start_seconds": 698.6,
+    "end_seconds": 698.96
+  },
+  {
+    "scene": 27,
+    "word": "Completing",
+    "start_seconds": 699.58,
+    "end_seconds": 700.0400000000001
+  },
+  {
+    "scene": 27,
+    "word": "a",
+    "start_seconds": 700.0400000000001,
+    "end_seconds": 700.26
+  },
+  {
+    "scene": 27,
+    "word": "quiz",
+    "start_seconds": 700.26,
+    "end_seconds": 700.48
+  },
+  {
+    "scene": 27,
+    "word": "is",
+    "start_seconds": 700.48,
+    "end_seconds": 700.7800000000001
+  },
+  {
+    "scene": 27,
+    "word": "practice,",
+    "start_seconds": 700.7800000000001,
+    "end_seconds": 701.24
+  },
+  {
+    "scene": 27,
+    "word": "not",
+    "start_seconds": 701.64,
+    "end_seconds": 701.82
+  },
+  {
+    "scene": 27,
+    "word": "proof",
+    "start_seconds": 701.82,
+    "end_seconds": 702.0200000000001
+  },
+  {
+    "scene": 27,
+    "word": "of",
+    "start_seconds": 702.0200000000001,
+    "end_seconds": 702.2
+  },
+  {
+    "scene": 27,
+    "word": "understanding.",
+    "start_seconds": 702.2,
+    "end_seconds": 702.72
+  },
+  {
+    "scene": 27,
+    "word": "The",
+    "start_seconds": 703.44,
+    "end_seconds": 703.5600000000001
+  },
+  {
+    "scene": 27,
+    "word": "goal",
+    "start_seconds": 703.5600000000001,
+    "end_seconds": 703.8000000000001
+  },
+  {
+    "scene": 27,
+    "word": "is",
+    "start_seconds": 703.8000000000001,
+    "end_seconds": 704.0400000000001
+  },
+  {
+    "scene": 27,
+    "word": "to",
+    "start_seconds": 704.0400000000001,
+    "end_seconds": 704.2
+  },
+  {
+    "scene": 27,
+    "word": "make",
+    "start_seconds": 704.2,
+    "end_seconds": 704.38
+  },
+  {
+    "scene": 27,
+    "word": "a",
+    "start_seconds": 704.38,
+    "end_seconds": 704.5600000000001
+  },
+  {
+    "scene": 27,
+    "word": "defensible",
+    "start_seconds": 704.5600000000001,
+    "end_seconds": 705.0600000000001
+  },
+  {
+    "scene": 27,
+    "word": "scientific",
+    "start_seconds": 705.0600000000001,
+    "end_seconds": 705.62
+  },
+  {
+    "scene": 27,
+    "word": "judgment",
+    "start_seconds": 705.62,
+    "end_seconds": 706.1
+  },
+  {
+    "scene": 27,
+    "word": "and",
+    "start_seconds": 706.1,
+    "end_seconds": 706.5200000000001
+  },
+  {
+    "scene": 27,
+    "word": "know",
+    "start_seconds": 706.5200000000001,
+    "end_seconds": 706.74
+  },
+  {
+    "scene": 27,
+    "word": "where",
+    "start_seconds": 706.74,
+    "end_seconds": 706.9200000000001
+  },
+  {
+    "scene": 27,
+    "word": "your",
+    "start_seconds": 706.9200000000001,
+    "end_seconds": 707.08
+  },
+  {
+    "scene": 27,
+    "word": "model",
+    "start_seconds": 707.08,
+    "end_seconds": 707.3000000000001
+  },
+  {
+    "scene": 27,
+    "word": "ends.",
+    "start_seconds": 707.3000000000001,
+    "end_seconds": 707.72
+  },
+  {
+    "scene": 27,
+    "word": "Connect",
+    "start_seconds": 708.36,
+    "end_seconds": 708.5600000000001
+  },
+  {
+    "scene": 27,
+    "word": "a",
+    "start_seconds": 708.5600000000001,
+    "end_seconds": 708.76
+  },
+  {
+    "scene": 27,
+    "word": "physical",
+    "start_seconds": 708.76,
+    "end_seconds": 709.0200000000001
+  },
+  {
+    "scene": 27,
+    "word": "assumption,",
+    "start_seconds": 709.0200000000001,
+    "end_seconds": 709.58
+  },
+  {
+    "scene": 27,
+    "word": "a",
+    "start_seconds": 709.96,
+    "end_seconds": 710.0200000000001
+  },
+  {
+    "scene": 27,
+    "word": "numerical",
+    "start_seconds": 710.0200000000001,
+    "end_seconds": 710.36
+  },
+  {
+    "scene": 27,
+    "word": "check,",
+    "start_seconds": 710.36,
+    "end_seconds": 710.7800000000001
+  },
+  {
+    "scene": 27,
+    "word": "and",
+    "start_seconds": 711.0600000000001,
+    "end_seconds": 711.2
+  },
+  {
+    "scene": 27,
+    "word": "a",
+    "start_seconds": 711.2,
+    "end_seconds": 711.3000000000001
+  },
+  {
+    "scene": 27,
+    "word": "measurement",
+    "start_seconds": 711.3000000000001,
+    "end_seconds": 711.6
+  },
+  {
+    "scene": 27,
+    "word": "that",
+    "start_seconds": 711.6,
+    "end_seconds": 711.96
+  },
+  {
+    "scene": 27,
+    "word": "could",
+    "start_seconds": 711.96,
+    "end_seconds": 712.1
+  },
+  {
+    "scene": 27,
+    "word": "change",
+    "start_seconds": 712.1,
+    "end_seconds": 712.4000000000001
+  },
+  {
+    "scene": 27,
+    "word": "your",
+    "start_seconds": 712.4000000000001,
+    "end_seconds": 712.58
+  },
+  {
+    "scene": 27,
+    "word": "conclusion.",
+    "start_seconds": 712.58,
+    "end_seconds": 712.96
+  }
+]

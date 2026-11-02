@@ -1,0 +1,141 @@
+{
+  "status": "PASS",
+  "mode": "preserve",
+  "render": {
+    "file": "Quantum_Tunneling_Lecture_Remotion.mp4",
+    "frames": 21421,
+    "duration_seconds": 714.033333,
+    "codec": "h264",
+    "bytes": 34889453
+  },
+  "source_duration_frames": 21421,
+  "final_duration_frames": 21421,
+  "duration_delta_frames": 0,
+  "scenes": 28,
+  "narration_chunks": 54,
+  "subtitle_cues": 193,
+  "canonical_caption_coverage": true,
+  "word_aligned_highlights": 8,
+  "quizzes": [
+    {
+      "id": "Q1",
+      "old_seconds": 50.0,
+      "new_seconds": 50.0,
+      "delta_seconds": 0.0,
+      "remediation_old": 0,
+      "remediation_new": 0.0,
+      "silence_seconds": 6.526666666666664,
+      "answer_reveal_seconds": 56.166666666666664
+    },
+    {
+      "id": "Q2",
+      "old_seconds": 144.0,
+      "new_seconds": 144.0,
+      "delta_seconds": 0.0,
+      "remediation_old": 76.0,
+      "remediation_new": 76.0,
+      "silence_seconds": 7.780000000000001,
+      "answer_reveal_seconds": 151.0
+    },
+    {
+      "id": "Q3",
+      "old_seconds": 255.0,
+      "new_seconds": 255.0,
+      "delta_seconds": 0.0,
+      "remediation_old": 177.33,
+      "remediation_new": 177.33,
+      "silence_seconds": 7.789999999999992,
+      "answer_reveal_seconds": 262.1
+    },
+    {
+      "id": "Q4",
+      "old_seconds": 362.0,
+      "new_seconds": 362.0,
+      "delta_seconds": 0.0,
+      "remediation_old": 291.37,
+      "remediation_new": 291.37,
+      "silence_seconds": 7.559999999999945,
+      "answer_reveal_seconds": 368.9
+    },
+    {
+      "id": "Q5",
+      "old_seconds": 459.0,
+      "new_seconds": 459.0,
+      "delta_seconds": 0.0,
+      "remediation_old": 400.23,
+      "remediation_new": 400.23,
+      "silence_seconds": 6.53000000000003,
+      "answer_reveal_seconds": 464.8
+    },
+    {
+      "id": "Q6",
+      "old_seconds": 559.0,
+      "new_seconds": 559.0,
+      "delta_seconds": 0.0,
+      "remediation_old": 485.97,
+      "remediation_new": 485.97,
+      "silence_seconds": 7.269999999999982,
+      "answer_reveal_seconds": 565.8666666666667
+    },
+    {
+      "id": "Q7",
+      "old_seconds": 648.0,
+      "new_seconds": 648.0,
+      "delta_seconds": 0.0,
+      "remediation_old": 600.5,
+      "remediation_new": 600.5,
+      "silence_seconds": 6.526666666666756,
+      "answer_reveal_seconds": 653.8666666666667
+    }
+  ],
+  "chapters": [
+    {
+      "index": 0,
+      "title": "A wall for a wave",
+      "start_frame": 0,
+      "start_seconds": 0.0
+    },
+    {
+      "index": 1,
+      "title": "Matching the wave",
+      "start_frame": 2280,
+      "start_seconds": 76.0
+    },
+    {
+      "index": 2,
+      "title": "The exact prediction",
+      "start_frame": 5320,
+      "start_seconds": 177.33333333333334
+    },
+    {
+      "index": 3,
+      "title": "Width changes everything",
+      "start_frame": 8741,
+      "start_seconds": 291.3666666666667
+    },
+    {
+      "index": 4,
+      "title": "Energy and height",
+      "start_frame": 12007,
+      "start_seconds": 400.23333333333335
+    },
+    {
+      "index": 5,
+      "title": "From waves to devices",
+      "start_frame": 14579,
+      "start_seconds": 485.96666666666664
+    },
+    {
+      "index": 6,
+      "title": "Evidence and scientific judgment",
+      "start_frame": 18015,
+      "start_seconds": 600.5
+    }
+  ],
+  "active_video_url": "https://youtu.be/Kbknh_vEjSc",
+  "polished_video_uploaded": true,
+  "notes": [
+    "YouTube chapter display times round to the nearest second; video and H5P use precise frames.",
+    "This is not evidence of a new YouTube upload."
+  ]
+}

@@ -1,0 +1,3841 @@
+{
+  "schema_version": 1,
+  "timing_mode": "preserve",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "duration_frames": 21421,
+  "duration_seconds": 714.0333333333333,
+  "source_caption_sha256": "08516c5ed5baab813ffd542022c64eef3e251d8960d811fd793593e43ed62012",
+  "scenes": [
+    {
+      "index": 0,
+      "title": "Can an electron pass through a wall?",
+      "focus": "A finite barrier is not an infinite wall.",
+      "kind": "wave",
+      "chapter": 0,
+      "start_frame": 0,
+      "end_frame": 591,
+      "duration_frames": 591,
+      "start_seconds": 0.0,
+      "end_seconds": 19.7,
+      "speech_end_seconds": 19.020000000000003,
+      "speech_end_frame": 571
+    },
+    {
+      "index": 1,
+      "title": "Start with a classical prediction",
+      "focus": "Energy below the barrier: classical transmission = 0.",
+      "kind": "energy",
+      "chapter": 0,
+      "start_frame": 591,
+      "end_frame": 1131,
+      "duration_frames": 540,
+      "start_seconds": 19.7,
+      "end_seconds": 37.7,
+      "speech_end_seconds": 37.0,
+      "speech_end_frame": 1110
+    },
+    {
+      "index": 2,
+      "title": "Pause and predict",
+      "focus": "Below the barrier: must transmission be exactly zero?",
+      "kind": "predict",
+      "chapter": 0,
+      "start_frame": 1131,
+      "end_frame": 1685,
+      "duration_frames": 554,
+      "start_seconds": 37.7,
+      "end_seconds": 56.166666666666664,
+      "speech_end_seconds": 49.64,
+      "speech_end_frame": 1490
+    },
+    {
+      "index": 3,
+      "title": "A wave prediction",
+      "focus": "The transmitted current can be nonzero.",
+      "kind": "wave",
+      "chapter": 0,
+      "start_frame": 1685,
+      "end_frame": 2280,
+      "duration_frames": 595,
+      "start_seconds": 56.166666666666664,
+      "end_seconds": 76.0,
+      "speech_end_seconds": 75.32666666666667,
+      "speech_end_frame": 2260
+    },
+    {
+      "index": 4,
+      "title": "What the curves mean",
+      "focus": "Cyan: Re(psi). Gold: |psi|². Both are relative scales.",
+      "kind": "wave",
+      "chapter": 1,
+      "start_frame": 2280,
+      "end_frame": 3030,
+      "duration_frames": 750,
+      "start_seconds": 76.0,
+      "end_seconds": 101.0,
+      "speech_end_seconds": 100.0,
+      "speech_end_frame": 3000
+    },
+    {
+      "index": 5,
+      "title": "Incident plus reflected",
+      "focus": "Left: incoming and reflected waves interfere.",
+      "kind": "wave",
+      "chapter": 1,
+      "start_frame": 3030,
+      "end_frame": 3780,
+      "duration_frames": 750,
+      "start_seconds": 101.0,
+      "end_seconds": 126.0,
+      "speech_end_seconds": 125.03999999999999,
+      "speech_end_frame": 3752
+    },
+    {
+      "index": 6,
+      "title": "Pause: what must match?",
+      "focus": "At a finite potential step with constant mass, match what?",
+      "kind": "predict",
+      "chapter": 1,
+      "start_frame": 3780,
+      "end_frame": 4530,
+      "duration_frames": 750,
+      "start_seconds": 126.0,
+      "end_seconds": 151.0,
+      "speech_end_seconds": 143.22,
+      "speech_end_frame": 4297
+    },
+    {
+      "index": 7,
+      "title": "Four boundary conditions",
+      "focus": "Match psi and dpsi/dx at x = 0 and x = a.",
+      "kind": "boundary",
+      "chapter": 1,
+      "start_frame": 4530,
+      "end_frame": 5320,
+      "duration_frames": 790,
+      "start_seconds": 151.0,
+      "end_seconds": 177.33333333333334,
+      "speech_end_seconds": 176.66,
+      "speech_end_frame": 5300
+    },
+    {
+      "index": 8,
+      "title": "The stationary Schrödinger equation",
+      "focus": "Kinetic curvature + potential energy = total energy.",
+      "kind": "equation",
+      "chapter": 2,
+      "start_frame": 5320,
+      "end_frame": 6213,
+      "duration_frames": 893,
+      "start_seconds": 177.33333333333334,
+      "end_seconds": 207.1,
+      "speech_end_seconds": 206.43333333333334,
+      "speech_end_frame": 6193
+    },
+    {
+      "index": 9,
+      "title": "Evanescent does not mean absent",
+      "focus": "Inside: two exponentials satisfy both interfaces.",
+      "kind": "wave",
+      "chapter": 2,
+      "start_frame": 6213,
+      "end_frame": 7053,
+      "duration_frames": 840,
+      "start_seconds": 207.1,
+      "end_seconds": 235.1,
+      "speech_end_seconds": 233.95000000000002,
+      "speech_end_frame": 7019
+    },
+    {
+      "index": 10,
+      "title": "Pause: read a probability",
+      "focus": "If T is near 0.14, what does it predict?",
+      "kind": "predict",
+      "chapter": 2,
+      "start_frame": 7053,
+      "end_frame": 7863,
+      "duration_frames": 810,
+      "start_seconds": 235.1,
+      "end_seconds": 262.1,
+      "speech_end_seconds": 254.31000000000003,
+      "speech_end_frame": 7630
+    },
+    {
+      "index": 11,
+      "title": "The exact rectangular-barrier result",
+      "focus": "Default T ≈ 0.1424; R ≈ 0.8576.",
+      "kind": "transmission",
+      "chapter": 2,
+      "start_frame": 7863,
+      "end_frame": 8741,
+      "duration_frames": 878,
+      "start_seconds": 262.1,
+      "end_seconds": 291.3666666666667,
+      "speech_end_seconds": 290.69,
+      "speech_end_frame": 8721
+    },
+    {
+      "index": 12,
+      "title": "Thin versus thick",
+      "focus": "Compare 0.25 nm with 0.65 nm at fixed energy.",
+      "kind": "width",
+      "chapter": 3,
+      "start_frame": 8741,
+      "end_frame": 9567,
+      "duration_frames": 826,
+      "start_seconds": 291.3666666666667,
+      "end_seconds": 318.9,
+      "speech_end_seconds": 318.2366666666667,
+      "speech_end_frame": 9548
+    },
+    {
+      "index": 13,
+      "title": "Why width matters so much",
+      "focus": "Opaque-barrier trend: T proportional to exp(-2 kappa a).",
+      "kind": "sweep",
+      "chapter": 3,
+      "start_frame": 9567,
+      "end_frame": 10317,
+      "duration_frames": 750,
+      "start_seconds": 318.9,
+      "end_seconds": 343.9,
+      "speech_end_seconds": 342.84000000000003,
+      "speech_end_frame": 10286
+    },
+    {
+      "index": 14,
+      "title": "Pause: double the width",
+      "focus": "Does doubling width simply halve transmission?",
+      "kind": "predict",
+      "chapter": 3,
+      "start_frame": 10317,
+      "end_frame": 11067,
+      "duration_frames": 750,
+      "start_seconds": 343.9,
+      "end_seconds": 368.9,
+      "speech_end_seconds": 361.34000000000003,
+      "speech_end_frame": 10841
+    },
+    {
+      "index": 15,
+      "title": "Calculate, then cross-check",
+      "focus": "Solve boundary amplitudes and integrate the ODE independently.",
+      "kind": "sweep",
+      "chapter": 3,
+      "start_frame": 11067,
+      "end_frame": 12007,
+      "duration_frames": 940,
+      "start_seconds": 368.9,
+      "end_seconds": 400.23333333333335,
+      "speech_end_seconds": 399.58000000000004,
+      "speech_end_frame": 11988
+    },
+    {
+      "index": 16,
+      "title": "Raise the electron energy",
+      "focus": "Scan energy while holding V0 and a fixed.",
+      "kind": "energy_sweep",
+      "chapter": 4,
+      "start_frame": 12007,
+      "end_frame": 12622,
+      "duration_frames": 615,
+      "start_seconds": 400.23333333333335,
+      "end_seconds": 420.73333333333335,
+      "speech_end_seconds": 420.06333333333333,
+      "speech_end_frame": 12602
+    },
+    {
+      "index": 17,
+      "title": "Raise the barrier height",
+      "focus": "Scan V0 while holding E and a fixed.",
+      "kind": "height",
+      "chapter": 4,
+      "start_frame": 12622,
+      "end_frame": 13281,
+      "duration_frames": 659,
+      "start_seconds": 420.73333333333335,
+      "end_seconds": 442.7,
+      "speech_end_seconds": 442.04333333333335,
+      "speech_end_frame": 13262
+    },
+    {
+      "index": 18,
+      "title": "Pause: an energy loan?",
+      "focus": "Does tunneling require temporary extra energy?",
+      "kind": "predict",
+      "chapter": 4,
+      "start_frame": 13281,
+      "end_frame": 13944,
+      "duration_frames": 663,
+      "start_seconds": 442.7,
+      "end_seconds": 464.8,
+      "speech_end_seconds": 458.27,
+      "speech_end_frame": 13749
+    },
+    {
+      "index": 19,
+      "title": "Energy stays conserved",
+      "focus": "A static elastic barrier changes transmission, not total energy.",
+      "kind": "energy",
+      "chapter": 4,
+      "start_frame": 13944,
+      "end_frame": 14579,
+      "duration_frames": 635,
+      "start_seconds": 464.8,
+      "end_seconds": 485.96666666666664,
+      "speech_end_seconds": 485.3,
+      "speech_end_frame": 14559
+    },
+    {
+      "index": 20,
+      "title": "Scanning tunneling microscopy",
+      "focus": "Vacuum gap: current is very sensitive to separation.",
+      "kind": "stm",
+      "chapter": 5,
+      "start_frame": 14579,
+      "end_frame": 15389,
+      "duration_frames": 810,
+      "start_seconds": 485.96666666666664,
+      "end_seconds": 512.9666666666667,
+      "speech_end_seconds": 510.2166666666667,
+      "speech_end_frame": 15307
+    },
+    {
+      "index": 21,
+      "title": "What an STM image represents",
+      "focus": "Apparent height also depends on electronic structure.",
+      "kind": "stm",
+      "chapter": 5,
+      "start_frame": 15389,
+      "end_frame": 16196,
+      "duration_frames": 807,
+      "start_seconds": 512.9666666666667,
+      "end_seconds": 539.8666666666667,
+      "speech_end_seconds": 539.2166666666667,
+      "speech_end_frame": 16177
+    },
+    {
+      "index": 22,
+      "title": "Pause: interpret the image",
+      "focus": "Does twice the STM current prove twice the height?",
+      "kind": "predict",
+      "chapter": 5,
+      "start_frame": 16196,
+      "end_frame": 16976,
+      "duration_frames": 780,
+      "start_seconds": 539.8666666666667,
+      "end_seconds": 565.8666666666667,
+      "speech_end_seconds": 558.5966666666667,
+      "speech_end_frame": 16758
+    },
+    {
+      "index": 23,
+      "title": "Electronic interfaces",
+      "focus": "Real barriers have band structure, fields, defects and disorder.",
+      "kind": "device",
+      "chapter": 5,
+      "start_frame": 16976,
+      "end_frame": 18015,
+      "duration_frames": 1039,
+      "start_seconds": 565.8666666666667,
+      "end_seconds": 600.5,
+      "speech_end_seconds": 599.8466666666667,
+      "speech_end_frame": 17996
+    },
+    {
+      "index": 24,
+      "title": "Build an evidence argument",
+      "focus": "Compare thickness, temperature, bias and controls.",
+      "kind": "evidence",
+      "chapter": 6,
+      "start_frame": 18015,
+      "end_frame": 18819,
+      "duration_frames": 804,
+      "start_seconds": 600.5,
+      "end_seconds": 627.3,
+      "speech_end_seconds": 626.64,
+      "speech_end_frame": 18800
+    },
+    {
+      "index": 25,
+      "title": "Pause: is one trend conclusive?",
+      "focus": "An exponential thickness trend alone proves tunneling?",
+      "kind": "predict",
+      "chapter": 6,
+      "start_frame": 18819,
+      "end_frame": 19616,
+      "duration_frames": 797,
+      "start_seconds": 627.3,
+      "end_seconds": 653.8666666666667,
+      "speech_end_seconds": 647.3399999999999,
+      "speech_end_frame": 19421
+    },
+    {
+      "index": 26,
+      "title": "Evidence can support without proving",
+      "focus": "Fit parameters, uncertainty and alternatives together.",
+      "kind": "evidence",
+      "chapter": 6,
+      "start_frame": 19616,
+      "end_frame": 20526,
+      "duration_frames": 910,
+      "start_seconds": 653.8666666666667,
+      "end_seconds": 684.2,
+      "speech_end_seconds": 683.5366666666666,
+      "speech_end_frame": 20507
+    },
+    {
+      "index": 27,
+      "title": "Your turn: calculate and investigate",
+      "focus": "Predict → compute → test → explain → revise.",
+      "kind": "sweep",
+      "chapter": 6,
+      "start_frame": 20526,
+      "end_frame": 21421,
+      "duration_frames": 895,
+      "start_seconds": 684.2,
+      "end_seconds": 714.0333333333333,
+      "speech_end_seconds": 713.36,
+      "speech_end_frame": 21401
+    }
+  ],
+  "narration": [
+    {
+      "scene": 0,
+      "start_seconds": 0.22,
+      "end_seconds": 12.4,
+      "start_frame": 7,
+      "end_frame": 372,
+      "text": "Can an electron pass through a wall? For a carefully defined potential barrier, yes. Today we will calculate the probability, test our calculation, and ask what evidence could actually support that conclusion."
+    },
+    {
+      "scene": 0,
+      "start_seconds": 12.620000000000001,
+      "end_seconds": 19.020000000000003,
+      "start_frame": 379,
+      "end_frame": 571,
+      "text": "Imagine a finite potential barrier: a wall in an energy diagram, rather than an everyday brick wall."
+    },
+    {
+      "scene": 1,
+      "start_seconds": 19.919999999999998,
+      "end_seconds": 37.0,
+      "start_frame": 598,
+      "end_frame": 1110,
+      "text": "Our electron has half an electron volt of energy. The barrier is one electron volt high and zero point four five nanometers wide. Classically, the electron cannot reach the top, so it returns. We use zero potential outside, so the total energy there is kinetic energy."
+    },
+    {
+      "scene": 2,
+      "start_seconds": 37.92,
+      "end_seconds": 49.64,
+      "start_frame": 1138,
+      "end_frame": 1489,
+      "text": "Pause and predict. In quantum mechanics, must the transmission probability also be exactly zero? Choose your answer before continuing. Explain which assumption of the classical picture you are using."
+    },
+    {
+      "scene": 3,
+      "start_seconds": 56.38666666666667,
+      "end_seconds": 69.64666666666668,
+      "start_frame": 1692,
+      "end_frame": 2089,
+      "text": "Quantum mechanics describes a state using a wavefunction. A finite barrier can support a nonzero transmitted probability current. This does not mean the electron secretly climbs over the barrier, or follows the curve drawn here."
+    },
+    {
+      "scene": 3,
+      "start_seconds": 69.86666666666667,
+      "end_seconds": 75.32666666666667,
+      "start_frame": 2096,
+      "end_frame": 2260,
+      "text": "Detection beyond the barrier is an outcome; transmission predicts how often we expect it."
+    },
+    {
+      "scene": 4,
+      "start_seconds": 76.22,
+      "end_seconds": 87.62,
+      "start_frame": 2287,
+      "end_frame": 2629,
+      "text": "The cyan curve is the real part of a stationary scattering wavefunction, multiplied by its time dependent phase. Gold shows its probability density. The density is time independent here."
+    },
+    {
+      "scene": 4,
+      "start_seconds": 87.84,
+      "end_seconds": 100.0,
+      "start_frame": 2635,
+      "end_frame": 3000,
+      "text": "A single detection is localized, while these curves describe the statistics of many identically prepared measurements. Changing the phase changes the real part, while a stationary probability density stays fixed."
+    },
+    {
+      "scene": 5,
+      "start_seconds": 101.22,
+      "end_seconds": 116.4,
+      "start_frame": 3037,
+      "end_frame": 3492,
+      "text": "On the left, an incoming wave and a reflected wave overlap. Their interference makes the density ripple. On the right, only an outgoing wave is present. Our incident amplitude is one, so these scattering states are not normalized to one over all space."
+    },
+    {
+      "scene": 5,
+      "start_seconds": 116.62,
+      "end_seconds": 125.04,
+      "start_frame": 3499,
+      "end_frame": 3751,
+      "text": "Transmission is a ratio of probability currents. Interference changes the density on the left, while the net probability current remains constant."
+    },
+    {
+      "scene": 6,
+      "start_seconds": 126.22,
+      "end_seconds": 140.91,
+      "start_frame": 3787,
+      "end_frame": 4227,
+      "text": "Pause and predict. At each edge of this finite barrier, which quantities must be continuous? The wavefunction alone? The wavefunction and its spatial derivative? Or the potential itself? Our model has a constant electron mass and no delta function potential."
+    },
+    {
+      "scene": 6,
+      "start_seconds": 141.13,
+      "end_seconds": 143.22,
+      "start_frame": 4234,
+      "end_frame": 4297,
+      "text": "Keep those assumptions in your reasoning."
+    },
+    {
+      "scene": 7,
+      "start_seconds": 151.22,
+      "end_seconds": 161.57999999999998,
+      "start_frame": 4537,
+      "end_frame": 4847,
+      "text": "Both the wavefunction and its first spatial derivative are continuous at each edge. There are four matching equations for four unknown amplitudes. The potential may jump."
+    },
+    {
+      "scene": 7,
+      "start_seconds": 161.8,
+      "end_seconds": 176.66000000000003,
+      "start_frame": 4854,
+      "end_frame": 5300,
+      "text": "For interfaces described by different effective masses, the matching law needs a suitable effective mass model; do not copy these conditions without checking its assumptions. Integrating the equation across a shrinking interval gives the derivative condition for a finite step."
+    },
+    {
+      "scene": 8,
+      "start_seconds": 177.55333333333334,
+      "end_seconds": 191.79333333333335,
+      "start_frame": 5327,
+      "end_frame": 5754,
+      "text": "The time independent Schrödinger equation relates the curvature of the wavefunction to the difference between potential and total energy. Here, h-bar is Planck's constant divided by two pi. Outside the barrier the solutions oscillate."
+    },
+    {
+      "scene": 8,
+      "start_seconds": 192.01333333333335,
+      "end_seconds": 206.43333333333334,
+      "start_frame": 5760,
+      "end_frame": 6193,
+      "text": "Inside, where the energy is lower than the potential, the solutions are exponentials. The decay constant kappa has units of inverse length. Notice how the sign of the curvature distinguishes the oscillatory and exponential regions."
+    },
+    {
+      "scene": 9,
+      "start_seconds": 207.32000000000002,
+      "end_seconds": 220.87000000000003,
+      "start_frame": 6220,
+      "end_frame": 6626,
+      "text": "A finite barrier requires a combination of two exponential solutions, not just one decaying exponential. Matching the two interfaces produces the transmitted wave. In this stationary model total energy is conserved."
+    },
+    {
+      "scene": 9,
+      "start_seconds": 221.09000000000003,
+      "end_seconds": 233.95000000000005,
+      "start_frame": 6633,
+      "end_frame": 7019,
+      "text": "The electron does not borrow energy, and the uncertainty principle is not a license to violate energy conservation. The complex coefficients of those exponentials together allow a conserved current inside the barrier."
+    },
+    {
+      "scene": 10,
+      "start_seconds": 235.32000000000002,
+      "end_seconds": 251.07000000000002,
+      "start_frame": 7060,
+      "end_frame": 7532,
+      "text": "Suppose the calculated transmission coefficient is about zero point one four. Does that mean every electron loses fourteen percent of its energy? Or that around fourteen percent of a large incident ensemble is transmitted? Predict an outcome for ten thousand independent electrons."
+    },
+    {
+      "scene": 10,
+      "start_seconds": 251.29000000000002,
+      "end_seconds": 254.31000000000003,
+      "start_frame": 7539,
+      "end_frame": 7629,
+      "text": "Include the fact that a finite count will fluctuate."
+    },
+    {
+      "scene": 11,
+      "start_seconds": 262.32000000000005,
+      "end_seconds": 274.00000000000006,
+      "start_frame": 7870,
+      "end_frame": 8220,
+      "text": "The exact expression on screen gives about zero point one four for our default parameters. Roughly fourteen hundred of ten thousand incident electrons are expected to transmit, with statistical fluctuations."
+    },
+    {
+      "scene": 11,
+      "start_seconds": 274.22,
+      "end_seconds": 290.69000000000005,
+      "start_frame": 8227,
+      "end_frame": 8721,
+      "text": "Equal potentials and equal masses on both sides mean the transmitted amplitude squared equals transmission. Reflected and transmitted currents add to the incident current. An individual trial gives one detection outcome. Repeating the preparation makes the probability prediction testable."
+    },
+    {
+      "scene": 12,
+      "start_seconds": 291.5866666666667,
+      "end_seconds": 303.30666666666673,
+      "start_frame": 8748,
+      "end_frame": 9099,
+      "text": "Now hold energy and barrier height fixed while changing width. Notice how the outgoing amplitude shrinks as the barrier thickens. The wavefunction is calculated by matching both interfaces each time."
+    },
+    {
+      "scene": 12,
+      "start_seconds": 303.5266666666667,
+      "end_seconds": 318.2366666666667,
+      "start_frame": 9106,
+      "end_frame": 9547,
+      "text": "The animation changes the model between stationary solutions; it is not a simulation of a moving wall or an electron trajectory. At a quarter nanometer, transmission is about forty eight percent; at zero point six five, about three and a half percent."
+    },
+    {
+      "scene": 13,
+      "start_seconds": 319.12000000000006,
+      "end_seconds": 330.68000000000006,
+      "start_frame": 9574,
+      "end_frame": 9920,
+      "text": "When kappa times width is large, transmission falls approximately exponentially with width. The prefactor still depends on energy and height. Use the exact expression when the barrier is not opaque."
+    },
+    {
+      "scene": 13,
+      "start_seconds": 330.90000000000003,
+      "end_seconds": 342.84000000000003,
+      "start_frame": 9927,
+      "end_frame": 10285,
+      "text": "Taking a logarithm turns the approximate exponential trend into a line, which is useful when designing measurements. The factor of two in the exponent comes from squaring the magnitude of an amplitude."
+    },
+    {
+      "scene": 14,
+      "start_seconds": 344.12000000000006,
+      "end_seconds": 356.82000000000005,
+      "start_frame": 10324,
+      "end_frame": 10705,
+      "text": "Pause and predict. At fixed energy and height, does doubling barrier width simply cut transmission in half? Or can it reduce transmission much more strongly? Write the ratio you would calculate using the exact formula."
+    },
+    {
+      "scene": 14,
+      "start_seconds": 357.04,
+      "end_seconds": 361.34000000000003,
+      "start_frame": 10711,
+      "end_frame": 10840,
+      "text": "Do not assume the exponential approximation is exact for the thinner barrier."
+    },
+    {
+      "scene": 15,
+      "start_seconds": 369.12000000000006,
+      "end_seconds": 383.20000000000005,
+      "start_frame": 11074,
+      "end_frame": 11496,
+      "text": "For widths zero point four five and zero point nine nanometers, transmission drops from about fourteen percent to about zero point six percent. In the laboratory, compare the closed form with independent differential equation integration."
+    },
+    {
+      "scene": 15,
+      "start_seconds": 383.42,
+      "end_seconds": 399.58000000000004,
+      "start_frame": 11503,
+      "end_frame": 11987,
+      "text": "Also check continuity and constant probability current. Defining reflection as one minus transmission alone would not independently test conservation. Two implementations can share the same unit error. That is why dimensions and limiting cases also matter."
+    },
+    {
+      "scene": 16,
+      "start_seconds": 400.4533333333334,
+      "end_seconds": 414.2433333333334,
+      "start_frame": 12014,
+      "end_frame": 12427,
+      "text": "Raising energy toward the barrier height increases transmission in this below barrier model. But do not extrapolate this equation past its stated domain. At or above the barrier, use the correct limiting expression or the oscillatory solution."
+    },
+    {
+      "scene": 16,
+      "start_seconds": 414.46333333333337,
+      "end_seconds": 420.0633333333334,
+      "start_frame": 12434,
+      "end_frame": 12602,
+      "text": "As the energy gap shrinks, the decay length grows, allowing more amplitude to reach the exit."
+    },
+    {
+      "scene": 17,
+      "start_seconds": 420.9533333333334,
+      "end_seconds": 436.1833333333334,
+      "start_frame": 12629,
+      "end_frame": 13086,
+      "text": "A higher barrier increases the decay constant and reduces transmission for these fixed parameters. Width, height, and effective mass all matter. In an actual device, voltage can change the barrier shape as well as the occupied electron energies."
+    },
+    {
+      "scene": 17,
+      "start_seconds": 436.40333333333336,
+      "end_seconds": 442.04333333333335,
+      "start_frame": 13092,
+      "end_frame": 13261,
+      "text": "Always convert the energy and length units consistently before evaluating an exponential."
+    },
+    {
+      "scene": 18,
+      "start_seconds": 442.92,
+      "end_seconds": 458.27000000000004,
+      "start_frame": 13288,
+      "end_frame": 13748,
+      "text": "Pause and predict. Does tunneling require the electron to borrow extra energy? Check your answer against our time independent equation, which has one fixed total energy on both sides. The wave inside the barrier does not describe a classical trajectory."
+    },
+    {
+      "scene": 19,
+      "start_seconds": 465.02000000000004,
+      "end_seconds": 479.3,
+      "start_frame": 13951,
+      "end_frame": 14379,
+      "text": "No energy loan is required. For our static, elastic, lossless barrier, transmitted and reflected electrons have the same total energy as the incident electrons. Interactions that exchange energy require a richer model."
+    },
+    {
+      "scene": 19,
+      "start_seconds": 479.52000000000004,
+      "end_seconds": 485.3,
+      "start_frame": 14386,
+      "end_frame": 14559,
+      "text": "The decaying amplitude is compatible with one conserved energy throughout this elastic scattering problem."
+    },
+    {
+      "scene": 20,
+      "start_seconds": 486.1866666666667,
+      "end_seconds": 495.4666666666667,
+      "start_frame": 14586,
+      "end_frame": 14864,
+      "text": "In scanning tunneling microscopy, a conducting tip approaches a conducting sample. A small bias allows a net tunneling current across the vacuum gap."
+    },
+    {
+      "scene": 20,
+      "start_seconds": 495.6866666666667,
+      "end_seconds": 510.2166666666667,
+      "start_frame": 14871,
+      "end_frame": 15306,
+      "text": "Because transmission is sensitive to separation, a feedback loop can adjust tip height to maintain a chosen current as the tip scans across the surface. The tip can carry a current without touching the sample: that is the practical opportunity."
+    },
+    {
+      "scene": 21,
+      "start_seconds": 513.1866666666667,
+      "end_seconds": 523.1766666666667,
+      "start_frame": 15396,
+      "end_frame": 15695,
+      "text": "The resulting image is not simply a photograph of hard atomic surfaces. The current depends on electronic states, bias, and tip properties as well as separation."
+    },
+    {
+      "scene": 21,
+      "start_seconds": 523.3966666666666,
+      "end_seconds": 539.2166666666667,
+      "start_frame": 15702,
+      "end_frame": 16176,
+      "text": "Our rectangular barrier captures a useful sensitivity, but a realistic current calculation must include occupied states, empty states, and the energy window selected by the bias. An apparent hill in a current map can therefore reflect electronic structure as well as geometry."
+    },
+    {
+      "scene": 22,
+      "start_seconds": 540.0866666666667,
+      "end_seconds": 555.5766666666667,
+      "start_frame": 16203,
+      "end_frame": 16667,
+      "text": "Pause and predict. If the current doubles in your measurement, has the surface height necessarily doubled? Consider a different tip, a change of local electronic states, and a different bias. Which controlled comparisons would help distinguish geometry from electronic contrast?"
+    },
+    {
+      "scene": 22,
+      "start_seconds": 555.7966666666666,
+      "end_seconds": 558.5966666666666,
+      "start_frame": 16674,
+      "end_frame": 16758,
+      "text": "Write a prediction before you reveal the feedback."
+    },
+    {
+      "scene": 23,
+      "start_seconds": 566.0866666666667,
+      "end_seconds": 580.6266666666667,
+      "start_frame": 16983,
+      "end_frame": 17419,
+      "text": "No simple doubling rule connects current and height. Semiconductor oxides and organic electronic interfaces also have complicated transport: direct tunneling may compete with thermally activated injection, hopping, and trap assisted processes."
+    },
+    {
+      "scene": 23,
+      "start_seconds": 580.8466666666667,
+      "end_seconds": 593.7966666666667,
+      "start_frame": 17425,
+      "end_frame": 17814,
+      "text": "Effective masses, nonrectangular barriers, inelastic scattering, and distributions of molecular arrangements can all matter. A fitted barrier is a model parameter, not automatically a measured material constant."
+    },
+    {
+      "scene": 23,
+      "start_seconds": 594.0166666666667,
+      "end_seconds": 599.8466666666667,
+      "start_frame": 17820,
+      "end_frame": 17995,
+      "text": "In an organic layer, molecular orientation and disorder can also change the available pathways."
+    },
+    {
+      "scene": 24,
+      "start_seconds": 600.72,
+      "end_seconds": 614.53,
+      "start_frame": 18022,
+      "end_frame": 18436,
+      "text": "A small current through a nominally insulating layer is evidence of transport, but it does not identify a unique mechanism. Measure a thickness series and a temperature series. Control contact area, defects, and instrument leakage."
+    },
+    {
+      "scene": 24,
+      "start_seconds": 614.75,
+      "end_seconds": 626.64,
+      "start_frame": 18442,
+      "end_frame": 18799,
+      "text": "Compare multiple plausible models and examine their residuals, rather than judging only whether one curve looks convincing. Choose measurements where the competing mechanisms make different, observable predictions."
+    },
+    {
+      "scene": 25,
+      "start_seconds": 627.52,
+      "end_seconds": 642.28,
+      "start_frame": 18826,
+      "end_frame": 19268,
+      "text": "Pause and predict. An exponential decrease of current with thickness is observed. Does that conclusively prove direct tunneling? Consider whether defects, thickness dependent morphology, or another transport mechanism could generate a similar trend."
+    },
+    {
+      "scene": 25,
+      "start_seconds": 642.5,
+      "end_seconds": 647.34,
+      "start_frame": 19275,
+      "end_frame": 19420,
+      "text": "State one additional measurement and explain what competing predictions it would test."
+    },
+    {
+      "scene": 26,
+      "start_seconds": 654.0866666666667,
+      "end_seconds": 670.0466666666667,
+      "start_frame": 19623,
+      "end_frame": 20101,
+      "text": "The trend supports a tunneling explanation, but is not conclusive by itself. Weak temperature dependence under controlled conditions can strengthen the case for direct elastic tunneling, while thermally activated behavior motivates alternatives. No single signature is universal."
+    },
+    {
+      "scene": 26,
+      "start_seconds": 670.2666666666667,
+      "end_seconds": 683.5366666666666,
+      "start_frame": 20108,
+      "end_frame": 20506,
+      "text": "Report parameter uncertainty, measurement limits, model assumptions, and what observation would make you change your explanation. Confidence grows from consistent evidence across conditions, rather than from one successful fit."
+    },
+    {
+      "scene": 27,
+      "start_seconds": 684.4200000000001,
+      "end_seconds": 699.3600000000001,
+      "start_frame": 20533,
+      "end_frame": 20981,
+      "text": "Open the companion laboratory. Predict first, change the parameters, and compare analytical and numerical results. Then design an experiment for an unfamiliar interface. Submit your own explanations, code, uncertainty analysis, and reflection."
+    },
+    {
+      "scene": 27,
+      "start_seconds": 699.58,
+      "end_seconds": 713.36,
+      "start_frame": 20987,
+      "end_frame": 21401,
+      "text": "Completing a quiz is practice, not proof of understanding. The goal is to make a defensible scientific judgment and know where your model ends. Connect a physical assumption, a numerical check, and a measurement that could change your conclusion."
+    }
+  ],
+  "highlight_beats": [
+    {
+      "scene": 8,
+      "key": "curvature",
+      "frame": 5414,
+      "source": "local ASR word timestamp"
+    },
+    {
+      "scene": 8,
+      "key": "potential",
+      "frame": 5482,
+      "source": "local ASR word timestamp"
+    },
+    {
+      "scene": 8,
+      "key": "total",
+      "frame": 5507,
+      "source": "local ASR word timestamp"
+    },
+    {
+      "scene": 8,
+      "key": "kappa",
+      "frame": 5958,
+      "source": "local ASR word timestamp"
+    },
+    {
+      "scene": 8,
+      "key": "outside",
+      "frame": 5676,
+      "source": "local ASR word timestamp"
+    },
+    {
+      "scene": 11,
+      "key": "result",
+      "frame": 7950,
+      "source": "local ASR word timestamp"
+    },
+    {
+      "scene": 11,
+      "key": "ensemble",
+      "frame": 8077,
+      "source": "local ASR word timestamp"
+    },
+    {
+      "scene": 11,
+      "key": "conservation",
+      "frame": 8462,
+      "source": "local ASR word timestamp"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "Q1",
+      "scene": 2,
+      "time_seconds": 50.0,
+      "frame": 1500,
+      "question": "Must transmission vanish when E < V0?",
+      "options": [
+        "Yes, because every electron is a classical ball.",
+        "No; a finite barrier can transmit probability current.",
+        "Only if the electron borrows energy."
+      ],
+      "correct_index": 1,
+      "explanation": "A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory.",
+      "remediation_frame": 0,
+      "remediation_seconds": 0.0,
+      "hold_start_frame": 1490,
+      "hold_end_frame": 1685,
+      "reasoning_silence_seconds": 6.526666666666664,
+      "answer_reveal_frame": 1685
+    },
+    {
+      "id": "Q2",
+      "scene": 6,
+      "time_seconds": 144.0,
+      "frame": 4320,
+      "question": "What is continuous at a finite step with constant mass?",
+      "options": [
+        "Only the potential.",
+        "Only the wavefunction.",
+        "The wavefunction and its first derivative.",
+        "The second derivative must always match."
+      ],
+      "correct_index": 2,
+      "explanation": "Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
+      "remediation_frame": 2280,
+      "remediation_seconds": 76.0,
+      "hold_start_frame": 4297,
+      "hold_end_frame": 4530,
+      "reasoning_silence_seconds": 7.780000000000001,
+      "answer_reveal_frame": 4530
+    },
+    {
+      "id": "Q3",
+      "scene": 10,
+      "time_seconds": 255.0,
+      "frame": 7650,
+      "question": "T = 0.1424 predicts what for 10,000 incident electrons?",
+      "options": [
+        "Exactly 1,424 electrons in every trial.",
+        "An expected count near 1,424, with fluctuations.",
+        "Each electron loses 14.24% of its energy."
+      ],
+      "correct_index": 1,
+      "explanation": "Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved.",
+      "remediation_frame": 5320,
+      "remediation_seconds": 177.33,
+      "hold_start_frame": 7630,
+      "hold_end_frame": 7863,
+      "reasoning_silence_seconds": 7.789999999999992,
+      "answer_reveal_frame": 7863
+    },
+    {
+      "id": "Q4",
+      "scene": 14,
+      "time_seconds": 362.0,
+      "frame": 10860,
+      "question": "At fixed E = 0.5 eV and V0 = 1 eV, increasing a from 0.45 to 0.90 nm gives:",
+      "options": [
+        "Half the original transmission.",
+        "About 0.00587 transmission.",
+        "About 0.2847 transmission."
+      ],
+      "correct_index": 1,
+      "explanation": "The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two.",
+      "remediation_frame": 8741,
+      "remediation_seconds": 291.37,
+      "hold_start_frame": 10841,
+      "hold_end_frame": 11067,
+      "reasoning_silence_seconds": 7.559999999999945,
+      "answer_reveal_frame": 11067
+    },
+    {
+      "id": "Q5",
+      "scene": 18,
+      "time_seconds": 459.0,
+      "frame": 13770,
+      "question": "Does a static lossless barrier require an energy loan?",
+      "options": [
+        "Yes, for a short enough time.",
+        "No; total energy stays conserved.",
+        "Yes, if the transmitted wave is small."
+      ],
+      "correct_index": 1,
+      "explanation": "The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation.",
+      "remediation_frame": 12007,
+      "remediation_seconds": 400.23,
+      "hold_start_frame": 13749,
+      "hold_end_frame": 13944,
+      "reasoning_silence_seconds": 6.53000000000003,
+      "answer_reveal_frame": 13944
+    },
+    {
+      "id": "Q6",
+      "scene": 22,
+      "time_seconds": 559.0,
+      "frame": 16770,
+      "question": "Twice the STM current proves twice the surface height.",
+      "options": [
+        "True.",
+        "False; bias, tip and electronic states also matter.",
+        "True, because tunneling is linear in distance."
+      ],
+      "correct_index": 1,
+      "explanation": "Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio.",
+      "remediation_frame": 14579,
+      "remediation_seconds": 485.97,
+      "hold_start_frame": 16758,
+      "hold_end_frame": 16976,
+      "reasoning_silence_seconds": 7.269999999999982,
+      "answer_reveal_frame": 16976
+    },
+    {
+      "id": "Q7",
+      "scene": 25,
+      "time_seconds": 648.0,
+      "frame": 19440,
+      "question": "An exponential thickness trend alone conclusively proves direct tunneling.",
+      "options": [
+        "Yes; no other process can produce that trend.",
+        "No; compare controls and competing mechanisms.",
+        "No; quantum mechanics forbids any current."
+      ],
+      "correct_index": 1,
+      "explanation": "The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons.",
+      "remediation_frame": 18015,
+      "remediation_seconds": 600.5,
+      "hold_start_frame": 19421,
+      "hold_end_frame": 19616,
+      "reasoning_silence_seconds": 6.526666666666756,
+      "answer_reveal_frame": 19616
+    }
+  ],
+  "chapters": [
+    {
+      "index": 0,
+      "title": "A wall for a wave",
+      "start_frame": 0,
+      "start_seconds": 0.0
+    },
+    {
+      "index": 1,
+      "title": "Matching the wave",
+      "start_frame": 2280,
+      "start_seconds": 76.0
+    },
+    {
+      "index": 2,
+      "title": "The exact prediction",
+      "start_frame": 5320,
+      "start_seconds": 177.33333333333334
+    },
+    {
+      "index": 3,
+      "title": "Width changes everything",
+      "start_frame": 8741,
+      "start_seconds": 291.3666666666667
+    },
+    {
+      "index": 4,
+      "title": "Energy and height",
+      "start_frame": 12007,
+      "start_seconds": 400.23333333333335
+    },
+    {
+      "index": 5,
+      "title": "From waves to devices",
+      "start_frame": 14579,
+      "start_seconds": 485.96666666666664
+    },
+    {
+      "index": 6,
+      "title": "Evidence and scientific judgment",
+      "start_frame": 18015,
+      "start_seconds": 600.5
+    }
+  ],
+  "captions": [
+    {
+      "id": 1,
+      "start_seconds": 0.22,
+      "end_seconds": 2.12,
+      "start_frame": 6,
+      "end_frame": 64,
+      "text": "Can an electron pass through a wall?"
+    },
+    {
+      "id": 2,
+      "start_seconds": 2.68,
+      "end_seconds": 5.26,
+      "start_frame": 80,
+      "end_frame": 158,
+      "text": "For a carefully defined potential barrier,\nyes."
+    },
+    {
+      "id": 3,
+      "start_seconds": 6.02,
+      "end_seconds": 10.32,
+      "start_frame": 180,
+      "end_frame": 310,
+      "text": "Today we will calculate the probability, test\nour calculation, and ask what evidence"
+    },
+    {
+      "id": 4,
+      "start_seconds": 10.32,
+      "end_seconds": 11.96,
+      "start_frame": 309,
+      "end_frame": 359,
+      "text": "could actually support that conclusion."
+    },
+    {
+      "id": 5,
+      "start_seconds": 12.62,
+      "end_seconds": 17.84,
+      "start_frame": 378,
+      "end_frame": 536,
+      "text": "Imagine a finite potential barrier: a wall in\nan energy diagram, rather than an"
+    },
+    {
+      "id": 6,
+      "start_seconds": 17.84,
+      "end_seconds": 18.78,
+      "start_frame": 535,
+      "end_frame": 564,
+      "text": "everyday brick wall."
+    },
+    {
+      "id": 7,
+      "start_seconds": 19.92,
+      "end_seconds": 22.82,
+      "start_frame": 597,
+      "end_frame": 685,
+      "text": "Our electron has half an electron volt of\nenergy."
+    },
+    {
+      "id": 8,
+      "start_seconds": 23.36,
+      "end_seconds": 27.74,
+      "start_frame": 700,
+      "end_frame": 833,
+      "text": "The barrier is one electron volt high and zero\npoint four five nanometers wide."
+    },
+    {
+      "id": 9,
+      "start_seconds": 28.52,
+      "end_seconds": 31.68,
+      "start_frame": 855,
+      "end_frame": 951,
+      "text": "Classically, the electron cannot reach the\ntop, so it returns."
+    },
+    {
+      "id": 10,
+      "start_seconds": 32.46,
+      "end_seconds": 36.72,
+      "start_frame": 973,
+      "end_frame": 1102,
+      "text": "We use zero potential outside, so the total\nenergy there is kinetic energy."
+    },
+    {
+      "id": 11,
+      "start_seconds": 37.92,
+      "end_seconds": 38.98,
+      "start_frame": 1137,
+      "end_frame": 1170,
+      "text": "Pause and predict."
+    },
+    {
+      "id": 12,
+      "start_seconds": 39.74,
+      "end_seconds": 43.8,
+      "start_frame": 1192,
+      "end_frame": 1314,
+      "text": "In quantum mechanics, must the transmission\nprobability also be exactly zero?"
+    },
+    {
+      "id": 13,
+      "start_seconds": 44.64,
+      "end_seconds": 46.14,
+      "start_frame": 1339,
+      "end_frame": 1385,
+      "text": "Choose your answer before continuing."
+    },
+    {
+      "id": 14,
+      "start_seconds": 46.6,
+      "end_seconds": 49.32,
+      "start_frame": 1398,
+      "end_frame": 1480,
+      "text": "Explain which assumption of the classical\npicture you are using."
+    },
+    {
+      "id": 15,
+      "start_seconds": 56.387,
+      "end_seconds": 59.327,
+      "start_frame": 1691,
+      "end_frame": 1780,
+      "text": "Quantum mechanics describes a state using a\nwavefunction."
+    },
+    {
+      "id": 16,
+      "start_seconds": 59.927,
+      "end_seconds": 63.847,
+      "start_frame": 1797,
+      "end_frame": 1916,
+      "text": "A finite barrier can support a nonzero\ntransmitted probability current."
+    },
+    {
+      "id": 17,
+      "start_seconds": 64.427,
+      "end_seconds": 68.847,
+      "start_frame": 1932,
+      "end_frame": 2066,
+      "text": "This does not mean the electron secretly\nclimbs over the barrier, or follows the curve"
+    },
+    {
+      "id": 18,
+      "start_seconds": 68.847,
+      "end_seconds": 69.427,
+      "start_frame": 2065,
+      "end_frame": 2083,
+      "text": "drawn here."
+    },
+    {
+      "id": 19,
+      "start_seconds": 69.867,
+      "end_seconds": 74.947,
+      "start_frame": 2096,
+      "end_frame": 2249,
+      "text": "Detection beyond the barrier is an outcome;\ntransmission predicts how often we expect"
+    },
+    {
+      "id": 20,
+      "start_seconds": 74.947,
+      "end_seconds": 75.207,
+      "start_frame": 2248,
+      "end_frame": 2257,
+      "text": "it."
+    },
+    {
+      "id": 21,
+      "start_seconds": 76.22,
+      "end_seconds": 81.34,
+      "start_frame": 2286,
+      "end_frame": 2441,
+      "text": "The cyan curve is the real part of a\nstationary scattering wavefunction, multiplied\nby"
+    },
+    {
+      "id": 22,
+      "start_seconds": 81.34,
+      "end_seconds": 82.54,
+      "start_frame": 2440,
+      "end_frame": 2477,
+      "text": "its time dependent phase."
+    },
+    {
+      "id": 23,
+      "start_seconds": 83.26,
+      "end_seconds": 84.94,
+      "start_frame": 2497,
+      "end_frame": 2549,
+      "text": "Gold shows its probability density."
+    },
+    {
+      "id": 24,
+      "start_seconds": 85.48,
+      "end_seconds": 87.4,
+      "start_frame": 2564,
+      "end_frame": 2622,
+      "text": "The density is time independent here."
+    },
+    {
+      "id": 25,
+      "start_seconds": 87.84,
+      "end_seconds": 92.56,
+      "start_frame": 2635,
+      "end_frame": 2777,
+      "text": "A single detection is localized, while these\ncurves describe the statistics of many"
+    },
+    {
+      "id": 26,
+      "start_seconds": 92.56,
+      "end_seconds": 94.16,
+      "start_frame": 2776,
+      "end_frame": 2825,
+      "text": "identically prepared measurements."
+    },
+    {
+      "id": 27,
+      "start_seconds": 94.84,
+      "end_seconds": 99.32,
+      "start_frame": 2845,
+      "end_frame": 2980,
+      "text": "Changing the phase changes the real part,\nwhile a stationary probability density stays"
+    },
+    {
+      "id": 28,
+      "start_seconds": 99.32,
+      "end_seconds": 99.64,
+      "start_frame": 2979,
+      "end_frame": 2990,
+      "text": "fixed."
+    },
+    {
+      "id": 29,
+      "start_seconds": 101.22,
+      "end_seconds": 104.52,
+      "start_frame": 3036,
+      "end_frame": 3136,
+      "text": "On the left, an incoming wave and a reflected\nwave overlap."
+    },
+    {
+      "id": 30,
+      "start_seconds": 105.1,
+      "end_seconds": 106.92,
+      "start_frame": 3153,
+      "end_frame": 3208,
+      "text": "Their interference makes the density ripple."
+    },
+    {
+      "id": 31,
+      "start_seconds": 107.38,
+      "end_seconds": 109.86,
+      "start_frame": 3221,
+      "end_frame": 3296,
+      "text": "On the right, only an outgoing wave is\npresent."
+    },
+    {
+      "id": 32,
+      "start_seconds": 110.58,
+      "end_seconds": 115.18,
+      "start_frame": 3317,
+      "end_frame": 3456,
+      "text": "Our incident amplitude is one, so these\nscattering states are not normalized to one"
+    },
+    {
+      "id": 33,
+      "start_seconds": 115.18,
+      "end_seconds": 116.02,
+      "start_frame": 3455,
+      "end_frame": 3481,
+      "text": "over all space."
+    },
+    {
+      "id": 34,
+      "start_seconds": 116.62,
+      "end_seconds": 119.3,
+      "start_frame": 3498,
+      "end_frame": 3579,
+      "text": "Transmission is a ratio of probability\ncurrents."
+    },
+    {
+      "id": 35,
+      "start_seconds": 119.94,
+      "end_seconds": 124.22,
+      "start_frame": 3598,
+      "end_frame": 3727,
+      "text": "Interference changes the density on the left,\nwhile the net probability current remains"
+    },
+    {
+      "id": 36,
+      "start_seconds": 124.22,
+      "end_seconds": 124.72,
+      "start_frame": 3726,
+      "end_frame": 3742,
+      "text": "constant."
+    },
+    {
+      "id": 37,
+      "start_seconds": 126.22,
+      "end_seconds": 127.22,
+      "start_frame": 3786,
+      "end_frame": 3817,
+      "text": "Pause and predict."
+    },
+    {
+      "id": 38,
+      "start_seconds": 127.86,
+      "end_seconds": 131.42,
+      "start_frame": 3835,
+      "end_frame": 3943,
+      "text": "At each edge of this finite barrier, which\nquantities must be continuous?"
+    },
+    {
+      "id": 39,
+      "start_seconds": 131.94,
+      "end_seconds": 132.9,
+      "start_frame": 3958,
+      "end_frame": 3987,
+      "text": "The wavefunction alone?"
+    },
+    {
+      "id": 40,
+      "start_seconds": 133.36,
+      "end_seconds": 134.96,
+      "start_frame": 4000,
+      "end_frame": 4049,
+      "text": "The wavefunction and its spatial derivative?"
+    },
+    {
+      "id": 41,
+      "start_seconds": 135.46,
+      "end_seconds": 136.44,
+      "start_frame": 4063,
+      "end_frame": 4094,
+      "text": "Or the potential itself?"
+    },
+    {
+      "id": 42,
+      "start_seconds": 137.06,
+      "end_seconds": 140.5,
+      "start_frame": 4111,
+      "end_frame": 4215,
+      "text": "Our model has a constant electron mass and no\ndelta function potential."
+    },
+    {
+      "id": 43,
+      "start_seconds": 141.13,
+      "end_seconds": 142.91,
+      "start_frame": 4233,
+      "end_frame": 4288,
+      "text": "Keep those assumptions in your reasoning."
+    },
+    {
+      "id": 44,
+      "start_seconds": 151.22,
+      "end_seconds": 155.56,
+      "start_frame": 4536,
+      "end_frame": 4667,
+      "text": "Both the wavefunction and its first spatial\nderivative are continuous at each edge."
+    },
+    {
+      "id": 45,
+      "start_seconds": 156.3,
+      "end_seconds": 159.36,
+      "start_frame": 4689,
+      "end_frame": 4781,
+      "text": "There are four matching equations for four\nunknown amplitudes."
+    },
+    {
+      "id": 46,
+      "start_seconds": 159.96,
+      "end_seconds": 161.3,
+      "start_frame": 4798,
+      "end_frame": 4839,
+      "text": "The potential may jump."
+    },
+    {
+      "id": 47,
+      "start_seconds": 161.8,
+      "end_seconds": 166.08,
+      "start_frame": 4854,
+      "end_frame": 4983,
+      "text": "For interfaces described by different\neffective masses, the matching law needs a"
+    },
+    {
+      "id": 48,
+      "start_seconds": 166.08,
+      "end_seconds": 170.24,
+      "start_frame": 4982,
+      "end_frame": 5108,
+      "text": "suitable effective mass model; do not copy\nthese conditions without checking its"
+    },
+    {
+      "id": 49,
+      "start_seconds": 170.24,
+      "end_seconds": 170.66,
+      "start_frame": 5107,
+      "end_frame": 5120,
+      "text": "assumptions."
+    },
+    {
+      "id": 50,
+      "start_seconds": 171.52,
+      "end_seconds": 175.6,
+      "start_frame": 5145,
+      "end_frame": 5268,
+      "text": "Integrating the equation across a shrinking\ninterval gives the derivative condition for"
+    },
+    {
+      "id": 51,
+      "start_seconds": 175.6,
+      "end_seconds": 176.42,
+      "start_frame": 5268,
+      "end_frame": 5293,
+      "text": "a finite step."
+    },
+    {
+      "id": 52,
+      "start_seconds": 177.553,
+      "end_seconds": 181.933,
+      "start_frame": 5326,
+      "end_frame": 5458,
+      "text": "The time independent Schrödinger equation\nrelates the curvature of the wavefunction to"
+    },
+    {
+      "id": 53,
+      "start_seconds": 181.933,
+      "end_seconds": 184.333,
+      "start_frame": 5457,
+      "end_frame": 5530,
+      "text": "the difference between potential and total\nenergy."
+    },
+    {
+      "id": 54,
+      "start_seconds": 185.133,
+      "end_seconds": 188.553,
+      "start_frame": 5553,
+      "end_frame": 5657,
+      "text": "Here, h-bar is Planck's constant divided by\ntwo pi."
+    },
+    {
+      "id": 55,
+      "start_seconds": 189.213,
+      "end_seconds": 191.613,
+      "start_frame": 5676,
+      "end_frame": 5749,
+      "text": "Outside the barrier the solutions oscillate."
+    },
+    {
+      "id": 56,
+      "start_seconds": 192.013,
+      "end_seconds": 196.753,
+      "start_frame": 5760,
+      "end_frame": 5903,
+      "text": "Inside, where the energy is lower than the\npotential, the solutions are exponentials."
+    },
+    {
+      "id": 57,
+      "start_seconds": 197.573,
+      "end_seconds": 200.573,
+      "start_frame": 5927,
+      "end_frame": 6018,
+      "text": "The decay constant kappa has units of inverse\nlength."
+    },
+    {
+      "id": 58,
+      "start_seconds": 201.553,
+      "end_seconds": 205.453,
+      "start_frame": 6046,
+      "end_frame": 6164,
+      "text": "Notice how the sign of the curvature\ndistinguishes the oscillatory and exponential"
+    },
+    {
+      "id": 59,
+      "start_seconds": 205.453,
+      "end_seconds": 205.933,
+      "start_frame": 6163,
+      "end_frame": 6178,
+      "text": "regions."
+    },
+    {
+      "id": 60,
+      "start_seconds": 207.32,
+      "end_seconds": 212.82,
+      "start_frame": 6219,
+      "end_frame": 6385,
+      "text": "A finite barrier requires a combination of two\nexponential solutions, not just one"
+    },
+    {
+      "id": 61,
+      "start_seconds": 212.82,
+      "end_seconds": 213.94,
+      "start_frame": 6384,
+      "end_frame": 6419,
+      "text": "decaying exponential."
+    },
+    {
+      "id": 62,
+      "start_seconds": 214.82,
+      "end_seconds": 217.44,
+      "start_frame": 6444,
+      "end_frame": 6524,
+      "text": "Matching the two interfaces produces the\ntransmitted wave."
+    },
+    {
+      "id": 63,
+      "start_seconds": 217.96,
+      "end_seconds": 220.72,
+      "start_frame": 6538,
+      "end_frame": 6622,
+      "text": "In this stationary model total energy is\nconserved."
+    },
+    {
+      "id": 64,
+      "start_seconds": 221.09,
+      "end_seconds": 225.99,
+      "start_frame": 6632,
+      "end_frame": 6780,
+      "text": "The electron does not borrow energy, and the\nuncertainty principle is not a license to"
+    },
+    {
+      "id": 65,
+      "start_seconds": 225.99,
+      "end_seconds": 227.35,
+      "start_frame": 6779,
+      "end_frame": 6821,
+      "text": "violate energy conservation."
+    },
+    {
+      "id": 66,
+      "start_seconds": 228.43,
+      "end_seconds": 232.79,
+      "start_frame": 6852,
+      "end_frame": 6984,
+      "text": "The complex coefficients of those exponentials\ntogether allow a conserved current"
+    },
+    {
+      "id": 67,
+      "start_seconds": 232.79,
+      "end_seconds": 233.63,
+      "start_frame": 6983,
+      "end_frame": 7009,
+      "text": "inside the barrier."
+    },
+    {
+      "id": 68,
+      "start_seconds": 235.32,
+      "end_seconds": 239.735,
+      "start_frame": 7059,
+      "end_frame": 7193,
+      "text": "Suppose the calculated transmission\ncoefficient is about zero point one four."
+    },
+    {
+      "id": 69,
+      "start_seconds": 240.0,
+      "end_seconds": 243.08,
+      "start_frame": 7200,
+      "end_frame": 7293,
+      "text": "Does that mean every electron loses fourteen\npercent of its energy?"
+    },
+    {
+      "id": 70,
+      "start_seconds": 243.58,
+      "end_seconds": 247.22,
+      "start_frame": 7307,
+      "end_frame": 7417,
+      "text": "Or that around fourteen percent of a large\nincident ensemble is transmitted?"
+    },
+    {
+      "id": 71,
+      "start_seconds": 247.92,
+      "end_seconds": 250.7,
+      "start_frame": 7437,
+      "end_frame": 7521,
+      "text": "Predict an outcome for ten thousand\nindependent electrons."
+    },
+    {
+      "id": 72,
+      "start_seconds": 251.29,
+      "end_seconds": 254.09,
+      "start_frame": 7538,
+      "end_frame": 7623,
+      "text": "Include the fact that a finite count will\nfluctuate."
+    },
+    {
+      "id": 73,
+      "start_seconds": 262.32,
+      "end_seconds": 266.48,
+      "start_frame": 7869,
+      "end_frame": 7995,
+      "text": "The exact expression on screen gives about\nzero point one four for our default"
+    },
+    {
+      "id": 74,
+      "start_seconds": 266.48,
+      "end_seconds": 267.0,
+      "start_frame": 7994,
+      "end_frame": 8010,
+      "text": "parameters."
+    },
+    {
+      "id": 75,
+      "start_seconds": 267.68,
+      "end_seconds": 271.82,
+      "start_frame": 8030,
+      "end_frame": 8155,
+      "text": "Roughly fourteen hundred of ten thousand\nincident electrons are expected to transmit,"
+    },
+    {
+      "id": 76,
+      "start_seconds": 271.82,
+      "end_seconds": 273.5,
+      "start_frame": 8154,
+      "end_frame": 8205,
+      "text": "with statistical fluctuations."
+    },
+    {
+      "id": 77,
+      "start_seconds": 274.22,
+      "end_seconds": 279.04,
+      "start_frame": 8226,
+      "end_frame": 8372,
+      "text": "Equal potentials and equal masses on both\nsides mean the transmitted amplitude squared"
+    },
+    {
+      "id": 78,
+      "start_seconds": 279.04,
+      "end_seconds": 280.16,
+      "start_frame": 8371,
+      "end_frame": 8405,
+      "text": "equals transmission."
+    },
+    {
+      "id": 79,
+      "start_seconds": 280.94,
+      "end_seconds": 283.88,
+      "start_frame": 8428,
+      "end_frame": 8517,
+      "text": "Reflected and transmitted currents add to the\nincident current."
+    },
+    {
+      "id": 80,
+      "start_seconds": 284.4,
+      "end_seconds": 286.78,
+      "start_frame": 8532,
+      "end_frame": 8604,
+      "text": "An individual trial gives one detection\noutcome."
+    },
+    {
+      "id": 81,
+      "start_seconds": 287.34,
+      "end_seconds": 290.48,
+      "start_frame": 8620,
+      "end_frame": 8715,
+      "text": "Repeating the preparation makes the\nprobability prediction testable."
+    },
+    {
+      "id": 82,
+      "start_seconds": 291.587,
+      "end_seconds": 294.867,
+      "start_frame": 8747,
+      "end_frame": 8847,
+      "text": "Now hold energy and barrier height fixed while\nchanging width."
+    },
+    {
+      "id": 83,
+      "start_seconds": 295.667,
+      "end_seconds": 298.887,
+      "start_frame": 8870,
+      "end_frame": 8967,
+      "text": "Notice how the outgoing amplitude shrinks as\nthe barrier thickens."
+    },
+    {
+      "id": 84,
+      "start_seconds": 299.347,
+      "end_seconds": 303.047,
+      "start_frame": 8980,
+      "end_frame": 9092,
+      "text": "The wavefunction is calculated by matching\nboth interfaces each time."
+    },
+    {
+      "id": 85,
+      "start_seconds": 303.527,
+      "end_seconds": 308.687,
+      "start_frame": 9105,
+      "end_frame": 9261,
+      "text": "The animation changes the model between\nstationary solutions; it is not a simulation\nof"
+    },
+    {
+      "id": 86,
+      "start_seconds": 308.687,
+      "end_seconds": 310.807,
+      "start_frame": 9260,
+      "end_frame": 9325,
+      "text": "a moving wall or an electron trajectory."
+    },
+    {
+      "id": 87,
+      "start_seconds": 311.567,
+      "end_seconds": 315.957,
+      "start_frame": 9347,
+      "end_frame": 9479,
+      "text": "At a quarter nanometer, transmission is about\nforty eight percent; at zero point six"
+    },
+    {
+      "id": 88,
+      "start_seconds": 315.957,
+      "end_seconds": 317.927,
+      "start_frame": 9478,
+      "end_frame": 9538,
+      "text": "five, about three and a half percent."
+    },
+    {
+      "id": 89,
+      "start_seconds": 319.12,
+      "end_seconds": 323.72,
+      "start_frame": 9573,
+      "end_frame": 9712,
+      "text": "When kappa times width is large, transmission\nfalls approximately exponentially with"
+    },
+    {
+      "id": 90,
+      "start_seconds": 323.72,
+      "end_seconds": 324.02,
+      "start_frame": 9711,
+      "end_frame": 9721,
+      "text": "width."
+    },
+    {
+      "id": 91,
+      "start_seconds": 324.5,
+      "end_seconds": 326.92,
+      "start_frame": 9735,
+      "end_frame": 9808,
+      "text": "The prefactor still depends on energy and\nheight."
+    },
+    {
+      "id": 92,
+      "start_seconds": 327.5,
+      "end_seconds": 330.36,
+      "start_frame": 9825,
+      "end_frame": 9911,
+      "text": "Use the exact expression when the barrier is\nnot opaque."
+    },
+    {
+      "id": 93,
+      "start_seconds": 330.9,
+      "end_seconds": 336.16,
+      "start_frame": 9927,
+      "end_frame": 10085,
+      "text": "Taking a logarithm turns the approximate\nexponential trend into a line, which is useful"
+    },
+    {
+      "id": 94,
+      "start_seconds": 336.16,
+      "end_seconds": 337.32,
+      "start_frame": 10084,
+      "end_frame": 10120,
+      "text": "when designing measurements."
+    },
+    {
+      "id": 95,
+      "start_seconds": 338.26,
+      "end_seconds": 342.5,
+      "start_frame": 10147,
+      "end_frame": 10275,
+      "text": "The factor of two in the exponent comes from\nsquaring the magnitude of an amplitude."
+    },
+    {
+      "id": 96,
+      "start_seconds": 344.12,
+      "end_seconds": 345.12,
+      "start_frame": 10323,
+      "end_frame": 10354,
+      "text": "Pause and predict."
+    },
+    {
+      "id": 97,
+      "start_seconds": 345.78,
+      "end_seconds": 349.86,
+      "start_frame": 10373,
+      "end_frame": 10496,
+      "text": "At fixed energy and height, does doubling\nbarrier width simply cut transmission in"
+    },
+    {
+      "id": 98,
+      "start_seconds": 349.86,
+      "end_seconds": 350.1,
+      "start_frame": 10495,
+      "end_frame": 10503,
+      "text": "half?"
+    },
+    {
+      "id": 99,
+      "start_seconds": 350.8,
+      "end_seconds": 352.92,
+      "start_frame": 10524,
+      "end_frame": 10588,
+      "text": "Or can it reduce transmission much more\nstrongly?"
+    },
+    {
+      "id": 100,
+      "start_seconds": 353.7,
+      "end_seconds": 356.5,
+      "start_frame": 10611,
+      "end_frame": 10695,
+      "text": "Write the ratio you would calculate using the\nexact formula."
+    },
+    {
+      "id": 101,
+      "start_seconds": 357.04,
+      "end_seconds": 361.1,
+      "start_frame": 10711,
+      "end_frame": 10833,
+      "text": "Do not assume the exponential approximation is\nexact for the thinner barrier."
+    },
+    {
+      "id": 102,
+      "start_seconds": 369.12,
+      "end_seconds": 374.3,
+      "start_frame": 11073,
+      "end_frame": 11229,
+      "text": "For widths zero point four five and zero point\nnine nanometers, transmission drops from"
+    },
+    {
+      "id": 103,
+      "start_seconds": 374.3,
+      "end_seconds": 377.4,
+      "start_frame": 11229,
+      "end_frame": 11322,
+      "text": "about fourteen percent to about zero point six\npercent."
+    },
+    {
+      "id": 104,
+      "start_seconds": 377.4,
+      "end_seconds": 382.26,
+      "start_frame": 11322,
+      "end_frame": 11468,
+      "text": "In the laboratory, compare the closed form\nwith independent differential equation"
+    },
+    {
+      "id": 105,
+      "start_seconds": 382.26,
+      "end_seconds": 382.76,
+      "start_frame": 11467,
+      "end_frame": 11483,
+      "text": "integration."
+    },
+    {
+      "id": 106,
+      "start_seconds": 383.42,
+      "end_seconds": 386.42,
+      "start_frame": 11502,
+      "end_frame": 11593,
+      "text": "Also check continuity and constant probability\ncurrent."
+    },
+    {
+      "id": 107,
+      "start_seconds": 387.04,
+      "end_seconds": 391.78,
+      "start_frame": 11611,
+      "end_frame": 11754,
+      "text": "Defining reflection as one minus transmission\nalone would not independently test"
+    },
+    {
+      "id": 108,
+      "start_seconds": 391.78,
+      "end_seconds": 392.42,
+      "start_frame": 11753,
+      "end_frame": 11773,
+      "text": "conservation."
+    },
+    {
+      "id": 109,
+      "start_seconds": 393.3,
+      "end_seconds": 395.84,
+      "start_frame": 11799,
+      "end_frame": 11876,
+      "text": "Two implementations can share the same unit\nerror."
+    },
+    {
+      "id": 110,
+      "start_seconds": 396.44,
+      "end_seconds": 399.28,
+      "start_frame": 11893,
+      "end_frame": 11979,
+      "text": "That is why dimensions and limiting cases also\nmatter."
+    },
+    {
+      "id": 111,
+      "start_seconds": 400.453,
+      "end_seconds": 404.633,
+      "start_frame": 12013,
+      "end_frame": 12139,
+      "text": "Raising energy toward the barrier height\nincreases transmission in this below barrier"
+    },
+    {
+      "id": 112,
+      "start_seconds": 404.633,
+      "end_seconds": 405.053,
+      "start_frame": 12138,
+      "end_frame": 12152,
+      "text": "model."
+    },
+    {
+      "id": 113,
+      "start_seconds": 405.393,
+      "end_seconds": 408.653,
+      "start_frame": 12161,
+      "end_frame": 12260,
+      "text": "But do not extrapolate this equation past its\nstated domain."
+    },
+    {
+      "id": 114,
+      "start_seconds": 409.273,
+      "end_seconds": 413.453,
+      "start_frame": 12278,
+      "end_frame": 12404,
+      "text": "At or above the barrier, use the correct\nlimiting expression or the oscillatory"
+    },
+    {
+      "id": 115,
+      "start_seconds": 413.453,
+      "end_seconds": 413.873,
+      "start_frame": 12403,
+      "end_frame": 12417,
+      "text": "solution."
+    },
+    {
+      "id": 116,
+      "start_seconds": 414.463,
+      "end_seconds": 419.463,
+      "start_frame": 12433,
+      "end_frame": 12584,
+      "text": "As the energy gap shrinks, the decay length\ngrows, allowing more amplitude to reach the"
+    },
+    {
+      "id": 117,
+      "start_seconds": 419.463,
+      "end_seconds": 419.763,
+      "start_frame": 12583,
+      "end_frame": 12593,
+      "text": "exit."
+    },
+    {
+      "id": 118,
+      "start_seconds": 420.953,
+      "end_seconds": 425.893,
+      "start_frame": 12628,
+      "end_frame": 12777,
+      "text": "A higher barrier increases the decay constant\nand reduces transmission for these fixed"
+    },
+    {
+      "id": 119,
+      "start_seconds": 425.893,
+      "end_seconds": 426.413,
+      "start_frame": 12776,
+      "end_frame": 12793,
+      "text": "parameters."
+    },
+    {
+      "id": 120,
+      "start_seconds": 427.373,
+      "end_seconds": 429.993,
+      "start_frame": 12821,
+      "end_frame": 12900,
+      "text": "Width, height, and effective mass all matter."
+    },
+    {
+      "id": 121,
+      "start_seconds": 430.713,
+      "end_seconds": 434.933,
+      "start_frame": 12921,
+      "end_frame": 13048,
+      "text": "In an actual device, voltage can change the\nbarrier shape as well as the occupied"
+    },
+    {
+      "id": 122,
+      "start_seconds": 434.933,
+      "end_seconds": 435.773,
+      "start_frame": 13047,
+      "end_frame": 13074,
+      "text": "electron energies."
+    },
+    {
+      "id": 123,
+      "start_seconds": 436.403,
+      "end_seconds": 441.203,
+      "start_frame": 13092,
+      "end_frame": 13237,
+      "text": "Always convert the energy and length units\nconsistently before evaluating an"
+    },
+    {
+      "id": 124,
+      "start_seconds": 441.203,
+      "end_seconds": 441.663,
+      "start_frame": 13236,
+      "end_frame": 13250,
+      "text": "exponential."
+    },
+    {
+      "id": 125,
+      "start_seconds": 442.92,
+      "end_seconds": 443.88,
+      "start_frame": 13287,
+      "end_frame": 13317,
+      "text": "Pause and predict."
+    },
+    {
+      "id": 126,
+      "start_seconds": 444.68,
+      "end_seconds": 447.62,
+      "start_frame": 13340,
+      "end_frame": 13429,
+      "text": "Does tunneling require the electron to borrow\nextra energy?"
+    },
+    {
+      "id": 127,
+      "start_seconds": 448.48,
+      "end_seconds": 452.7,
+      "start_frame": 13454,
+      "end_frame": 13581,
+      "text": "Check your answer against our time independent\nequation, which has one fixed total"
+    },
+    {
+      "id": 128,
+      "start_seconds": 452.7,
+      "end_seconds": 454.0,
+      "start_frame": 13581,
+      "end_frame": 13620,
+      "text": "energy on both sides."
+    },
+    {
+      "id": 129,
+      "start_seconds": 454.64,
+      "end_seconds": 457.9,
+      "start_frame": 13639,
+      "end_frame": 13737,
+      "text": "The wave inside the barrier does not describe\na classical trajectory."
+    },
+    {
+      "id": 130,
+      "start_seconds": 465.02,
+      "end_seconds": 466.74,
+      "start_frame": 13950,
+      "end_frame": 14003,
+      "text": "No energy loan is required."
+    },
+    {
+      "id": 131,
+      "start_seconds": 467.34,
+      "end_seconds": 472.62,
+      "start_frame": 14020,
+      "end_frame": 14179,
+      "text": "For our static, elastic, lossless barrier,\ntransmitted and reflected electrons have the"
+    },
+    {
+      "id": 132,
+      "start_seconds": 472.62,
+      "end_seconds": 475.22,
+      "start_frame": 14178,
+      "end_frame": 14257,
+      "text": "same total energy as the incident electrons."
+    },
+    {
+      "id": 133,
+      "start_seconds": 475.98,
+      "end_seconds": 479.04,
+      "start_frame": 14279,
+      "end_frame": 14372,
+      "text": "Interactions that exchange energy require a\nricher model."
+    },
+    {
+      "id": 134,
+      "start_seconds": 479.52,
+      "end_seconds": 484.08,
+      "start_frame": 14385,
+      "end_frame": 14523,
+      "text": "The decaying amplitude is compatible with one\nconserved energy throughout this elastic"
+    },
+    {
+      "id": 135,
+      "start_seconds": 484.08,
+      "end_seconds": 485.04,
+      "start_frame": 14522,
+      "end_frame": 14552,
+      "text": "scattering problem."
+    },
+    {
+      "id": 136,
+      "start_seconds": 486.187,
+      "end_seconds": 490.927,
+      "start_frame": 14585,
+      "end_frame": 14728,
+      "text": "In scanning tunneling microscopy, a conducting\ntip approaches a conducting sample."
+    },
+    {
+      "id": 137,
+      "start_seconds": 491.567,
+      "end_seconds": 495.207,
+      "start_frame": 14747,
+      "end_frame": 14857,
+      "text": "A small bias allows a net tunneling current\nacross the vacuum gap."
+    },
+    {
+      "id": 138,
+      "start_seconds": 495.687,
+      "end_seconds": 500.767,
+      "start_frame": 14870,
+      "end_frame": 15024,
+      "text": "Because transmission is sensitive to\nseparation, a feedback loop can adjust tip\nheight"
+    },
+    {
+      "id": 139,
+      "start_seconds": 500.767,
+      "end_seconds": 504.587,
+      "start_frame": 15023,
+      "end_frame": 15138,
+      "text": "to maintain a chosen current as the tip scans\nacross the surface."
+    },
+    {
+      "id": 140,
+      "start_seconds": 505.427,
+      "end_seconds": 509.247,
+      "start_frame": 15162,
+      "end_frame": 15278,
+      "text": "The tip can carry a current without touching\nthe sample: that is the practical"
+    },
+    {
+      "id": 141,
+      "start_seconds": 509.247,
+      "end_seconds": 509.767,
+      "start_frame": 15277,
+      "end_frame": 15294,
+      "text": "opportunity."
+    },
+    {
+      "id": 142,
+      "start_seconds": 513.187,
+      "end_seconds": 517.067,
+      "start_frame": 15395,
+      "end_frame": 15513,
+      "text": "The resulting image is not simply a photograph\nof hard atomic surfaces."
+    },
+    {
+      "id": 143,
+      "start_seconds": 517.727,
+      "end_seconds": 522.347,
+      "start_frame": 15531,
+      "end_frame": 15671,
+      "text": "The current depends on electronic states,\nbias, and tip properties as well as"
+    },
+    {
+      "id": 144,
+      "start_seconds": 522.347,
+      "end_seconds": 522.707,
+      "start_frame": 15670,
+      "end_frame": 15682,
+      "text": "separation."
+    },
+    {
+      "id": 145,
+      "start_seconds": 523.397,
+      "end_seconds": 527.877,
+      "start_frame": 15701,
+      "end_frame": 15837,
+      "text": "Our rectangular barrier captures a useful\nsensitivity, but a realistic current"
+    },
+    {
+      "id": 146,
+      "start_seconds": 527.877,
+      "end_seconds": 532.817,
+      "start_frame": 15836,
+      "end_frame": 15985,
+      "text": "calculation must include occupied states,\nempty states, and the energy window selected"
+    },
+    {
+      "id": 147,
+      "start_seconds": 532.817,
+      "end_seconds": 533.477,
+      "start_frame": 15984,
+      "end_frame": 16005,
+      "text": "by the bias."
+    },
+    {
+      "id": 148,
+      "start_seconds": 534.197,
+      "end_seconds": 538.477,
+      "start_frame": 16025,
+      "end_frame": 16155,
+      "text": "An apparent hill in a current map can\ntherefore reflect electronic structure as well\nas"
+    },
+    {
+      "id": 149,
+      "start_seconds": 538.477,
+      "end_seconds": 538.777,
+      "start_frame": 16154,
+      "end_frame": 16164,
+      "text": "geometry."
+    },
+    {
+      "id": 150,
+      "start_seconds": 540.087,
+      "end_seconds": 541.127,
+      "start_frame": 16202,
+      "end_frame": 16234,
+      "text": "Pause and predict."
+    },
+    {
+      "id": 151,
+      "start_seconds": 541.847,
+      "end_seconds": 545.547,
+      "start_frame": 16255,
+      "end_frame": 16367,
+      "text": "If the current doubles in your measurement,\nhas the surface height necessarily doubled?"
+    },
+    {
+      "id": 152,
+      "start_seconds": 546.167,
+      "end_seconds": 550.647,
+      "start_frame": 16385,
+      "end_frame": 16520,
+      "text": "Consider a different tip, a change of local\nelectronic states, and a different bias."
+    },
+    {
+      "id": 153,
+      "start_seconds": 551.027,
+      "end_seconds": 555.167,
+      "start_frame": 16530,
+      "end_frame": 16656,
+      "text": "Which controlled comparisons would help\ndistinguish geometry from electronic contrast?"
+    },
+    {
+      "id": 154,
+      "start_seconds": 555.797,
+      "end_seconds": 558.217,
+      "start_frame": 16673,
+      "end_frame": 16747,
+      "text": "Write a prediction before you reveal the\nfeedback."
+    },
+    {
+      "id": 155,
+      "start_seconds": 566.087,
+      "end_seconds": 568.687,
+      "start_frame": 16982,
+      "end_frame": 17061,
+      "text": "No simple doubling rule connects current and\nheight."
+    },
+    {
+      "id": 156,
+      "start_seconds": 569.447,
+      "end_seconds": 574.107,
+      "start_frame": 17083,
+      "end_frame": 17224,
+      "text": "Semiconductor oxides and organic electronic\ninterfaces also have complicated transport:"
+    },
+    {
+      "id": 157,
+      "start_seconds": 574.887,
+      "end_seconds": 579.267,
+      "start_frame": 17246,
+      "end_frame": 17379,
+      "text": "direct tunneling may compete with thermally\nactivated injection, hopping, and trap"
+    },
+    {
+      "id": 158,
+      "start_seconds": 579.267,
+      "end_seconds": 580.167,
+      "start_frame": 17378,
+      "end_frame": 17406,
+      "text": "assisted processes."
+    },
+    {
+      "id": 159,
+      "start_seconds": 580.847,
+      "end_seconds": 586.167,
+      "start_frame": 17425,
+      "end_frame": 17586,
+      "text": "Effective masses, nonrectangular barriers,\ninelastic scattering, and distributions of"
+    },
+    {
+      "id": 160,
+      "start_seconds": 586.167,
+      "end_seconds": 588.087,
+      "start_frame": 17585,
+      "end_frame": 17643,
+      "text": "molecular arrangements can all matter."
+    },
+    {
+      "id": 161,
+      "start_seconds": 588.967,
+      "end_seconds": 593.467,
+      "start_frame": 17669,
+      "end_frame": 17805,
+      "text": "A fitted barrier is a model parameter, not\nautomatically a measured material constant."
+    },
+    {
+      "id": 162,
+      "start_seconds": 594.017,
+      "end_seconds": 598.957,
+      "start_frame": 17820,
+      "end_frame": 17969,
+      "text": "In an organic layer, molecular orientation and\ndisorder can also change the available"
+    },
+    {
+      "id": 163,
+      "start_seconds": 598.957,
+      "end_seconds": 599.417,
+      "start_frame": 17968,
+      "end_frame": 17983,
+      "text": "pathways."
+    },
+    {
+      "id": 164,
+      "start_seconds": 600.72,
+      "end_seconds": 605.12,
+      "start_frame": 18021,
+      "end_frame": 18154,
+      "text": "A small current through a nominally insulating\nlayer is evidence of transport, but it"
+    },
+    {
+      "id": 165,
+      "start_seconds": 605.12,
+      "end_seconds": 607.16,
+      "start_frame": 18153,
+      "end_frame": 18215,
+      "text": "does not identify a unique mechanism."
+    },
+    {
+      "id": 166,
+      "start_seconds": 608.02,
+      "end_seconds": 610.44,
+      "start_frame": 18240,
+      "end_frame": 18314,
+      "text": "Measure a thickness series and a temperature\nseries."
+    },
+    {
+      "id": 167,
+      "start_seconds": 611.28,
+      "end_seconds": 614.16,
+      "start_frame": 18338,
+      "end_frame": 18425,
+      "text": "Control contact area, defects, and instrument\nleakage."
+    },
+    {
+      "id": 168,
+      "start_seconds": 614.75,
+      "end_seconds": 619.53,
+      "start_frame": 18442,
+      "end_frame": 18586,
+      "text": "Compare multiple plausible models and examine\ntheir residuals, rather than judging only"
+    },
+    {
+      "id": 169,
+      "start_seconds": 619.53,
+      "end_seconds": 621.21,
+      "start_frame": 18585,
+      "end_frame": 18637,
+      "text": "whether one curve looks convincing."
+    },
+    {
+      "id": 170,
+      "start_seconds": 622.25,
+      "end_seconds": 625.61,
+      "start_frame": 18667,
+      "end_frame": 18769,
+      "text": "Choose measurements where the competing\nmechanisms make different, observable"
+    },
+    {
+      "id": 171,
+      "start_seconds": 625.61,
+      "end_seconds": 626.17,
+      "start_frame": 18768,
+      "end_frame": 18786,
+      "text": "predictions."
+    },
+    {
+      "id": 172,
+      "start_seconds": 627.52,
+      "end_seconds": 628.6,
+      "start_frame": 18825,
+      "end_frame": 18858,
+      "text": "Pause and predict."
+    },
+    {
+      "id": 173,
+      "start_seconds": 629.32,
+      "end_seconds": 632.24,
+      "start_frame": 18879,
+      "end_frame": 18968,
+      "text": "An exponential decrease of current with\nthickness is observed."
+    },
+    {
+      "id": 174,
+      "start_seconds": 632.82,
+      "end_seconds": 635.26,
+      "start_frame": 18984,
+      "end_frame": 19058,
+      "text": "Does that conclusively prove direct tunneling?"
+    },
+    {
+      "id": 175,
+      "start_seconds": 635.86,
+      "end_seconds": 640.04,
+      "start_frame": 19075,
+      "end_frame": 19202,
+      "text": "Consider whether defects, thickness dependent\nmorphology, or another transport"
+    },
+    {
+      "id": 176,
+      "start_seconds": 640.04,
+      "end_seconds": 641.98,
+      "start_frame": 19201,
+      "end_frame": 19260,
+      "text": "mechanism could generate a similar trend."
+    },
+    {
+      "id": 177,
+      "start_seconds": 642.5,
+      "end_seconds": 647.02,
+      "start_frame": 19275,
+      "end_frame": 19411,
+      "text": "State one additional measurement and explain\nwhat competing predictions it would test."
+    },
+    {
+      "id": 178,
+      "start_seconds": 654.087,
+      "end_seconds": 658.307,
+      "start_frame": 19622,
+      "end_frame": 19750,
+      "text": "The trend supports a tunneling explanation,\nbut is not conclusive by itself."
+    },
+    {
+      "id": 179,
+      "start_seconds": 659.007,
+      "end_seconds": 662.807,
+      "start_frame": 19770,
+      "end_frame": 19885,
+      "text": "Weak temperature dependence under controlled\nconditions can strengthen the case for"
+    },
+    {
+      "id": 180,
+      "start_seconds": 662.807,
+      "end_seconds": 667.387,
+      "start_frame": 19884,
+      "end_frame": 20022,
+      "text": "direct elastic tunneling, while thermally\nactivated behavior motivates alternatives."
+    },
+    {
+      "id": 181,
+      "start_seconds": 667.987,
+      "end_seconds": 669.647,
+      "start_frame": 20039,
+      "end_frame": 20090,
+      "text": "No single signature is universal."
+    },
+    {
+      "id": 182,
+      "start_seconds": 670.267,
+      "end_seconds": 674.987,
+      "start_frame": 20108,
+      "end_frame": 20250,
+      "text": "Report parameter uncertainty, measurement\nlimits, model assumptions, and what"
+    },
+    {
+      "id": 183,
+      "start_seconds": 674.987,
+      "end_seconds": 677.087,
+      "start_frame": 20249,
+      "end_frame": 20313,
+      "text": "observation would make you change your\nexplanation."
+    },
+    {
+      "id": 184,
+      "start_seconds": 678.187,
+      "end_seconds": 682.447,
+      "start_frame": 20345,
+      "end_frame": 20474,
+      "text": "Confidence grows from consistent evidence\nacross conditions, rather than from one"
+    },
+    {
+      "id": 185,
+      "start_seconds": 682.447,
+      "end_seconds": 683.247,
+      "start_frame": 20473,
+      "end_frame": 20498,
+      "text": "successful fit."
+    },
+    {
+      "id": 186,
+      "start_seconds": 684.42,
+      "end_seconds": 685.86,
+      "start_frame": 20532,
+      "end_frame": 20576,
+      "text": "Open the companion laboratory."
+    },
+    {
+      "id": 187,
+      "start_seconds": 686.68,
+      "end_seconds": 691.14,
+      "start_frame": 20600,
+      "end_frame": 20735,
+      "text": "Predict first, change the parameters, and\ncompare analytical and numerical results."
+    },
+    {
+      "id": 188,
+      "start_seconds": 691.78,
+      "end_seconds": 694.36,
+      "start_frame": 20753,
+      "end_frame": 20831,
+      "text": "Then design an experiment for an unfamiliar\ninterface."
+    },
+    {
+      "id": 189,
+      "start_seconds": 694.98,
+      "end_seconds": 698.96,
+      "start_frame": 20849,
+      "end_frame": 20969,
+      "text": "Submit your own explanations, code,\nuncertainty analysis, and reflection."
+    },
+    {
+      "id": 190,
+      "start_seconds": 699.58,
+      "end_seconds": 702.72,
+      "start_frame": 20987,
+      "end_frame": 21082,
+      "text": "Completing a quiz is practice, not proof of\nunderstanding."
+    },
+    {
+      "id": 191,
+      "start_seconds": 703.44,
+      "end_seconds": 707.72,
+      "start_frame": 21103,
+      "end_frame": 21232,
+      "text": "The goal is to make a defensible scientific\njudgment and know where your model ends."
+    },
+    {
+      "id": 192,
+      "start_seconds": 708.36,
+      "end_seconds": 712.4,
+      "start_frame": 21250,
+      "end_frame": 21372,
+      "text": "Connect a physical assumption, a numerical\ncheck, and a measurement that could change"
+    },
+    {
+      "id": 193,
+      "start_seconds": 712.4,
+      "end_seconds": 712.96,
+      "start_frame": 21372,
+      "end_frame": 21389,
+      "text": "your conclusion."
+    }
+  ],
+  "summary": {
+    "display_before_end_seconds": 3,
+    "end_screen_frame": 21405
+  },
+  "laboratory_cta": {
+    "start_frame": 20526,
+    "end_frame": 21421
+  },
+  "physics": {
+    "E_eV": 0.5,
+    "V0_eV": 1,
+    "a_nm": 0.45,
+    "T": 0.14236199546735728,
+    "R": 0.8576380045326428,
+    "transmitted_amplitude_abs2": 0.1423619954673574,
+    "doubled_width_nm": 0.9,
+    "T_doubled": 0.00587308056798823,
+    "wave_samples": [
+      {
+        "x": -0.8,
+        "real": -0.7472291420860654,
+        "density": 0.9908905669511935
+      },
+      {
+        "x": -0.7910041841004185,
+        "real": -0.709692583119678,
+        "density": 0.8861210586652637
+      },
+      {
+        "x": -0.7820083682008369,
+        "real": -0.6714023909623842,
+        "density": 0.785477128458947
+      },
+      {
+        "x": -0.7730125523012553,
+        "real": -0.6323992265431306,
+        "density": 0.6893861640315243
+      },
+      {
+        "x": -0.7640167364016737,
+        "real": -0.5927245079067934,
+        "density": 0.5982562187660826
+      },
+      {
+        "x": -0.7550209205020921,
+        "real": -0.5524203662317395,
+        "density": 0.5124742789176594
+      },
+      {
+        "x": -0.7460251046025105,
+        "real": -0.5115296010900923,
+        "density": 0.43240462026360266
+      },
+      {
+        "x": -0.7370292887029289,
+        "real": -0.4700956349982282,
+        "density": 0.35838726119473135
+      },
+      {
+        "x": -0.7280334728033473,
+        "real": -0.428162467305753,
+        "density": 0.2907365188162521
+      },
+      {
+        "x": -0.7190376569037658,
+        "real": -0.3857746274719355,
+        "density": 0.22973967419002847
+      },
+      {
+        "x": -0.7100418410041841,
+        "real": -0.34297712777920447,
+        "density": 0.17565575238627124
+      },
+      {
+        "x": -0.7010460251046026,
+        "real": -0.29981541553393465,
+        "density": 0.12871442252521914
+      },
+      {
+        "x": -0.6920502092050209,
+        "real": -0.25633532480526733,
+        "density": 0.08911502247979905
+      },
+      {
+        "x": -0.6830543933054394,
+        "real": -0.2125830277532289,
+        "density": 0.057025712380916437
+      },
+      {
+        "x": -0.6740585774058577,
+        "real": -0.16860498559781856,
+        "density": 0.03258276052002659
+      },
+      {
+        "x": -0.6650627615062762,
+        "real": -0.12444789928114641,
+        "density": 0.015889964681437753
+      },
+      {
+        "x": -0.6560669456066945,
+        "real": -0.0801586598749986,
+        "density": 0.007018211361666148
+      },
+      {
+        "x": -0.647071129707113,
+        "real": -0.03578429878650957,
+        "density": 0.006005174747641511
+      },
+      {
+        "x": -0.6380753138075314,
+        "real": 0.008628062185197072,
+        "density": 0.012855156732054868
+      },
+      {
+        "x": -0.6290794979079498,
+        "real": 0.053031260888351195,
+        "density": 0.027539068645232433
+      },
+      {
+        "x": -0.6200836820083682,
+        "real": 0.0973781449007346,
+        "density": 0.04999455478111142
+      },
+      {
+        "x": -0.6110878661087866,
+        "real": 0.1416216216015409,
+        "density": 0.08012625719275736
+      },
+      {
+        "x": -0.602092050209205,
+        "real": 0.18571470817974056,
+        "density": 0.11780622063296764
+      },
+      {
+        "x": -0.5930962343096234,
+        "real": 0.22961058152582714,
+        "density": 0.16287443592035733
+      },
+      {
+        "x": -0.5841004184100418,
+        "real": 0.2732626279539816,
+        "density": 0.21513951942351558
+      },
+      {
+        "x": -0.5751046025104602,
+        "real": 0.3166244927018435,
+        "density": 0.2743795257777758
+      },
+      {
+        "x": -0.5661087866108787,
+        "real": 0.3596501291553288,
+        "density": 0.34034289038337445
+      },
+      {
+        "x": -0.5571129707112971,
+        "real": 0.4022938477462187,
+        "density": 0.41274949768264557
+      },
+      {
+        "x": -0.5481171548117154,
+        "real": 0.44451036447059566,
+        "density": 0.4912918706797791
+      },
+      {
+        "x": -0.5391213389121339,
+        "real": 0.4862548489766075,
+        "density": 0.5756364766518134
+      },
+      {
+        "x": -0.5301255230125523,
+        "real": 0.52748297217049,
+        "density": 0.6654251435061137
+      },
+      {
+        "x": -0.5211297071129707,
+        "real": 0.5681509532902962,
+        "density": 0.7602765807697289
+      },
+      {
+        "x": -0.512133891213389,
+        "real": 0.6082156063973414,
+        "density": 0.8597879987516909
+      },
+      {
+        "x": -0.5031380753138075,
+        "real": 0.6476343862360006,
+        "density": 0.9635368190024469
+      },
+      {
+        "x": -0.4941422594142259,
+        "real": 0.6863654334131543,
+        "density": 1.0710824688068927
+      },
+      {
+        "x": -0.4851464435146443,
+        "real": 0.7243676188493028,
+        "density": 1.1819682520906287
+      },
+      {
+        "x": -0.4761506276150627,
+        "real": 0.7616005874541536,
+        "density": 1.2957232887945844
+      },
+      {
+        "x": -0.4671548117154811,
+        "real": 0.7980248009802969,
+        "density": 1.4118645144824007
+      },
+      {
+        "x": -0.45815899581589953,
+        "real": 0.8336015800094614,
+        "density": 1.5298987316891453
+      },
+      {
+        "x": -0.44916317991631793,
+        "real": 0.8682931450267707,
+        "density": 1.6493247043002848
+      },
+      {
+        "x": -0.44016736401673634,
+        "real": 0.9020626565393749,
+        "density": 1.76963528606702
+      },
+      {
+        "x": -0.43117154811715475,
+        "real": 0.9348742541968601,
+        "density": 1.8903195742192092
+      },
+      {
+        "x": -0.42217573221757315,
+        "real": 0.9666930948718929,
+        "density": 2.0108650790304807
+      },
+      {
+        "x": -0.41317991631799156,
+        "real": 0.997485389660659,
+        "density": 2.1307599001223982
+      },
+      {
+        "x": -0.40418410041840996,
+        "real": 1.0272184397638062,
+        "density": 2.2494949002659532
+      },
+      {
+        "x": -0.39518828451882837,
+        "real": 1.0558606712097902,
+        "density": 2.366565867449239
+      },
+      {
+        "x": -0.3861924686192468,
+        "real": 1.083381668383748,
+        "density": 2.481475656030047
+      },
+      {
+        "x": -0.3771966527196652,
+        "real": 1.1097522063262955,
+        "density": 2.593736297880886
+      },
+      {
+        "x": -0.36820083682008364,
+        "real": 1.1349442817679487,
+        "density": 2.702871074561388
+      },
+      {
+        "x": -0.35920502092050205,
+        "real": 1.1589311428662166,
+        "density": 2.808416541718564
+      },
+      {
+        "x": -0.35020920502092046,
+        "real": 1.1816873176137834,
+        "density": 2.9099244971182086
+      },
+      {
+        "x": -0.34121338912133886,
+        "real": 1.2031886408876145,
+        "density": 3.0069638839501596
+      },
+      {
+        "x": -0.33221757322175727,
+        "real": 1.2234122801102627,
+        "density": 3.099122621324964
+      },
+      {
+        "x": -0.3232217573221757,
+        "real": 1.2423367594961257,
+        "density": 3.186009354188677
+      },
+      {
+        "x": -0.3142259414225941,
+        "real": 1.2599419828569023,
+        "density": 3.267255115224734
+      },
+      {
+        "x": -0.3052301255230125,
+        "real": 1.2762092549420385,
+        "density": 3.3425148916855805
+      },
+      {
+        "x": -0.2962343096234309,
+        "real": 1.2911213012914928,
+        "density": 3.4114690905004372
+      },
+      {
+        "x": -0.28723849372384924,
+        "real": 1.3046622865797444,
+        "density": 3.473824895437596
+      },
+      {
+        "x": -0.2782426778242677,
+        "real": 1.316817831431563,
+        "density": 3.529317510558007
+      },
+      {
+        "x": -0.26924686192468605,
+        "real": 1.3275750276916831,
+        "density": 3.5777112846797787
+      },
+      {
+        "x": -0.2602510460251045,
+        "real": 1.3369224521321668,
+        "density": 3.618800712078531
+      },
+      {
+        "x": -0.25125523012552287,
+        "real": 1.344850178582901,
+        "density": 3.652411305174094
+      },
+      {
+        "x": -0.24225941422594133,
+        "real": 1.3513497884723469,
+        "density": 3.6784003354976447
+      },
+      {
+        "x": -0.23326359832635968,
+        "real": 1.356414379767347,
+        "density": 3.696657439792765
+      },
+      {
+        "x": -0.22426778242677814,
+        "real": 1.360038574302496,
+        "density": 3.707105088676565
+      },
+      {
+        "x": -0.2152719665271966,
+        "real": 1.3622185234912987,
+        "density": 3.7096989158707245
+      },
+      {
+        "x": -0.20627615062761495,
+        "real": 1.3629519124130371,
+        "density": 3.7044279066043058
+      },
+      {
+        "x": -0.1972803347280334,
+        "real": 1.3622379622710241,
+        "density": 3.6913144443883565
+      },
+      {
+        "x": -0.18828451882845176,
+        "real": 1.3600774312196156,
+        "density": 3.670414215963591
+      },
+      {
+        "x": -0.17928870292887022,
+        "real": 1.3564726135591174,
+        "density": 3.6418159748248566
+      },
+      {
+        "x": -0.17029288702928858,
+        "real": 1.3514273372994325,
+        "density": 3.605641164326548
+      },
+      {
+        "x": -0.16129707112970704,
+        "real": 1.3449469600950397,
+        "density": 3.562043401969484
+      },
+      {
+        "x": -0.1523012552301254,
+        "real": 1.33703836355562,
+        "density": 3.5112078270592235
+      },
+      {
+        "x": -0.14330543933054385,
+        "real": 1.3277099459383737,
+        "density": 3.453350314506041
+      },
+      {
+        "x": -0.1343096234309622,
+        "real": 1.3169716132297822,
+        "density": 3.38871655810513
+      },
+      {
+        "x": -0.12531380753138066,
+        "real": 1.3048347686262958,
+        "density": 3.317581027189991
+      },
+      {
+        "x": -0.11631799163179901,
+        "real": 1.291312300425106,
+        "density": 3.2402458010895203
+      },
+      {
+        "x": -0.10732217573221747,
+        "real": 1.276418568337871,
+        "density": 3.157039286338411
+      },
+      {
+        "x": -0.09832635983263582,
+        "real": 1.2601693882419216,
+        "density": 3.068314822088176
+      },
+      {
+        "x": -0.08933054393305428,
+        "real": 1.2425820153851452,
+        "density": 2.9744491796410513
+      },
+      {
+        "x": -0.08033472803347264,
+        "real": 1.2236751260623782,
+        "density": 2.8758409624784846
+      },
+      {
+        "x": -0.0713389121338911,
+        "real": 1.2034687977827696,
+        "density": 2.7729089135785854
+      },
+      {
+        "x": -0.06234309623430945,
+        "real": 1.181984487949172,
+        "density": 2.666090137210543
+      },
+      {
+        "x": -0.05334728033472791,
+        "real": 1.159245011072206,
+        "density": 2.5558382427572437
+      },
+      {
+        "x": -0.04435146443514626,
+        "real": 1.1352745145431862,
+        "density": 2.4426214184483674
+      },
+      {
+        "x": -0.03535564853556472,
+        "real": 1.110098452991648,
+        "density": 2.3269204431839645
+      },
+      {
+        "x": -0.02635983263598307,
+        "real": 1.0837435612546917,
+        "density": 2.209226644891323
+      },
+      {
+        "x": -0.017364016736401533,
+        "real": 1.0562378259868617,
+        "density": 2.0900398140850722
+      },
+      {
+        "x": -0.008368200836819883,
+        "real": 1.0276104559406944,
+        "density": 1.9698660814906102
+      },
+      {
+        "x": 0.000627615062761655,
+        "real": 0.997897016645762,
+        "density": 1.8492349161936672
+      },
+      {
+        "x": 0.009623430962343305,
+        "real": 0.968315855746002,
+        "density": 1.732909197510867
+      },
+      {
+        "x": 0.018619246861924843,
+        "real": 0.9397631459878842,
+        "density": 1.6239475456467336
+      },
+      {
+        "x": 0.027615062761506493,
+        "real": 0.912208561453709,
+        "density": 1.521886923711533
+      },
+      {
+        "x": 0.03661087866108803,
+        "real": 0.8856228363375386,
+        "density": 1.4262936210177357
+      },
+      {
+        "x": 0.04560669456066968,
+        "real": 0.8599777338618942,
+        "density": 1.3367614100091205
+      },
+      {
+        "x": 0.05460251046025122,
+        "real": 0.8352460162873941,
+        "density": 1.2529098199805662
+      },
+      {
+        "x": 0.06359832635983276,
+        "real": 0.8114014159834677,
+        "density": 1.1743825202525953
+      },
+      {
+        "x": 0.07259414225941441,
+        "real": 0.7884186075294276,
+        "density": 1.1008458059299262
+      },
+      {
+        "x": 0.08158995815899595,
+        "real": 0.7662731808162668,
+        "density": 1.0319871798092008
+      },
+      {
+        "x": 0.0905857740585776,
+        "real": 0.7449416151206067,
+        "density": 0.9675140244096391
+      },
+      {
+        "x": 0.09958158995815913,
+        "real": 0.7244012541232706,
+        "density": 0.9071523584833772
+      },
+      {
+        "x": 0.10857740585774078,
+        "real": 0.7046302818459358,
+        "density": 0.8506456727212084
+      },
+      {
+        "x": 0.11757322175732232,
+        "real": 0.6856076994803222,
+        "density": 0.7977538397060423
+      },
+      {
+        "x": 0.12656903765690397,
+        "real": 0.6673133030852931,
+        "density": 0.7482520934818514
+      },
+      {
+        "x": 0.1355648535564855,
+        "real": 0.6497276621281912,
+        "density": 0.7019300744017727
+      },
+      {
+        "x": 0.14456066945606716,
+        "real": 0.6328320988476105,
+        "density": 0.6585909351963863
+      },
+      {
+        "x": 0.1535564853556487,
+        "real": 0.616608668415692,
+        "density": 0.618050504463388
+      },
+      {
+        "x": 0.16255230125523035,
+        "real": 0.6010401398788681,
+        "density": 0.5801365040238613
+      },
+      {
+        "x": 0.17154811715481189,
+        "real": 0.5861099778568164,
+        "density": 0.5446878168192782
+      },
+      {
+        "x": 0.18054393305439354,
+        "real": 0.5718023249801818,
+        "density": 0.5115538022381256
+      },
+      {
+        "x": 0.18953974895397507,
+        "real": 0.5581019850484192,
+        "density": 0.48059365596261466
+      },
+      {
+        "x": 0.19853556485355672,
+        "real": 0.5449944068898628,
+        "density": 0.4516758116151092
+      },
+      {
+        "x": 0.20753138075313826,
+        "real": 0.5324656689068836,
+        "density": 0.4246773816615528
+      },
+      {
+        "x": 0.2165271966527198,
+        "real": 0.5205024642897198,
+        "density": 0.39948363519598473
+      },
+      {
+        "x": 0.22552301255230156,
+        "real": 0.5090920868832737,
+        "density": 0.37598751038697603
+      },
+      {
+        "x": 0.2345188284518831,
+        "real": 0.4982224176918685,
+        "density": 0.35408915951410397
+      },
+      {
+        "x": 0.24351464435146464,
+        "real": 0.4878819120076248,
+        "density": 0.33369552466107416
+      },
+      {
+        "x": 0.2525104602510462,
+        "real": 0.4780595871487938,
+        "density": 0.31471994226239297
+      },
+      {
+        "x": 0.26150627615062794,
+        "real": 0.4687450107950174,
+        "density": 0.2970817748230847
+      },
+      {
+        "x": 0.2705020920502095,
+        "real": 0.4599282899071312,
+        "density": 0.2807060682464389
+      },
+      {
+        "x": 0.279497907949791,
+        "real": 0.4516000602197364,
+        "density": 0.2655232333135819
+      },
+      {
+        "x": 0.28849372384937255,
+        "real": 0.44375147629538747,
+        "density": 0.25146874996131424
+      },
+      {
+        "x": 0.2974895397489543,
+        "real": 0.43637420212982514,
+        "density": 0.23848289310152565
+      },
+      {
+        "x": 0.30648535564853585,
+        "real": 0.4294604022982836,
+        "density": 0.22651047881704983
+      },
+      {
+        "x": 0.3154811715481174,
+        "real": 0.42300273363346075,
+        "density": 0.21550062985540375
+      },
+      {
+        "x": 0.32447698744769893,
+        "real": 0.4169943374263193,
+        "density": 0.2054065594238727
+      },
+      {
+        "x": 0.3334728033472807,
+        "real": 0.41142883214143144,
+        "density": 0.196185372367167
+      },
+      {
+        "x": 0.3424686192468622,
+        "real": 0.4063003066391315,
+        "density": 0.18779788288274726
+      },
+      {
+        "x": 0.35146443514644377,
+        "real": 0.4016033138972762,
+        "density": 0.18020844799919103
+      },
+      {
+        "x": 0.3604602510460253,
+        "real": 0.397332865225947,
+        "density": 0.1733848161099638
+      },
+      {
+        "x": 0.36945606694560684,
+        "real": 0.3934844249689472,
+        "density": 0.16729798991892875
+      },
+      {
+        "x": 0.3784518828451886,
+        "real": 0.39005390568646836,
+        "density": 0.1619221032151794
+      },
+      {
+        "x": 0.38744769874477014,
+        "real": 0.38703766381380855,
+        "density": 0.15723431095354407
+      },
+      {
+        "x": 0.3964435146443517,
+        "real": 0.38443249579153105,
+        "density": 0.15321469217365377
+      },
+      {
+        "x": 0.4054393305439332,
+        "real": 0.3822356346629544,
+        "density": 0.1498461653450258
+      },
+      {
+        "x": 0.414435146443515,
+        "real": 0.38044474713535986,
+        "density": 0.1471144157784185
+      },
+      {
+        "x": 0.4234309623430965,
+        "real": 0.37905793110179403,
+        "density": 0.14500783479498755
+      },
+      {
+        "x": 0.43242677824267806,
+        "real": 0.3780737136208355,
+        "density": 0.1435174703947418
+      },
+      {
+        "x": 0.4414225941422596,
+        "real": 0.37749104935217925,
+        "density": 0.14263698921466159
+      },
+      {
+        "x": 0.45041841004184135,
+        "real": 0.3773084525877028,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.4594142259414229,
+        "real": 0.37708948368154666,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.46841004184100443,
+        "real": 0.37647007780084163,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.47740585774058597,
+        "real": 0.3754508927019761,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.48640167364016773,
+        "real": 0.37403301067288214,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.49539748953974927,
+        "real": 0.37221793738373776,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.5043933054393308,
+        "real": 0.370007600288073,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.5133891213389123,
+        "real": 0.3674043465759783,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.5223849372384941,
+        "real": 0.36441094068158825,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.5313807531380756,
+        "real": 0.36103056134748734,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.5403765690376572,
+        "real": 0.3572667982491557,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.5493723849372387,
+        "real": 0.3531236481830387,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.5583682008368205,
+        "real": 0.3486055108222893,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.567364016736402,
+        "real": 0.3437171840446889,
+        "density": 0.14236199546735742
+      },
+      {
+        "x": 0.5763598326359836,
+        "real": 0.33846385883770885,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.5853556485355651,
+        "real": 0.3328511137861236,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.5943514644351469,
+        "real": 0.3268849091480271,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.6033472803347284,
+        "real": 0.3205715805255466,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.6123430962343099,
+        "real": 0.31391783213697044,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.6213389121338915,
+        "real": 0.306930729697439,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.6303347280334732,
+        "real": 0.2996176929157556,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.6393305439330548,
+        "real": 0.2919864876152869,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.6483263598326363,
+        "real": 0.28404521748731815,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.6573221757322179,
+        "real": 0.2758023154856223,
+        "density": 0.14236199546735742
+      },
+      {
+        "x": 0.6663179916317994,
+        "real": 0.26726653487137947,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.6753138075313811,
+        "real": 0.25844693991795853,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.6843096234309627,
+        "real": 0.2493528962854291,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.6933054393305442,
+        "real": 0.23999406107502616,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.7023012552301258,
+        "real": 0.2303803725741302,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.7112970711297075,
+        "real": 0.22052203970265022,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.7202928870292891,
+        "real": 0.21042953117201987,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.7292887029288706,
+        "real": 0.20011356436831443,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.7382845188284521,
+        "real": 0.18958509397129875,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.7472803347280339,
+        "real": 0.1788553003214881,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.7562761506276154,
+        "real": 0.16793557754757826,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.765271966527197,
+        "real": 0.15683752146684762,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.7742677824267785,
+        "real": 0.14557291727138624,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.7832635983263603,
+        "real": 0.13415372701322337,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.7922594142259418,
+        "real": 0.12259207690164561,
+        "density": 0.14236199546735742
+      },
+      {
+        "x": 0.8012552301255234,
+        "real": 0.11090024442619266,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.8102510460251049,
+        "real": 0.09909064531900767,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.8192468619246867,
+        "real": 0.08717582037038482,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.8282426778242682,
+        "real": 0.0751684221115174,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.8372384937238497,
+        "real": 0.06308120137858343,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.8462343096234313,
+        "real": 0.05092699377244276,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.855230125523013,
+        "real": 0.03871870602831964,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.8642259414225946,
+        "real": 0.026469302309948352,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.8732217573221761,
+        "real": 0.014191790442731427,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.8822175732217576,
+        "real": 0.0018992081005365087,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.8912133891213394,
+        "real": -0.010395391039206087,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.9002092050209209,
+        "real": -0.022678951157397414,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.9092050209205025,
+        "real": -0.034938428157441956,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.918200836820084,
+        "real": -0.047160803516968004,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.9271966527196656,
+        "real": -0.059333098112391985,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.9361924686192473,
+        "real": -0.07144238600164464,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.9451882845188289,
+        "real": -0.08347580815042141,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.9541841004184104,
+        "real": -0.09542058608738564,
+        "density": 0.14236199546735742
+      },
+      {
+        "x": 0.9631799163179919,
+        "real": -0.10726403547381733,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.9721757322175737,
+        "real": -0.11899357957330324,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.9811715481171552,
+        "real": -0.1305967626071611,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.9901673640167368,
+        "real": -0.14206126298141852,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 0.9991631799163183,
+        "real": -0.1533749063712979,
+        "density": 0.14236199546735734
+      },
+      {
+        "x": 1.0081589958159,
+        "real": -0.16452567864931453,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.0171548117154816,
+        "real": -0.17550173864325788,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.0261506276150631,
+        "real": -0.1862914307105113,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.0351464435146447,
+        "real": -0.19688329711535205,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.0441422594142264,
+        "real": -0.20726609019609402,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.053138075313808,
+        "real": -0.2174287843091467,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.0621338912133895,
+        "real": -0.22736058753731297,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.071129707112971,
+        "real": -0.23705095314988672,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.0801255230125528,
+        "real": -0.2464895908023847,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.0891213389121344,
+        "real": -0.25566647746401666,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.098117154811716,
+        "real": -0.2645718680612935,
+        "density": 0.14236199546735742
+      },
+      {
+        "x": 1.1071129707112974,
+        "real": -0.2731963058264657,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.1161087866108792,
+        "real": -0.28153063233980724,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.1251046025104607,
+        "real": -0.28956599725507826,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.1341004184100423,
+        "real": -0.297293867697841,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.1430962343096238,
+        "real": -0.30470603732664686,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.1520920502092056,
+        "real": -0.31179463504747335,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.1610878661087871,
+        "real": -0.31855213337215627,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.1700836820083687,
+        "real": -0.32497135641194325,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.1790794979079502,
+        "real": -0.33104548749767687,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.188075313807532,
+        "real": -0.3367680764185181,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.1970711297071135,
+        "real": -0.3421330462715212,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.2060669456066953,
+        "real": -0.34713469991478935,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.2150627615062766,
+        "real": -0.3517677260173534,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.2240585774058583,
+        "real": -0.3560272046993556,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.2330543933054396,
+        "real": -0.3599086127565419,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.2420502092050214,
+        "real": -0.36340782846352215,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.2510460251046032,
+        "real": -0.3665211359506906,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.2600418410041845,
+        "real": -0.369245229150164,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.2690376569037662,
+        "real": -0.37157721530654547,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.2780334728033476,
+        "real": -0.3735146180487834,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.2870292887029293,
+        "real": -0.37505538001986816,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.296025104602511,
+        "real": -0.3761978650615696,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.3050209205020924,
+        "real": -0.37694085995189824,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.3140167364016742,
+        "real": -0.3772835756934442,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.323012552301256,
+        "real": -0.3772256483512247,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.3320083682008372,
+        "real": -0.37676713943915274,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.341004184100419,
+        "real": -0.37590853585471423,
+        "density": 0.1423619954673574
+      },
+      {
+        "x": 1.35,
+        "real": -0.37465074936192433,
+        "density": 0.1423619954673574
+      }
+    ]
+  }
+}

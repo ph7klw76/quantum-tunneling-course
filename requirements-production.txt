@@ -1,0 +1,4 @@
+-r requirements-ci.txt
+av==19.0.0
+imageio-ffmpeg==0.8.0
+Pillow==12.3.0

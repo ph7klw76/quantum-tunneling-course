@@ -99,6 +99,20 @@
       "image/png"
     ]
   },
+  "h5p_playback": {
+    "mode": "startup-only",
+    "embedded": true,
+    "videoDuration": 715,
+    "geometry": {
+      "position": "absolute",
+      "width": 761,
+      "height": 428.0625,
+      "offsetTop": 0,
+      "offsetLeft": 0
+    },
+    "javaScriptErrors": [],
+    "streaming": "Not tested on hosted CI; use the standalone playback test from a video-accessible network."
+  },
   "h5p_interactive_video": {
     "library": "H5P.InteractiveVideo 1.27",
     "interactions": 7

@@ -2,12 +2,13 @@
 from pathlib import Path
 import hashlib,json,zipfile
 ROOT=Path(__file__).resolve().parents[1]
-TOP=['README.md','LICENSE','CONTENT_LICENSE.md','requirements.txt','requirements-ci.txt','requirements-lite.txt','requirements-neural.txt','requirements-neural-lock.txt','build.py','.gitignore']
-DIRS=['course','tests','video','scripts','docs','quizzes','h5p','lab','narration','.github','website','webtools']
+TOP=['README.md','LICENSE','CONTENT_LICENSE.md','requirements.txt','requirements-ci.txt','requirements-production.txt','requirements-lite.txt','requirements-neural.txt','requirements-neural-lock.txt','build.py','.gitignore']
+DIRS=['course','tests','video','scripts','docs','quizzes','h5p','lab','narration','.github','website','webtools','remotion']
 def include(p,built):
     rel=p.relative_to(ROOT);parts=rel.parts
     if '__pycache__' in parts or '.openai' in parts or '.git' in parts or 'node_modules' in parts:return False
     if any(x.startswith('.doit') for x in parts):return False
+    if parts[0]=='remotion' and ('.bundle' in parts or '.cache' in parts or parts[1:3]==('public','media')):return False
     if p.suffix in ('.pyc','.log','.db'):return False
     if parts[:2]==('narration','neural'):return False
     if parts[0]=='narration' and p.suffix not in ('.md','.srt','.json'):return False
@@ -22,7 +23,8 @@ def package(built):
     for folder in DIRS:candidates.extend(p for p in (ROOT/folder).rglob('*') if p.is_file() and include(p,built))
     candidates.extend(p for p in (ROOT/'outputs').iterdir() if p.is_file() and p.name!='downloads.json' and p.suffix in ('.json','.md','.png','.jpg','.ipynb'))
     if built:
-        candidates.append(ROOT/'outputs/Quantum_Tunneling_Lecture.mp4')
+        for filename in ['Quantum_Tunneling_Lecture.mp4','Quantum_Tunneling_Lecture_Remotion.mp4']:
+            if (ROOT/'outputs'/filename).exists():candidates.append(ROOT/'outputs'/filename)
         master=ROOT/'outputs/Quantum_Tunneling_Narration.wav'
         if master.exists():candidates.append(master)
         samples=ROOT/'outputs/voice_samples'

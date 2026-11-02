@@ -1,0 +1,18 @@
+{
+  "media": [
+    {
+      "file": "baseline.mp4",
+      "source_filename": "Quantum_Tunneling_Lecture.mp4",
+      "bytes": 31771887,
+      "sha256": "306bf1fb3d5be553fd97c12391f53cce37105bc12dc3664b4c6515df7cee0bef"
+    },
+    {
+      "file": "narration.wav",
+      "source_filename": "Quantum_Tunneling_Narration.wav",
+      "bytes": 102820902,
+      "sha256": "390fcfe0fd0a20981b41c80c27e4e78dcfa43d51d6d6674db3180326d34563a2"
+    }
+  ],
+  "original_audio_muted": true,
+  "continuous_wav_master": true
+}

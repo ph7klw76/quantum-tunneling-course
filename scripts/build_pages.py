@@ -35,7 +35,8 @@ def main():
     if not args.skip_lab:
         subprocess.run([sys.executable,'-m','jupyterlite_core','build','--lite-dir',str(ROOT/'lab'),'--contents',str(ROOT/'lab/files'),'--output-dir',str(dest/'lab'),'--base-url',base+'lab/'],check=True,cwd=ROOT)
     (dest/'.nojekyll').touch()
-    info = dict(base_path=base,youtube_url='https://youtu.be/WCA_t3ttAAI',h5p='h5p/quantum-tunneling.html',notebook='lab/lab/index.html?path=Quantum_Tunneling_Lab.ipynb',files=sum(p.is_file() for p in dest.rglob('*')))
+    publication=json.loads((ROOT/'course/publication_config.json').read_text(encoding='utf-8'))
+    info = dict(base_path=base,youtube_url=publication['active_youtube_url'],h5p='h5p/quantum-tunneling.html',notebook='lab/lab/index.html?path=Quantum_Tunneling_Lab.ipynb',files=sum(p.is_file() for p in dest.rglob('*')))
     (dest/'build-info.json').write_text(json.dumps(info,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(info))
 

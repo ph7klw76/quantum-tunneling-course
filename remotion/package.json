@@ -1,0 +1,36 @@
+{
+  "name": "quantum-tunneling-remotion",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "preview": "remotion studio src/index.ts --port=3001",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test test/*.test.mjs",
+    "prepare:media": "python ../scripts/prepare_remotion.py",
+    "render:sample": "node render.mjs sample",
+    "render:full": "node render.mjs full",
+    "render:baseline": "node render.mjs baseline",
+    "stills": "node render.mjs stills",
+    "verify": "python ../scripts/verify_remotion.py"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.540",
+    "@remotion/cli": "4.0.540",
+    "@remotion/media": "4.0.540",
+    "@remotion/renderer": "4.0.540",
+    "katex": "0.19.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.540"
+  },
+  "devDependencies": {
+    "@types/katex": "0.16.8",
+    "@types/node": "24.0.15",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "5.9.3",
+    "webpack": "5.112.0"
+  }
+}

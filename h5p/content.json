@@ -22,7 +22,7 @@
       },
       "files": [
         {
-          "path": "https://www.youtube.com/watch?v=WCA_t3ttAAI",
+          "path": "https://youtu.be/Kbknh_vEjSc",
           "mime": "video/YouTube",
           "copyright": {
             "license": "CC BY",
@@ -59,7 +59,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory.",
+                    "chosenFeedback": "A classical turning point is not an impenetrable quantum boundary. Match the finite-barrier wavefunction and compare transmitted current.",
                     "notChosenFeedback": ""
                   }
                 },
@@ -77,7 +77,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory.",
+                    "chosenFeedback": "No energy loan is needed. This static, elastic model has one fixed total energy; transmission follows from the boundary-value problem.",
                     "notChosenFeedback": ""
                   }
                 }
@@ -152,9 +152,9 @@
           },
           "adaptivity": {
             "wrong": {
-              "seekTo": 0,
+              "seekTo": 0.0,
               "allowOptOut": true,
-              "message": "Review the explanation, then return to this question.",
+              "message": "A finite barrier has a wave solution with nonzero transmitted current. This is a probability prediction, not a classical trajectory. Review the explanation, then return to this question.",
               "seekLabel": "Review explanation"
             },
             "requireCompletion": false
@@ -190,7 +190,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
+                    "chosenFeedback": "The potential is an input to the model and may jump at a finite step. The state must satisfy matching conditions.",
                     "notChosenFeedback": ""
                   }
                 },
@@ -199,7 +199,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
+                    "chosenFeedback": "Matching only psi leaves the amplitudes underdetermined. The first derivative must also match for this finite constant-mass step.",
                     "notChosenFeedback": ""
                   }
                 },
@@ -217,7 +217,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model.",
+                    "chosenFeedback": "The potential jump can change the second derivative in the Schrodinger equation. Continuity of the second derivative is not required here.",
                     "notChosenFeedback": ""
                   }
                 }
@@ -294,7 +294,7 @@
             "wrong": {
               "seekTo": 76.0,
               "allowOptOut": true,
-              "message": "Review the explanation, then return to this question.",
+              "message": "Integrating the Schrödinger equation across a finite step enforces continuity of psi and its first derivative for this constant-mass model. Review the explanation, then return to this question.",
               "seekLabel": "Review explanation"
             },
             "requireCompletion": false
@@ -330,7 +330,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved.",
+                    "chosenFeedback": "An expected count is not a guaranteed count. Independent transmission trials fluctuate; the binomial standard deviation is about 35.",
                     "notChosenFeedback": ""
                   }
                 },
@@ -348,7 +348,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved.",
+                    "chosenFeedback": "T is a transmitted probability-current ratio, not a fractional energy loss. A transmitted electron retains its total energy in this model.",
                     "notChosenFeedback": ""
                   }
                 }
@@ -425,7 +425,7 @@
             "wrong": {
               "seekTo": 177.33,
               "allowOptOut": true,
-              "message": "Review the explanation, then return to this question.",
+              "message": "Transmission is a probability. For independent electrons the count is binomial, with standard deviation about 35; total energy is conserved. Review the explanation, then return to this question.",
               "seekLabel": "Review explanation"
             },
             "requireCompletion": false
@@ -461,7 +461,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two.",
+                    "chosenFeedback": "Width dependence is not linear. Evaluate the exact expression at both widths: the ratio is about 0.0413, much smaller than one half.",
                     "notChosenFeedback": ""
                   }
                 },
@@ -479,7 +479,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two.",
+                    "chosenFeedback": "For these fixed below-barrier parameters, a thicker barrier reduces transmission. Check which parameter changed before predicting a trend.",
                     "notChosenFeedback": ""
                   }
                 }
@@ -556,7 +556,7 @@
             "wrong": {
               "seekTo": 291.37,
               "allowOptOut": true,
-              "message": "Review the explanation, then return to this question.",
+              "message": "The exact model gives T(0.45) = 0.142362 and T(0.90) = 0.005873. Width dependence is much stronger than a factor of two. Review the explanation, then return to this question.",
               "seekLabel": "Review explanation"
             },
             "requireCompletion": false
@@ -592,7 +592,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation.",
+                    "chosenFeedback": "A short time interval does not permit violating the fixed-energy boundary problem. Energy-time uncertainty is not an energy borrowing mechanism.",
                     "notChosenFeedback": ""
                   }
                 },
@@ -610,7 +610,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation.",
+                    "chosenFeedback": "Small transmitted amplitude means a small transmitted probability current; it does not imply missing total energy.",
                     "notChosenFeedback": ""
                   }
                 }
@@ -687,7 +687,7 @@
             "wrong": {
               "seekTo": 400.23,
               "allowOptOut": true,
-              "message": "Review the explanation, then return to this question.",
+              "message": "The stationary solution has a fixed total energy throughout. Evanescent behavior does not require temporary energy nonconservation. Review the explanation, then return to this question.",
               "seekLabel": "Review explanation"
             },
             "requireCompletion": false
@@ -723,7 +723,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio.",
+                    "chosenFeedback": "Current also depends on bias, tip condition and electronic states. A current ratio cannot uniquely identify a geometric height change.",
                     "notChosenFeedback": ""
                   }
                 },
@@ -741,7 +741,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio.",
+                    "chosenFeedback": "Tunneling current is strongly nonlinear in gap size. Use controlled comparisons and spectroscopy to separate geometric and electronic contributions.",
                     "notChosenFeedback": ""
                   }
                 }
@@ -818,7 +818,7 @@
             "wrong": {
               "seekTo": 485.97,
               "allowOptOut": true,
-              "message": "Review the explanation, then return to this question.",
+              "message": "Current is sensitive to gap and electronic structure. Control bias and tip condition and compare spectroscopy; a current ratio is not a height ratio. Review the explanation, then return to this question.",
               "seekLabel": "Review explanation"
             },
             "requireCompletion": false
@@ -854,7 +854,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons.",
+                    "chosenFeedback": "An exponential trend is compatible with multiple mechanisms and sample changes. Compare temperature, bias, defect and thickness controls.",
                     "notChosenFeedback": ""
                   }
                 },
@@ -872,7 +872,7 @@
                   "correct": false,
                   "tipsAndFeedback": {
                     "tip": "",
-                    "chosenFeedback": "Reconsider the assumptions. The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons.",
+                    "chosenFeedback": "Quantum mechanics allows finite-barrier current. The issue is identifying the mechanism from evidence, not forbidding transport.",
                     "notChosenFeedback": ""
                   }
                 }
@@ -949,7 +949,7 @@
             "wrong": {
               "seekTo": 600.5,
               "allowOptOut": true,
-              "message": "Review the explanation, then return to this question.",
+              "message": "The trend supports tunneling but is not unique. Add temperature and bias series, defect controls, uncertainty and alternative-model comparisons. Review the explanation, then return to this question.",
               "seekLabel": "Review explanation"
             },
             "requireCompletion": false
@@ -962,7 +962,7 @@
       ],
       "bookmarks": [
         {
-          "time": 0,
+          "time": 0.0,
           "label": "A wall for a wave"
         },
         {
@@ -982,7 +982,7 @@
           "label": "Energy and height"
         },
         {
-          "time": 485.9666666666667,
+          "time": 485.96666666666664,
           "label": "From waves to devices"
         },
         {
@@ -1008,50 +1008,44 @@
                 "<p>A wavefunction predicts measurement statistics, not a particle path.</p>",
                 "<p>The curve is the path of one electron.</p>"
               ],
-              "tip": {
-                "tip": "Return to the lecture or computational lab to test your reasoning."
-              }
+              "tip": "Return to the lecture or computational lab to test your reasoning."
             },
             {
               "summary": [
                 "<p>Match psi and its derivative for this finite constant-mass barrier.</p>",
                 "<p>Only match probability density.</p>"
               ],
-              "tip": {
-                "tip": "Return to the lecture or computational lab to test your reasoning."
-              }
+              "tip": "Return to the lecture or computational lab to test your reasoning."
             },
             {
               "summary": [
                 "<p>Test T and R using independently solved amplitudes.</p>",
                 "<p>Setting R=1-T independently verifies the solver.</p>"
               ],
-              "tip": {
-                "tip": "Return to the lecture or computational lab to test your reasoning."
-              }
+              "tip": "Return to the lecture or computational lab to test your reasoning."
             },
             {
               "summary": [
                 "<p>Exponential thickness dependence alone does not identify a unique mechanism.</p>",
                 "<p>Any exponential trend proves tunneling.</p>"
               ],
-              "tip": {
-                "tip": "Return to the lecture or computational lab to test your reasoning."
-              }
+              "tip": "Return to the lecture or computational lab to test your reasoning."
             },
             {
               "summary": [
                 "<p>Report assumptions and uncertainty when interpreting fitted barriers.</p>",
                 "<p>A fitted barrier is always a unique material constant.</p>"
               ],
-              "tip": {
-                "tip": "Return to the lecture or computational lab to test your reasoning."
-              }
+              "tip": "Return to the lecture or computational lab to test your reasoning."
             }
           ],
-          "overallFeedback": {
-            "overallFeedback": []
-          },
+          "overallFeedback": [
+            {
+              "from": 0,
+              "to": 100,
+              "feedback": "Explain your choices, then test the assumptions in the independent laboratory investigation."
+            }
+          ],
           "solvedLabel": "Progress:",
           "scoreLabel": "Wrong answers:",
           "resultLabel": "Your result",
