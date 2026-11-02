@@ -28,7 +28,8 @@ for name in ['youtube_description.md','neural-verification.json','neural-narrati
              'Quantum_Tunneling_Lecture_Remotion.srt','Quantum_Tunneling_Lecture_Remotion.vtt','Quantum_Tunneling_Remotion_Thumbnail.png',
              'chapters_polished.txt','youtube_description_polished.md','remotion-media-provenance.json','remotion-timing-report.json',
              'remotion-sample-verification.json','remotion-video-verification.json','remotion-live-existing-site.json',
-             'remotion-ffprobe.json','remotion-delivery.json',
+             'remotion-ffprobe.json','remotion-delivery.json','remotion-live-published.json',
+             'browser/h5p-playback.json','browser/h5p-live-learning-paths-phone.json',
              'browser/h5p-learning-paths.json','browser/h5p-learning-paths-phone.json','browser/h5p-polished-learning-paths.json','browser/h5p-polished-learning-paths-phone.json',
              'browser/h5p-learning-summary.png','browser/h5p-polished-summary.png','browser/h5p-polished-summary-phone.png',
              'remotion-baseline-frame.png','remotion-actual-frame-8650.png','remotion-actual-frame-20700.png']:

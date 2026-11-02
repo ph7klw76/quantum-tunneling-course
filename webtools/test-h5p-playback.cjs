@@ -19,7 +19,12 @@ async function checkH5pPlayback(page,url,out,{startupOnly=false,embedded=false}=
       assert.ok(player,'The Watch & Question section must embed the H5P lesson');
     }
     const capture=name=>embedded?page.locator('#lecture').screenshot({path:path.join(out,name)}):page.screenshot({path:path.join(out,name),fullPage:true});
-    await player.waitForFunction(()=>window.H5P?.instances[0]?.video?.getDuration?.()>600,{},{timeout:60000});
+    // A lazy iframe can stop scheduling animation frames while its height settles.
+    // Poll metadata by timer so readiness does not depend on iframe visibility.
+    await player.waitForFunction(()=>window.H5P?.instances[0]?.video?.getDuration?.()>600,{},{timeout:60000,polling:250});
+    const sourceVideoUrl=await player.evaluate(()=>H5P.instances[0].options.video.files[0].path);
+    const publication=JSON.parse(await fs.readFile(path.join(root,'course/publication_config.json'),'utf8'));
+    assert.equal(sourceVideoUrl,publication.active_youtube_url,'Player must load the confirmed active edition');
     const iframe=player.locator('.h5p-video-wrapper iframe');
     const geometry=await iframe.evaluate(el=>{
       const frame=el.getBoundingClientRect(),parent=el.parentElement.getBoundingClientRect();
@@ -31,7 +36,7 @@ async function checkH5pPlayback(page,url,out,{startupOnly=false,embedded=false}=
     assert.deepEqual(errors,[],'Video startup raised a JavaScript error');
     if(startupOnly) {
       if(out) await capture('h5p-video-startup.png');
-      return {mode:'startup-only',embedded,videoDuration:await player.evaluate(()=>H5P.instances[0].video.getDuration()),geometry,javaScriptErrors:errors,streaming:'Not tested on hosted CI; use the standalone playback test from a video-accessible network.'};
+      return {mode:'startup-only',embedded,sourceVideoUrl,videoDuration:await player.evaluate(()=>H5P.instances[0].video.getDuration()),geometry,javaScriptErrors:errors,streaming:'Not tested on hosted CI; use the standalone playback test from a video-accessible network.'};
     }
     if(await player.locator('.h5p-splash').isVisible()) await player.locator('.h5p-splash').click();
     else await player.locator('.h5p-controls .h5p-pause').click();
@@ -56,7 +61,7 @@ async function checkH5pPlayback(page,url,out,{startupOnly=false,embedded=false}=
     assert.ok(pausedAt>=49.8 && pausedAt<56);
     assert.deepEqual(errors,[]);
     if(out) await capture('h5p-timed-question.png');
-    return {mode:'streaming',embedded,videoDuration:await player.evaluate(()=>H5P.instances[0].video.getDuration()),playingTime,chapterTime,geometry,questionDisplayed:true,pausedAt,pausedAfter,javaScriptErrors:errors};
+    return {mode:'streaming',embedded,sourceVideoUrl,videoDuration:await player.evaluate(()=>H5P.instances[0].video.getDuration()),playingTime,chapterTime,geometry,questionDisplayed:true,pausedAt,pausedAfter,javaScriptErrors:errors};
   } catch(error) {
     if(out) {
       const context=await page.evaluate(()=>({url:location.href,text:document.body.innerText.slice(0,3000)})).catch(()=>null);

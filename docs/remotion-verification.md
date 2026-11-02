@@ -44,3 +44,11 @@ See [course checks](../outputs/course-checks.json) and [browser results](../outp
 The feature branch now selects the verified new YouTube upload in the common configuration and regenerated native H5P/HTML. It does not deploy on branch pushes. The pre-upgrade Pages site returned HTTP 200 for all ten checked resources; see [baseline live-site evidence](../outputs/remotion-live-existing-site.json). Final publication is verified by the deployment workflow for the merged revision and a separate live playback run.
 
 The upload URL was supplied by the creator, and actual playback was tested. No native YouTube quiz installation, YouTube caption upload or LMS grade persistence is claimed. See [safe publication](publish-remotion.md) for future activation and rollback. Remotion 4.0.540 individual free-use eligibility was confirmed by the creator. Large media masters remain local.
+
+## Public delivery verification
+
+[PR #1](https://github.com/ph7klw76/quantum-tunneling-course/pull/1) merged as `c1b3e71f35a6657571a4ae713991e033eb3e3cec`. Its [Pages build, deployment and HTTPS verification](https://github.com/ph7klw76/quantum-tunneling-course/actions/runs/41499549300) all succeeded. The actual public index, configuration, interactive HTML and native package hashes match that revision; all ten requested resources returned HTTP 200. See [published-file evidence](../outputs/remotion-live-published.json).
+
+The public integrated Watch & Question section streamed the confirmed new video, its parent chapter buttons sought the same H5P player, and playback naturally crossed Q1 and paused. See [integrated playback](../outputs/browser/h5p-playback.json). All seven public standalone H5P quiz paths and the 5/5 Summary also passed at phone width with no page errors; see [public phone learning paths](../outputs/browser/h5p-live-learning-paths-phone.json).
+
+The first integrated test attempts timed out while polling readiness with animation frames inside a lazy iframe. Direct diagnostics showed the correct video ID and loaded metadata. Timer polling resolved the test's offscreen-frame throttling; the strengthened test also asserts the player's actual source URL. This follow-up changes verification code and evidence, with no change to the published lesson content.
